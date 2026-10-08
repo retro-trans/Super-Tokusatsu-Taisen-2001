@@ -1,7 +1,7 @@
 # Changelog
 
 ## Repository (2026-10-08)
-- Published the toolchain to GitHub as a private repository, binhlt0402/Super-Tokusatsu-Taisen-2001. There is no release; per AGENTS.md, releases wait for an explicit request. The README follows the layout of retro-trans/SRW-Z.
+- Published the toolchain to GitHub as a private repository, now in the retro-trans organization: retro-trans/Super-Tokusatsu-Taisen-2001 (created under binhlt0402, then transferred). There is no release; per AGENTS.md, releases wait for an explicit request. The README follows the layout of retro-trans/SRW-Z.
 - New `tools/strip_jp.py` writes the git-safe `*.en.json` copies. It drops the Japanese source fields and blanks long Japanese runs, keeping names and UI terms. It also writes `work/script/occurrences.json`, where each string sits on the disc, with no text. `--check` audits a file list.
 - `.gitignore` now also excludes disc images (`*.bin`, `*.cue`, `*.iso`, `*.chd`), edited TIMs, exported game graphics and frames, font-sheet atlases, `incoming/`, logs and the raw library glossary.
 - Public build mode: without the Japanese working files (or with `STT_PUBLIC=1`), `tools/insert.py` uses the `*.en.json` copies and the occurrence map, and decodes the Japanese from the user's own disc. Checked: v0.3.6 built this way is byte-identical outside MOVIE.STR.
