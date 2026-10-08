@@ -1,0 +1,412 @@
+{
+ "batch": "B0259",
+ "rows": [
+  {
+   "uid": "U20702",
+   "en": "HP Kit{S}",
+   "note": "Shortened to fit the checker budget; preferred: HP Repair Kit{S}"
+  },
+  {
+   "uid": "U20703",
+   "en": "HP Kit{L}",
+   "note": "Shortened to fit the checker budget; preferred: HP Repair Kit{L}"
+  },
+  {
+   "uid": "U20704",
+   "en": "Magazine{S}",
+   "note": "Shortened to fit the checker budget; preferred: Reload Magazine{S}"
+  },
+  {
+   "uid": "U20705",
+   "en": "Magazine{L}",
+   "note": "Shortened to fit the checker budget; preferred: Reload Magazine{L}"
+  },
+  {
+   "uid": "U20706",
+   "en": "Boost.{S}",
+   "note": "Shortened to fit the checker budget; preferred: Booster{S}"
+  },
+  {
+   "uid": "U20707",
+   "en": "Boost.{L}",
+   "note": "Shortened to fit the checker budget; preferred: Booster{L}"
+  },
+  {
+   "uid": "U20708",
+   "en": "Y.Diode{S}",
+   "note": "Shortened to fit the checker budget; preferred: Yushima Diode{S}"
+  },
+  {
+   "uid": "U20709",
+   "en": "Y.Diode{L}",
+   "note": "Shortened to fit the checker budget; preferred: Yushima Diode{L}"
+  },
+  {
+   "uid": "U20710",
+   "en": "H.Defender{S}",
+   "note": "Shortened to fit the checker budget; preferred: High Defender{S}"
+  },
+  {
+   "uid": "U20711",
+   "en": "H.Defender{L}",
+   "note": "Shortened to fit the checker budget; preferred: High Defender{L}"
+  },
+  {
+   "uid": "U20712",
+   "en": "A.Armor{S}",
+   "note": "Shortened to fit the checker budget; preferred: Active Armor{S}"
+  },
+  {
+   "uid": "U20713",
+   "en": "A.Armor{L}",
+   "note": "Shortened to fit the checker budget; preferred: Active Armor{L}"
+  },
+  {
+   "uid": "U20714",
+   "en": "S.Maneuver{S}",
+   "note": "Shortened to fit the checker budget; preferred: Super Maneuver{S}"
+  },
+  {
+   "uid": "U20715",
+   "en": "S.Maneuver{L}",
+   "note": "Shortened to fit the checker budget; preferred: Super Maneuver{L}"
+  },
+  {
+   "uid": "U20716",
+   "en": "H.Maneuver{S}",
+   "note": "Shortened to fit the checker budget; preferred: Hyper Maneuver{S}"
+  },
+  {
+   "uid": "U20717",
+   "en": "H.Maneuver{L}",
+   "note": "Shortened to fit the checker budget; preferred: Hyper Maneuver{L}"
+  },
+  {
+   "uid": "U20718",
+   "en": "C.Monster",
+   "note": "Shortened to fit the checker budget; preferred: Capsule Monster"
+  },
+  {
+   "uid": "U20719",
+   "en": "Atk{S}{P2}{A2}",
+   "note": "Shortened to fit the checker budget; preferred: Attack Tab{S}{P2}{A2}"
+  },
+  {
+   "uid": "U20720",
+   "en": "Atk{L}{P2}{A2}",
+   "note": "Shortened to fit the checker budget; preferred: Attack Tab{L}{P2}{A2}"
+  },
+  {
+   "uid": "U20721",
+   "en": "Sp.Tab{S}{P2}{A2}",
+   "note": "Shortened to fit the checker budget; preferred: Special Tab{S}{P2}{A2}"
+  },
+  {
+   "uid": "U20722",
+   "en": "Sp.Tab{L}{P2}{A2}",
+   "note": "Shortened to fit the checker budget; preferred: Special Tab{L}{P2}{A2}"
+  },
+  {
+   "uid": "U20723",
+   "en": "Hyp{S}{P2}{A2}",
+   "note": "Shortened to fit the checker budget; preferred: Hyper Tab{S}{P2}{A2}"
+  },
+  {
+   "uid": "U20724",
+   "en": "Hyp{L}{P2}{A2}",
+   "note": "Shortened to fit the checker budget; preferred: Hyper Tab{L}{P2}{A2}"
+  },
+  {
+   "uid": "U20725",
+   "en": "Genza. Yuri",
+   "note": "Shortened to fit the checker budget; preferred: Genzaburo Yuri"
+  },
+  {
+   "uid": "U20726",
+   "en": "Yokoegawa",
+   "note": "Shortened to fit the checker budget; preferred: Asst. Prof. Yokoegawa"
+  },
+  {
+   "uid": "U20727",
+   "en": "Iwamoto",
+   "note": "Shortened to fit the checker budget; preferred: Dr. Iwamoto"
+  },
+  {
+   "uid": "U20728",
+   "en": "D.Kuroda",
+   "note": "Shortened to fit the checker budget; preferred: Dr. Kuroda"
+  },
+  {
+   "uid": "U20729",
+   "en": "Dr. D. Anderson"
+  },
+  {
+   "uid": "U20730",
+   "en": "Dr. Tsuc.",
+   "note": "Shortened to fit the checker budget; preferred: Dr. Tsuchida"
+  },
+  {
+   "uid": "U20731",
+   "en": "Dr. Otagur.",
+   "note": "Shortened to fit the checker budget; preferred: Dr. Otaguro"
+  },
+  {
+   "uid": "U20732",
+   "en": "<c3>Selected</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Selected Item</c>"
+  },
+  {
+   "uid": "U20733",
+   "en": "<c3>Funds:</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Funds needed:</c>"
+  },
+  {
+   "uid": "U20734",
+   "en": "<c3>Materials:</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Materials needed:</c>"
+  },
+  {
+   "uid": "U20735",
+   "en": "UCMA Tank: can build 4",
+   "note": "Shortened to fit the checker budget; preferred: UCMA Tank: 4 can be produced"
+  },
+  {
+   "uid": "U20736",
+   "en": "UCMA IFV: can build 4",
+   "note": "Shortened to fit the checker budget; preferred: UCMA IFV: 4 can be produced"
+  },
+  {
+   "uid": "U20737",
+   "en": "UCMA Howitzer: build 4",
+   "note": "Shortened to fit the checker budget; preferred: UCMA Howitzer: 4 can be produced"
+  },
+  {
+   "uid": "U20738",
+   "en": "UCMA Beam Gun: build 5",
+   "note": "Shortened to fit the checker budget; preferred: UCMA Beam Gun: 5 can be produced"
+  },
+  {
+   "uid": "U20739",
+   "en": "UCMA AA Gun: build 5",
+   "note": "Shortened to fit the checker budget; preferred: UCMA AA Gun: 5 can be produced"
+  },
+  {
+   "uid": "U20740",
+   "en": "UCMA Interceptor: build 4",
+   "note": "Shortened to fit the checker budget; preferred: UCMA Interceptor: 4 can be produced"
+  },
+  {
+   "uid": "U20741",
+   "en": "UCMA Sup. Fighter: build 4",
+   "note": "Shortened to fit the checker budget; preferred: UCMA Support Fighter: 4 can be produced"
+  },
+  {
+   "uid": "U20742",
+   "en": "UCMA Atk Heli: build 4",
+   "note": "Shortened to fit the checker budget; preferred: UCMA Attack Heli: 4 can be produced"
+  },
+  {
+   "uid": "U20743",
+   "en": "UCMA Sp. Attacker: build 5",
+   "note": "Shortened to fit the checker budget; preferred: UCMA Special Attacker: 5 can be produced"
+  },
+  {
+   "uid": "U20744",
+   "en": "UCMA Sp. Fighter: build 5",
+   "note": "Shortened to fit the checker budget; preferred: UCMA Special Fighter: 5 can be produced"
+  },
+  {
+   "uid": "U20745",
+   "en": "Desc.: 10"
+  },
+  {
+   "uid": "U20746",
+   "en": "Desc.: 11"
+  },
+  {
+   "uid": "U20747",
+   "en": "Desc.: 12"
+  },
+  {
+   "uid": "U20748",
+   "en": "Desc.: 13"
+  },
+  {
+   "uid": "U20749",
+   "en": "Desc.: 14"
+  },
+  {
+   "uid": "U20750",
+   "en": "Desc.: 15"
+  },
+  {
+   "uid": "U20751",
+   "en": "HP/EN repair: S",
+   "note": "Shortened to fit the checker budget; preferred: HP/EN repair: for S units"
+  },
+  {
+   "uid": "U20752",
+   "en": "HP/EN repair: L",
+   "note": "Shortened to fit the checker budget; preferred: HP/EN repair: for L units"
+  },
+  {
+   "uid": "U20753",
+   "en": "Barrier: support units only",
+   "note": "Shortened to fit the checker budget; preferred: Barrier device: support units only"
+  },
+  {
+   "uid": "U20754",
+   "en": "Morale up: one",
+   "note": "Shortened to fit the checker budget; preferred: Morale boost: individual"
+  },
+  {
+   "uid": "U20755",
+   "en": "Morale up: group",
+   "note": "Shortened to fit the checker budget; preferred: Morale boost: group"
+  },
+  {
+   "uid": "U20756",
+   "en": "Removes rifts",
+   "note": "Shortened to fit the checker budget; preferred: Removes other dimensions"
+  },
+  {
+   "uid": "U20757",
+   "en": "Barrier: UCMA mecha only",
+   "note": "Shortened to fit the checker budget; preferred: Barrier device: UCMA support mecha only"
+  },
+  {
+   "uid": "U20758",
+   "en": "HP repair: S",
+   "note": "Shortened to fit the checker budget; preferred: HP repair: for S units"
+  },
+  {
+   "uid": "U20759",
+   "en": "HP repair: L",
+   "note": "Shortened to fit the checker budget; preferred: HP repair: for L units"
+  },
+  {
+   "uid": "U20760",
+   "en": "Reload: S",
+   "note": "Shortened to fit the checker budget; preferred: Reload ammo: for S units"
+  },
+  {
+   "uid": "U20761",
+   "en": "Reload: L",
+   "note": "Shortened to fit the checker budget; preferred: Reload ammo: for L units"
+  },
+  {
+   "uid": "U20762",
+   "en": "Movement +1: S",
+   "note": "Shortened to fit the checker budget; preferred: Movement +1: for S units"
+  },
+  {
+   "uid": "U20763",
+   "en": "Movement +1: L",
+   "note": "Shortened to fit the checker budget; preferred: Movement +1: for L units"
+  },
+  {
+   "uid": "U20764",
+   "en": "Range +1: S",
+   "note": "Shortened to fit the checker budget; preferred: Range +1: for S units"
+  },
+  {
+   "uid": "U20765",
+   "en": "Range +1: L",
+   "note": "Shortened to fit the checker budget; preferred: Range +1: for L units"
+  },
+  {
+   "uid": "U20766",
+   "en": "Armor +5: S",
+   "note": "Shortened to fit the checker budget; preferred: Armor +5: for S units"
+  },
+  {
+   "uid": "U20767",
+   "en": "Armor +150: L",
+   "note": "Shortened to fit the checker budget; preferred: Armor +150: for L units"
+  },
+  {
+   "uid": "U20768",
+   "en": "HP +40: S",
+   "note": "Shortened to fit the checker budget; preferred: HP +40: for S units"
+  },
+  {
+   "uid": "U20769",
+   "en": "HP +200: L",
+   "note": "Shortened to fit the checker budget; preferred: HP +200: for L units"
+  },
+  {
+   "uid": "U20770",
+   "en": "Mobility +5: S",
+   "note": "Shortened to fit the checker budget; preferred: Mobility +5: for S units"
+  },
+  {
+   "uid": "U20771",
+   "en": "Mobility +5: L",
+   "note": "Shortened to fit the checker budget; preferred: Mobility +5: for L units"
+  },
+  {
+   "uid": "U20772",
+   "en": "Mobility +15: S",
+   "note": "Shortened to fit the checker budget; preferred: Mobility +15: for S units"
+  },
+  {
+   "uid": "U20773",
+   "en": "Mobility +15: L",
+   "note": "Shortened to fit the checker budget; preferred: Mobility +15: for L units"
+  },
+  {
+   "uid": "U20774",
+   "en": "Calls Capsule Mon.",
+   "note": "Shortened to fit the checker budget; preferred: Summons a Capsule Monster"
+  },
+  {
+   "uid": "U20775",
+   "en": "Attack up: S",
+   "note": "Shortened to fit the checker budget; preferred: Attack boost: for S units"
+  },
+  {
+   "uid": "U20776",
+   "en": "Attack up: L",
+   "note": "Shortened to fit the checker budget; preferred: Attack boost: for L units"
+  },
+  {
+   "uid": "U20777",
+   "en": "Ability up: S",
+   "note": "Shortened to fit the checker budget; preferred: Ability boost: for S units"
+  },
+  {
+   "uid": "U20778",
+   "en": "Ability up: L",
+   "note": "Shortened to fit the checker budget; preferred: Ability boost: for L units"
+  },
+  {
+   "uid": "U20779",
+   "en": "Sp. ability up: S",
+   "note": "Shortened to fit the checker budget; preferred: Special ability boost: for S units"
+  },
+  {
+   "uid": "U20780",
+   "en": "Sp. ability up: L",
+   "note": "Shortened to fit the checker budget; preferred: Special ability boost: for L units"
+  },
+  {
+   "uid": "U20781",
+   "en": "Space Nav.",
+   "note": "Shortened to fit the checker budget; preferred: Space Navigation"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U20735-U20744: 'UCMA X: N can be produced' shortened to 'build N' where needed",
+   "U20751-U20780: part descriptions スモール用/ラージ用 rendered 'for S units'/'for L units' (S/L size), shortened to ': S'/': L' where needed",
+   "U20756: 異空間除去装置 (Zone Canceller description) rendered 'Removes other dimensions'",
+   "U20781: start of the scientists' specialty list (宇宙航行学)",
+   "Menu budgets: kanji 12px/kana 8px, icons not in budget_px but counted by the checker"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": []
+ }
+}

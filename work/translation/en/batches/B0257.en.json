@@ -1,0 +1,567 @@
+{
+ "batch": "B0257",
+ "prev": "B0256",
+ "next": "B0258",
+ "rows": [
+  {
+   "uid": "U20534",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20535",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20536",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 32
+  },
+  {
+   "uid": "U20537",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 12
+  },
+  {
+   "uid": "U20538",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 44
+  },
+  {
+   "uid": "U20539",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20540",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 64
+  },
+  {
+   "uid": "U20541",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20542",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20543",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 44
+  },
+  {
+   "uid": "U20544",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20545",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 72
+  },
+  {
+   "uid": "U20546",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20547",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20548",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 56
+  },
+  {
+   "uid": "U20549",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 56
+  },
+  {
+   "uid": "U20550",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 56
+  },
+  {
+   "uid": "U20551",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 60
+  },
+  {
+   "uid": "U20552",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 32
+  },
+  {
+   "uid": "U20553",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20554",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 44
+  },
+  {
+   "uid": "U20555",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 60
+  },
+  {
+   "uid": "U20556",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20557",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20558",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20559",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 32
+  },
+  {
+   "uid": "U20560",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20561",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 32
+  },
+  {
+   "uid": "U20562",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20563",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 68
+  },
+  {
+   "uid": "U20564",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 56
+  },
+  {
+   "uid": "U20565",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20566",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 72
+  },
+  {
+   "uid": "U20567",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20568",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 56
+  },
+  {
+   "uid": "U20569",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20570",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 12
+  },
+  {
+   "uid": "U20571",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20572",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 56
+  },
+  {
+   "uid": "U20573",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20574",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 56
+  },
+  {
+   "uid": "U20575",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20576",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 72
+  },
+  {
+   "uid": "U20577",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 36
+  },
+  {
+   "uid": "U20578",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 36
+  },
+  {
+   "uid": "U20579",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 72
+  },
+  {
+   "uid": "U20580",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 72
+  },
+  {
+   "uid": "U20581",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20582",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 52
+  },
+  {
+   "uid": "U20583",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 36
+  },
+  {
+   "uid": "U20584",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 36
+  },
+  {
+   "uid": "U20585",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 36
+  },
+  {
+   "uid": "U20586",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20587",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20588",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20589",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 52
+  },
+  {
+   "uid": "U20590",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 60
+  },
+  {
+   "uid": "U20591",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20592",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20593",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 36
+  },
+  {
+   "uid": "U20594",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20595",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20596",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20597",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20598",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 64
+  },
+  {
+   "uid": "U20599",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 56
+  },
+  {
+   "uid": "U20600",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 32
+  },
+  {
+   "uid": "U20601",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 32
+  },
+  {
+   "uid": "U20602",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 56
+  },
+  {
+   "uid": "U20603",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20604",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20605",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U20606",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20607",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 36
+  },
+  {
+   "uid": "U20608",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20609",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20610",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U20611",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 88
+  },
+  {
+   "uid": "U20612",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 80
+  },
+  {
+   "uid": "U20613",
+   "kind": "menu",
+   "src": "db",
+   "speaker_en": null,
+   "budget_px": 48
+  }
+ ]
+}

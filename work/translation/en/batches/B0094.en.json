@@ -1,0 +1,487 @@
+{
+ "batch": "B0094",
+ "prev": "B0093",
+ "next": "B0095",
+ "rows": [
+  {
+   "uid": "U07458",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07459",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07460",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07461",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07462",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07463",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07464",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07465",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07466",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07467",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07468",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07469",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07470",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07471",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07472",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07473",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07474",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07475",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07476",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07477",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07478",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07479",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07480",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07481",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07482",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07483",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rumi Sahara"
+  },
+  {
+   "uid": "U07484",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07485",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U07486",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07487",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U07488",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07489",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U07490",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U07491",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U07492",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07493",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07494",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07495",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07496",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07497",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07498",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07499",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07500",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07501",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07502",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07503",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07504",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rumi Sahara"
+  },
+  {
+   "uid": "U07505",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07506",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07507",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07508",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07509",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07510",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07511",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07512",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07513",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07514",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07515",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07516",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07517",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07518",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07519",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U07520",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U07521",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07522",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U07523",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07524",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U07525",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rumi Sahara"
+  },
+  {
+   "uid": "U07526",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U07527",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07528",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor"
+  },
+  {
+   "uid": "U07529",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rumi Sahara"
+  },
+  {
+   "uid": "U07530",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07531",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07532",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07533",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U07534",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U07535",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07536",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07537",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  }
+ ]
+}

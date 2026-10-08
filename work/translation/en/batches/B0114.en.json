@@ -1,0 +1,487 @@
+{
+ "batch": "B0114",
+ "prev": "B0113",
+ "next": "B0115",
+ "rows": [
+  {
+   "uid": "U09059",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09060",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Vira"
+  },
+  {
+   "uid": "U09061",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09062",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09063",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09064",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09065",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U09066",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09067",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U09068",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09069",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U09070",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09071",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U09072",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U09073",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09074",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09075",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09076",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09077",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09078",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09079",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U09080",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archbishop Wing"
+  },
+  {
+   "uid": "U09081",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U09082",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U09083",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09084",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09085",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09086",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09087",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09088",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09089",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09090",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U09091",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U09092",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U09093",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U09094",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09095",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09096",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09097",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09098",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09099",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09100",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09101",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09102",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09103",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09104",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09105",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09106",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U09107",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09108",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U09109",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09110",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09111",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09112",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U09113",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U09114",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09115",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U09116",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09117",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yushima"
+  },
+  {
+   "uid": "U09118",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Segawa"
+  },
+  {
+   "uid": "U09119",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Maeno"
+  },
+  {
+   "uid": "U09120",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09121",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U09122",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U09123",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U09124",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U09125",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U09126",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U09127",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Maeno"
+  },
+  {
+   "uid": "U09128",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Segawa"
+  },
+  {
+   "uid": "U09129",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U09130",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09131",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U09132",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09133",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U09134",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U09135",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Maeno"
+  },
+  {
+   "uid": "U09136",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U09137",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U09138",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  }
+ ]
+}

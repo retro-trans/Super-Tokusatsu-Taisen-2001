@@ -1,0 +1,365 @@
+{
+ "batch": "B0043",
+ "rows": [
+  {
+   "uid": "U03370",
+   "en": "Just like your second helpings, [HERO4], huh?"
+  },
+  {
+   "uid": "U03371",
+   "en": "Geez, at a time like this… [HERO2], you meanie!"
+  },
+  {
+   "uid": "U03372",
+   "en": "…!? Cap, it's Hayata! He's heading for S16 in a boat."
+  },
+  {
+   "uid": "U03373",
+   "en": "Muramatsu to Hayata, Muramatsu to Hayata! Where on earth have you been all this time? We've been searching for you since last night!"
+  },
+  {
+   "uid": "U03374",
+   "en": "I'm sorry for wrecking our precious VTOL."
+  },
+  {
+   "uid": "U03375",
+   "en": "What on earth happened last night? How did you survive the VTOL crash?"
+  },
+  {
+   "uid": "U03376",
+   "en": "He saved me."
+  },
+  {
+   "uid": "U03377",
+   "en": "He… Who's \"he\"?"
+  },
+  {
+   "uid": "U03378",
+   "en": "Cap, never mind that. First we have to take down Bemular."
+  },
+  {
+   "uid": "U03379",
+   "en": "Bemular? What's this Bemular?"
+  },
+  {
+   "uid": "U03380",
+   "en": "It's a kaiju sleeping in the lake. If we let our guard down, we'll be in for it.<p> I'll go out on the lake in S16 and catch it asleep while it's worn out from its long journey through space.<p> When it jumps out, hit it from above with the VTOL."
+  },
+  {
+   "uid": "U03381",
+   "en": "All right, got it! Fuji, stop dawdling and land the VTOL next to us!"
+  },
+  {
+   "uid": "U03382",
+   "en": "Roger, roger!"
+  },
+  {
+   "uid": "U03383",
+   "en": "Right… Arashi and Ide, search from the ground!"
+  },
+  {
+   "uid": "U03384",
+   "en": "Still no sign of Bemular? We're ready here!"
+  },
+  {
+   "uid": "U03385",
+   "en": "…!?<p> Hayata to VTOL… Bemular sighted!!"
+  },
+  {
+   "uid": "U03386",
+   "en": "Right… Ultra Operation No. 1, commence attack!"
+  },
+  {
+   "uid": "U03387",
+   "en": "It's Bemular!"
+  },
+  {
+   "uid": "U03388",
+   "en": "Fire!!"
+  },
+  {
+   "uid": "U03389",
+   "en": "Uwaaaagh…"
+  },
+  {
+   "uid": "U03390",
+   "en": "\"Hayata, entrusted with the life of the alien from the M78 Nebula… used the Beta Capsule to transform into that alien!<p> He became an immortal man who flies through the sky at Mach 5 and smashes every enemy with mighty energy! Go get 'em! Our hero!!\""
+  },
+  {
+   "uid": "U03391",
+   "en": "Wh… what is that!?"
+  },
+  {
+   "uid": "U03392",
+   "en": "…!? It does not appear to be… an enemy."
+  },
+  {
+   "uid": "U03393",
+   "en": "Huh!? It doesn't look like it's… an enemy, but…"
+  },
+  {
+   "uid": "U03394",
+   "en": "Hahaha… Where's Goro Watari? Did my poison eat him up and kill him?<p> You'll die too! Take my thorns!"
+  },
+  {
+   "uid": "U03395",
+   "en": "Wait!"
+  },
+  {
+   "uid": "U03396",
+   "en": "Nngh… Sanagiman!? When did you transform?"
+  },
+  {
+   "uid": "U03397",
+   "en": "Fight poison with poison! Toge Banbara! Prepare yourself!"
+  },
+  {
+   "uid": "U03398",
+   "en": "Warrior of freedom! [VAR6]!"
+  },
+  {
+   "uid": "U03399",
+   "en": "Goro!? The poisonous herb worked, didn't it? Thank goodness…"
+  },
+  {
+   "uid": "U03400",
+   "en": "Goro! I always figured you were the type who wouldn't die even if somebody killed you… I'm really glad."
+  },
+  {
+   "uid": "U03401",
+   "en": "Goro!? Thank goodness! My power was some use after all…"
+  },
+  {
+   "uid": "U03402",
+   "en": "Goro! I believed in you… I knew you'd pull through, I just knew it!"
+  },
+  {
+   "uid": "U03403",
+   "en": "Mr. Tachibana told me what happened! Thank you so much…<p> Toge Banbara! I'll never forgive the likes of you! I'll send you to hell!!"
+  },
+  {
+   "uid": "U03404",
+   "en": "Nngh… Insolent fools! Get them!!"
+  },
+  {
+   "uid": "U03405",
+   "en": "Wh-what's that? That lamp on the alien's chest… it changed color!"
+  },
+  {
+   "uid": "U03406",
+   "en": "A danger signal, I bet. A red lamp means the same thing everywhere."
+  },
+  {
+   "uid": "U03407",
+   "en": "How could you possibly know that?"
+  },
+  {
+   "uid": "U03408",
+   "en": "But he looks like he's in a real hurry… Ah! The blinking's getting faster and faster!"
+  },
+  {
+   "uid": "U03409",
+   "en": "Looks like his energy is running out."
+  },
+  {
+   "uid": "U03410",
+   "en": "Curse you… You'll pay for this, [VAR6]!!"
+  },
+  {
+   "uid": "U03411",
+   "en": "All riiight! Way to go!"
+  },
+  {
+   "uid": "U03412",
+   "en": "Ah, here comes Hayata running! Heeey!!"
+  },
+  {
+   "uid": "U03413",
+   "en": "Heeey!"
+  },
+  {
+   "uid": "U03414",
+   "en": "Hayata! Are you okay?"
+  },
+  {
+   "uid": "U03415",
+   "en": "As you can see, fit as a fiddle."
+  },
+  {
+   "uid": "U03416",
+   "en": "Hayata… Are you really the real Hayata?"
+  },
+  {
+   "uid": "U03417",
+   "en": "There's no real or fake… There's only one of me.<p> Cap… by the way, what happened to Bemular?"
+  },
+  {
+   "uid": "U03418",
+   "en": "Mm… The alien chased it off for us."
+  },
+  {
+   "uid": "U03419",
+   "en": "So he did show up… I thought he might, so I wasn't worried."
+  },
+  {
+   "uid": "U03420",
+   "en": "Then the one who saved you was…"
+  },
+  {
+   "uid": "U03421",
+   "en": "Him…"
+  },
+  {
+   "uid": "U03422",
+   "en": "Wh-wh-whoa, hold on! You keep saying \"him, him\" like you're old pals, but what's his name, anyway?"
+  },
+  {
+   "uid": "U03423",
+   "en": "He doesn't have a name."
+  },
+  {
+   "uid": "U03424",
+   "en": "Come off it! There's no such thing as a guy with no name."
+  },
+  {
+   "uid": "U03425",
+   "en": "Hmm, let's see… Then how about \"Ultraman\"?"
+  },
+  {
+   "uid": "U03426",
+   "en": "Ultraman?"
+  },
+  {
+   "uid": "U03427",
+   "en": "Yeah, Ultraman… How's that?"
+  },
+  {
+   "uid": "U03428",
+   "en": "Ultraman… A perfect name for that giant, isn't it?"
+  },
+  {
+   "uid": "U03429",
+   "en": "Ultraman… That's a nice name, huh?"
+  },
+  {
+   "uid": "U03430",
+   "en": "Huh? And who are you guys?"
+  },
+  {
+   "uid": "U03431",
+   "en": "I'm Goro Watari. I'm fighting the Neo-Human Empire."
+  },
+  {
+   "uid": "U03432",
+   "en": "I see… So you're the TDF special detachment? We've heard all about your exploits."
+  },
+  {
+   "uid": "U03433",
+   "en": "Yes…<p> Anyway… that Ultraman is a strong ally, isn't he? It's reassuring to have him around!"
+  },
+  {
+   "uid": "U03434",
+   "en": "But Ultraman… hasn't he gone off somewhere?"
+  },
+  {
+   "uid": "U03435",
+   "en": "He's not going anywhere. His spaceship exploded, so he can't go back to his own planet…"
+  },
+  {
+   "uid": "U03436",
+   "en": "Hmm… You really do have the devil's own luck."
+  },
+  {
+   "uid": "U03437",
+   "en": "I'm immortal, Cap…"
+  },
+  {
+   "uid": "U03438",
+   "en": "Yeah… He's most likely Ultraman!<p> But… let's keep quiet about it until he brings it up himself."
+  },
+  {
+   "uid": "U03439",
+   "en": "Hey… [HERO2]? Hayata is probably…"
+  },
+  {
+   "uid": "U03440",
+   "en": "Well, I guess so…<p> But… keep that tucked away in your belly, okay?"
+  },
+  {
+   "uid": "U03441",
+   "en": "Not my belly… my chest! My chest! B-U-S-T!!"
+  },
+  {
+   "uid": "U03442",
+   "en": "Hahaha…<p> But… there's not much room in there to tuck anything away, is there? In that bust?"
+  },
+  {
+   "uid": "U03443",
+   "en": "Wh-! [HERO2]!!"
+  },
+  {
+   "uid": "U03444",
+   "en": "Hahahaha…"
+  },
+  {
+   "uid": "U03445",
+   "en": "Bemular was only the beginning… Countless vicious kaiju lie in wait out in space, and on this Earth as well."
+  },
+  {
+   "uid": "U03446",
+   "en": "The TDF's upper echelons acted as a bridge between the Space Sheriffs and Riders and the Science Patrol."
+  },
+  {
+   "uid": "U03447",
+   "en": "It was the moment the Science Patrol's name was recognized by the world as a special unit for countering kaiju."
+  },
+  {
+   "uid": "U03448",
+   "en": "And so, the names of those five and of Ultraman were added to the history of the great war."
+  },
+  {
+   "uid": "U03449",
+   "en": "\"Takeshi Hongo: Rider 1 is abroad\" \"Hayato Ichimonji: Rider 2 is abroad\""
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U03370: おかわり (second helpings) joke answering 'this will never end' in U03369.",
+   "U03390: narration wrapped in 『』 rendered in double quotes.",
+   "U03396: 変転 read as 'transform'.",
+   "U03440-U03442: belly/chest pun (腹にしまう = keep it to yourself) kept literal so the bust joke works; the teasing is kept at full strength.",
+   "U03449: looks like a developer label (route flags); translated literally."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Ultra Operation No. 1",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U03380",
+    "likely": "湖"
+   },
+   {
+    "uid": "U03396",
+    "likely": "変身 / 転身"
+   },
+   {
+    "uid": "U03405",
+    "likely": "胸"
+   },
+   {
+    "uid": "U03432",
+    "likely": "噂"
+   },
+   {
+    "uid": "U03441",
+    "likely": "胸"
+   }
+  ]
+ }
+}

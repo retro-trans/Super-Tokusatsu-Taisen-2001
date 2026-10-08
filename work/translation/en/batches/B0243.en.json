@@ -1,0 +1,487 @@
+{
+ "batch": "B0243",
+ "prev": "B0242",
+ "next": "B0244",
+ "rows": [
+  {
+   "uid": "U19400",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19401",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19402",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19403",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19404",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19405",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19406",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19407",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19408",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19409",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19410",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19411",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19412",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19413",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19414",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19415",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19416",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19417",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19418",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19419",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19420",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19421",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19422",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19423",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19424",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19425",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19426",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19427",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19428",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19429",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19430",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19431",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19432",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19433",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19434",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19435",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19436",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19437",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19438",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19439",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19440",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19441",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19442",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19443",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19444",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19445",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19446",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19447",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19448",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19449",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19450",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19451",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19452",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19453",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19454",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19455",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19456",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19457",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19458",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19459",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19460",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19461",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19462",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19463",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19464",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19465",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19466",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19467",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19468",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19469",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19470",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19471",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19472",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19473",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19474",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19475",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19476",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19477",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19478",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U19479",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  }
+ ]
+}

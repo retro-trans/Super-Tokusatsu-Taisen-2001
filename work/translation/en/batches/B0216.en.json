@@ -1,0 +1,487 @@
+{
+ "batch": "B0216",
+ "prev": "B0215",
+ "next": "B0217",
+ "rows": [
+  {
+   "uid": "U17226",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U17227",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U17228",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U17229",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U17230",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U17231",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U17232",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U17233",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U17234",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U17235",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U17236",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U17237",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U17238",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U17239",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U17240",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U17241",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U17242",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U17243",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U17244",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U17245",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U17246",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U17247",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U17248",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U17249",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U17250",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U17251",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U17252",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U17253",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U17254",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U17255",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U17256",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U17257",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U17258",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U17259",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U17260",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U17261",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U17262",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U17263",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U17264",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U17265",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U17266",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U17267",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U17268",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U17269",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U17270",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17271",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U17272",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U17273",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U17274",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U17275",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U17276",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U17277",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U17278",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U17279",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U17280",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U17281",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U17282",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U17283",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U17284",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U17285",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U17286",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U17287",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U17288",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U17289",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U17290",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U17291",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U17292",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U17293",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U17294",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U17295",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U17296",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U17297",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U17298",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U17299",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U17300",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U17301",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U17302",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U17303",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U17304",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U17305",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  }
+ ]
+}

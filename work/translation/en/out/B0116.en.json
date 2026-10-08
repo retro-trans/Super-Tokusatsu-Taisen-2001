@@ -1,0 +1,440 @@
+{
+ "batch": "B0116",
+ "rows": [
+  {
+   "uid": "U09219",
+   "en": "That day… at the International Committee for Earth Defense, the halt of development of the R-series super weapons was passed unanimously…"
+  },
+  {
+   "uid": "U09220",
+   "en": "Kuh… How careless of me… To be beaten in a place like this… Ugh… I let my guard down."
+  },
+  {
+   "uid": "U09221",
+   "en": "…………"
+  },
+  {
+   "uid": "U09222",
+   "en": "Giant Robo! Defeat the enemy!"
+  },
+  {
+   "uid": "U09223",
+   "en": "Let's go! One-Seven, One-Eight!"
+  },
+  {
+   "uid": "U09224",
+   "en": "Escort the transport helicopter and guide it to the Far East Base!"
+  },
+  {
+   "uid": "U09225",
+   "en": "Defeat Gigant and all the Destron monsters!"
+  },
+  {
+   "uid": "U09226",
+   "en": "Defeat Gigant, Kelbaan's forces and all the Destron monsters!"
+  },
+  {
+   "uid": "U09227",
+   "en": "Defeat Gigant, Kelbaan's forces, all the Destron monsters and the Alien Vira!"
+  },
+  {
+   "uid": "U09228",
+   "en": "Defeat Revived Gyeron!"
+  },
+  {
+   "uid": "U09229",
+   "en": "The transport helicopter is destroyed"
+  },
+  {
+   "uid": "U09230",
+   "en": "All allies are destroyed, or a Destron commander monster invades the base"
+  },
+  {
+   "uid": "U09231",
+   "en": "The <c3>heroes</c>' Morale went <c2>UP</c>!"
+  },
+  {
+   "uid": "U09232",
+   "en": "Good afternoon…"
+  },
+  {
+   "uid": "U09233",
+   "en": "Welcome!"
+  },
+  {
+   "uid": "U09234",
+   "en": "Um… This is who I am."
+  },
+  {
+   "uid": "U09235",
+   "en": "Huh? \"Andromeda Yumecon Lease Co.\"?"
+  },
+  {
+   "uid": "U09236",
+   "en": "We're a company that offers leases on the Yumecon."
+  },
+  {
+   "uid": "U09237",
+   "en": "Yumecon?"
+  },
+  {
+   "uid": "U09238",
+   "en": "Yes, it's truly a dream computer, with infinite uses."
+  },
+  {
+   "uid": "U09239",
+   "en": "A dream computer?"
+  },
+  {
+   "uid": "U09240",
+   "en": "For example…"
+  },
+  {
+   "uid": "U09241",
+   "en": "I WANT TO EAT CURRY RICE…"
+  },
+  {
+   "uid": "U09242",
+   "en": "Wh-what? Curry just came out!? Well, that's amazing…"
+  },
+  {
+   "uid": "U09243",
+   "en": "Hee hee… With the Yumecon, any dream comes true."
+  },
+  {
+   "uid": "U09244",
+   "en": "Any dream?"
+  },
+  {
+   "uid": "U09245",
+   "en": "Yes, of course!<p>From the look of it… your shop is rather old. Why not take the plunge and renovate?"
+  },
+  {
+   "uid": "U09246",
+   "en": "Well, I'd need the money for that…"
+  },
+  {
+   "uid": "U09247",
+   "en": "No need to worry…"
+  },
+  {
+   "uid": "U09248",
+   "en": "I WANT 2 MILLION YEN IN CASH…"
+  },
+  {
+   "uid": "U09249",
+   "en": "Whoa… It even has a cash service?"
+  },
+  {
+   "uid": "U09250",
+   "en": "Yes. Borrow big, and pay it back on a 200-year loan!<p>The annual interest is just 0.1%… Your children, grandchildren, great-grandchildren… you only need to pay it off by the time of their grandchildren.<p>An easy-going loan spanning 200 years!"
+  },
+  {
+   "uid": "U09251",
+   "en": "Why, that's practically free, isn't it?"
+  },
+  {
+   "uid": "U09252",
+   "en": "Yes… Please, take this opportunity to sign the contract."
+  },
+  {
+   "uid": "U09253",
+   "en": "Ah… y-yes."
+  },
+  {
+   "uid": "U09254",
+   "en": "Whaaat!?"
+  },
+  {
+   "uid": "U09255",
+   "en": "Oyassan… So you signed the contract?"
+  },
+  {
+   "uid": "U09256",
+   "en": "Well, you two… there's no reason to turn down something this handy, is there?<p>Plus… I can keep using the old PC just as it is, so that's nice."
+  },
+  {
+   "uid": "U09257",
+   "en": "Right, I've decided!"
+  },
+  {
+   "uid": "U09258",
+   "en": "Hanpen, what have you decided?"
+  },
+  {
+   "uid": "U09259",
+   "en": "I would very much like to sign a lease contract too.<p>So, Mr. Tachibana, where might one rent this Yumecon?"
+  },
+  {
+   "uid": "U09260",
+   "en": "No way!?"
+  },
+  {
+   "uid": "U09261",
+   "en": "So, Oyassan… you went and signed the contract?"
+  },
+  {
+   "uid": "U09262",
+   "en": "Hanpen, you've decided? Don't tell me…?"
+  },
+  {
+   "uid": "U09263",
+   "en": "Oh yes, it's exactly what you think! I would very much like to sign a lease contract too.<p>So, Mr. Tachibana, where might one rent this Yumecon?"
+  },
+  {
+   "uid": "U09264",
+   "en": "Let's see… It's a place called Andromeda Yumecon Lease Co."
+  },
+  {
+   "uid": "U09265",
+   "en": "Andromeda Yumecon Lease Co.?<p>There's no address or phone number written on it… All right, let's look into it!"
+  },
+  {
+   "uid": "U09266",
+   "en": "The humans possessed by Yumecon sickness…<p>will soon come to hate even moving their own bodies. Since everything is taken care of with a single finger…"
+  },
+  {
+   "uid": "U09267",
+   "en": "Spread the Yumecon throughout all of Japan! Stir up the humans' insatiable greed and let them fall into depravity, body and soul…"
+  },
+  {
+   "uid": "U09268",
+   "en": "How's it going over there?"
+  },
+  {
+   "uid": "U09269",
+   "en": "No good, no leads…"
+  },
+  {
+   "uid": "U09270",
+   "en": "I see…"
+  },
+  {
+   "uid": "U09271",
+   "en": "But… is it really true?<p>What Gavan said, that Fuuma is scheming something with the Yumecon…"
+  },
+  {
+   "uid": "U09272",
+   "en": "Yeah…<p>Judging from Gavan's investigation, which found that this Andromeda Yumecon Lease Co. doesn't actually exist, it's definitely fishy! There must be something to it!"
+  },
+  {
+   "uid": "U09273",
+   "en": "You're right… Shaider, I'll keep looking a little longer!"
+  },
+  {
+   "uid": "U09274",
+   "en": "I'm counting on you…"
+  },
+  {
+   "uid": "U09275",
+   "en": "Leave it to Annie!!"
+  },
+  {
+   "uid": "U09276",
+   "en": "…!?<p>Fuuma? So they really are scheming something!"
+  },
+  {
+   "uid": "U09277",
+   "en": "Subjugate!"
+  },
+  {
+   "uid": "U09278",
+   "en": "…!?<p>It's an SOS from Annie!"
+  },
+  {
+   "uid": "U09279",
+   "en": "Hmm… So this is the Yumecon's CAPTAIN system?"
+  },
+  {
+   "uid": "U09280",
+   "en": "Whoa!"
+  },
+  {
+   "uid": "U09281",
+   "en": "Den! What's wrong!? What happened? Are you all right?"
+  },
+  {
+   "uid": "U09282",
+   "en": "Whew… That was close. But I'm fine."
+  },
+  {
+   "uid": "U09283",
+   "en": "What on earth happened?"
+  },
+  {
+   "uid": "U09284",
+   "en": "Den, you pressed some weird button, didn't you?"
+  },
+  {
+   "uid": "U09285",
+   "en": "No… I just got close to this Yumecon. Why on earth…?"
+  },
+  {
+   "uid": "U09286",
+   "en": "Annie!!"
+  },
+  {
+   "uid": "U09287",
+   "en": "Grr… Someone's interfering!? Go! Fushigi Beast Umiumi!!"
+  },
+  {
+   "uid": "U09288",
+   "en": "So, what about the Yumecon?"
+  },
+  {
+   "uid": "U09289",
+   "en": "Oh… It's completely back to normal!<p>Andromeda Yumecon Lease Co. swapped it for a new one…"
+  },
+  {
+   "uid": "U09290",
+   "en": "In such a short time?"
+  },
+  {
+   "uid": "U09291",
+   "en": "Everyone, get away from the Yumecon!"
+  },
+  {
+   "uid": "U09292",
+   "en": "Sharivan… I've solved the mystery of why you were targeted! Look!"
+  },
+  {
+   "uid": "U09293",
+   "en": "Isn't that Sharivan?"
+  },
+  {
+   "uid": "U09294",
+   "en": "That's right! Sharivan's photo is programmed into this silicon board, along with photos of me and Shaider.<p>When we get near a Yumecon, it automatically sends word to Fuuma's base!"
+  },
+  {
+   "uid": "U09295",
+   "en": "What!? Then it really is Fuuma's…?"
+  },
+  {
+   "uid": "U09296",
+   "en": "Yeah…<p>By now… every household has a Yumecon. It's like we're on a wanted list, huh?"
+  },
+  {
+   "uid": "U09297",
+   "en": "Damn… We'll find the factory that makes them and smash it!"
+  },
+  {
+   "uid": "U09298",
+   "en": "But where is it?"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U09220: Chief Kitakura's line; who beat her (Alien Vira, next row) inferred.",
+   "U09225-U09227/U09230: デストロン坊心 read as デストロン怪人 (\"Destron monsters\"); ビラ画心 as ビラ星人.",
+   "U09230: [ja]/[ja] heavily garbled; read as [ja]/(基地)[ja]. \"the base\" is a guess.",
+   "U09241/U09248: the saleswoman's katakana commands to the Yumecon rendered in capitals.",
+   "U09235/U09264/U09272: 〓 read as 社 (\"Co.\").",
+   "U09258/U09262: ハンペンさん from [HERO4] rendered \"Hanpen\" (the nickname).",
+   "U09277: Hessler's cry 征伐 rendered \"Subjugate!\" as before.",
+   "U09279: キャプテンシステム kept as \"CAPTAIN system\" (the 1980s Japanese videotex service)."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Yumecon",
+    "why": "not in glossary (dream computer)"
+   },
+   {
+    "en": "Andromeda Yumecon Lease Co.",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Yumecon sickness",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Fushigi Beast Umiumi",
+    "why": "from glossary ウミウミ + 不思議獣 title"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U09224",
+    "likely": "輸送"
+   },
+   {
+    "uid": "U09229",
+    "likely": "輸送"
+   },
+   {
+    "uid": "U09224",
+    "likely": "誘導"
+   },
+   {
+    "uid": "U09225",
+    "likely": "怪人を全て"
+   },
+   {
+    "uid": "U09226",
+    "likely": "怪人を全て"
+   },
+   {
+    "uid": "U09227",
+    "likely": "怪人"
+   },
+   {
+    "uid": "U09227",
+    "likely": "ビラ星人"
+   },
+   {
+    "uid": "U09229",
+    "likely": "破壊"
+   },
+   {
+    "uid": "U09230",
+    "likely": "[ja]"
+   },
+   {
+    "uid": "U09230",
+    "likely": "?[ja]"
+   },
+   {
+    "uid": "U09235",
+    "likely": "ユメコンリース社"
+   },
+   {
+    "uid": "U09236",
+    "likely": "会社"
+   },
+   {
+    "uid": "U09272",
+    "likely": "会社"
+   },
+   {
+    "uid": "U09250",
+    "likely": "借りて"
+   },
+   {
+    "uid": "U09259",
+    "likely": "借りられ"
+   },
+   {
+    "uid": "U09263",
+    "likely": "借りられ"
+   },
+   {
+    "uid": "U09265",
+    "likely": "書いて"
+   },
+   {
+    "uid": "U09267",
+    "likely": "全土"
+   },
+   {
+    "uid": "U09267",
+    "likely": "堕落"
+   },
+   {
+    "uid": "U09272",
+    "likely": "存在"
+   }
+  ]
+ }
+}

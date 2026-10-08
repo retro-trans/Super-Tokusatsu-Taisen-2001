@@ -1,0 +1,487 @@
+{
+ "batch": "B0058",
+ "prev": "B0057",
+ "next": "B0059",
+ "rows": [
+  {
+   "uid": "U04573",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira"
+  },
+  {
+   "uid": "U04574",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U04575",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira"
+  },
+  {
+   "uid": "U04576",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U04577",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman Who Was Attacked"
+  },
+  {
+   "uid": "U04578",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U04579",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rieko"
+  },
+  {
+   "uid": "U04580",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U04581",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U04582",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U04583",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U04584",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04585",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Collapsed Woman"
+  },
+  {
+   "uid": "U04586",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04587",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U04588",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04589",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04590",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04591",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04592",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04593",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04594",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04595",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04596",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Collapsed Woman"
+  },
+  {
+   "uid": "U04597",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04598",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Collapsed Woman"
+  },
+  {
+   "uid": "U04599",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04600",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04601",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04602",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04603",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U04604",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04605",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U04606",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04607",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U04608",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U04609",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04610",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Collapsed Woman"
+  },
+  {
+   "uid": "U04611",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04612",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Collapsed Woman"
+  },
+  {
+   "uid": "U04613",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04614",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Collapsed Woman"
+  },
+  {
+   "uid": "U04615",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04616",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U04617",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04618",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04619",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04620",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U04621",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04622",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U04623",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04624",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U04625",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04626",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U04627",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04628",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U04629",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04630",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U04631",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04632",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U04633",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U04634",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U04635",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U04636",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U04637",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider 01"
+  },
+  {
+   "uid": "U04638",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Taeko Araki"
+  },
+  {
+   "uid": "U04639",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04640",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04641",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Taeko Araki"
+  },
+  {
+   "uid": "U04642",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04643",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Taeko Araki"
+  },
+  {
+   "uid": "U04644",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04645",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Taeko Araki"
+  },
+  {
+   "uid": "U04646",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04647",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Taeko Araki"
+  },
+  {
+   "uid": "U04648",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04649",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U04650",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Taeko Araki"
+  },
+  {
+   "uid": "U04651",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04652",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0054",
+ "prev": "B0053",
+ "next": "B0055",
+ "rows": [
+  {
+   "uid": "U04253",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04254",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04255",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04256",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04257",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seiichiro Kogure"
+  },
+  {
+   "uid": "U04258",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04259",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04260",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04261",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anti-Shocker League Member"
+  },
+  {
+   "uid": "U04262",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04263",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anti-Shocker League Member"
+  },
+  {
+   "uid": "U04264",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04265",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anti-Shocker League Member"
+  },
+  {
+   "uid": "U04266",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04267",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04268",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04269",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gel-Shocker Combatant"
+  },
+  {
+   "uid": "U04270",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04271",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04272",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Ishigami"
+  },
+  {
+   "uid": "U04273",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seiichiro Kogure"
+  },
+  {
+   "uid": "U04274",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04275",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Ishigami"
+  },
+  {
+   "uid": "U04276",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04277",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04278",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seiichiro Kogure"
+  },
+  {
+   "uid": "U04279",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04280",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04281",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiru-Chameleon"
+  },
+  {
+   "uid": "U04282",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04283",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiru-Chameleon"
+  },
+  {
+   "uid": "U04284",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04285",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiru-Chameleon"
+  },
+  {
+   "uid": "U04286",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04287",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiru-Chameleon"
+  },
+  {
+   "uid": "U04288",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04289",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Ishigami"
+  },
+  {
+   "uid": "U04290",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04291",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04292",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Ishigami"
+  },
+  {
+   "uid": "U04293",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04294",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04295",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seiichiro Kogure"
+  },
+  {
+   "uid": "U04296",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04297",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04298",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04299",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seiichiro Kogure"
+  },
+  {
+   "uid": "U04300",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04301",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04302",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04303",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04304",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04305",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04306",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04307",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04308",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04309",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04310",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04311",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04312",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04313",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04314",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04315",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04316",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04317",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04318",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04319",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04320",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04321",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04322",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04323",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04324",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04325",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04326",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04327",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seiichiro Kogure"
+  },
+  {
+   "uid": "U04328",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Ishigami"
+  },
+  {
+   "uid": "U04329",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04330",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04331",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04332",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

@@ -1,0 +1,5652 @@
+{
+ "007": {
+  "en": "007",
+  "kind": "tokusatsu",
+  "note": "library: A liaison for EAGLE and the right hand of Commander Edogawa."
+ },
+ "01式ニ連ビーム砲": {
+  "en": "Type 01 Twin Beam Gun",
+  "kind": "UCMA unit",
+  "note": "library: An anti-kaiju, anti-robot beam weapon developed by the full might of the Defense Force's scientists."
+ },
+ "01式二連ビーム砲": {
+  "en": "Type 01 Twin Beam Gun",
+  "kind": "UCMA unit",
+  "note": "library: An anti-kaiju, anti-robot beam weapon developed by the full might of the Defense Force's scientists."
+ },
+ "120mm滑空砲": {
+  "en": "120mm Smoothbore",
+  "kind": "attack",
+  "note": ""
+ },
+ "155mm榴弾砲": {
+  "en": "155mm Howitzer",
+  "kind": "attack",
+  "note": ""
+ },
+ "1号サイクロン": {
+  "en": "No.1 Cyclone",
+  "kind": "Kamen Rider",
+  "note": "bike"
+ },
+ "1号改造サイクロン": {
+  "en": "No.1 Custom Cyclone",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "1号新サイクロン": {
+  "en": "No.1 New Cyclone",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "20mm機関砲": {
+  "en": "20mm Cannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "2号サイクロン": {
+  "en": "No.2 Cyclone",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "2号改造サイクロン": {
+  "en": "No.2 Custom Cyclone",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "2号新サイクロン": {
+  "en": "No.2 New Cyclone",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "30mm機関砲": {
+  "en": "30mm Cannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "35mm機関砲": {
+  "en": "35mm Cannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "5，56mm機関銃": {
+  "en": "5.56mm MG",
+  "kind": "attack",
+  "note": ""
+ },
+ "75式自走榴弾砲": {
+  "en": "Type 75 SP Howitzer",
+  "kind": "UCMA unit",
+  "note": "library: A self-propelled howitzer operated by the Defense Force ground troops."
+ },
+ "7，62mm機銃": {
+  "en": "7.62mm MG",
+  "kind": "attack",
+  "note": ""
+ },
+ "8001号": {
+  "en": "No. 8001",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "87式高射機関砲": {
+  "en": "Type 87 AA Gun",
+  "kind": "UCMA unit",
+  "note": "library: Belongs to the Defense Force ground troops."
+ },
+ "89式装甲戦闘車": {
+  "en": "Type 89 IFV",
+  "kind": "UCMA unit",
+  "note": "library: An armored fighting vehicle able to transport troops."
+ },
+ "90式主力戦車": {
+  "en": "Type 90 Tank",
+  "kind": "UCMA unit",
+  "note": "library: The main battle tank of the Defense Force ground troops."
+ },
+ "AH－1S 戦闘ヘリ": {
+  "en": "AH-1S Attack Heli",
+  "kind": "UCMA unit",
+  "note": "library: An attack helicopter operated by the Defense Force ground troops."
+ },
+ "AH－1S戦闘ヘリ": {
+  "en": "AH-1S Attack Heli",
+  "kind": "UCMA unit",
+  "note": "library: An attack helicopter operated by the Defense Force ground troops."
+ },
+ "BF団": {
+  "en": "BF",
+  "kind": "Giant Robo",
+  "note": "Big Fire"
+ },
+ "BF団チーフ": {
+  "en": "BF Chief",
+  "kind": "Giant Robo",
+  "note": "library: A subordinate of Spider, the first head of BF's Japan branch."
+ },
+ "CH－47J輸迭ヘリ": {
+  "en": "CH-47J Transport Heli",
+  "kind": "library",
+  "note": "library: An all-weather tandem-rotor transport helicopter."
+ },
+ "CH－47J輸送ヘリ": {
+  "en": "CH-47J Transport Heli",
+  "kind": "UCMA unit",
+  "note": "library: An all-weather tandem-rotor transport helicopter."
+ },
+ "Dr，バーンズ": {
+  "en": "Dr. Barnes",
+  "kind": "scientist",
+  "note": ""
+ },
+ "D・アンダーソン博士": {
+  "en": "Dr. D. Anderson",
+  "kind": "scientist",
+  "note": ""
+ },
+ "EATER": {
+  "en": "EATER",
+  "kind": "original",
+  "note": "keep as written"
+ },
+ "F－15J□": {
+  "en": "F-15J Kai",
+  "kind": "UCMA unit",
+  "note": "□ = 改 mark"
+ },
+ "F－2": {
+  "en": "F-2",
+  "kind": "UCMA unit",
+  "note": "library: The next-generation support fighter, intended to repel airspace intruders and support ground and sea forces."
+ },
+ "GOD戦闘工作員": {
+  "en": "GOD Combat Agent",
+  "kind": "Kamen Rider X",
+  "note": ""
+ },
+ "GR2": {
+  "en": "GR2",
+  "kind": "library",
+  "note": "library: Developed by BF, its official name is Giant Robo No."
+ },
+ "GR－2": {
+  "en": "GR-2",
+  "kind": "Giant Robo",
+  "note": ""
+ },
+ "M78星雲": {
+  "en": "Nebula M78",
+  "kind": "Ultra series",
+  "note": ""
+ },
+ "M87光線": {
+  "en": "M87 Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "MAT": {
+  "en": "MAT",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "MATステーション・コントロール室隊員": {
+  "en": "MAT Station Control Room Officer",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "MATステーション・レーダー基地隊員": {
+  "en": "MAT Station Radar Officer",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "MATステーション・計器室隊員": {
+  "en": "MAT Station Instrument Room Officer",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "NAAGER": {
+  "en": "NAAGER",
+  "kind": "library",
+  "note": "library: A giant space exploration ship built on the far side of the Moon by Kiichi Sakomizu, former Director of SIDO, who had long loudly warned SIDO and the TDF about "
+ },
+ "RXキック": {
+  "en": "RX Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "SSI": {
+  "en": "SSI",
+  "kind": "Red Baron",
+  "note": "Science Security Investigation"
+ },
+ "TDF": {
+  "en": "TDF",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "U7": {
+  "en": "U7",
+  "kind": "Giant Robo",
+  "note": ""
+ },
+ "UCMA": {
+  "en": "UCMA",
+  "kind": "organization",
+  "note": "keep acronym"
+ },
+ "V3きりもみキック": {
+  "en": "V3 Tailspin Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "V3キック": {
+  "en": "V3 Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "V3パンチ": {
+  "en": "V3 Punch",
+  "kind": "attack",
+  "note": ""
+ },
+ "V3反転キック": {
+  "en": "V3 Reverse Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "VOL；ヴォル": {
+  "en": "VOL",
+  "kind": "library",
+  "note": "library: When Number Ten appeared at the outer edge of the solar system and Earth's scientists were in an uproar, Dr."
+ },
+ "α号": {
+  "en": "Alpha",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "β号": {
+  "en": "Beta",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "γ号": {
+  "en": "Gamma",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "あどけない少女": {
+  "en": "Innocent Girl",
+  "kind": "generic",
+  "note": ""
+ },
+ "おやっさん": {
+  "en": "Oyassan",
+  "kind": "term",
+  "note": "what the Riders call Tobei Tachibana"
+ },
+ "さそり男": {
+  "en": "Scorpion Man",
+  "kind": "Kamen Rider kaijin",
+  "note": "library: He used Shocker's forced laborers as bait in a plot to kill Hongo."
+ },
+ "にせウルトラマン": {
+  "en": "Fake Ultraman",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "にせセブン": {
+  "en": "Fake Ultraseven",
+  "kind": "Ultraseven",
+  "note": "library: A robot superhuman built by the Alien Salome to look exactly like Ultraseven."
+ },
+ "にせ仮面ライダー": {
+  "en": "Fake Kamen Rider",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "アイアンロックス": {
+  "en": "Iron Rocks",
+  "kind": "Ultraseven",
+  "note": "library: A battleship robot built by the Mimi Aliens from the scrap iron of warships sleeping on the seabed."
+ },
+ "アイスラッガー": {
+  "en": "Eye Slugger",
+  "kind": "attack",
+  "note": ""
+ },
+ "アオレンジャー": {
+  "en": "Aorenger",
+  "kind": "Gorenger",
+  "note": "Akira Shinmei"
+ },
+ "アカレンジャー": {
+  "en": "Akarenger",
+  "kind": "Gorenger",
+  "note": "Tsuyoshi Kaijo"
+ },
+ "アキラ": {
+  "en": "Akira",
+  "kind": "Kikaider 01",
+  "note": "boy"
+ },
+ "アキレス": {
+  "en": "Achilles",
+  "kind": "Kamen Rider X",
+  "note": ""
+ },
+ "アギラ": {
+  "en": "Agira",
+  "kind": "Ultraseven capsule monster",
+  "note": "library: One of the three Capsule Monsters owned by Dan Moroboshi."
+ },
+ "アクロバッター": {
+  "en": "Acrobatter",
+  "kind": "Kamen Rider BLACK RX",
+  "note": "bike"
+ },
+ "アクロバットバーン": {
+  "en": "Acrobat Burn",
+  "kind": "attack",
+  "note": ""
+ },
+ "アシッド・ニードル": {
+  "en": "Acid Needle",
+  "kind": "attack",
+  "note": ""
+ },
+ "アシッド・ミスト": {
+  "en": "Acid Mist",
+  "kind": "attack",
+  "note": ""
+ },
+ "アテファリナ": {
+  "en": "Atefarina",
+  "kind": "original villain",
+  "note": "female"
+ },
+ "アニー": {
+  "en": "Annie",
+  "kind": "Shaider",
+  "note": "female, Shaider's partner"
+ },
+ "アプファロン": {
+  "en": "Apfaron",
+  "kind": "original villain",
+  "note": "library: Fusion Steel Shell Type H: Apfaron."
+ },
+ "アポロガイスト": {
+  "en": "Apollo Geist",
+  "kind": "Kamen Rider X",
+  "note": ""
+ },
+ "アマギ": {
+  "en": "Amagi",
+  "kind": "Ultraseven",
+  "note": "library: Good with numbers, he is an authority on electronic computers and a skilled planner."
+ },
+ "アマゾンメガス": {
+  "en": "Amazon Megas",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "アマモト": {
+  "en": "Amamoto",
+  "kind": "original UCMA",
+  "note": "library: A UCMA unit member."
+ },
+ "アマモト隊員": {
+  "en": "Officer Amamoto",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "アラシ": {
+  "en": "Arashi",
+  "kind": "Ultraman",
+  "note": "library: A tough guy and expert marksman who easily handles the 3 kg Spider Shot."
+ },
+ "アラシの身体を借りた宇宙人": {
+  "en": "Alien Using Arashi's Body",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "アロン": {
+  "en": "Aron",
+  "kind": "Ultraseven kaiju",
+  "note": "library: A strongman kaiju."
+ },
+ "アンチ・ショッカー同盟": {
+  "en": "Anti-Shocker League",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "アンチ・ショッカー同盟員": {
+  "en": "Anti-Shocker League Member",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "アンチ・デストロン同盟": {
+  "en": "Anti-Destron League",
+  "kind": "Kamen Rider V3",
+  "note": ""
+ },
+ "アンドウ": {
+  "en": "Ando",
+  "kind": "original UCMA",
+  "note": "library: A UCMA unit member."
+ },
+ "アンドウ隊員": {
+  "en": "Officer Ando",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "アンドロイドX": {
+  "en": "Android X",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "アンドロイドマン": {
+  "en": "Androidman",
+  "kind": "Kikaider grunt",
+  "note": "library: Dark's combat machine soldiers."
+ },
+ "アームミサイル": {
+  "en": "Arm Missile",
+  "kind": "attack",
+  "note": ""
+ },
+ "イカデビル": {
+  "en": "Ika-Devil",
+  "kind": "Kamen Rider kaijin",
+  "note": "library: The form Doctor Death himself transformed into."
+ },
+ "イカリ型分銅": {
+  "en": "Anchor Weight",
+  "kind": "attack",
+  "note": ""
+ },
+ "イカルス": {
+  "en": "Icarus",
+  "kind": "Kamen Rider X",
+  "note": ""
+ },
+ "イチロー": {
+  "en": "Ichiro",
+  "kind": "Kikaider 01",
+  "note": "Kikaider 01's human form, Jiro's older brother"
+ },
+ "イツツバンバラ": {
+  "en": "Itsutsu Banbara",
+  "kind": "Inazuman",
+  "note": "library: The first Mutant Robo of the Phantom Army."
+ },
+ "イデ": {
+  "en": "Ide",
+  "kind": "Ultraman",
+  "note": "library: A genius inventing maniac who developed most of the Science Patrol's weapons, such as the kaiju translator, the Mars 133 and the QX Gun."
+ },
+ "イナズマン": {
+  "en": "Inazuman",
+  "kind": "Inazuman",
+  "note": ""
+ },
+ "イナズマンF": {
+  "en": "Inazuman Flash",
+  "kind": "Inazuman",
+  "note": "library: Inazuman with new power gained from the \"Zeber\", made by fusing his own eyes and antennae, in order to fight the new enemy, the Desper Army."
+ },
+ "ウィンダム": {
+  "en": "Windom",
+  "kind": "Ultraseven capsule monster",
+  "note": "library: One of the three Capsule Monsters owned by Dan Moroboshi."
+ },
+ "ウインダム": {
+  "en": "Windom",
+  "kind": "library",
+  "note": "library: One of the three Capsule Monsters owned by Dan Moroboshi."
+ },
+ "ウエノ通信員": {
+  "en": "Communications Officer Ueno",
+  "kind": "Ultraseven",
+  "note": "library: Handles communications for the Ultra Garrison."
+ },
+ "ウエノ通僖員": {
+  "en": "Communications Officer Ueno",
+  "kind": "library",
+  "note": "library: Handles communications for the Ultra Garrison."
+ },
+ "ウシオ": {
+  "en": "Ushio",
+  "kind": "original UCMA",
+  "note": "library: A UCMA unit member."
+ },
+ "ウシオ隊員": {
+  "en": "Officer Ushio",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "ウデスパー": {
+  "en": "Udesper",
+  "kind": "Inazuman F",
+  "note": "library: A Desper cyborg who could be called the right-hand man of Fuhrer Geisel of the Desper Army."
+ },
+ "ウデスパーα": {
+  "en": "Udesper Alpha",
+  "kind": "Inazuman F",
+  "note": "library: One of the brother staff officers made from the remains of Udesper after he was defeated by Inazuman."
+ },
+ "ウデスパーβ": {
+  "en": "Udesper Beta",
+  "kind": "Inazuman F",
+  "note": "library: One of the brother staff officers made from the remains of Udesper after he was defeated by Inazuman."
+ },
+ "ウミウミ": {
+  "en": "Umiumi",
+  "kind": "Shaider",
+  "note": "Fushigi Beast"
+ },
+ "ウルトラかすみ斬り": {
+  "en": "Ultra Mist Slash",
+  "kind": "attack",
+  "note": ""
+ },
+ "ウルトラアタック光線": {
+  "en": "Ultra Attack Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "ウルトラガン": {
+  "en": "Ultra Gun",
+  "kind": "attack",
+  "note": ""
+ },
+ "ウルトラスパーク": {
+  "en": "Ultra Spark",
+  "kind": "attack",
+  "note": ""
+ },
+ "ウルトラスラッシュ": {
+  "en": "Ultra Slash",
+  "kind": "attack",
+  "note": ""
+ },
+ "ウルトラセブン": {
+  "en": "Ultraseven",
+  "kind": "Ultraseven",
+  "note": "library: Fixed-star Observer No."
+ },
+ "ウルトラブルーチェリ": {
+  "en": "Ultra Blue Cherry",
+  "kind": "attack",
+  "note": ""
+ },
+ "ウルトラホーク1号": {
+  "en": "Ultra Hawk 1",
+  "kind": "Ultraseven",
+  "note": "library: The Ultra Garrison's proud large fighter."
+ },
+ "ウルトラホーク2号": {
+  "en": "Ultra Hawk 2",
+  "kind": "Ultraseven",
+  "note": "library: The Ultra Garrison's combat spacecraft."
+ },
+ "ウルトラホーク3号": {
+  "en": "Ultra Hawk 3",
+  "kind": "Ultraseven",
+  "note": "library: The Ultra Garrison's small jet reconnaissance craft."
+ },
+ "ウルトラマン": {
+  "en": "Ultraman",
+  "kind": "Ultraman",
+  "note": "library: When he flew to Earth chasing Bemular, he collided with the Science Patrol's VTOL, became one with Hayata and decided to stay and fight on Earth."
+ },
+ "ウルトラマンジャック": {
+  "en": "Ultraman Jack",
+  "kind": "Return of Ultraman",
+  "note": "library: He became one with Hideki Go, a young man killed in a kaiju attack, and fights kaiju."
+ },
+ "ウルトラランス": {
+  "en": "Ultra Lance",
+  "kind": "attack",
+  "note": ""
+ },
+ "ウルトラロケット弾": {
+  "en": "Ultra Rocket",
+  "kind": "attack",
+  "note": ""
+ },
+ "ウルトラ光線": {
+  "en": "Ultra Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "ウルトラ水流": {
+  "en": "Ultra Water Jet",
+  "kind": "attack",
+  "note": ""
+ },
+ "ウルトラ警備隊": {
+  "en": "Ultra Garrison",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "ウー": {
+  "en": "Woo",
+  "kind": "Ultraman kaiju",
+  "note": "library: A legendary kaiju that appeared on Mount Iida."
+ },
+ "エネルギー波": {
+  "en": "Energy Wave",
+  "kind": "attack",
+  "note": ""
+ },
+ "エメリウム光線": {
+  "en": "Emerium Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "エレキング": {
+  "en": "Eleking",
+  "kind": "Ultraseven kaiju",
+  "note": "library: A space kaiju controlled by the Alien Pitt."
+ },
+ "エレクトリッガー": {
+  "en": "Electrigger",
+  "kind": "attack",
+  "note": ""
+ },
+ "オオムラ": {
+  "en": "Omura",
+  "kind": "original UCMA",
+  "note": "library: A UCMA unit member."
+ },
+ "オオムラ隊員": {
+  "en": "Officer Omura",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "オズマ": {
+  "en": "Ozuma",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "カイメングリーン": {
+  "en": "Kaimen Green",
+  "kind": "Kikaider",
+  "note": "library: Its weapon is the \"Kaimen Ball\", where it turns its head into a ball and rolls it into opponents."
+ },
+ "カツベ": {
+  "en": "Katsube",
+  "kind": "original UCMA",
+  "note": "library: A UCMA unit member."
+ },
+ "カツベ隊員": {
+  "en": "Officer Katsube",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "カニレーザー": {
+  "en": "Crab Laser",
+  "kind": "Kamen Rider V3 kaijin",
+  "note": "library: The form Doktor G transformed into."
+ },
+ "カプセル怪獣": {
+  "en": "Capsule Monster",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "カマ": {
+  "en": "Sickle",
+  "kind": "attack",
+  "note": ""
+ },
+ "カマダブラー": {
+  "en": "Kama Doubler",
+  "kind": "Gavan",
+  "note": "library: Excels at continuous attacks using the Chain Sickle, boomerang sickles and more."
+ },
+ "カメバズーカ": {
+  "en": "Kamebazooka",
+  "kind": "Kamen Rider V3 kaijin",
+  "note": "library: A bazooka and turtle hybrid monster."
+ },
+ "カメレオンファントマ": {
+  "en": "Chameleon Fantoma",
+  "kind": "Kamen Rider X",
+  "note": ""
+ },
+ "カラミティ": {
+  "en": "Calamity",
+  "kind": "Giant Robo",
+  "note": "library: A robot built by the Republic of Merca, which forcibly demanded the loan of Giant Robo and copied it."
+ },
+ "カーラ": {
+  "en": "Kara",
+  "kind": "library",
+  "note": "library: A female monster born from the golden ray emitted from Shadow Moon's left hand."
+ },
+ "ガイゼル総統": {
+  "en": "Fuhrer Geisel",
+  "kind": "Inazuman F villain",
+  "note": "library: Leader of the Desper Army, which remodels people with psychic powers into Desper cyborgs and seeks world conquest."
+ },
+ "ガイラー将軍": {
+  "en": "General Guiler",
+  "kind": "Sharivan villain",
+  "note": "library: The action commander who directs Madou's operations."
+ },
+ "ガッツ星人": {
+  "en": "Alien Guts",
+  "kind": "Ultraseven",
+  "note": "library: An alien who can split into copies, which used Aron to study Ultraseven's abilities and tried to assassinate him."
+ },
+ "ガッツ星人にあやつられたソガ": {
+  "en": "Soga, Controlled by Alien Guts",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "ガテゾーン": {
+  "en": "Mecha Commander Gatezone",
+  "kind": "library",
+  "note": "library: The Mecha Commander leading the Kaima Robot Battalion."
+ },
+ "ガニコウモル": {
+  "en": "Ganikomol",
+  "kind": "Kamen Rider kaijin",
+  "note": "library: A crab and bat hybrid monster, the first Gel-Shocker monster."
+ },
+ "ガマゴン大王": {
+  "en": "Great King Gamagon",
+  "kind": "Sharivan",
+  "note": "library: The great king of another world, whom Den Iga encountered in the future and met again in the present."
+ },
+ "ガラガランダ": {
+  "en": "Garagaranda",
+  "kind": "Kamen Rider kaijin",
+  "note": "library: The form Ambassador Hell transformed into."
+ },
+ "ガンガー": {
+  "en": "Ganger",
+  "kind": "Giant Robo",
+  "note": "library: A giant flying steel arm."
+ },
+ "キカイダー": {
+  "en": "Kikaider",
+  "kind": "Kikaider",
+  "note": ""
+ },
+ "キカイダー01": {
+  "en": "Kikaider 01",
+  "kind": "Kikaider 01",
+  "note": "library: He emerged from inside a Nio statue in response to the evil power filling the world."
+ },
+ "キカイダースパーク": {
+  "en": "Kikaider Spark",
+  "kind": "attack",
+  "note": ""
+ },
+ "キザな男": {
+  "en": "Smug Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "キズだらけの女": {
+  "en": "Battered Woman",
+  "kind": "generic",
+  "note": ""
+ },
+ "キタクラ・マヤ": {
+  "en": "Maya Kitakura",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "キタクラ参謀": {
+  "en": "Staff Officer Kitakura",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "キタクラ班長": {
+  "en": "Chief Kitakura",
+  "kind": "original UCMA",
+  "note": "gender: check scenes (do not infer from the name)"
+ },
+ "キバ男爵": {
+  "en": "Baron Fang",
+  "kind": "Kamen Rider V3 villain",
+  "note": "library: Destron's second executive."
+ },
+ "キャプテンゴメス": {
+  "en": "Captain Gomez",
+  "kind": "library",
+  "note": "library: A man who has committed every evil imaginable with his subordinate Chief Kid."
+ },
+ "キャプテンサラー": {
+  "en": "Captain Saller",
+  "kind": "tokusatsu",
+  "note": "library: A psychic of justice who created the Boys' League, a mutant organization that uses psychic powers for justice."
+ },
+ "キャプテン・ゴメス": {
+  "en": "Captain Gomez",
+  "kind": "Daitetsujin 17",
+  "note": "library: A man who has committed every evil imaginable with his subordinate Chief Kid."
+ },
+ "キューブリカン": {
+  "en": "Cubrican",
+  "kind": "Kamen Rider BLACK RX",
+  "note": "library: A Kaima Robot sent by Gatezone to eliminate RX."
+ },
+ "キューブリカン 第二形態": {
+  "en": "Cubrican Second Form",
+  "kind": "Kamen Rider BLACK RX",
+  "note": "library: The second form of Cubrican, which rebooted by sprouting a second head after being destroyed."
+ },
+ "キリヤマ": {
+  "en": "Kiriyama",
+  "kind": "Ultraseven",
+  "note": "Ultra Garrison captain"
+ },
+ "キリヤマ隊長": {
+  "en": "Captain Kiriyama",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "キレンジャー": {
+  "en": "Kirenger",
+  "kind": "Gorenger",
+  "note": "Daita Oiwa"
+ },
+ "キングザウルス三世": {
+  "en": "Kingsaurus III",
+  "kind": "Return of Ultraman kaiju",
+  "note": "library: An ancient kaiju that emerged from the mountains of Hakone."
+ },
+ "キングジョー": {
+  "en": "King Joe",
+  "kind": "Ultraseven",
+  "note": "library: A space robot controlled by the Alien Pedan."
+ },
+ "キングストーン": {
+  "en": "King Stone",
+  "kind": "Kamen Rider BLACK",
+  "note": ""
+ },
+ "キングストーンフラッシュ": {
+  "en": "King Stone Flash",
+  "kind": "attack",
+  "note": ""
+ },
+ "キングダーク": {
+  "en": "King Dark",
+  "kind": "Kamen Rider X villain",
+  "note": ""
+ },
+ "キングデビラー": {
+  "en": "King Deviler",
+  "kind": "Red Baron",
+  "note": "library: The Iron Mask Party's strongest robot."
+ },
+ "キーステッカー": {
+  "en": "Key Sticker",
+  "kind": "attack",
+  "note": ""
+ },
+ "ギエロン星獣": {
+  "en": "Gyeron",
+  "kind": "Ultraseven kaiju",
+  "note": "library: A regenerated kaiju that flew to Earth for revenge from Planet Gyeron, which was used as the testing ground for the planet-attack super weapon R1 and destroyed."
+ },
+ "ギガント": {
+  "en": "Gigant",
+  "kind": "original",
+  "note": "library: Ground-combat Fusion combat droid: Gigant."
+ },
+ "ギガント2": {
+  "en": "Gigant 2",
+  "kind": "original",
+  "note": "library: An improved version of the unmanned mass-produced combat droid."
+ },
+ "ギャバン": {
+  "en": "Gavan",
+  "kind": "Gavan",
+  "note": ""
+ },
+ "ギャバンダイナミック": {
+  "en": "Gavan Dynamic",
+  "kind": "attack",
+  "note": ""
+ },
+ "ギャル1": {
+  "en": "Gal 1",
+  "kind": "Shaider",
+  "note": "Fuuma female soldiers"
+ },
+ "ギャル2": {
+  "en": "Gal 2",
+  "kind": "Shaider",
+  "note": "library: One of the Gal Corps, Fuuma's five female ninja made up of Gal 1, Gal 2, Gal 3, Gal 4 and Gal 5."
+ },
+ "ギャル3": {
+  "en": "Gal 3",
+  "kind": "Shaider",
+  "note": "library: One of the Gal Corps, Fuuma's five female ninja made up of Gal 1, Gal 2, Gal 3, Gal 4 and Gal 5."
+ },
+ "ギャル4": {
+  "en": "Gal 4",
+  "kind": "Shaider",
+  "note": "library: One of the Gal Corps, Fuuma's five female ninja made up of Gal 1, Gal 2, Gal 3, Gal 4 and Gal 5."
+ },
+ "ギャル5": {
+  "en": "Gal 5",
+  "kind": "Shaider",
+  "note": "library: One of the Gal Corps, Fuuma's five female ninja made up of Gal 1, Gal 2, Gal 3, Gal 4 and Gal 5."
+ },
+ "ギロチン帝王": {
+  "en": "Emperor Guillotine",
+  "kind": "Giant Robo villain",
+  "note": "library: He came from the planet Big Fire in the Andromeda Nebula."
+ },
+ "ギロチン落とし": {
+  "en": "Guillotine Drop",
+  "kind": "attack",
+  "note": ""
+ },
+ "クサリ鎌": {
+  "en": "Chain Sickle",
+  "kind": "attack",
+  "note": ""
+ },
+ "クモナポレオン": {
+  "en": "Spider Napoleon",
+  "kind": "Kamen Rider X",
+  "note": ""
+ },
+ "クライシス帝国": {
+  "en": "Crisis Empire",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "クライシス皇帝": {
+  "en": "Crisis Emperor",
+  "kind": "Kamen Rider BLACK RX villain",
+  "note": "library: A mysterious despot who, a thousand years ago, suddenly conquered the once green and peaceful Kaima World and founded the Crisis Empire."
+ },
+ "クライムバスター": {
+  "en": "Crime Buster",
+  "kind": "attack",
+  "note": ""
+ },
+ "クラッシャー": {
+  "en": "Crusher",
+  "kind": "tokusatsu",
+  "note": "library: Makuu's low-level combatants."
+ },
+ "クロスハリケーン": {
+  "en": "Cross Hurricane",
+  "kind": "attack",
+  "note": ""
+ },
+ "クロスファイヤー": {
+  "en": "Cross Fire",
+  "kind": "attack",
+  "note": ""
+ },
+ "クールな女": {
+  "en": "Cool Woman",
+  "kind": "generic",
+  "note": ""
+ },
+ "グラナダス": {
+  "en": "Granadas",
+  "kind": "Return of Ultraman",
+  "note": "library: A phosphor kaiju controlled by the Alien Centaurus."
+ },
+ "グラビティ・ナパーム": {
+  "en": "Gravity Napalm",
+  "kind": "attack",
+  "note": ""
+ },
+ "グラビティ・ファントム": {
+  "en": "Gravity Phantom",
+  "kind": "attack",
+  "note": ""
+ },
+ "グラビトン": {
+  "en": "Graviton",
+  "kind": "attack",
+  "note": "Giant Robo"
+ },
+ "グランザイラス": {
+  "en": "Granzairus",
+  "kind": "Kamen Rider BLACK RX",
+  "note": "library: The strongest monster, directly under the Crisis Emperor."
+ },
+ "グランドバスター": {
+  "en": "Grand Buster",
+  "kind": "attack",
+  "note": ""
+ },
+ "グランドバース": {
+  "en": "Grand Birth",
+  "kind": "Sharivan",
+  "note": "ship"
+ },
+ "グレイサイキング": {
+  "en": "Grey Rhinoking",
+  "kind": "Kikaider",
+  "note": "library: The first android of Dark's destruction unit."
+ },
+ "グロテスカンス": {
+  "en": "Grotescance",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "ケガをした女性": {
+  "en": "Injured Woman",
+  "kind": "generic",
+  "note": ""
+ },
+ "ケルバーン": {
+  "en": "Kelbaan",
+  "kind": "Red Baron",
+  "note": "library: Air-combat Fusion combat droid: Kelbaan."
+ },
+ "ケルバーン2": {
+  "en": "Kelbaan 2",
+  "kind": "Red Baron",
+  "note": "library: The general name for an air-combat system with a Gigant as its core."
+ },
+ "ケンタウルス星人": {
+  "en": "Alien Centaurus",
+  "kind": "library",
+  "note": "library: A space bull-man sent to Earth on a mission to destroy the ultra-long-range radar MAT was building."
+ },
+ "ゲドリアン": {
+  "en": "Fang Commander Gedorian",
+  "kind": "library",
+  "note": "library: The cunning Fang Commander who leads the Kaima Alien Beast Battalion."
+ },
+ "ゲバコンドル": {
+  "en": "Gebacondor",
+  "kind": "Kamen Rider kaijin",
+  "note": "library: A Rider-killing monster built by gathering only the strengths of monsters the Riders had defeated before."
+ },
+ "ゲルショッカー": {
+  "en": "Gel-Shocker",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "ゲルショッカー戦闘員": {
+  "en": "Gel-Shocker Combatant",
+  "kind": "Kamen Rider",
+  "note": "library: With four times the strength of a human, they hide behind their capes and attack from the air."
+ },
+ "ゲルショッカー首領": {
+  "en": "Gel-Shocker's Great Leader",
+  "kind": "Kamen Rider villain",
+  "note": "library: The leader of Gel-Shocker, newly organized when Shocker joined hands with the Geldam Clan, a secret society hiding in the depths of Africa, and was reorganized."
+ },
+ "ゲルダム": {
+  "en": "Geldam",
+  "kind": "Kamen Rider",
+  "note": "Gel-Shocker side organization (ゲルダム団 = Geldam Clan)"
+ },
+ "ゲルマ博士": {
+  "en": "Dr. Gelma",
+  "kind": "library",
+  "note": "library: Known as the Space Yokai Doctor."
+ },
+ "コム長官": {
+  "en": "Commander Kom",
+  "kind": "Gavan",
+  "note": "Galactic Union Police chief"
+ },
+ "コンバットスーツの男": {
+  "en": "Man in a Combat Suit",
+  "kind": "generic",
+  "note": ""
+ },
+ "ゴッドライダー": {
+  "en": "God Rider",
+  "kind": "Kamen Rider X",
+  "note": ""
+ },
+ "ゴメス": {
+  "en": "Gomez",
+  "kind": "Daitetsujin 17",
+  "note": ""
+ },
+ "ゴリビースト": {
+  "en": "Gori Beast",
+  "kind": "Sharivan",
+  "note": "library: Madou's first Demon Beast."
+ },
+ "ゴルゴム": {
+  "en": "Gorgom",
+  "kind": "Kamen Rider BLACK",
+  "note": ""
+ },
+ "ゴレンジャー": {
+  "en": "Gorenger",
+  "kind": "Gorenger",
+  "note": ""
+ },
+ "ゴレンジャーSNP作戦": {
+  "en": "Gorenger Op. SNP",
+  "kind": "attack",
+  "note": ""
+ },
+ "ゴレンジャーSNP作戦MS": {
+  "en": "Gorenger Op. SNP MS",
+  "kind": "attack",
+  "note": ""
+ },
+ "ゴレンジャーストーム": {
+  "en": "Gorenger Storm",
+  "kind": "attack",
+  "note": ""
+ },
+ "ゴレンジャーチャージ": {
+  "en": "Gorenger Charge",
+  "kind": "attack",
+  "note": ""
+ },
+ "ゴレンジャーハリケーン": {
+  "en": "Gorenger Hurricane",
+  "kind": "attack",
+  "note": ""
+ },
+ "ゴールデン仮面大将軍": {
+  "en": "Golden Mask Great General",
+  "kind": "Gorenger",
+  "note": ""
+ },
+ "サイクロン": {
+  "en": "Cyclone",
+  "kind": "library",
+  "note": "library: The Rider's dedicated machine."
+ },
+ "サイクロンカッター": {
+  "en": "Cyclone Cutter",
+  "kind": "attack",
+  "note": ""
+ },
+ "サイコの化身 サイコラー": {
+  "en": "Psycholer, Psycho's Avatar",
+  "kind": "Sharivan",
+  "note": ""
+ },
+ "サイコラー": {
+  "en": "Psycholer",
+  "kind": "Sharivan",
+  "note": "library: A being who shares a life with Demon King Psycho; if either one dies, they can share their life with each other and revive."
+ },
+ "サイゴーン": {
+  "en": "Saigohn",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "サイダブラー": {
+  "en": "Sai Doubler",
+  "kind": "Gavan",
+  "note": "library: The first Double Monster, with three times the power of a Beast Monster."
+ },
+ "サイドマシーン": {
+  "en": "Side Machine",
+  "kind": "Kikaider",
+  "note": "bike"
+ },
+ "サイバリアン": {
+  "en": "Cyberian",
+  "kind": "Gavan",
+  "note": "bike"
+ },
+ "サイ怪人": {
+  "en": "Rhino Monster",
+  "kind": "Kamen Rider BLACK",
+  "note": "library: With great strength, it excels at charging attacks using the horn on its head."
+ },
+ "サキ": {
+  "en": "Saki",
+  "kind": "heroine default name",
+  "note": "female"
+ },
+ "サタンサーベル": {
+  "en": "Satan Saber",
+  "kind": "attack",
+  "note": ""
+ },
+ "サタンメガス": {
+  "en": "Satan Megas",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "サデスパー": {
+  "en": "Sadesper",
+  "kind": "Inazuman F",
+  "note": "library: A new executive of the Desper Army."
+ },
+ "サナギマン": {
+  "en": "Sanagiman",
+  "kind": "Inazuman",
+  "note": "library: The first form Goro Watari transforms into."
+ },
+ "サブロー": {
+  "en": "Saburo",
+  "kind": "Kikaider",
+  "note": "Hakaider's human form"
+ },
+ "サロメ星人": {
+  "en": "Alien Salome",
+  "kind": "library",
+  "note": "library: Invading aliens who plotted to conquer Earth and tried to frame Ultraseven as an invader using a robot that looks exactly like him."
+ },
+ "サワ・ケンジ": {
+  "en": "Kenji Sawa",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "サワ長官": {
+  "en": "Director Sawa",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "サワ隊長": {
+  "en": "Captain Sawa",
+  "kind": "original UCMA",
+  "note": "commander of the player's unit"
+ },
+ "サンシャインシュート": {
+  "en": "Sunshine Shoot",
+  "kind": "attack",
+  "note": ""
+ },
+ "サンドルバ": {
+  "en": "Sandoruba",
+  "kind": "Sharivan",
+  "note": "library: The son of Makuu's boss Don Horror, which may be why he is so arrogant and always throwing his weight around."
+ },
+ "サーベル": {
+  "en": "Saber",
+  "kind": "attack",
+  "note": ""
+ },
+ "ザダム": {
+  "en": "Zadam",
+  "kind": "tokusatsu",
+  "note": "library: One of Shadow's top executives, summoned from the Moon by Big Shadow."
+ },
+ "ザラブ星人": {
+  "en": "Alien Zarab",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "ザリガーナ": {
+  "en": "Zariganna",
+  "kind": "Kamen Rider V3 kaijin",
+  "note": "library: The form Marshal Armor transformed into."
+ },
+ "ザワ隊長": {
+  "en": "Captain Sawa",
+  "kind": "original UCMA",
+  "note": "same person (glyph variant)"
+ },
+ "シグコンジェット": {
+  "en": "Sigcon Jet",
+  "kind": "original UCMA unit",
+  "note": "library: An unmanned flying machine that launches from the back of Daitetsujin One-Seven and boasts Mach 3.5."
+ },
+ "シャイダー": {
+  "en": "Shaider",
+  "kind": "Shaider",
+  "note": ""
+ },
+ "シャイダーブルーフラッシュ": {
+  "en": "Shaider Blue Flash",
+  "kind": "attack",
+  "note": ""
+ },
+ "シャコモンスター": {
+  "en": "Shako Monster",
+  "kind": "Gavan",
+  "note": "library: The first Beast Monster."
+ },
+ "シャドウナイト": {
+  "en": "Shadow Knight",
+  "kind": "Kikaider 01",
+  "note": "library: Shadow's first executive."
+ },
+ "シャドウフラッシュ": {
+  "en": "Shadow Flash",
+  "kind": "attack",
+  "note": ""
+ },
+ "シャドウマン": {
+  "en": "Shadowman",
+  "kind": "Kikaider 01 grunt",
+  "note": ""
+ },
+ "シャドウロボット": {
+  "en": "Shadow Robot",
+  "kind": "Kikaider 01",
+  "note": ""
+ },
+ "シャドームーン": {
+  "en": "Shadow Moon",
+  "kind": "Kamen Rider BLACK",
+  "note": ""
+ },
+ "シャリバン": {
+  "en": "Sharivan",
+  "kind": "Sharivan",
+  "note": ""
+ },
+ "シャリバンキック": {
+  "en": "Sharivan Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "シャリバンクラッシュ": {
+  "en": "Sharivan Crash",
+  "kind": "attack",
+  "note": ""
+ },
+ "ショッカー": {
+  "en": "Shocker",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "ショッカーの新怪人": {
+  "en": "Shocker's New Monster",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "ショッカーオートバイ部隊": {
+  "en": "Shocker Motorcycle Squad",
+  "kind": "Kamen Rider",
+  "note": "library: A killer rider team formed from enhanced combatants with especially good motorcycle skills."
+ },
+ "ショッカーベレー戦闘員": {
+  "en": "Shocker Combatant (Beret)",
+  "kind": "Kamen Rider",
+  "note": "library: Early Shocker combatants."
+ },
+ "ショッカーマスク戦闘員": {
+  "en": "Shocker Combatant (Mask)",
+  "kind": "Kamen Rider",
+  "note": "library: Enhanced combatants who wear masks and have an eagle emblem on their knees."
+ },
+ "ショッカーライダーNO，1": {
+  "en": "Shocker Rider No.1",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカーライダーNO，2": {
+  "en": "Shocker Rider No.2",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカーライダーNO，3": {
+  "en": "Shocker Rider No.3",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカーライダーNO，4": {
+  "en": "Shocker Rider No.4",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカーライダーNO，5": {
+  "en": "Shocker Rider No.5",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカーライダーNO，6": {
+  "en": "Shocker Rider No.6",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカーライダーNo1": {
+  "en": "Shocker Rider No.1",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカーライダーNo2": {
+  "en": "Shocker Rider No.2",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカーライダーNo3": {
+  "en": "Shocker Rider No.3",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカーライダーNo4": {
+  "en": "Shocker Rider No.4",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカーライダーNo5": {
+  "en": "Shocker Rider No.5",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカーライダーNo6": {
+  "en": "Shocker Rider No.6",
+  "kind": "Kamen Rider",
+  "note": "library: One of the Shocker Riders developed by Gel-Shocker."
+ },
+ "ショッカー戦闘員": {
+  "en": "Shocker Combatant",
+  "kind": "Kamen Rider grunt",
+  "note": ""
+ },
+ "ショッカー戦闘員：ベレー帽": {
+  "en": "Shocker Combatant: Beret",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "ショッカー戦闘員：マスク": {
+  "en": "Shocker Combatant: Mask",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "ショッカー破壊班": {
+  "en": "Shocker Demolition Team",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "ショッカー科学者": {
+  "en": "Shocker Scientist",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "ショッカー首領": {
+  "en": "Shocker's Great Leader",
+  "kind": "Kamen Rider villain",
+  "note": "library: The ruler of the evil secret society Shocker, which plots to conquer the world, and of Gel-Shocker."
+ },
+ "ショック光線": {
+  "en": "Shock Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "ショットガン": {
+  "en": "Shotgun",
+  "kind": "attack",
+  "note": ""
+ },
+ "シルバ": {
+  "en": "Silva",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "シーゴラス": {
+  "en": "Seagorath",
+  "kind": "Return of Ultraman kaiju",
+  "note": "library: A tsunami kaiju and the husband of Seamons, the legendary tornado kaiju."
+ },
+ "シーモンス": {
+  "en": "Seamons",
+  "kind": "Return of Ultraman kaiju",
+  "note": "library: A tornado kaiju that lived on Morotai Island in the West Irian islands and crossed the sea to come ashore in Japan to lay eggs."
+ },
+ "ジェットビートル": {
+  "en": "Jet VTOL",
+  "kind": "library",
+  "note": "library: The main anti-kaiju fighter, designed by Dr."
+ },
+ "ジェットビートル1号機": {
+  "en": "Jet VTOL No.1",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "ジェットビートル2号機": {
+  "en": "Jet VTOL No.2",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "ジミー北原": {
+  "en": "Jimmy Kitahara",
+  "kind": "tokusatsu",
+  "note": "library: A space engineer who had gone missing."
+ },
+ "ジャイアントデビル": {
+  "en": "Giant Devil",
+  "kind": "Red Baron",
+  "note": "library: A giant robot that Dark's Professor Gill spent years developing."
+ },
+ "ジャイアントロボ": {
+  "en": "Giant Robo",
+  "kind": "Giant Robo",
+  "note": "library: A super robot developed by BF to invade Earth."
+ },
+ "ジャイアントロボの電子頭脳": {
+  "en": "Giant Robo's Electronic Brain",
+  "kind": "Giant Robo",
+  "note": ""
+ },
+ "ジャイロカッター": {
+  "en": "Gyro Cutter",
+  "kind": "attack",
+  "note": ""
+ },
+ "ジャミラ": {
+  "en": "Jamila",
+  "kind": "Ultraman kaiju",
+  "note": ""
+ },
+ "ジャークミドラ": {
+  "en": "Jark Midora",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "ジャーク将軍": {
+  "en": "General Jark",
+  "kind": "Kamen Rider BLACK RX villain",
+  "note": "library: Supreme commander of the Earth Attack Corps of the Crisis Empire of the Kaima World, once a rich paradise but now on the brink of ruin from the emperor's tyrann"
+ },
+ "ジュウオウ": {
+  "en": "Juoh",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "ジロー": {
+  "en": "Jiro",
+  "kind": "Kikaider",
+  "note": "Kikaider's human form"
+ },
+ "ジンベエ": {
+  "en": "Jinbe",
+  "kind": "tokusatsu",
+  "note": "library: A clown robot built by Dr."
+ },
+ "スカイミサイル": {
+  "en": "Sky Missile",
+  "kind": "attack",
+  "note": ""
+ },
+ "スカイロック": {
+  "en": "Sky Lock",
+  "kind": "attack",
+  "note": ""
+ },
+ "スティック": {
+  "en": "Stick",
+  "kind": "attack",
+  "note": ""
+ },
+ "ステーションホーク1号": {
+  "en": "Station Hawk 1",
+  "kind": "Ultraseven",
+  "note": "library: A small two-seat fighter deployed on the space station run by the TDF."
+ },
+ "スノーゴン": {
+  "en": "Snowgon",
+  "kind": "Return of Ultraman kaiju",
+  "note": "library: A snow-woman kaiju that freezes opponents by firing freezing gas from its mouth and freezing rays from both hands."
+ },
+ "スパイダー": {
+  "en": "Spider",
+  "kind": "tokusatsu",
+  "note": "library: The first head of BF's Japan branch."
+ },
+ "スパイラルキック": {
+  "en": "Spiral Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "スパーキィ": {
+  "en": "Sparky",
+  "kind": "Giant Robo",
+  "note": "library: It appears out of black clouds with a clap of thunder."
+ },
+ "スパーク": {
+  "en": "Spark",
+  "kind": "attack",
+  "note": ""
+ },
+ "スパークカッター": {
+  "en": "Spark Cutter",
+  "kind": "attack",
+  "note": ""
+ },
+ "スパークボンバー": {
+  "en": "Spark Bomber",
+  "kind": "attack",
+  "note": ""
+ },
+ "スペシウム光線": {
+  "en": "Specium Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "スペースアロー": {
+  "en": "Space Arrow",
+  "kind": "Return of Ultraman",
+  "note": "library: A dedicated spacecraft made by fitting a MAT Arrow 1 airframe with booster rockets."
+ },
+ "スペースレーザーガン": {
+  "en": "Space Laser Gun",
+  "kind": "attack",
+  "note": ""
+ },
+ "スペースレーザー砲": {
+  "en": "Space Laser Cannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "スラッシュ光線": {
+  "en": "Slash Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "スーパーガン": {
+  "en": "Super Gun",
+  "kind": "attack",
+  "note": ""
+ },
+ "セミ型の宇宙人": {
+  "en": "Cicada-Like Alien",
+  "kind": "generic",
+  "note": ""
+ },
+ "ゼットン": {
+  "en": "Zetton",
+  "kind": "Ultraman kaiju",
+  "note": "library: The strongest space dinosaur, brought to Earth by the Alien Zetton."
+ },
+ "ゼットン星人": {
+  "en": "Alien Zetton",
+  "kind": "Ultraman",
+  "note": "library: A shape-shifting alien said to have studied Earth for 40 years in order to invade it."
+ },
+ "ゼファス": {
+  "en": "Zephas",
+  "kind": "original villain",
+  "note": "Steel Emperor"
+ },
+ "ゼファス・コア": {
+  "en": "Zephas Core",
+  "kind": "original villain",
+  "note": "library: The form in which Zephas's Fusion Steel shell overloaded and completed its fusion with the living metal that had possessed Naager."
+ },
+ "ゼロワンカット": {
+  "en": "Zero-One Cut",
+  "kind": "attack",
+  "note": ""
+ },
+ "ゼロワンキック": {
+  "en": "Zero-One Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "ゼロワンドライバー": {
+  "en": "Zero-One Driver",
+  "kind": "attack",
+  "note": ""
+ },
+ "ゼーバーイナズマンフラッシュ": {
+  "en": "Zeber Inazuman Flash",
+  "kind": "attack",
+  "note": ""
+ },
+ "ソガ": {
+  "en": "Soga",
+  "kind": "Ultraseven",
+  "note": "library: The Defense Force's finest marksman."
+ },
+ "ソード": {
+  "en": "Sword",
+  "kind": "attack",
+  "note": ""
+ },
+ "ゾフィ": {
+  "en": "Zoffy",
+  "kind": "Ultraman",
+  "note": "library: Captain of the Space Garrison of the M78 Nebula."
+ },
+ "ゾフィー": {
+  "en": "Zoffy",
+  "kind": "Ultraman",
+  "note": "library: Captain of the Space Garrison of the M78 Nebula."
+ },
+ "ゾルダー": {
+  "en": "Zolder",
+  "kind": "Gorenger grunt",
+  "note": "library: Combat soldiers who carry out operations under the Mask Monsters."
+ },
+ "ゾルダー戦闘兵士": {
+  "en": "Zolder Soldier",
+  "kind": "Gorenger grunt",
+  "note": ""
+ },
+ "ゾル大佐": {
+  "en": "Colonel Zol",
+  "kind": "Kamen Rider villain",
+  "note": "library: The first executive, who came to the Japan branch from Shocker's Middle East branch."
+ },
+ "タケナカ参謀": {
+  "en": "Chief of Staff Takenaka",
+  "kind": "Ultraseven",
+  "note": "library: Staff officer at the TDF Far East Base, who also commands the Ultra Garrison."
+ },
+ "タッコング": {
+  "en": "Takkong",
+  "kind": "Return of Ultraman kaiju",
+  "note": ""
+ },
+ "ダイナミックスマッシュ": {
+  "en": "Dynamic Smash",
+  "kind": "attack",
+  "note": ""
+ },
+ "ダイヤモンド仮面": {
+  "en": "Diamond Mask",
+  "kind": "Gorenger",
+  "note": "library: It extends from its head a Diamond Cutter that slices even steel and Kirenger's face, and fires from its eyes a Diamond Ray that melts even safe dials."
+ },
+ "ダスマダー大佐": {
+  "en": "Colonel Dasmader",
+  "kind": "library",
+  "note": "library: An inspector sent by the Crisis Emperor, under his direct command."
+ },
+ "ダスマダー査察官": {
+  "en": "Inspector Dasmader",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "ダブルチョップ": {
+  "en": "Double Chop",
+  "kind": "attack",
+  "note": ""
+ },
+ "ダブルマシーン": {
+  "en": "Double Machine",
+  "kind": "Kikaider 01",
+  "note": "bike"
+ },
+ "ダブルマン": {
+  "en": "Doubleman",
+  "kind": "Gavan",
+  "note": "Makuu monster type"
+ },
+ "ダブルライダーキック": {
+  "en": "Double Rider Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "ダークロボット": {
+  "en": "DARK Robot",
+  "kind": "Kikaider",
+  "note": ""
+ },
+ "ダーク科学者": {
+  "en": "DARK Scientist",
+  "kind": "Kikaider",
+  "note": ""
+ },
+ "チェリミサイル": {
+  "en": "Cherry Missile",
+  "kind": "attack",
+  "note": ""
+ },
+ "チャックラム": {
+  "en": "Chakram",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "チーフキッド": {
+  "en": "Chief Kid",
+  "kind": "Giant Robo",
+  "note": "library: He was taken into the Brain Party together with Captain Gomez."
+ },
+ "チーフ・キッド": {
+  "en": "Chief Kid",
+  "kind": "Giant Robo",
+  "note": "library: He was taken into the Brain Party together with Captain Gomez."
+ },
+ "ツインリニアガン": {
+  "en": "Twin Linear Gun",
+  "kind": "attack",
+  "note": ""
+ },
+ "ツバサ大僣正": {
+  "en": "Archbishop Wing",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "ツバサ大僧正": {
+  "en": "Archbishop Wing",
+  "kind": "Kamen Rider V3 villain",
+  "note": ""
+ },
+ "テレビバエ": {
+  "en": "TV-Fly",
+  "kind": "Kamen Rider V3 kaijin",
+  "note": ""
+ },
+ "テレビ型の改造人間": {
+  "en": "TV-Type Cyborg",
+  "kind": "generic",
+  "note": ""
+ },
+ "ディメンションボンバー": {
+  "en": "Dimension Bomber",
+  "kind": "attack",
+  "note": ""
+ },
+ "デストロイヤー・ブラスト": {
+  "en": "Destroyer Blast",
+  "kind": "attack",
+  "note": ""
+ },
+ "デストロン": {
+  "en": "Destron",
+  "kind": "Kamen Rider V3",
+  "note": ""
+ },
+ "デストロンの怪人": {
+  "en": "Destron Monster",
+  "kind": "Kamen Rider V3",
+  "note": ""
+ },
+ "デストロンオートバイ部隊": {
+  "en": "Destron Motorcycle Squad",
+  "kind": "Kamen Rider V3",
+  "note": "library: Formed from the elite of Destron's combatants, they torment the Riders with superb motorcycle technique."
+ },
+ "デストロン・コンピューター": {
+  "en": "Destron Computer",
+  "kind": "Kamen Rider V3",
+  "note": ""
+ },
+ "デストロン大幹部": {
+  "en": "Destron Executive",
+  "kind": "Kamen Rider V3",
+  "note": ""
+ },
+ "デストロン戦闘員": {
+  "en": "Destron Combatant",
+  "kind": "Kamen Rider V3 grunt",
+  "note": "library: People with all-round athletic ability, remodeled and enhanced, who attack in groups."
+ },
+ "デストロン科学者": {
+  "en": "Destron Scientist",
+  "kind": "Kamen Rider V3",
+  "note": ""
+ },
+ "デストロン科学者A": {
+  "en": "Destron Scientist A",
+  "kind": "Kamen Rider V3",
+  "note": ""
+ },
+ "デストロン科学者B": {
+  "en": "Destron Scientist B",
+  "kind": "Kamen Rider V3",
+  "note": ""
+ },
+ "デストロン首領": {
+  "en": "Destron's Great Leader",
+  "kind": "Kamen Rider V3 villain",
+  "note": "library: The skull monster who ruled the dark organization Destron."
+ },
+ "デスパーシティ市民": {
+  "en": "Desper City Citizen",
+  "kind": "Inazuman F",
+  "note": ""
+ },
+ "デスパー兵士": {
+  "en": "Desper Soldier",
+  "kind": "Inazuman F grunt",
+  "note": "library: The Desper Army's vanguard: Phantom Soldiers who resented Emperor Banba, scouted and re-enhanced by the Desper Army."
+ },
+ "デスパー科学者": {
+  "en": "Desper Scientist",
+  "kind": "Inazuman F",
+  "note": ""
+ },
+ "デビラー博士": {
+  "en": "Dr. Deviler",
+  "kind": "Red Baron villain",
+  "note": ""
+ },
+ "デンジャーライト": {
+  "en": "Danger Light",
+  "kind": "attack",
+  "note": ""
+ },
+ "トゲ": {
+  "en": "Spikes",
+  "kind": "attack",
+  "note": ""
+ },
+ "トゲバンバラ": {
+  "en": "Toge Banbara",
+  "kind": "Inazuman",
+  "note": "library: It fires the spikes all over its body to stab people."
+ },
+ "トリプルサークライン": {
+  "en": "Triple Circle Line",
+  "kind": "attack",
+  "note": ""
+ },
+ "トリプルチェリ": {
+  "en": "Triple Cherry",
+  "kind": "attack",
+  "note": ""
+ },
+ "トロイホース": {
+  "en": "Trojan Horse",
+  "kind": "Daitetsujin 17",
+  "note": "library: The first invasion robot built by the Iron Mask Party."
+ },
+ "ドクターポルター": {
+  "en": "Doctor Polter",
+  "kind": "tokusatsu",
+  "note": "library: He works day and night on plans to eliminate Sharivan and conquer the world."
+ },
+ "ドクトルG": {
+  "en": "Doktor G",
+  "kind": "library",
+  "note": "library: The first chief executive of Destron's Japan branch."
+ },
+ "ドクトル・G": {
+  "en": "Doktor G",
+  "kind": "Kamen Rider V3 villain",
+  "note": "library: The first chief executive of Destron's Japan branch."
+ },
+ "ドドンゴ": {
+  "en": "Dodongo",
+  "kind": "Ultraman kaiju",
+  "note": "library: A mummy kaiju that emerged near the Oninoiwadai hills, thought to have slept for about 7,000 years."
+ },
+ "ドラキュラン": {
+  "en": "Dracula",
+  "kind": "Giant Robo",
+  "note": "library: A vampire from space."
+ },
+ "ドリル": {
+  "en": "Drill",
+  "kind": "attack",
+  "note": ""
+ },
+ "ドリルアロー": {
+  "en": "Drill Arrow",
+  "kind": "attack",
+  "note": ""
+ },
+ "ドリルアーム": {
+  "en": "Drill Arm",
+  "kind": "attack",
+  "note": ""
+ },
+ "ドルギラン": {
+  "en": "Dolgiran",
+  "kind": "Gavan",
+  "note": "ship"
+ },
+ "ドルレーザー": {
+  "en": "Dol Laser",
+  "kind": "attack",
+  "note": ""
+ },
+ "ドロシー・アンダーソン博士": {
+  "en": "Dr. Dorothy Anderson",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "ドン・ホラー": {
+  "en": "Don Horror",
+  "kind": "Gavan villain",
+  "note": ""
+ },
+ "ナイキ総ミサイル": {
+  "en": "Nike Missile Barrage",
+  "kind": "attack",
+  "note": ""
+ },
+ "ナイフ": {
+  "en": "Knife",
+  "kind": "attack",
+  "note": ""
+ },
+ "ナガー": {
+  "en": "Naager",
+  "kind": "original villain ship",
+  "note": "the game itself spells it \"Naager\""
+ },
+ "ナガー艦内": {
+  "en": "Inside the Naager",
+  "kind": "terrain",
+  "note": ""
+ },
+ "ナギナタ": {
+  "en": "Naginata",
+  "kind": "attack",
+  "note": ""
+ },
+ "ナックル星人": {
+  "en": "Alien Nackle",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "ナックル星人の化けた所長": {
+  "en": "Director (Alien Nackle in Disguise)",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "ナックル星人の化けた職員": {
+  "en": "Staffer (Alien Nackle in Disguise)",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "ナバロン砲": {
+  "en": "Navaron Cannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "ナバローン": {
+  "en": "Navaron",
+  "kind": "Red Baron",
+  "note": "library: A mobile invasion fortress commanded by Volcano Mask General Magman."
+ },
+ "ニューミドメラン": {
+  "en": "New Midomeran",
+  "kind": "attack",
+  "note": ""
+ },
+ "ニューレッドビュート": {
+  "en": "New Red Bute",
+  "kind": "attack",
+  "note": ""
+ },
+ "ネプチューン": {
+  "en": "Neptune",
+  "kind": "Kamen Rider X",
+  "note": ""
+ },
+ "ハカイダー": {
+  "en": "Hakaider",
+  "kind": "Kikaider villain",
+  "note": "library: Saburo transforms into him and repeatedly drives Jiro into a corner with the Hakaider Shot."
+ },
+ "ハカイダーショット": {
+  "en": "Hakaider Shot",
+  "kind": "attack",
+  "note": ""
+ },
+ "ハカイ剣": {
+  "en": "Hakai Sword",
+  "kind": "attack",
+  "note": ""
+ },
+ "ハサミ": {
+  "en": "Scissors",
+  "kind": "attack",
+  "note": ""
+ },
+ "ハサミジャガー": {
+  "en": "Scissors Jaguar",
+  "kind": "Kamen Rider V3 kaijin",
+  "note": "library: Destron's first hybrid monster, made by combining and remodeling scissors and a jaguar."
+ },
+ "ハスラー教授": {
+  "en": "Professor Hustler",
+  "kind": "Daitetsujin 17 villain",
+  "note": "library: Formerly a staff member of the science laboratory of the International Peace Organization, also known as the Red Muffler Squad."
+ },
+ "ハヤタ": {
+  "en": "Hayata",
+  "kind": "Ultraman",
+  "note": "Ultraman's host"
+ },
+ "ハリケーン": {
+  "en": "Hurricane",
+  "kind": "Kamen Rider V3",
+  "note": "bike"
+ },
+ "ハリケーンロボット": {
+  "en": "Hurricane Robot",
+  "kind": "Daitetsujin 17",
+  "note": ""
+ },
+ "ハンターキラー": {
+  "en": "Hunter Killer",
+  "kind": "Gavan villain",
+  "note": ""
+ },
+ "ハンディショット": {
+  "en": "Handy Shot",
+  "kind": "attack",
+  "note": ""
+ },
+ "ハンドビーム": {
+  "en": "Hand Beam",
+  "kind": "attack",
+  "note": ""
+ },
+ "ハンマーパンチ": {
+  "en": "Hammer Punch",
+  "kind": "attack",
+  "note": ""
+ },
+ "ハーケンキラー": {
+  "en": "Haken Killer",
+  "kind": "Daitetsujin 17",
+  "note": ""
+ },
+ "ハードショット": {
+  "en": "Hard Shot",
+  "kind": "attack",
+  "note": ""
+ },
+ "バイオアタック": {
+  "en": "Bio Attack",
+  "kind": "attack",
+  "note": ""
+ },
+ "バイオライダー": {
+  "en": "Bio Rider",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "バイオレットサザエ": {
+  "en": "Violet Sazae",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "バイオ系主人公（女）": {
+  "en": "Bio Heroine (Female)",
+  "kind": "library",
+  "note": "library: A clinical test subject of \"Vol\", the unknown cells Dr."
+ },
+ "バイオ系主人公（男）": {
+  "en": "Bio Hero (Male)",
+  "kind": "library",
+  "note": "library: A clinical test subject of \"Vol\", the unknown cells Dr."
+ },
+ "バット": {
+  "en": "Bat",
+  "kind": "attack",
+  "note": ""
+ },
+ "バッファローダブラー": {
+  "en": "Buffalo Doubler",
+  "kind": "Gavan",
+  "note": "library: Makuu's Double Monster."
+ },
+ "バトルバースフォーメーション": {
+  "en": "Battle Birth Formation",
+  "kind": "Sharivan",
+  "note": ""
+ },
+ "バトルホッパー": {
+  "en": "Battle Hopper",
+  "kind": "Kamen Rider BLACK",
+  "note": "bike"
+ },
+ "バビロス": {
+  "en": "Babylos",
+  "kind": "Shaider",
+  "note": "ship"
+ },
+ "バビロスファイヤー": {
+  "en": "Babylos Fire",
+  "kind": "attack",
+  "note": ""
+ },
+ "バビロスレーザー": {
+  "en": "Babylos Laser",
+  "kind": "attack",
+  "note": ""
+ },
+ "バビロス・Bフォーメーション": {
+  "en": "Babylos B-Formation",
+  "kind": "Shaider",
+  "note": ""
+ },
+ "バラの怪物": {
+  "en": "Rose Monster",
+  "kind": "generic",
+  "note": ""
+ },
+ "バラバンバラ": {
+  "en": "Bara Banbara",
+  "kind": "Inazuman",
+  "note": ""
+ },
+ "バラバンパラ": {
+  "en": "Bara Banbara",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "バリケーン": {
+  "en": "Varicane",
+  "kind": "Return of Ultraman kaiju",
+  "note": ""
+ },
+ "バリタンク": {
+  "en": "Varitank",
+  "kind": "Gorenger",
+  "note": "library: An all-purpose six-wheeled tank used by Gorenger, normally stored inside the Varidreen."
+ },
+ "バリドリーン": {
+  "en": "Varidreen",
+  "kind": "Gorenger",
+  "note": "library: A new fighter that appeared to replace the Variblune after it self-destructed."
+ },
+ "バリバリ": {
+  "en": "Baribari",
+  "kind": "Shaider",
+  "note": "Fushigi Beast"
+ },
+ "バリブルーン": {
+  "en": "Variblune",
+  "kind": "Gorenger",
+  "note": "library: A large fighter exclusive to Gorenger, designed and developed by EAGLE's science team."
+ },
+ "バルタン星人": {
+  "en": "Alien Baltan",
+  "kind": "Ultraman",
+  "note": "library: Space ninjas who lost their home planet Baltan to nuclear tests and wander the universe with some 2.2 billion of their kin."
+ },
+ "バルタン星人二代目": {
+  "en": "Alien Baltan II",
+  "kind": "Ultraman",
+  "note": "library: Space ninjas who invaded Earth again leading a great army."
+ },
+ "バルタン星人（2代目）": {
+  "en": "Alien Baltan II",
+  "kind": "library",
+  "note": "library: Space ninjas who invaded Earth again leading a great army."
+ },
+ "バロンパンチ": {
+  "en": "Baron Punch",
+  "kind": "attack",
+  "note": ""
+ },
+ "バロンブレイク": {
+  "en": "Baron Break",
+  "kind": "attack",
+  "note": ""
+ },
+ "バロンミサイル": {
+  "en": "Baron Missile",
+  "kind": "attack",
+  "note": ""
+ },
+ "バースビーム": {
+  "en": "Birth Beam",
+  "kind": "attack",
+  "note": ""
+ },
+ "バードニアブラスター": {
+  "en": "Birdnia Blaster",
+  "kind": "attack",
+  "note": ""
+ },
+ "バード星の連絡員": {
+  "en": "Messenger from Planet Bird",
+  "kind": "Gavan",
+  "note": ""
+ },
+ "パトロール隊": {
+  "en": "Patrol Squad",
+  "kind": "generic",
+  "note": ""
+ },
+ "パワーアップ射撃": {
+  "en": "Power Shot",
+  "kind": "attack",
+  "note": ""
+ },
+ "パワーアーム": {
+  "en": "Power Arm",
+  "kind": "attack",
+  "note": ""
+ },
+ "パンドン": {
+  "en": "Pandon",
+  "kind": "Ultraseven kaiju",
+  "note": ""
+ },
+ "ヒラタ": {
+  "en": "Hirata",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "ヒラタ隊員": {
+  "en": "Officer Hirata",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "ヒルカメレオン": {
+  "en": "Hiru-Chameleon",
+  "kind": "Kamen Rider kaijin",
+  "note": "library: The form General Black transformed into."
+ },
+ "ヒロシ": {
+  "en": "Hiroshi",
+  "kind": "tokusatsu",
+  "note": "library: Akira's older brother and Professor Gill's eldest son."
+ },
+ "ヒーロー名": {
+  "en": "Hero Name",
+  "kind": "system",
+  "note": ""
+ },
+ "ビジンダー": {
+  "en": "Bijinder",
+  "kind": "Kikaider 01",
+  "note": "female android"
+ },
+ "ビジンダーレザー": {
+  "en": "Bijinder Laser",
+  "kind": "attack",
+  "note": ""
+ },
+ "ビジンダー影": {
+  "en": "Bijinder (Shadow)",
+  "kind": "Kikaider 01",
+  "note": "shadow copy"
+ },
+ "ビックエンゼル": {
+  "en": "Big Angel",
+  "kind": "Kikaider 01",
+  "note": ""
+ },
+ "ビックエンゼル本部 科学者": {
+  "en": "Big Angel HQ Scientist",
+  "kind": "Kikaider 01",
+  "note": ""
+ },
+ "ビッグシャドウ": {
+  "en": "Big Shadow",
+  "kind": "Kikaider 01 villain",
+  "note": "library: The ruler of the secret crime organization Shadow."
+ },
+ "ビッグマグナム": {
+  "en": "Big Magnum",
+  "kind": "attack",
+  "note": ""
+ },
+ "ビデオビームガン": {
+  "en": "Video Beam Gun",
+  "kind": "attack",
+  "note": ""
+ },
+ "ビラ星人": {
+  "en": "Alien Vira",
+  "kind": "Ultraseven",
+  "note": "library: To destroy the TDF's ultra-long-range radar, it controlled Dr."
+ },
+ "ビルガモ": {
+  "en": "Bilgamo",
+  "kind": "Red Baron",
+  "note": ""
+ },
+ "ビルセイバー": {
+  "en": "Bill Saber",
+  "kind": "attack",
+  "note": ""
+ },
+ "ビーム": {
+  "en": "Beam",
+  "kind": "attack",
+  "note": ""
+ },
+ "ピット星人": {
+  "en": "Alien Pitt",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "ファイアーロード": {
+  "en": "Fire Road",
+  "kind": "attack",
+  "note": ""
+ },
+ "ファイトロー": {
+  "en": "Fightlow",
+  "kind": "Sharivan",
+  "note": "library: Madou's low-level combatants."
+ },
+ "ファイヤーアロー": {
+  "en": "Fire Arrow",
+  "kind": "attack",
+  "note": ""
+ },
+ "ファディータ": {
+  "en": "Fadita",
+  "kind": "original villain",
+  "note": "Lucifard's subordinate"
+ },
+ "ファラ": {
+  "en": "Farra",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "ファラキャット": {
+  "en": "Farra Cat",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "ファントム兵士": {
+  "en": "Phantom Soldier",
+  "kind": "Inazuman grunt",
+  "note": ""
+ },
+ "フィフス・シャイン": {
+  "en": "Fifth Shine",
+  "kind": "attack",
+  "note": ""
+ },
+ "フェンシング剣": {
+  "en": "Fencing Sword",
+  "kind": "attack",
+  "note": ""
+ },
+ "フジ": {
+  "en": "Fuji",
+  "kind": "Ultraman",
+  "note": "Akiko Fuji"
+ },
+ "フジ アキコ": {
+  "en": "Akiko Fuji",
+  "kind": "Ultraman",
+  "note": "female"
+ },
+ "フューリー・スライサー": {
+  "en": "Fury Slicer",
+  "kind": "attack",
+  "note": ""
+ },
+ "フューリー・ソーサー": {
+  "en": "Fury Saucer",
+  "kind": "attack",
+  "note": ""
+ },
+ "フルハシ": {
+  "en": "Furuhashi",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "ブラストエンド": {
+  "en": "Blast End",
+  "kind": "attack",
+  "note": ""
+ },
+ "ブラストレーザー": {
+  "en": "Blast Laser",
+  "kind": "attack",
+  "note": ""
+ },
+ "ブラックキング": {
+  "en": "Black King",
+  "kind": "Return of Ultraman kaiju",
+  "note": ""
+ },
+ "ブラックサン": {
+  "en": "Black Sun",
+  "kind": "Kamen Rider BLACK",
+  "note": ""
+ },
+ "ブラック将軍": {
+  "en": "General Black",
+  "kind": "Kamen Rider villain",
+  "note": "library: A chief executive of Gel-Shocker."
+ },
+ "ブラック星人": {
+  "en": "Alien Black",
+  "kind": "Return of Ultraman",
+  "note": "library: Freezing aliens who came from Planet Black to invade Earth and tried to kidnap young men and women for labor."
+ },
+ "ブルホーク": {
+  "en": "Blue Hawk",
+  "kind": "Shaider",
+  "note": "bike"
+ },
+ "ブルーチェリ": {
+  "en": "Blue Cherry",
+  "kind": "attack",
+  "note": "Aorenger bow"
+ },
+ "ブレイン": {
+  "en": "Brain",
+  "kind": "Daitetsujin 17 villain",
+  "note": "giant computer"
+ },
+ "ブレイン党操縦士": {
+  "en": "Brain Party Pilot",
+  "kind": "Daitetsujin 17",
+  "note": ""
+ },
+ "プラズマカノン": {
+  "en": "Plasma Cannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "プラズマ・ウェッブ": {
+  "en": "Plasma Web",
+  "kind": "attack",
+  "note": ""
+ },
+ "プラズマ・バルカン砲": {
+  "en": "Plasma Vulcan",
+  "kind": "attack",
+  "note": ""
+ },
+ "プリンス": {
+  "en": "Prince",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "プロフェッサーギル": {
+  "en": "Professor Gill",
+  "kind": "Kikaider villain",
+  "note": ""
+ },
+ "プロフェッサー・ギル": {
+  "en": "Professor Gill",
+  "kind": "Kikaider villain",
+  "note": ""
+ },
+ "ヘスラー指揮官": {
+  "en": "Commander Hessler",
+  "kind": "Shaider villain",
+  "note": ""
+ },
+ "ヘッドギロチン": {
+  "en": "Head Guillotine",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヘッドミサイル": {
+  "en": "Head Missile",
+  "kind": "attack",
+  "note": ""
+ },
+ "ベムスター": {
+  "en": "Bemstar",
+  "kind": "Return of Ultraman kaiju",
+  "note": "library: A giant space kaiju that flew in from the Crab Nebula."
+ },
+ "ベムラー": {
+  "en": "Bemular",
+  "kind": "Ultraman kaiju",
+  "note": "library: foe."
+ },
+ "ベル・ビリー": {
+  "en": "Bell Billy",
+  "kind": "Sharivan",
+  "note": ""
+ },
+ "ベル・ヘレン": {
+  "en": "Bell Helen",
+  "kind": "Sharivan",
+  "note": "female"
+ },
+ "ベン": {
+  "en": "Ben",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "ペギー松山": {
+  "en": "Peggy Matsuyama",
+  "kind": "Gorenger",
+  "note": "Momorenger, female"
+ },
+ "ペダン星人": {
+  "en": "Alien Pedan",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "ペンシル爆弾": {
+  "en": "Pencil Bomb",
+  "kind": "attack",
+  "note": ""
+ },
+ "ホシノ": {
+  "en": "Hoshino",
+  "kind": "Ultraman",
+  "note": "boy"
+ },
+ "ホーミングドリルアタック": {
+  "en": "Homing Drill Attack",
+  "kind": "attack",
+  "note": ""
+ },
+ "ボイサー": {
+  "en": "Voicer",
+  "kind": "tokusatsu",
+  "note": "library: A former Space Sheriff."
+ },
+ "ボイラーデスパー": {
+  "en": "Boiler Desper",
+  "kind": "Inazuman F",
+  "note": "library: Its weapon is a heat shower that melts even rock."
+ },
+ "ボウガン": {
+  "en": "Bowgun",
+  "kind": "attack",
+  "note": ""
+ },
+ "ボガード参謀": {
+  "en": "Staff Officer Bogard",
+  "kind": "Ultraseven",
+  "note": "library: A staff officer of the TDF Joint Operations Headquarters, posted at the Far East Base."
+ },
+ "ボスガン": {
+  "en": "Bosgun",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "ボール": {
+  "en": "Ball",
+  "kind": "attack",
+  "note": ""
+ },
+ "ボール頭の怪人": {
+  "en": "Ball-Headed Monster",
+  "kind": "Gorenger",
+  "note": ""
+ },
+ "ポインター": {
+  "en": "Pointer",
+  "kind": "Ultraseven",
+  "note": "car"
+ },
+ "マグマライザー": {
+  "en": "Magma Riser",
+  "kind": "Ultraseven",
+  "note": "Ultra Garrison drill tank"
+ },
+ "マサル": {
+  "en": "Masaru",
+  "kind": "tokusatsu",
+  "note": "library: Dr."
+ },
+ "マシンガン": {
+  "en": "Machine Gun",
+  "kind": "attack",
+  "note": ""
+ },
+ "マックジャバー": {
+  "en": "Mackjaber",
+  "kind": "Kamen Rider BLACK RX",
+  "note": "library: The enhanced transformation of the Acrobatter that happens when RX turns into Bio Rider."
+ },
+ "マットアロー1号": {
+  "en": "MAT Arrow 1",
+  "kind": "Return of Ultraman",
+  "note": "library: MAT's jet fighter-attacker."
+ },
+ "マットアロー2号": {
+  "en": "MAT Arrow 2",
+  "kind": "Return of Ultraman",
+  "note": "library: MAT's dedicated single-seat small jet fighter."
+ },
+ "マットシュート": {
+  "en": "MAT Shoot",
+  "kind": "attack",
+  "note": ""
+ },
+ "マットジャイロ": {
+  "en": "MAT Gyro",
+  "kind": "Return of Ultraman",
+  "note": "library: MAT's dedicated ducted-fan multipurpose craft."
+ },
+ "マットジープ": {
+  "en": "MAT Jeep",
+  "kind": "library",
+  "note": "library: MAT's dedicated modified jeep."
+ },
+ "マットビハイクル": {
+  "en": "MAT Vehicle",
+  "kind": "Return of Ultraman",
+  "note": "library: MAT's dedicated special investigation vehicle."
+ },
+ "マナカ": {
+  "en": "Manaka",
+  "kind": "original UCMA",
+  "note": "library: A UCMA unit member."
+ },
+ "マナカ隊員": {
+  "en": "Officer Manaka",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "マナベ参謀": {
+  "en": "Staff Officer Manabe",
+  "kind": "Ultraseven",
+  "note": "library: Staff officer at the TDF Far East Base, who also commands the Ultra Garrison."
+ },
+ "マリ": {
+  "en": "Mari",
+  "kind": "Kikaider 01",
+  "note": "Bijinder's human form, female"
+ },
+ "マリバロン": {
+  "en": "Maribaron",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "マリーン": {
+  "en": "Marine",
+  "kind": "tokusatsu",
+  "note": "library: Commander Kom's secretary."
+ },
+ "マリー花村": {
+  "en": "Marie Hanamura",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "マルス133": {
+  "en": "Mars 133",
+  "kind": "attack",
+  "note": ""
+ },
+ "マーラ": {
+  "en": "Mara",
+  "kind": "library",
+  "note": "library: A female monster born from the silver ray emitted from Shadow Moon's right hand."
+ },
+ "ミイラ": {
+  "en": "Mummy",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "ミイラ人間": {
+  "en": "Mummy Man",
+  "kind": "Kamen Rider kaijin",
+  "note": ""
+ },
+ "ミキ": {
+  "en": "Miki",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "ミクラス": {
+  "en": "Miclas",
+  "kind": "Ultraseven capsule monster",
+  "note": "library: One of the three Capsule Monsters owned by Dan Moroboshi."
+ },
+ "ミサイル": {
+  "en": "Missiles",
+  "kind": "attack",
+  "note": ""
+ },
+ "ミサイルパンチ": {
+  "en": "Missile Punch",
+  "kind": "attack",
+  "note": ""
+ },
+ "ミサイルヤモリ": {
+  "en": "Missile Gecko",
+  "kind": "Kamen Rider V3 kaijin",
+  "note": ""
+ },
+ "ミサオ": {
+  "en": "Misao",
+  "kind": "tokusatsu",
+  "note": "library: Hiroshi's caretaker, a woman who shakes off Shadow's pursuers with him and continues life on the run."
+ },
+ "ミスターゴールド": {
+  "en": "Mister Gold",
+  "kind": "tokusatsu",
+  "note": "library: BF's top alien executive."
+ },
+ "ミドパンチャー": {
+  "en": "Mido Puncher",
+  "kind": "attack",
+  "note": ""
+ },
+ "ミドメラン": {
+  "en": "Midomeran",
+  "kind": "attack",
+  "note": ""
+ },
+ "ミドメラン斬り": {
+  "en": "Midomeran Slash",
+  "kind": "attack",
+  "note": ""
+ },
+ "ミドレンジャー": {
+  "en": "Midorenger",
+  "kind": "Gorenger",
+  "note": "Kenji Asuka"
+ },
+ "ミミー": {
+  "en": "Mimi",
+  "kind": "Gavan",
+  "note": "female, Kom's daughter"
+ },
+ "ミミー星人": {
+  "en": "Mimi Alien",
+  "kind": "Gavan",
+  "note": ""
+ },
+ "ミラクラー": {
+  "en": "Miracler",
+  "kind": "Sharivan grunt",
+  "note": "library: The lowest-ranking soldiers of the Fushigi World Fuuma."
+ },
+ "ムササビライナー": {
+  "en": "Musasabi Liner",
+  "kind": "attack",
+  "note": ""
+ },
+ "ムチ": {
+  "en": "Whip",
+  "kind": "attack",
+  "note": ""
+ },
+ "ムラマツ": {
+  "en": "Muramatsu",
+  "kind": "Ultraman",
+  "note": "Science Patrol captain"
+ },
+ "ムラマツキャップ": {
+  "en": "Captain Muramatsu",
+  "kind": "Ultraman",
+  "note": "called \"Cap\" by the team"
+ },
+ "メイスン": {
+  "en": "Mason",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "メカクローン": {
+  "en": "Mechaclone",
+  "kind": "Gavan?",
+  "note": ""
+ },
+ "メカ人間ミキ": {
+  "en": "Mecha-Human Miki",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "メガトンパンチ": {
+  "en": "Megaton Punch",
+  "kind": "attack",
+  "note": ""
+ },
+ "メガトンローラー": {
+  "en": "Megaton Roller",
+  "kind": "attack",
+  "note": ""
+ },
+ "メガトン頭突き": {
+  "en": "Megaton Headbutt",
+  "kind": "attack",
+  "note": ""
+ },
+ "メス": {
+  "en": "Scalpel",
+  "kind": "attack",
+  "note": ""
+ },
+ "メタル系主人公（女）": {
+  "en": "Metal Heroine (Female)",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "メタル系主人公（男）": {
+  "en": "Metal Hero (Male)",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "メッツラー": {
+  "en": "Metzler",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "メディカル・ブラスト": {
+  "en": "Medical Blast",
+  "kind": "attack",
+  "note": ""
+ },
+ "メトロン星人": {
+  "en": "Alien Metron",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "メフィラス星人": {
+  "en": "Alien Mefilas",
+  "kind": "Ultraman",
+  "note": "library: destruction ray can also attack S-size units, making it a tough foe."
+ },
+ "メーサービット": {
+  "en": "Maser Bits",
+  "kind": "attack",
+  "note": ""
+ },
+ "モトシャリアン": {
+  "en": "Moto-Sharian",
+  "kind": "Sharivan",
+  "note": "bike"
+ },
+ "モトシャリアンレーザー": {
+  "en": "Moto-Sharian Laser",
+  "kind": "attack",
+  "note": ""
+ },
+ "モモカード": {
+  "en": "Momo Card",
+  "kind": "attack",
+  "note": ""
+ },
+ "モモレンジャー": {
+  "en": "Momorenger",
+  "kind": "Gorenger",
+  "note": "Peggy Matsuyama, female"
+ },
+ "モモ爆弾": {
+  "en": "Momo Bomb",
+  "kind": "attack",
+  "note": ""
+ },
+ "モロボシ・ダン": {
+  "en": "Dan Moroboshi",
+  "kind": "Ultraseven",
+  "note": "Ultraseven's human form"
+ },
+ "モンスター": {
+  "en": "Monster",
+  "kind": "generic",
+  "note": ""
+ },
+ "ヤナガワ参謀": {
+  "en": "Staff Officer Yanagawa",
+  "kind": "Ultraseven",
+  "note": "library: Staff officer at the TDF Far East Base."
+ },
+ "ヤナギヤ": {
+  "en": "Yanagiya",
+  "kind": "original UCMA",
+  "note": "library: A UCMA unit member."
+ },
+ "ヤナギヤ隊員": {
+  "en": "Officer Yanagiya",
+  "kind": "original UCMA",
+  "note": ""
+ },
+ "ヤマオカ長官": {
+  "en": "Director Yamaoka",
+  "kind": "Daitetsujin 17",
+  "note": ""
+ },
+ "ユニコーン機関": {
+  "en": "Unicorn Agency",
+  "kind": "Giant Robo",
+  "note": ""
+ },
+ "ヨロイ元帥": {
+  "en": "Marshal Armor",
+  "kind": "Kamen Rider V3 villain",
+  "note": ""
+ },
+ "ヨロイ元師": {
+  "en": "Marshal Armor",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "ライジンゴー": {
+  "en": "Raijingo",
+  "kind": "Inazuman",
+  "note": "library: Inazuman's dedicated vehicle, with a dog's brain built in."
+ },
+ "ライダーキック": {
+  "en": "Rider Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "ライダーパンチ": {
+  "en": "Rider Punch",
+  "kind": "attack",
+  "note": ""
+ },
+ "ライダーマン": {
+  "en": "Riderman",
+  "kind": "Riderman",
+  "note": "library: Joji Yuki transforms by donning a reinforced suit."
+ },
+ "ライダーマンマシーン": {
+  "en": "Riderman Machine",
+  "kind": "Riderman",
+  "note": "vehicle"
+ },
+ "ライダー反転キック": {
+  "en": "Rider Reverse Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "ライダー大車輪": {
+  "en": "Rider Giant Swing",
+  "kind": "attack",
+  "note": ""
+ },
+ "ライダー月面キック": {
+  "en": "Rider Moonsault Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "ライダー電光キック": {
+  "en": "Rider Lightning Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "ライトンR30爆弾": {
+  "en": "Ryton R30 Bomb",
+  "kind": "attack",
+  "note": ""
+ },
+ "リエコ": {
+  "en": "Rieko",
+  "kind": "tokusatsu",
+  "note": "library: Akira's caretaker, a woman who shakes off Shadow's pursuers with him and continues life on the run."
+ },
+ "リタ": {
+  "en": "Rita",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "リボルクラッシュ": {
+  "en": "Revol Crash",
+  "kind": "attack",
+  "note": ""
+ },
+ "リリィ": {
+  "en": "Lily",
+  "kind": "Sharivan",
+  "note": "female, Sharivan's partner"
+ },
+ "リング光線": {
+  "en": "Ring Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "ルシファニウム・カッター": {
+  "en": "Luciferium Cutter",
+  "kind": "attack",
+  "note": ""
+ },
+ "ルシファニウム・ブレット": {
+  "en": "Luciferium Bullet",
+  "kind": "attack",
+  "note": ""
+ },
+ "ルシファニウム徹甲弾": {
+  "en": "Luciferium AP Shell",
+  "kind": "attack",
+  "note": ""
+ },
+ "ルシファード": {
+  "en": "Lucifard",
+  "kind": "original villain",
+  "note": "leader of the Naager invaders; 黒騎士/轟機鋼 titles"
+ },
+ "ルシファー・ロッド": {
+  "en": "Lucifer Rod",
+  "kind": "attack",
+  "note": ""
+ },
+ "ルミ": {
+  "en": "Rumi",
+  "kind": "Daitetsujin 17",
+  "note": ""
+ },
+ "レイダー": {
+  "en": "Raider",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "レインボーマーカー": {
+  "en": "Rainbow Marker",
+  "kind": "attack",
+  "note": ""
+ },
+ "レッドキング": {
+  "en": "Red King",
+  "kind": "Ultraman kaiju",
+  "note": ""
+ },
+ "レッドスパーク": {
+  "en": "Red Spark",
+  "kind": "attack",
+  "note": "Akarenger"
+ },
+ "レッドバロン": {
+  "en": "Red Baron",
+  "kind": "Red Baron",
+  "note": "library: A super robot that robotics engineer Kenichiro Kurenai spent four years developing."
+ },
+ "レッドバロンスペースウィングス": {
+  "en": "Red Baron Space Wings",
+  "kind": "library",
+  "note": "library: Red Baron's flight form fitted with the Space Wings designed by Dr."
+ },
+ "レッドビュート": {
+  "en": "Red Bute",
+  "kind": "attack",
+  "note": "Akarenger whip"
+ },
+ "レーサー地獄部隊": {
+  "en": "Racer Hell Squad",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "レーザー": {
+  "en": "Laser",
+  "kind": "attack",
+  "note": ""
+ },
+ "レーザーZビーム": {
+  "en": "Laser Z Beam",
+  "kind": "attack",
+  "note": ""
+ },
+ "レーザーガン": {
+  "en": "Laser Gun",
+  "kind": "attack",
+  "note": ""
+ },
+ "レーザーガンSP－70": {
+  "en": "Laser Gun SP-70",
+  "kind": "attack",
+  "note": ""
+ },
+ "レーザーブレード": {
+  "en": "Laser Blade",
+  "kind": "attack",
+  "note": ""
+ },
+ "レーザー光線": {
+  "en": "Laser Beam",
+  "kind": "attack",
+  "note": ""
+ },
+ "レーザー砲": {
+  "en": "Laser Cannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "ロケットランチャー": {
+  "en": "Rocket Launcher",
+  "kind": "attack",
+  "note": ""
+ },
+ "ロケット弾": {
+  "en": "Rockets",
+  "kind": "attack",
+  "note": ""
+ },
+ "ロケット砲": {
+  "en": "Rocket Launcher",
+  "kind": "attack",
+  "note": ""
+ },
+ "ロボイザー": {
+  "en": "Roboizer",
+  "kind": "Kamen Rider BLACK RX",
+  "note": "library: The enhanced transformation of the Acrobatter that happens when RX turns into Robo Rider."
+ },
+ "ロボット再生装置": {
+  "en": "Robot Regenerator",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "ロボライダー": {
+  "en": "Robo Rider",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "ロープアーム": {
+  "en": "Rope Arm",
+  "kind": "attack",
+  "note": ""
+ },
+ "ローラーロボット": {
+  "en": "Roller Robot",
+  "kind": "Daitetsujin 17",
+  "note": "library: A Brain Party invasion robot."
+ },
+ "ワイドショット": {
+  "en": "Wide Shot",
+  "kind": "attack",
+  "note": ""
+ },
+ "ワシビースト": {
+  "en": "Washi Beast",
+  "kind": "Sharivan",
+  "note": "library: It confuses enemies by firing phantom rays from its eyes."
+ },
+ "ワルダー": {
+  "en": "Waruder",
+  "kind": "Kikaider 01",
+  "note": "samurai-type android"
+ },
+ "ワルダーつばめ返し": {
+  "en": "Waruder Swallow Return",
+  "kind": "attack",
+  "note": ""
+ },
+ "ワルダー影": {
+  "en": "Waruder (Shadow)",
+  "kind": "Kikaider 01",
+  "note": ""
+ },
+ "ワンエイト": {
+  "en": "One-Eight",
+  "kind": "Daitetsujin 17",
+  "note": "library: A robot made by Brain as One-Seven's younger brother."
+ },
+ "ワンセブン": {
+  "en": "One-Seven",
+  "kind": "Daitetsujin 17",
+  "note": ""
+ },
+ "ヴァルキュリア": {
+  "en": "Valkyria",
+  "kind": "original mecha",
+  "note": "library: The EATER manifested by the Vol that assimilated Kaori Minoshima."
+ },
+ "ヴァルキュリア・天翔空牙": {
+  "en": "Valkyria: Skyward Fang",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴァルジャベリン": {
+  "en": "Valjavelin",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴァルジャベリン・飛燕連撃": {
+  "en": "Valjavelin: Swallow Barrage",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴァルストリーム": {
+  "en": "Valstream",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴァーチカルショットガン": {
+  "en": "Vertical Shotgun",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴェルスライサー": {
+  "en": "Velslicer",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴェルソーサー": {
+  "en": "Velsaucer",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴェルヴェット": {
+  "en": "Velvet",
+  "kind": "original hero mecha",
+  "note": "heroine's machine"
+ },
+ "ヴェルヴェット・サークル": {
+  "en": "Velvet Circle",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴェルヴェット・フューリー": {
+  "en": "Velvet Fury",
+  "kind": "original hero mecha",
+  "note": "library: The monstrous form that resulted when the Vol infecting Atefarina forcibly fused with Velvet, the Bio heroine's EATER."
+ },
+ "ヴェルヴェット・リバース": {
+  "en": "Velvet Reverse",
+  "kind": "original hero mecha",
+  "note": "library: The second stage of Velvet Fury's assimilation."
+ },
+ "ヴォルカノン": {
+  "en": "Volcannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォルカノン・ハウリング": {
+  "en": "Volcannon Howling",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォルコレダー": {
+  "en": "Volcoleda",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォルコレダー・アストラル": {
+  "en": "Volcoleda Astral",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォルスプラッシュ": {
+  "en": "Volsplash",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォルテックス": {
+  "en": "Vortex",
+  "kind": "original hero mecha",
+  "note": "hero's machine"
+ },
+ "ヴォルテックス・クライ": {
+  "en": "Vortex Cry",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォルハザード": {
+  "en": "Volhazard",
+  "kind": "original mecha",
+  "note": "library: The EATER manifested by the Vol that assimilated Tatsuya Todo."
+ },
+ "ヴォルフィード": {
+  "en": "Volfeed",
+  "kind": "original mecha",
+  "note": "library: The EATER manifested by the Vol cells that assimilated Satoru Hinata."
+ },
+ "ヴォルフレイム": {
+  "en": "Volflame",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォルフレイム・デスサイト": {
+  "en": "Volflame Death Scythe",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォルブレイド": {
+  "en": "Volblade",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォルブレイド・ダークエッジ": {
+  "en": "Volblade Dark Edge",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォルリッパー": {
+  "en": "Volripper",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォルリッパー・ヘブン": {
+  "en": "Volripper Heaven",
+  "kind": "attack",
+  "note": ""
+ },
+ "ヴォル細胞": {
+  "en": "Vol cells",
+  "kind": "original",
+  "note": ""
+ },
+ "一文字隼人": {
+  "en": "Hayato Ichimonji",
+  "kind": "Kamen Rider",
+  "note": "Rider 2"
+ },
+ "一条寺烈": {
+  "en": "Retsu Ichijouji",
+  "kind": "Gavan",
+  "note": "Gavan"
+ },
+ "三神博士": {
+  "en": "Dr. Mikami",
+  "kind": "scientist",
+  "note": "library: He cooperated with SSI and completed Red Baron's new weapon, the \"Space Wings\"."
+ },
+ "上野一平": {
+  "en": "Ippei Ueno",
+  "kind": "Return of Ultraman",
+  "note": "library: Ippei Ueno."
+ },
+ "不思議な声": {
+  "en": "Strange Voice",
+  "kind": "generic",
+  "note": ""
+ },
+ "不思議時空": {
+  "en": "Fushigi Dimension",
+  "kind": "Shaider",
+  "note": "terrain"
+ },
+ "不思議獣バリバリ": {
+  "en": "Fushigi Beast Baribari",
+  "kind": "Shaider",
+  "note": ""
+ },
+ "不思議界": {
+  "en": "Fushigi World",
+  "kind": "Shaider",
+  "note": "term"
+ },
+ "不気味な軍人": {
+  "en": "Eerie Soldier",
+  "kind": "generic",
+  "note": ""
+ },
+ "世糺王シャドームーン": {
+  "en": "Century King Shadow Moon",
+  "kind": "library",
+  "note": "library: The form Nobuhiko Akizuki transforms into."
+ },
+ "世紀王ブラックサン": {
+  "en": "Century King Black Sun",
+  "kind": "Kamen Rider BLACK",
+  "note": ""
+ },
+ "丘ユリ子": {
+  "en": "Yuriko Oka",
+  "kind": "Return of Ultraman",
+  "note": "female"
+ },
+ "並川博士": {
+  "en": "Dr. Namikawa",
+  "kind": "scientist",
+  "note": "library: An authority on rocket engineering."
+ },
+ "串刺し": {
+  "en": "Impale",
+  "kind": "attack",
+  "note": ""
+ },
+ "九州弁の男": {
+  "en": "Man with a Kyushu Accent",
+  "kind": "generic",
+  "note": ""
+ },
+ "人質の女": {
+  "en": "Hostage Woman",
+  "kind": "generic",
+  "note": ""
+ },
+ "人質の女性": {
+  "en": "Hostage Woman",
+  "kind": "generic",
+  "note": ""
+ },
+ "人造人間": {
+  "en": "Android",
+  "kind": "term",
+  "note": ""
+ },
+ "人造人間U7": {
+  "en": "Android U7",
+  "kind": "Giant Robo",
+  "note": ""
+ },
+ "人造人間の潜入者": {
+  "en": "Android Infiltrator",
+  "kind": "generic",
+  "note": ""
+ },
+ "人造人間アキラ": {
+  "en": "Android Akira",
+  "kind": "Kikaider 01",
+  "note": ""
+ },
+ "人造人間キカイダー": {
+  "en": "Android Kikaider",
+  "kind": "library",
+  "note": "library: Jiro transforms with the call \"Chaaange, Switch On\"."
+ },
+ "人造人間キカイダー01": {
+  "en": "Android Kikaider 01",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "人造人間・草間大作": {
+  "en": "Android Daisaku Kusama",
+  "kind": "Giant Robo",
+  "note": "library: An android that transformed from a plastic model sent to young Daisaku as a birthday present, part of Dr."
+ },
+ "人造人間草間大作": {
+  "en": "Android Daisaku Kusama",
+  "kind": "library",
+  "note": "library: An android that transformed from a plastic model sent to young Daisaku as a birthday present, part of Dr."
+ },
+ "人造人間（草間大作）": {
+  "en": "Android (Daisaku Kusama)",
+  "kind": "Giant Robo",
+  "note": ""
+ },
+ "仕込み杖": {
+  "en": "Sword Cane",
+  "kind": "attack",
+  "note": ""
+ },
+ "仮面ライダー": {
+  "en": "Kamen Rider",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "仮面ライダー1号": {
+  "en": "Kamen Rider 1",
+  "kind": "Kamen Rider",
+  "note": "library: Takeshi Hongo transforms using the wind power caught by the windmill dynamo in his belt."
+ },
+ "仮面ライダー1号（新）": {
+  "en": "Kamen Rider 1 (New)",
+  "kind": "library",
+  "note": "library: Hongo's Rider, powered up after being remodeled again."
+ },
+ "仮面ライダー2号": {
+  "en": "Kamen Rider 2",
+  "kind": "Kamen Rider",
+  "note": "library: Hayato Ichimonji transforms into him."
+ },
+ "仮面ライダー2号（新）": {
+  "en": "Kamen Rider 2 (New)",
+  "kind": "library",
+  "note": "library: Ichimonji's Rider, powered up after being remodeled again."
+ },
+ "仮面ライダーBLACK": {
+  "en": "Kamen Rider BLACK",
+  "kind": "Kamen Rider BLACK",
+  "note": "library: The form Kotaro Minami transforms into with the power of the King Stone."
+ },
+ "仮面ライダーBLACK RX": {
+  "en": "Kamen Rider BLACK RX",
+  "kind": "Kamen Rider BLACK RX",
+  "note": "library: Captured by the new enemy, the Crisis Empire, and cast out into space, Kotaro Minami's King Stone was baptized by the sun's rays, gained new power and became RX"
+ },
+ "仮面ライダーV3": {
+  "en": "Kamen Rider V3",
+  "kind": "Kamen Rider V3",
+  "note": "library: The third Kamen Rider, into whom Shiro Kazami transforms."
+ },
+ "伊賀電": {
+  "en": "Den Iga",
+  "kind": "Sharivan",
+  "note": "Sharivan"
+ },
+ "伊賀電の声": {
+  "en": "Voice of Den Iga",
+  "kind": "Sharivan",
+  "note": ""
+ },
+ "佐原ルミ": {
+  "en": "Rumi Sahara",
+  "kind": "Daitetsujin 17",
+  "note": "library: Dr."
+ },
+ "佐原千恵": {
+  "en": "Chie Sahara",
+  "kind": "Daitetsujin 17",
+  "note": "library: A Red Muffler member who sometimes sorties to the front lines."
+ },
+ "佐原博士": {
+  "en": "Dr. Sahara",
+  "kind": "Daitetsujin 17",
+  "note": "library: Head of the International Peace Corps' science laboratory and a renowned scientist."
+ },
+ "体当たり": {
+  "en": "Body Slam",
+  "kind": "attack",
+  "note": ""
+ },
+ "倒れていた女": {
+  "en": "Collapsed Woman",
+  "kind": "generic",
+  "note": "library: She approached Jiro intending to kill him, but failed."
+ },
+ "催眠テレビ": {
+  "en": "Hypno TV",
+  "kind": "attack",
+  "note": ""
+ },
+ "先生に化けたアニー": {
+  "en": "Annie Disguised as a Teacher",
+  "kind": "Shaider",
+  "note": ""
+ },
+ "光明寺ミツ子": {
+  "en": "Mitsuko Komyoji",
+  "kind": "Kikaider",
+  "note": "female"
+ },
+ "光明寺博士": {
+  "en": "Dr. Komyoji",
+  "kind": "Kikaider",
+  "note": "library: A world-class authority on robotics who was held by Dark for five years."
+ },
+ "光線": {
+  "en": "Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "光線銃": {
+  "en": "Ray Gun",
+  "kind": "attack",
+  "note": ""
+ },
+ "全弾発射": {
+  "en": "Full Barrage",
+  "kind": "attack",
+  "note": ""
+ },
+ "兵士クラッシャー": {
+  "en": "Crusher Soldier",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "兵士チャップ": {
+  "en": "Chap Soldier",
+  "kind": "Kamen Rider BLACK RX",
+  "note": "grunt"
+ },
+ "再生アポロガイスト": {
+  "en": "Revived Apollo Geist",
+  "kind": "Kamen Rider X",
+  "note": ""
+ },
+ "再生怪獣ギエロン星獣": {
+  "en": "Revived Gyeron",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "冷凍光線": {
+  "en": "Freeze Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "冷凍弾": {
+  "en": "Freeze Shell",
+  "kind": "attack",
+  "note": ""
+ },
+ "冷気噴射": {
+  "en": "Freeze Spray",
+  "kind": "attack",
+  "note": ""
+ },
+ "刀": {
+  "en": "Katana",
+  "kind": "attack",
+  "note": ""
+ },
+ "前野博士": {
+  "en": "Dr. Maeno",
+  "kind": "scientist",
+  "note": "library: A female scientist and the leading authority on space biology."
+ },
+ "剛力招来": {
+  "en": "Goriki Shorai!",
+  "kind": "Inazuman",
+  "note": "Sanagiman transformation call"
+ },
+ "剣": {
+  "en": "Sword",
+  "kind": "attack",
+  "note": ""
+ },
+ "剣聖ビルゲニア": {
+  "en": "Swordsaint Birugenia",
+  "kind": "Kamen Rider BLACK villain",
+  "note": "library: A man born on the day of a solar eclipse 300 years ago who failed to become a Century King because he was born too early."
+ },
+ "剣豪ワルダー": {
+  "en": "Swordmaster Waruder",
+  "kind": "Kikaider 01",
+  "note": ""
+ },
+ "割世王": {
+  "en": "Creation King",
+  "kind": "library",
+  "note": "library: The ruler of Gorgom, replaced every 500 years and growing stronger each time."
+ },
+ "創世王": {
+  "en": "Creation King",
+  "kind": "Kamen Rider BLACK villain",
+  "note": "library: The ruler of Gorgom, replaced every 500 years and growing stronger each time."
+ },
+ "加藤勝一郎": {
+  "en": "Shoichiro Kato",
+  "kind": "Return of Ultraman",
+  "note": "MAT captain"
+ },
+ "加藤隊長": {
+  "en": "Captain Kato",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "医師": {
+  "en": "Doctor",
+  "kind": "generic",
+  "note": ""
+ },
+ "南三郎": {
+  "en": "Saburo Minami",
+  "kind": "Daitetsujin 17",
+  "note": "boy"
+ },
+ "南光太郎": {
+  "en": "Kotaro Minami",
+  "kind": "Kamen Rider BLACK",
+  "note": "library: A second-year student in the humanities department of Tosei University."
+ },
+ "南十郎": {
+  "en": "Juro Minami",
+  "kind": "tokusatsu",
+  "note": "library: must."
+ },
+ "南猛": {
+  "en": "Takeshi Minami",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "危ない目つきの男": {
+  "en": "Man with Dangerous Eyes",
+  "kind": "generic",
+  "note": ""
+ },
+ "友里アンヌ": {
+  "en": "Anne Yuri",
+  "kind": "Ultraseven",
+  "note": "female"
+ },
+ "友里博士": {
+  "en": "Dr. Yuri",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "友里源三郎": {
+  "en": "Genzaburo Yuri",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "友里源三郎博士": {
+  "en": "Dr. Genzaburo Yuri",
+  "kind": "library",
+  "note": "library: Grandfather of Ultra Garrison member Anne."
+ },
+ "反逆罪のダブルマン": {
+  "en": "Doubleman the Traitor",
+  "kind": "Gavan",
+  "note": ""
+ },
+ "叶エイジ": {
+  "en": "Eiji Kanou",
+  "kind": "hero default name",
+  "note": "male hero alternative"
+ },
+ "合体ウデスパー": {
+  "en": "Combined Udesper",
+  "kind": "Inazuman F",
+  "note": "library: The form completed by running 2,000 volts through the Udesper brothers and remodeling them into one."
+ },
+ "合体ウデスパー落とし": {
+  "en": "Combined Udesper Drop",
+  "kind": "attack",
+  "note": ""
+ },
+ "吸血コウモリ": {
+  "en": "Vampire Bats",
+  "kind": "attack",
+  "note": ""
+ },
+ "営業レディ": {
+  "en": "Saleswoman",
+  "kind": "generic",
+  "note": ""
+ },
+ "噛み付き": {
+  "en": "Bite",
+  "kind": "attack",
+  "note": ""
+ },
+ "回復": {
+  "en": "Repair",
+  "kind": "attack",
+  "note": ""
+ },
+ "回転アタック": {
+  "en": "Spin Attack",
+  "kind": "attack",
+  "note": ""
+ },
+ "国際刑事警察機構": {
+  "en": "Interpol",
+  "kind": "term",
+  "note": ""
+ },
+ "土田博士": {
+  "en": "Dr. Tsuchida",
+  "kind": "scientist",
+  "note": "library: A member of the Earth Defense Force Science Center and a researcher of new high-performance explosives."
+ },
+ "圧縮重力子弾": {
+  "en": "Compressed Graviton Shell",
+  "kind": "attack",
+  "note": ""
+ },
+ "地割れ": {
+  "en": "Fissure",
+  "kind": "attack",
+  "note": ""
+ },
+ "地割れ振動": {
+  "en": "Fissure Quake",
+  "kind": "attack",
+  "note": ""
+ },
+ "地獄ガッパ": {
+  "en": "Hell Kappa",
+  "kind": "Kikaider",
+  "note": "library: Excels at underwater combat."
+ },
+ "地獄大使": {
+  "en": "Ambassador Hell",
+  "kind": "Kamen Rider villain",
+  "note": "library: The third executive, who came from Southeast Asia."
+ },
+ "地獄谷": {
+  "en": "Jigokudani",
+  "kind": "place",
+  "note": ""
+ },
+ "地球防衛隊員": {
+  "en": "Earth Defense Officer",
+  "kind": "generic",
+  "note": ""
+ },
+ "地球防衛隊員の女": {
+  "en": "Female Defense Officer",
+  "kind": "generic",
+  "note": ""
+ },
+ "坂井哲也": {
+  "en": "Tetsuya Sakai",
+  "kind": "tokusatsu",
+  "note": "library: A member of SSI."
+ },
+ "坂田アキ": {
+  "en": "Aki Sakata",
+  "kind": "Return of Ultraman",
+  "note": "female"
+ },
+ "坂田健": {
+  "en": "Ken Sakata",
+  "kind": "Return of Ultraman",
+  "note": "library: He runs a car repair shop and is like an older brother to Hideki Go."
+ },
+ "坂田次郎": {
+  "en": "Jiro Sakata",
+  "kind": "Return of Ultraman",
+  "note": "boy"
+ },
+ "城南大学": {
+  "en": "Jonan University",
+  "kind": "Kamen Rider",
+  "note": "Hongo's university"
+ },
+ "堀大作": {
+  "en": "Daisaku Hori",
+  "kind": "Red Baron",
+  "note": "SSI member, comic relief, Ken's buddy"
+ },
+ "士田博士": {
+  "en": "Dr. Tsuchida",
+  "kind": "scientist",
+  "note": "土田 (glyph variant)"
+ },
+ "変身": {
+  "en": "Henshin",
+  "kind": "term",
+  "note": "transformation call; use \"Henshin!\" when shouted, \"transform\" in narration"
+ },
+ "大作そっくりな模型": {
+  "en": "Daisaku Look-alike Model",
+  "kind": "Giant Robo",
+  "note": ""
+ },
+ "大岌大太": {
+  "en": "Daita Oiwa",
+  "kind": "library",
+  "note": "library: The survivor of EAGLE's Kyushu branch, which was destroyed in an attack by Bronze Mask."
+ },
+ "大岩大太": {
+  "en": "Daita Oiwa",
+  "kind": "Gorenger",
+  "note": "Kirenger, big eater"
+ },
+ "大帝王クビライ": {
+  "en": "Great Emperor Kubilai",
+  "kind": "Shaider villain",
+  "note": "library: A super life form that rules the Fushigi World Fuuma and plots to rule the whole universe."
+ },
+ "大田黒博士": {
+  "en": "Dr. Otaguro",
+  "kind": "scientist",
+  "note": "library: Developer of \"X-Alpha Fluid\", a drug that revives dead creatures and brings them back to life."
+ },
+ "大砲": {
+  "en": "Cannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "大神官ダロム": {
+  "en": "Archpriest Darom",
+  "kind": "Kamen Rider BLACK villain",
+  "note": "library: Leader of the three Gorgom Priests, who carries the \"Stone of Heaven\" inside his body."
+ },
+ "大神官バラオム": {
+  "en": "Archpriest Baraom",
+  "kind": "Kamen Rider BLACK villain",
+  "note": "library: One of the three Gorgom Priests, who carries the \"Stone of Sea\" inside his body."
+ },
+ "大神官ビシュム": {
+  "en": "Archpriest Bishium",
+  "kind": "Kamen Rider BLACK villain",
+  "note": "female"
+ },
+ "大車輪投げ": {
+  "en": "Giant Wheel Throw",
+  "kind": "attack",
+  "note": ""
+ },
+ "大郷実": {
+  "en": "Minoru Ogo",
+  "kind": "Red Baron",
+  "note": "library: The boss of SSI."
+ },
+ "大鉄人ワンセブン": {
+  "en": "Daitetsujin One-Seven",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "太田黒博士": {
+  "en": "Dr. Otaguro",
+  "kind": "library",
+  "note": "library: Developer of \"X-Alpha Fluid\", a drug that revives dead creatures and brings them back to life."
+ },
+ "女諜報員": {
+  "en": "Female Spy",
+  "kind": "library",
+  "note": "library: Udesper's subordinate, known as \"the Hound\"."
+ },
+ "妖術": {
+  "en": "Sorcery",
+  "kind": "attack",
+  "note": ""
+ },
+ "宇宙ビートル": {
+  "en": "Space Jet VTOL",
+  "kind": "library",
+  "note": "library: A Jet VTOL fitted with a space booster, the \"hydrogenate rocket engine\", allowing it to operate in outer space."
+ },
+ "宇宙刑事ギャバン": {
+  "en": "Space Sheriff Gavan",
+  "kind": "Gavan",
+  "note": "library: A Space Sheriff dispatched by the Galactic Union Police to stop the space crime organization Makuu's invasion of Earth."
+ },
+ "宇宙刑事シャイダー": {
+  "en": "Space Sheriff Shaider",
+  "kind": "Shaider",
+  "note": "library: Dispatched as the third Space Sheriff assigned to Earth."
+ },
+ "宇宙刑事シャリバン": {
+  "en": "Space Sheriff Sharivan",
+  "kind": "Sharivan",
+  "note": "library: The second Space Sheriff dispatched by the Galactic Union Police."
+ },
+ "宇宙刑事訓練生": {
+  "en": "Space Sheriff Trainee",
+  "kind": "Gavan",
+  "note": ""
+ },
+ "宇宙吸血鬼ドラキュラン": {
+  "en": "Space Vampire Dracula",
+  "kind": "Giant Robo",
+  "note": ""
+ },
+ "宇宙大怪獣ベムスター": {
+  "en": "Cosmic Monster Bemstar",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "宇宙妖怪博士ゲルマ": {
+  "en": "Space Monster Doctor Gelma",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "宇宙忍者バルタン星人": {
+  "en": "Space Ninja Alien Baltan",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "宇宙恐竜ゼットン": {
+  "en": "Space Dinosaur Zetton",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "宇宙用ジェットビートル": {
+  "en": "Space Jet VTOL",
+  "kind": "Ultraman",
+  "note": "library: A Jet VTOL fitted with a space booster, the \"hydrogenate rocket engine\", allowing it to operate in outer space."
+ },
+ "宇宙要塞艦ナガー": {
+  "en": "Space Fortress Naager",
+  "kind": "original villain ship",
+  "note": ""
+ },
+ "官房長ロボ": {
+  "en": "Secretary Robo",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "寂しそうな女": {
+  "en": "Lonely-Looking Woman",
+  "kind": "generic",
+  "note": ""
+ },
+ "寝室のTVに現れた宇宙人": {
+  "en": "Alien on the Bedroom TV",
+  "kind": "generic",
+  "note": ""
+ },
+ "対怪獣ミサイル": {
+  "en": "Anti-Kaiju Missile",
+  "kind": "attack",
+  "note": ""
+ },
+ "対空レーザー砲": {
+  "en": "AA Laser Cannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "射撃": {
+  "en": "Shot",
+  "kind": "attack",
+  "note": ""
+ },
+ "小型ミサイル": {
+  "en": "Mini Missiles",
+  "kind": "attack",
+  "note": ""
+ },
+ "少年": {
+  "en": "Boy",
+  "kind": "generic",
+  "note": ""
+ },
+ "少年っぽい男": {
+  "en": "Boyish Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "少年同盟": {
+  "en": "Boys' League",
+  "kind": "Inazuman",
+  "note": "organization"
+ },
+ "少年同盟員": {
+  "en": "Boys' League Member",
+  "kind": "Inazuman",
+  "note": ""
+ },
+ "尻尾": {
+  "en": "Tail",
+  "kind": "attack",
+  "note": ""
+ },
+ "山小屋の番人": {
+  "en": "Mountain Hut Keeper",
+  "kind": "generic",
+  "note": ""
+ },
+ "岌本博士": {
+  "en": "Dr. Iwamoto",
+  "kind": "library",
+  "note": "library: A scientist who cooperates with the Science Patrol."
+ },
+ "岩本博士": {
+  "en": "Dr. Iwamoto",
+  "kind": "Daitetsujin 17",
+  "note": "library: A scientist who cooperates with the Science Patrol."
+ },
+ "岩石落とし": {
+  "en": "Rock Drop",
+  "kind": "attack",
+  "note": ""
+ },
+ "岸田文夫": {
+  "en": "Fumio Kishida",
+  "kind": "Return of Ultraman",
+  "note": "library: Fumio Kishida."
+ },
+ "巨大アニー": {
+  "en": "Giant Annie",
+  "kind": "Shaider",
+  "note": ""
+ },
+ "巨大友里アンヌ": {
+  "en": "Giant Anne Yuri",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "帝王バンバ": {
+  "en": "Emperor Banba",
+  "kind": "Inazuman villain",
+  "note": ""
+ },
+ "帰ってきたウルトラマン": {
+  "en": "Ultraman Jack",
+  "kind": "library",
+  "note": "library: He became one with Hideki Go, a young man killed in a kaiju attack, and fights kaiju."
+ },
+ "幻夢城": {
+  "en": "Genmu Castle",
+  "kind": "Sharivan",
+  "note": "Madō base"
+ },
+ "幻夢界": {
+  "en": "Genmu World",
+  "kind": "Sharivan",
+  "note": "term"
+ },
+ "幻影光線": {
+  "en": "Phantom Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "広田アカネ": {
+  "en": "Akane Hirota",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "広田茜": {
+  "en": "Akane Hirota",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "念力キック": {
+  "en": "Psychic Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "念動力": {
+  "en": "Telekinesis",
+  "kind": "attack",
+  "note": ""
+ },
+ "怪しい孫娘": {
+  "en": "Suspicious Granddaughter",
+  "kind": "generic",
+  "note": ""
+ },
+ "怪しい男": {
+  "en": "Suspicious Man",
+  "kind": "generic",
+  "note": "library: A mysterious man who transformed into a white balloon and kept watch on Den Iga wherever he went."
+ },
+ "怪しい老人": {
+  "en": "Suspicious Old Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "怪光線": {
+  "en": "Weird Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "怪獣": {
+  "en": "Kaiju",
+  "kind": "generic",
+  "note": ""
+ },
+ "怪魔ロボット": {
+  "en": "Kaima Robot",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "怪魔妖族": {
+  "en": "Kaima Monster Clan",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "怪魔獣人": {
+  "en": "Kaima Beastman",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "怪魔異生獣": {
+  "en": "Kaima Bio-Beast",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "戦士サイコラー": {
+  "en": "Warrior Psycholer",
+  "kind": "Sharivan",
+  "note": ""
+ },
+ "戦繿ロボット": {
+  "en": "Battleship Robot",
+  "kind": "library",
+  "note": "library: A large flying battleship."
+ },
+ "戦艦ロボット": {
+  "en": "Battleship Robot",
+  "kind": "Daitetsujin 17",
+  "note": "library: A large flying battleship."
+ },
+ "戦艦ロボット（ゴメス）": {
+  "en": "Battleship Robot (Gomez)",
+  "kind": "Daitetsujin 17",
+  "note": ""
+ },
+ "戦艦ロボット（ルミ）": {
+  "en": "Battleship Robot (Rumi)",
+  "kind": "Daitetsujin 17",
+  "note": ""
+ },
+ "戦闘員ミラクラー": {
+  "en": "Miracler Soldier",
+  "kind": "Sharivan",
+  "note": ""
+ },
+ "戦闘船団国家ナガー": {
+  "en": "Battle Fleet Nation Naager",
+  "kind": "original",
+  "note": ""
+ },
+ "投下爆弾": {
+  "en": "Dropped Bombs",
+  "kind": "attack",
+  "note": ""
+ },
+ "捕らわれた青年": {
+  "en": "Captive Young Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "改造サイクロン": {
+  "en": "Custom Cyclone",
+  "kind": "library",
+  "note": "library: The Cyclone that No."
+ },
+ "放電": {
+  "en": "Discharge",
+  "kind": "attack",
+  "note": ""
+ },
+ "斧": {
+  "en": "Axe",
+  "kind": "attack",
+  "note": ""
+ },
+ "新サイクロン": {
+  "en": "New Cyclone",
+  "kind": "library",
+  "note": "library: Developed by Hongo with help from Tobei and Taki."
+ },
+ "新人類帝国": {
+  "en": "Neo-Human Empire",
+  "kind": "Inazuman",
+  "note": ""
+ },
+ "新人類帝国の帝王": {
+  "en": "Emperor of the Neo-Human Empire",
+  "kind": "Inazuman",
+  "note": ""
+ },
+ "新仮面ライダー": {
+  "en": "New Kamen Rider",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "新命明": {
+  "en": "Akira Shinmei",
+  "kind": "Gorenger",
+  "note": "Aorenger"
+ },
+ "新型仮面ライダー": {
+  "en": "New-Model Kamen Rider",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "日向サトル": {
+  "en": "Satoru Hinata",
+  "kind": "original",
+  "note": "library: A clinical test subject of \"Vol\", the unknown cells Dr."
+ },
+ "日向ラン": {
+  "en": "Ran Hinata",
+  "kind": "heroine default name",
+  "note": "female"
+ },
+ "日向博士": {
+  "en": "Dr. Hinata",
+  "kind": "original",
+  "note": "library: A biophysicist who recognized Number Ten, which appeared at the outer edge of the solar system, as a life form, and was driven out of the TDF of the time for re"
+ },
+ "日向清次郎": {
+  "en": "Seijiro Hinata",
+  "kind": "original",
+  "note": ""
+ },
+ "明日香健二": {
+  "en": "Kenji Asuka",
+  "kind": "Gorenger",
+  "note": "Midorenger, youngest"
+ },
+ "星野月子": {
+  "en": "Tsukiko Hoshino",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "時計屋の主人": {
+  "en": "Watchmaker",
+  "kind": "generic",
+  "note": ""
+ },
+ "暗殺宇宙人ナックル星人": {
+  "en": "Assassin Alien Nackle",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "最強の怪魔獣人": {
+  "en": "Strongest Kaima Beastman",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "最強怪魔獣人グランザイラス": {
+  "en": "Strongest Kaima Beastman Granzairus",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "最高司令官ジャーク将軍": {
+  "en": "Supreme Commander General Jark",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "服部半平": {
+  "en": "Hanpei Hattori",
+  "kind": "Kikaider",
+  "note": "comic private detective"
+ },
+ "木暮精一郎": {
+  "en": "Seiichiro Kogure",
+  "kind": "tokusatsu",
+  "note": "library: A man whose son was killed by Gel-Shocker."
+ },
+ "本郷猛": {
+  "en": "Takeshi Hongo",
+  "kind": "Kamen Rider",
+  "note": "Rider 1"
+ },
+ "杖": {
+  "en": "Staff",
+  "kind": "attack",
+  "note": ""
+ },
+ "杖ミサイル": {
+  "en": "Staff Missile",
+  "kind": "attack",
+  "note": ""
+ },
+ "東支部長": {
+  "en": "Branch Chief Higashi",
+  "kind": "tokusatsu",
+  "note": "library: Head of the Japan branch of the International Secret Police Organization, the Unicorn Agency, code-named U1."
+ },
+ "松原真俚": {
+  "en": "Mari Matsubara",
+  "kind": "library",
+  "note": "library: The only woman among the SSI secret agents."
+ },
+ "松原真理": {
+  "en": "Mari Matsubara",
+  "kind": "Red Baron",
+  "note": "female"
+ },
+ "柴田助手": {
+  "en": "Assistant Shibata",
+  "kind": "tokusatsu",
+  "note": "library: He worked with Dr."
+ },
+ "査察官ダスマダー大佐": {
+  "en": "Inspector Colonel Dasmader",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "格闘": {
+  "en": "Melee",
+  "kind": "attack",
+  "note": ""
+ },
+ "梶キャプテン": {
+  "en": "Captain Kaji",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "極東基地": {
+  "en": "Far East Base",
+  "kind": "Ultraseven",
+  "note": ""
+ },
+ "槍": {
+  "en": "Spear",
+  "kind": "attack",
+  "note": ""
+ },
+ "様子のおかしいアラシ": {
+  "en": "Strange-Acting Arashi",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "横江川助教授": {
+  "en": "Asst. Prof. Yokoegawa",
+  "kind": "scientist",
+  "note": ""
+ },
+ "橋本助手": {
+  "en": "Assistant Hashimoto",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "橋本良子": {
+  "en": "Yoshiko Hashimoto",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "機甲隊長ガテゾーン": {
+  "en": "Mecha Commander Gatezone",
+  "kind": "Kamen Rider BLACK RX",
+  "note": "library: The Mecha Commander leading the Kaima Robot Battalion."
+ },
+ "機関砲": {
+  "en": "Autocannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "機関車の怪人": {
+  "en": "Locomotive Monster",
+  "kind": "Gorenger",
+  "note": ""
+ },
+ "機関車仮面": {
+  "en": "Locomotive Mask",
+  "kind": "Gorenger",
+  "note": "library: With an underground structure probe on his feet, he runs all over the place trying to locate Gorenger's base."
+ },
+ "次元歪曲フィールド": {
+  "en": "Dimension Distortion Field",
+  "kind": "original",
+  "note": ""
+ },
+ "死人コウモリ": {
+  "en": "Corpse Bat",
+  "kind": "library",
+  "note": "library: The form Archbishop Wing transformed into."
+ },
+ "死神博士": {
+  "en": "Doctor Death",
+  "kind": "Kamen Rider villain",
+  "note": "library: The second executive, who came from Shocker's Swiss branch."
+ },
+ "毒ガス": {
+  "en": "Poison Gas",
+  "kind": "attack",
+  "note": ""
+ },
+ "毒煙": {
+  "en": "Poison Smoke",
+  "kind": "attack",
+  "note": ""
+ },
+ "毒花粉": {
+  "en": "Poison Pollen",
+  "kind": "attack",
+  "note": ""
+ },
+ "毒針": {
+  "en": "Poison Needle",
+  "kind": "attack",
+  "note": ""
+ },
+ "江戸川権八総司令": {
+  "en": "Commander Gonpachi Edogawa",
+  "kind": "Gorenger",
+  "note": "EAGLE commander"
+ },
+ "汪戸川榲ハ総掴令官": {
+  "en": "Commander Gonpachi Edogawa",
+  "kind": "library",
+  "note": "library: The top official of EAGLE's Japan Block and Gorenger's commander."
+ },
+ "沢村大": {
+  "en": "Dai Sawamura",
+  "kind": "Shaider",
+  "note": "Shaider"
+ },
+ "流星キック": {
+  "en": "Meteor Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "海兵隊長ボスガン": {
+  "en": "Marine Commander Bosgun",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "海城剛": {
+  "en": "Tsuyoshi Kaijo",
+  "kind": "Gorenger",
+  "note": "Akarenger, leader"
+ },
+ "渡シノブ": {
+  "en": "Shinobu Watari",
+  "kind": "Inazuman",
+  "note": "library: Goro Watari's mother, separated from him 15 years ago and missing ever since."
+ },
+ "渡五郎": {
+  "en": "Goro Watari",
+  "kind": "Inazuman",
+  "note": "Inazuman"
+ },
+ "湯島博士": {
+  "en": "Dr. Yushima",
+  "kind": "scientist",
+  "note": ""
+ },
+ "溶解ガス": {
+  "en": "Dissolving Gas",
+  "kind": "attack",
+  "note": ""
+ },
+ "溶解液": {
+  "en": "Dissolving Fluid",
+  "kind": "attack",
+  "note": ""
+ },
+ "滝和也": {
+  "en": "Kazuya Taki",
+  "kind": "Kamen Rider",
+  "note": "FBI agent"
+ },
+ "濔城剛": {
+  "en": "Tsuyoshi Kaijo",
+  "kind": "library",
+  "note": "library: The survivor of EAGLE's Kanto branch, which was destroyed in an attack by Golden Mask."
+ },
+ "瀬川博士": {
+  "en": "Dr. Segawa",
+  "kind": "scientist",
+  "note": "library: A member of the International Committee for Earth Defense."
+ },
+ "火の山仮面マグマン将軍": {
+  "en": "Volcano Mask General Magman",
+  "kind": "Gorenger",
+  "note": "library: The Black Cross Army's third executive, summoned from Mount Hekla in Iceland."
+ },
+ "火山弾": {
+  "en": "Volcanic Bomb",
+  "kind": "attack",
+  "note": ""
+ },
+ "火柱攻め": {
+  "en": "Fire Pillar",
+  "kind": "attack",
+  "note": ""
+ },
+ "火炎": {
+  "en": "Flame",
+  "kind": "attack",
+  "note": ""
+ },
+ "火炎ファイター": {
+  "en": "Flame Fighter",
+  "kind": "Inazuman F",
+  "note": "library: The form Emperor Banba transformed into."
+ },
+ "火炎弾": {
+  "en": "Fire Shells",
+  "kind": "attack",
+  "note": ""
+ },
+ "火炎放射": {
+  "en": "Flamethrower",
+  "kind": "attack",
+  "note": ""
+ },
+ "火球": {
+  "en": "Fireball",
+  "kind": "attack",
+  "note": ""
+ },
+ "焼結": {
+  "en": "Shoketsu",
+  "kind": "term",
+  "note": "Shaider transformation call"
+ },
+ "熱光線": {
+  "en": "Heat Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "熱線": {
+  "en": "Heat Beam",
+  "kind": "attack",
+  "note": ""
+ },
+ "燐光": {
+  "en": "Phosphor Light",
+  "kind": "attack",
+  "note": ""
+ },
+ "燐光怪獣グラナダス": {
+  "en": "Phosphor Monster Granadas",
+  "kind": "Return of Ultraman",
+  "note": ""
+ },
+ "爆弾": {
+  "en": "Bombs",
+  "kind": "attack",
+  "note": ""
+ },
+ "爆雷": {
+  "en": "Depth Charge",
+  "kind": "attack",
+  "note": ""
+ },
+ "爪": {
+  "en": "Claws",
+  "kind": "attack",
+  "note": ""
+ },
+ "爪ミサイル": {
+  "en": "Claw Missile",
+  "kind": "attack",
+  "note": ""
+ },
+ "牙隊長ゲドリアン": {
+  "en": "Fang Commander Gedorian",
+  "kind": "Kamen Rider BLACK RX",
+  "note": "library: The cunning Fang Commander who leads the Kaima Alien Beast Battalion."
+ },
+ "物体停止光線": {
+  "en": "Freeze Ray",
+  "kind": "attack",
+  "note": "stops objects in place"
+ },
+ "特殊戦闘機天槍": {
+  "en": "Special Fighter Tenso",
+  "kind": "UCMA unit",
+  "note": "library: cannon."
+ },
+ "特殊戦闘機天檜": {
+  "en": "Special Fighter Tenso",
+  "kind": "library",
+  "note": "library: cannon."
+ },
+ "特殊攻撃機槌雷": {
+  "en": "Special Attacker Tsuirai",
+  "kind": "UCMA unit",
+  "note": "library: A heavy attack aircraft dedicated to fighting kaiju and robots, which becomes available for development when Science Patrol member Ide joins through a job chang"
+ },
+ "特殊潜航艇S16": {
+  "en": "Submarine S16",
+  "kind": "Ultraman",
+  "note": "library: A special submarine for underwater exploration, carried slung beneath the VTOL."
+ },
+ "狼の怪人": {
+  "en": "Wolf Monster",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "獣星人ダブルマン": {
+  "en": "Beast Alien Doubleman",
+  "kind": "Gavan",
+  "note": ""
+ },
+ "王の剣を手にした男": {
+  "en": "Man Holding the King's Sword",
+  "kind": "Kamen Rider BLACK",
+  "note": ""
+ },
+ "王の剣を手にした警官": {
+  "en": "Policeman Holding the King's Sword",
+  "kind": "Kamen Rider BLACK",
+  "note": ""
+ },
+ "王の剣を手にしていた男": {
+  "en": "Man Who Held the King's Sword",
+  "kind": "Kamen Rider BLACK",
+  "note": ""
+ },
+ "田所博士": {
+  "en": "Dr. Tadokoro",
+  "kind": "scientist",
+  "note": "library: Inventor of the transparent metal QQV."
+ },
+ "甲羅くずし": {
+  "en": "Shell Breaker",
+  "kind": "attack",
+  "note": ""
+ },
+ "男勝りな女性": {
+  "en": "Tomboyish Woman",
+  "kind": "generic",
+  "note": ""
+ },
+ "白川マチ子": {
+  "en": "Machiko Shirakawa",
+  "kind": "tokusatsu",
+  "note": "library: Younger sister of Dr."
+ },
+ "白川博士": {
+  "en": "Dr. Shirakawa",
+  "kind": "scientist",
+  "note": "library: Developer of the Danger Light."
+ },
+ "白川真知子": {
+  "en": "Machiko Shirakawa",
+  "kind": "library",
+  "note": "library: Younger sister of Dr."
+ },
+ "白色破壊光線": {
+  "en": "White Destruction Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "白髪の男": {
+  "en": "White-Haired Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "白鷲ムササビ": {
+  "en": "White Eagle Musasabi",
+  "kind": "Kikaider",
+  "note": ""
+ },
+ "皀岡保": {
+  "en": "Tamotsu Nishioka",
+  "kind": "Kamen Rider V3",
+  "note": "西岡保 (glyph variant); mountaineering club survivor"
+ },
+ "皇帝陛下の査察官": {
+  "en": "His Majesty's Inspector",
+  "kind": "Kamen Rider BLACK RX",
+  "note": ""
+ },
+ "真面目そうな女": {
+  "en": "Earnest-Looking Woman",
+  "kind": "generic",
+  "note": ""
+ },
+ "矢島博士": {
+  "en": "Dr. Yajima",
+  "kind": "scientist",
+  "note": ""
+ },
+ "矢崎勇": {
+  "en": "Isamu Yazaki",
+  "kind": "tokusatsu",
+  "note": "library: A lonely boy who was a little bad at making friends, until he happened to meet Brain's robot One-Eight and shared his heart with it."
+ },
+ "矢沢博士": {
+  "en": "Dr. Yazawa",
+  "kind": "scientist",
+  "note": ""
+ },
+ "短剣": {
+  "en": "Dagger",
+  "kind": "attack",
+  "note": ""
+ },
+ "石神千絵": {
+  "en": "Chie Ishigami",
+  "kind": "tokusatsu",
+  "note": "library: A woman in black who plays a central role in the Anti-Shocker League along with Seiichiro Kogure."
+ },
+ "砂文字": {
+  "en": "Sand Writing",
+  "kind": "generic",
+  "note": ""
+ },
+ "研究中だった女性": {
+  "en": "Woman Who Was Researching",
+  "kind": "generic",
+  "note": ""
+ },
+ "研究中だった男の子": {
+  "en": "Boy Who Was Researching",
+  "kind": "generic",
+  "note": ""
+ },
+ "研究中の女性": {
+  "en": "Woman in the Lab",
+  "kind": "generic",
+  "note": ""
+ },
+ "研究中の男の子": {
+  "en": "Boy in the Lab",
+  "kind": "generic",
+  "note": ""
+ },
+ "破壊光線": {
+  "en": "Destruction Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "神官ポー": {
+  "en": "Priest Poe",
+  "kind": "Shaider villain",
+  "note": "library: An executive of Fuuma and the granddaughter of Great Emperor Kubilai."
+ },
+ "秋月信彦": {
+  "en": "Nobuhiko Akizuki",
+  "kind": "Kamen Rider BLACK",
+  "note": "Shadow Moon"
+ },
+ "秋月僖彦": {
+  "en": "Nobuhiko Akizuki",
+  "kind": "library",
+  "note": "library: Kotaro Minami's best friend, kidnapped by Gorgom and remodeled at the same time as him."
+ },
+ "秋月総一郎": {
+  "en": "Soichiro Akizuki",
+  "kind": "Kamen Rider BLACK",
+  "note": "library: An archaeologist."
+ },
+ "科学特捜隊": {
+  "en": "Science Patrol",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "科特本部": {
+  "en": "Science Patrol HQ",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "科特隊": {
+  "en": "Science Patrol",
+  "kind": "Ultraman",
+  "note": ""
+ },
+ "科特隊専用車": {
+  "en": "Science Patrol Car",
+  "kind": "Ultraman",
+  "note": "library: The Science Patrol's dedicated ground patrol vehicle."
+ },
+ "科特隊專用車": {
+  "en": "Science Patrol Car",
+  "kind": "library",
+  "note": "library: The Science Patrol's dedicated ground patrol vehicle."
+ },
+ "秘密戦隊ゴレンジャー": {
+  "en": "Himitsu Sentai Gorenger",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "稲妻タイフーン": {
+  "en": "Lightning Typhoon",
+  "kind": "attack",
+  "note": ""
+ },
+ "稲妻ヒカル": {
+  "en": "Hikaru Inazuma",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "稲妻拳法電撃": {
+  "en": "Lightning Fist Shock",
+  "kind": "attack",
+  "note": "Inazuman"
+ },
+ "空中体当たり": {
+  "en": "Aerial Body Slam",
+  "kind": "attack",
+  "note": ""
+ },
+ "突風": {
+  "en": "Gale",
+  "kind": "attack",
+  "note": ""
+ },
+ "立花藤兵衛": {
+  "en": "Tobei Tachibana",
+  "kind": "Kamen Rider",
+  "note": "\"Oyassan\" (Pops) to the Riders"
+ },
+ "竜巻": {
+  "en": "Tornado",
+  "kind": "attack",
+  "note": ""
+ },
+ "紅健": {
+  "en": "Ken Kurenai",
+  "kind": "Red Baron",
+  "note": "Red Baron's pilot"
+ },
+ "紅健一郎": {
+  "en": "Kenichiro Kurenai",
+  "kind": "Red Baron",
+  "note": "Ken's brother"
+ },
+ "結城丈二": {
+  "en": "Joji Yuki",
+  "kind": "Riderman",
+  "note": ""
+ },
+ "老人の声": {
+  "en": "Old Man's Voice",
+  "kind": "generic",
+  "note": ""
+ },
+ "聖なる者": {
+  "en": "Holy One",
+  "kind": "generic",
+  "note": ""
+ },
+ "背中のロケットで空を飛ぶ少年": {
+  "en": "Boy Flying with a Back Rocket",
+  "kind": "generic",
+  "note": ""
+ },
+ "腕飛ばし": {
+  "en": "Arm Launch",
+  "kind": "attack",
+  "note": ""
+ },
+ "舌": {
+  "en": "Tongue",
+  "kind": "attack",
+  "note": ""
+ },
+ "良心回路": {
+  "en": "Conscience Circuit",
+  "kind": "Kikaider",
+  "note": ""
+ },
+ "花屋": {
+  "en": "Florist",
+  "kind": "generic",
+  "note": ""
+ },
+ "若い男": {
+  "en": "Young Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "草間大作": {
+  "en": "Daisaku Kusama",
+  "kind": "Giant Robo",
+  "note": "boy, Robo's master"
+ },
+ "荒井千津子": {
+  "en": "Chizuko Arai",
+  "kind": "Inazuman",
+  "note": ""
+ },
+ "荒井留美": {
+  "en": "Rumi Arai",
+  "kind": "Inazuman",
+  "note": ""
+ },
+ "荒井誠": {
+  "en": "Makoto Arai",
+  "kind": "Inazuman",
+  "note": "library: A secret agent of Interpol."
+ },
+ "荒木博士": {
+  "en": "Dr. Araki",
+  "kind": "scientist",
+  "note": "library: A scientist who designed an auxiliary circuit with almost the same performance as the Conscience Circuit developed by Dr."
+ },
+ "荒木多恵子": {
+  "en": "Taeko Araki",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "蒸着": {
+  "en": "Johchaku",
+  "kind": "term",
+  "note": "Gavan transformation call, kept as the show's word"
+ },
+ "蓑島カオリ": {
+  "en": "Kaori Minoshima",
+  "kind": "original",
+  "note": "library: A 20-year-old friend of Satoru Hinata, said to have been dating Tatsuya."
+ },
+ "蓑島助手": {
+  "en": "Assistant Minoshima",
+  "kind": "original",
+  "note": ""
+ },
+ "藤アキコ": {
+  "en": "Akiko Fuji",
+  "kind": "Ultraman",
+  "note": "female"
+ },
+ "藤営タツヤ": {
+  "en": "Tatsuya Todo",
+  "kind": "library",
+  "note": "library: A 22-year-old who is aggressive, ambitious and strongly elitist by nature."
+ },
+ "藤堂タツヤ": {
+  "en": "Tatsuya Todo",
+  "kind": "original",
+  "note": "library: A 22-year-old who is aggressive, ambitious and strongly elitist by nature."
+ },
+ "藤堂タツヤのEATER": {
+  "en": "Tatsuya Todo's EATER",
+  "kind": "original",
+  "note": ""
+ },
+ "蛮刀": {
+  "en": "Machete",
+  "kind": "attack",
+  "note": ""
+ },
+ "蜂女": {
+  "en": "Bee Woman",
+  "kind": "Kamen Rider kaijin",
+  "note": "female"
+ },
+ "蜘蛛男": {
+  "en": "Spider Man",
+  "kind": "Kamen Rider kaijin",
+  "note": "Kumo Otoko"
+ },
+ "蝋蛛男": {
+  "en": "Spider Man",
+  "kind": "library",
+  "note": "library: The first monster the evil secret organization Shocker assigned to its Japan branch."
+ },
+ "蝙蝠男": {
+  "en": "Bat Man",
+  "kind": "Kamen Rider kaijin",
+  "note": "Komori Otoko"
+ },
+ "融機鋼": {
+  "en": "Fusion Steel",
+  "kind": "original",
+  "note": "the hero's Vol armor material/name"
+ },
+ "融機鋼 ルシファード": {
+  "en": "Lucifard, the Fusion Steel",
+  "kind": "original",
+  "note": ""
+ },
+ "襲われていた女": {
+  "en": "Woman Who Was Attacked",
+  "kind": "generic",
+  "note": ""
+ },
+ "襲われていた女性": {
+  "en": "Woman Who Was Attacked",
+  "kind": "generic",
+  "note": ""
+ },
+ "襲われていた子供": {
+  "en": "Child Who Was Attacked",
+  "kind": "generic",
+  "note": ""
+ },
+ "襲われている女性": {
+  "en": "Woman Under Attack",
+  "kind": "generic",
+  "note": ""
+ },
+ "西岡保": {
+  "en": "Tamotsu Nishioka",
+  "kind": "Kamen Rider V3",
+  "note": "mountaineering club survivor"
+ },
+ "要塞ワンセブン": {
+  "en": "Fortress One-Seven",
+  "kind": "Daitetsujin 17",
+  "note": ""
+ },
+ "角": {
+  "en": "Horn",
+  "kind": "attack",
+  "note": ""
+ },
+ "触手": {
+  "en": "Tentacles",
+  "kind": "attack",
+  "note": ""
+ },
+ "記者A": {
+  "en": "Reporter A",
+  "kind": "generic",
+  "note": ""
+ },
+ "記者B": {
+  "en": "Reporter B",
+  "kind": "generic",
+  "note": ""
+ },
+ "諜報参謀マリバロン": {
+  "en": "Intelligence Chief Maribaron",
+  "kind": "Kamen Rider BLACK RX",
+  "note": "female"
+ },
+ "謎のEATER": {
+  "en": "Mysterious EATER",
+  "kind": "original",
+  "note": ""
+ },
+ "謎のアンドロイド": {
+  "en": "Mysterious Android",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎のサイボーグ戦士": {
+  "en": "Mysterious Cyborg Warrior",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎のライダー": {
+  "en": "Mysterious Rider",
+  "kind": "Kamen Rider",
+  "note": ""
+ },
+ "謎のロボット": {
+  "en": "Mysterious Robot",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の光": {
+  "en": "Mysterious Light",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の声": {
+  "en": "Mysterious Voice",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の女の子": {
+  "en": "Mysterious Girl",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の宇宙人": {
+  "en": "Mysterious Alien",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の将軍": {
+  "en": "Mysterious General",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の怪人": {
+  "en": "Mysterious Monster",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の怪獣": {
+  "en": "Mysterious Kaiju",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の戦闘員": {
+  "en": "Mysterious Soldier",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の男": {
+  "en": "Mysterious Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の美女": {
+  "en": "Mysterious Beauty",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の軍服男": {
+  "en": "Mysterious Man in Uniform",
+  "kind": "generic",
+  "note": ""
+ },
+ "謎の邪学者": {
+  "en": "Mysterious Evil Scholar",
+  "kind": "original villain",
+  "note": ""
+ },
+ "謎の青年": {
+  "en": "Mysterious Young Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "警備員": {
+  "en": "Guard",
+  "kind": "generic",
+  "note": ""
+ },
+ "警官": {
+  "en": "Policeman",
+  "kind": "generic",
+  "note": ""
+ },
+ "豪竜": {
+  "en": "Goryu",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "貧弱そうな男": {
+  "en": "Scrawny Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "貫禄のある男": {
+  "en": "Dignified Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "赤射": {
+  "en": "Sekisha",
+  "kind": "term",
+  "note": "Sharivan transformation call"
+ },
+ "赤色凍結光線": {
+  "en": "Red Freeze Ray",
+  "kind": "attack",
+  "note": ""
+ },
+ "赤面ガメ": {
+  "en": "Red-Face Turtle",
+  "kind": "Kikaider",
+  "note": "library: The first of Shadow's assassination squad."
+ },
+ "赤面ブーメラン": {
+  "en": "Red-Face Boomerang",
+  "kind": "attack",
+  "note": ""
+ },
+ "超力招来": {
+  "en": "Choriki Shorai!",
+  "kind": "Inazuman",
+  "note": "Inazuman transformation call"
+ },
+ "超力稲妻落とし": {
+  "en": "Super Lightning Drop",
+  "kind": "attack",
+  "note": ""
+ },
+ "超振動ブレード": {
+  "en": "Ultrasonic Blade",
+  "kind": "attack",
+  "note": ""
+ },
+ "超馬力バズーカ": {
+  "en": "Super Bazooka",
+  "kind": "attack",
+  "note": ""
+ },
+ "超高熱火炎": {
+  "en": "Super Heat Flame",
+  "kind": "attack",
+  "note": ""
+ },
+ "足": {
+  "en": "Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "軍師レイダー": {
+  "en": "Tactician Raider",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "轟機鋼": {
+  "en": "Fusion Steel",
+  "kind": "original",
+  "note": "= 融機鋼 (glyph misread)"
+ },
+ "轟機鋼 ルシファード": {
+  "en": "Lucifard, the Fusion Steel",
+  "kind": "original",
+  "note": "decoded 轟 is really 融 (the logo art reads 融機鋼)"
+ },
+ "迫力のある男": {
+  "en": "Imposing Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "迫水キイチ": {
+  "en": "Kiichi Sakomizu",
+  "kind": "original",
+  "note": ""
+ },
+ "迫水タクマ": {
+  "en": "Takuma Sakomizu",
+  "kind": "hero default name",
+  "note": "male hero (player can rename)"
+ },
+ "迫水リョウコ": {
+  "en": "Ryoko Sakomizu",
+  "kind": "library",
+  "note": "library: A former officer of SIDO's System Information Division."
+ },
+ "迫水リョウマ": {
+  "en": "Ryoma Sakomizu",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "追跡ミサイル": {
+  "en": "Homing Missile",
+  "kind": "attack",
+  "note": ""
+ },
+ "逆タイフーン": {
+  "en": "Reverse Typhoon",
+  "kind": "attack",
+  "note": ""
+ },
+ "逆転チェスト": {
+  "en": "Reverse Chest",
+  "kind": "attack",
+  "note": ""
+ },
+ "通信員の少女": {
+  "en": "Girl Operator",
+  "kind": "generic",
+  "note": ""
+ },
+ "連装粒子ビーム": {
+  "en": "Twin Particle Beam",
+  "kind": "attack",
+  "note": ""
+ },
+ "運送屋さん": {
+  "en": "Delivery Man",
+  "kind": "generic",
+  "note": ""
+ },
+ "邪学者 アプファロン": {
+  "en": "Apfaron the Evil Scholar",
+  "kind": "library",
+  "note": "library: Like his father Kiichi, he is obsessed with the pursuit of science, and nothing delights him more than watching the super weapons he built destroy the stars."
+ },
+ "邪学者・アプファロン": {
+  "en": "Apfaron the Evil Scholar",
+  "kind": "original villain",
+  "note": "邪学者 = \"evil scholar\""
+ },
+ "郷秀樹": {
+  "en": "Hideki Go",
+  "kind": "Return of Ultraman",
+  "note": "Ultraman Jack's host"
+ },
+ "重力嵐": {
+  "en": "Gravity Storm",
+  "kind": "attack",
+  "note": ""
+ },
+ "重粒子砲": {
+  "en": "Heavy Particle Cannon",
+  "kind": "attack",
+  "note": ""
+ },
+ "野球仮面": {
+  "en": "Baseball Mask",
+  "kind": "Gorenger",
+  "note": ""
+ },
+ "野良犬": {
+  "en": "Stray Dog",
+  "kind": "generic",
+  "note": ""
+ },
+ "鉄の爪": {
+  "en": "Iron Claws",
+  "kind": "attack",
+  "note": ""
+ },
+ "鉄人仮面テムジン将軍": {
+  "en": "Iron Mask General Temujin",
+  "kind": "Gorenger",
+  "note": ""
+ },
+ "鉄面党員": {
+  "en": "Iron Mask Party Member",
+  "kind": "Red Baron",
+  "note": ""
+ },
+ "銃": {
+  "en": "Gun",
+  "kind": "attack",
+  "note": ""
+ },
+ "銃剣": {
+  "en": "Bayonet",
+  "kind": "attack",
+  "note": ""
+ },
+ "鋼帝 ゼファス": {
+  "en": "Steel Emperor Zephas",
+  "kind": "library",
+  "note": "library: Former Director of SIDO and the official who forced through the NAAGER Project, whose goal was an investigative expedition to Number Ten and the construction of"
+ },
+ "鋼帝ゼファス": {
+  "en": "Steel Emperor Zephas",
+  "kind": "original villain",
+  "note": "library: Former Director of SIDO and the official who forced through the NAAGER Project, whose goal was an investigative expedition to Number Ten and the construction of"
+ },
+ "鋼帝・ゼファス": {
+  "en": "Steel Emperor Zephas",
+  "kind": "original villain",
+  "note": "library: Former Director of SIDO and the official who forced through the NAAGER Project, whose goal was an investigative expedition to Number Ten and the construction of"
+ },
+ "闇の声": {
+  "en": "Voice from the Darkness",
+  "kind": "generic",
+  "note": ""
+ },
+ "闘姫アテファリナ": {
+  "en": "Atefarina the Battle Princess",
+  "kind": "library",
+  "note": "library entry (alias / battle-font spelling)"
+ },
+ "闘姫・アテファリナ": {
+  "en": "Atefarina the Battle Princess",
+  "kind": "original villain",
+  "note": "female"
+ },
+ "防衛隊員": {
+  "en": "Defense Officer",
+  "kind": "generic",
+  "note": ""
+ },
+ "雷撃": {
+  "en": "Lightning",
+  "kind": "attack",
+  "note": ""
+ },
+ "雷神村雨": {
+  "en": "Raijin Murasame",
+  "kind": "attack",
+  "note": "the sword of Waruder"
+ },
+ "電光剣": {
+  "en": "Lightning Sword",
+  "kind": "attack",
+  "note": ""
+ },
+ "電光撃": {
+  "en": "Lightning Strike",
+  "kind": "attack",
+  "note": ""
+ },
+ "電子星獣ドル": {
+  "en": "Electronic Starbeast Dol",
+  "kind": "Gavan",
+  "note": ""
+ },
+ "電子頭脳": {
+  "en": "Electronic Brain",
+  "kind": "Giant Robo",
+  "note": ""
+ },
+ "電撃ムチ": {
+  "en": "Shock Whip",
+  "kind": "attack",
+  "note": ""
+ },
+ "電撃舌": {
+  "en": "Shock Tongue",
+  "kind": "attack",
+  "note": ""
+ },
+ "電磁エンド": {
+  "en": "Electromagnetic End",
+  "kind": "attack",
+  "note": "Kikaider"
+ },
+ "電話の声": {
+  "en": "Voice on the Phone",
+  "kind": "generic",
+  "note": ""
+ },
+ "頭飛ばし": {
+  "en": "Head Launch",
+  "kind": "attack",
+  "note": ""
+ },
+ "風見志郎": {
+  "en": "Shiro Kazami",
+  "kind": "Kamen Rider V3",
+  "note": "V3"
+ },
+ "飛鷭": {
+  "en": "Hiryu",
+  "kind": "Red Baron",
+  "note": "battle-font spelling of 飛龍 (library); not \"Hien\""
+ },
+ "飛龍": {
+  "en": "Hiryu",
+  "kind": "Red Baron",
+  "note": "robot built in Japan (pollution monitoring); piloted by Kenichiro Kurenai after the Iron Mask Party seized it"
+ },
+ "飛龍キック": {
+  "en": "Hiryu Kick",
+  "kind": "attack",
+  "note": ""
+ },
+ "養島カオリ": {
+  "en": "Kaori Minoshima",
+  "kind": "original",
+  "note": "same person, alternate glyph"
+ },
+ "養島助手": {
+  "en": "Assistant Minoshima",
+  "kind": "original",
+  "note": ""
+ },
+ "騎士型のアンドロイド": {
+  "en": "Knight-Type Android",
+  "kind": "generic",
+  "note": ""
+ },
+ "高圧電流": {
+  "en": "High Voltage",
+  "kind": "attack",
+  "note": ""
+ },
+ "高熱火炎": {
+  "en": "Searing Flame",
+  "kind": "attack",
+  "note": ""
+ },
+ "魔王サイコ": {
+  "en": "Demon King Psycho",
+  "kind": "Sharivan villain",
+  "note": "library: Leader of the psychic crime group Madou."
+ },
+ "魔界城": {
+  "en": "Demon Castle",
+  "kind": "Sharivan",
+  "note": ""
+ },
+ "魔界獣ゴリビースト": {
+  "en": "Demon Beast Gori Beast",
+  "kind": "Sharivan",
+  "note": ""
+ },
+ "魔空空間": {
+  "en": "Makuu Space",
+  "kind": "Gavan",
+  "note": "term"
+ },
+ "鳴神雷太": {
+  "en": "Raita Narukami",
+  "kind": "tokusatsu",
+  "note": ""
+ },
+ "麻酔弾": {
+  "en": "Tranquilizer",
+  "kind": "attack",
+  "note": ""
+ },
+ "黄金の仮面の男": {
+  "en": "Man in the Golden Mask",
+  "kind": "Gorenger",
+  "note": ""
+ },
+ "黄金オオカミ": {
+  "en": "Golden Wolf",
+  "kind": "Kamen Rider kaijin",
+  "note": "library: A monster with a golden mane, the form Colonel Zol himself transformed into."
+ },
+ "黒い服の女": {
+  "en": "Woman in Black",
+  "kind": "generic",
+  "note": ""
+ },
+ "黒い服の男": {
+  "en": "Man in Black",
+  "kind": "generic",
+  "note": ""
+ },
+ "黒十字剣": {
+  "en": "Black Cross Sword",
+  "kind": "attack",
+  "note": ""
+ },
+ "黒十字城": {
+  "en": "Black Cross Castle",
+  "kind": "Gorenger",
+  "note": "library: The strongest giant mobile base of the Black Cross Army."
+ },
+ "黒十字忍団": {
+  "en": "Black Cross Ninja Corps",
+  "kind": "Gorenger",
+  "note": "library: Special combat soldiers: Zolders given special training who have mastered ninjutsu."
+ },
+ "黒十字総統": {
+  "en": "Black Cross Fuhrer",
+  "kind": "Gorenger villain",
+  "note": "library: A mysterious figure in a white hood."
+ },
+ "黒十字軍": {
+  "en": "Black Cross Army",
+  "kind": "Gorenger",
+  "note": ""
+ },
+ "黒田博士": {
+  "en": "Dr. Kuroda",
+  "kind": "scientist",
+  "note": ""
+ },
+ "黒騎士ルシファード": {
+  "en": "Black Knight Lucifard",
+  "kind": "original villain",
+  "note": ""
+ },
+ "（未定）": {
+  "en": "(TBD)",
+  "kind": "attack",
+  "note": ""
+ }
+}

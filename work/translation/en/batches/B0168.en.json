@@ -1,0 +1,487 @@
+{
+ "batch": "B0168",
+ "prev": "B0167",
+ "next": "B0169",
+ "rows": [
+  {
+   "uid": "U13381",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U13382",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U13383",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U13384",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U13385",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U13386",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13387",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13388",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13389",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13390",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13391",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13392",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13393",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13394",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Jark"
+  },
+  {
+   "uid": "U13395",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mecha Commander Gatezone"
+  },
+  {
+   "uid": "U13396",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Jark"
+  },
+  {
+   "uid": "U13397",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13398",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13399",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13400",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chap Soldier"
+  },
+  {
+   "uid": "U13401",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13402",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13403",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13404",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13405",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13406",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13407",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13408",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13409",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13410",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13411",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13412",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13413",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13414",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13415",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13416",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13417",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13418",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13419",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13420",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U13421",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13422",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U13423",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13424",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13425",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U13426",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13427",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13428",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13429",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13430",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13431",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13432",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13433",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13434",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U13435",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13436",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U13437",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13438",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13439",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U13440",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13441",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13442",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13443",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13444",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13445",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13446",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13447",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13448",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13449",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13450",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13451",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13452",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13453",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13454",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13455",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13456",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13457",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13458",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13459",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13460",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  }
+ ]
+}

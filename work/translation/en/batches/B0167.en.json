@@ -1,0 +1,487 @@
+{
+ "batch": "B0167",
+ "prev": "B0166",
+ "next": "B0168",
+ "rows": [
+  {
+   "uid": "U13301",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13302",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13303",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13304",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13305",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13306",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13307",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13308",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13309",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13310",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13311",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U13312",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13313",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13314",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13315",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13316",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraman"
+  },
+  {
+   "uid": "U13317",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13318",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13319",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13320",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13321",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13322",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13323",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13324",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13325",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13326",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13327",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13328",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13329",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13330",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13331",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13332",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13333",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13334",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13335",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13336",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U13337",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U13338",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13339",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13340",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13341",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13342",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13343",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13344",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13345",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13346",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13347",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13348",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13349",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akane Hirota"
+  },
+  {
+   "uid": "U13350",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13351",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U13352",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13353",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13354",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U13355",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U13356",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U13357",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U13358",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U13359",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U13360",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U13361",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U13362",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U13363",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13364",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13365",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U13366",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13367",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13368",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U13369",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U13370",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13371",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U13372",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13373",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U13374",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13375",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U13376",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U13377",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U13378",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13379",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U13380",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  }
+ ]
+}

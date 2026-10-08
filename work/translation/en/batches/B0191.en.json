@@ -1,0 +1,487 @@
+{
+ "batch": "B0191",
+ "prev": "B0190",
+ "next": "B0192",
+ "rows": [
+  {
+   "uid": "U15221",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15222",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15223",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15224",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15225",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15226",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15227",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15228",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15229",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15230",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15231",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15232",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15233",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15234",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15235",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15236",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15237",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15238",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15239",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15240",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15241",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15242",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15243",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15244",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15245",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15246",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U15247",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15248",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15249",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15250",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15251",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15252",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15253",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15254",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15255",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15256",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U15257",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15258",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U15259",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15260",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15261",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15262",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15263",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15264",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15265",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15266",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15267",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15268",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15269",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15270",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15271",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15272",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15273",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15274",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15275",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15276",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15277",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15278",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15279",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15280",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15281",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15282",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15283",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15284",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15285",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15286",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15287",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15288",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15289",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15290",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15291",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15292",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15293",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15294",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15295",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15296",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15297",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15298",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15299",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15300",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  }
+ ]
+}

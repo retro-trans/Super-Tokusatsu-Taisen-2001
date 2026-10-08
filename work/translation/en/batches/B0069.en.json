@@ -1,0 +1,487 @@
+{
+ "batch": "B0069",
+ "prev": "B0068",
+ "next": "B0070",
+ "rows": [
+  {
+   "uid": "U05454",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rita"
+  },
+  {
+   "uid": "U05455",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U05456",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05457",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05458",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05459",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05460",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05461",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05462",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05463",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05464",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05465",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fightlow"
+  },
+  {
+   "uid": "U05466",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U05467",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05468",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05469",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05470",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05471",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05472",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05473",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05474",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05475",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05476",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05477",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05478",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05479",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05480",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05481",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05482",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05483",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05484",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05485",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05486",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05487",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05488",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05489",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05490",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05491",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05492",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05493",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05494",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05495",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05496",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05497",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05498",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05499",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05500",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05501",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05502",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05503",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05504",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U05505",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05506",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05507",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05508",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U05509",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05510",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U05511",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05512",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U05513",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U05514",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U05515",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gori Beast"
+  },
+  {
+   "uid": "U05516",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05517",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05518",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05519",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05520",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05521",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05522",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05523",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05524",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05525",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05526",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05527",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05528",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05529",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05530",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05531",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05532",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05533",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0049",
+ "prev": "B0048",
+ "next": "B0050",
+ "rows": [
+  {
+   "uid": "U03851",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U03852",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U03853",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U03854",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U03855",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U03856",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U03857",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U03858",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U03859",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U03860",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U03861",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U03862",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U03863",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U03864",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U03865",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U03866",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U03867",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U03868",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U03869",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U03870",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U03871",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U03872",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03873",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U03874",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03875",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03876",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03877",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03878",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03879",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03880",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03881",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03882",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U03883",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03884",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03885",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U03886",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03887",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03888",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03889",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03890",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03891",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03892",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03893",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03894",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03895",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03896",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03897",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03898",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03899",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03900",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03901",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03902",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03903",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03904",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03905",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03906",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03907",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03908",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03909",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03910",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03911",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03912",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03913",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03914",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03915",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03916",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03917",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03918",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03919",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03920",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03921",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03922",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03923",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03924",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03925",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03926",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03927",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03928",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03929",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03930",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

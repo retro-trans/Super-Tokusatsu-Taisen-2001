@@ -1,0 +1,405 @@
+{
+ "batch": "B0005",
+ "rows": [
+  {
+   "uid": "U00323",
+   "en": "I'd like to borrow it for a bit."
+  },
+  {
+   "uid": "U00324",
+   "en": "What are you going to do with a computer?"
+  },
+  {
+   "uid": "U00325",
+   "en": "I'm going to try accessing the information bank of the TDF's main computer."
+  },
+  {
+   "uid": "U00326",
+   "en": "Wha… The TDF!?"
+  },
+  {
+   "uid": "U00327",
+   "en": "Oh… You've really been through a lot. Burned out of your home by a fire…<p>Well, I'm sorry it's so cramped here… but make yourselves at home."
+  },
+  {
+   "uid": "U00328",
+   "en": "Okay, thank you very much.<p>We only just met, and you're being so kind to us. You're a really nice person, Mr. Tachibana."
+  },
+  {
+   "uid": "U00329",
+   "en": "Pulling out a cell phone… Who on earth are you calling?"
+  },
+  {
+   "uid": "U00330",
+   "en": "A friend's older sister is a TDF communications officer. She's probably calling her."
+  },
+  {
+   "uid": "U00331",
+   "en": "The TDF, short for the Terrestrial Defense Force, is Earth's largest military organization, formed on a supranational level to deal with the alien invasions that have been increasing in recent years."
+  },
+  {
+   "uid": "U00332",
+   "en": "With its General Headquarters in Paris, the TDF had branches in Washington, Moscow, London, Berlin, Sydney, Cairo and the North Pole, and its Far East Branch in Japan."
+  },
+  {
+   "uid": "U00333",
+   "en": "The Far East Branch, with its secret base beneath the foot of Mt. Fuji, was a vast force led by outstanding commanders: Director Yamaoka, and Staff Officers Manabe, Yanagawa, Takenaka and Bogard."
+  },
+  {
+   "uid": "U00334",
+   "en": "And serving as a special unit directly under command were the elite officers chosen through rigorous tests…"
+  },
+  {
+   "uid": "U00335",
+   "en": "Captain Kiriyama, Officer Furuhashi, Officer Amagi, Officer Soga, and Officer Anne Yuri, the only woman, who doubled as a nurse…"
+  },
+  {
+   "uid": "U00336",
+   "en": "Licensed to operate the Defense Force's super-weapons, they were Earth's trump card against alien invasion… With respect and admiration, people called them the Ultra Garrison."
+  },
+  {
+   "uid": "U00337",
+   "en": "HQ, come in. Come in. This is Pointer!<p>Furuhashi and Soga on scheduled patrol in Tokyo's K District. Nothing unusual to report."
+  },
+  {
+   "uid": "U00338",
+   "en": "Roger. Officer Furuhashi, please continue your patrol."
+  },
+  {
+   "uid": "U00339",
+   "en": "Furuhashi, roger. Scheduled report over!"
+  },
+  {
+   "uid": "U00340",
+   "en": "Officer Furuhashi… You're actually sick of it, aren't you?"
+  },
+  {
+   "uid": "U00341",
+   "en": "Sick of what?"
+  },
+  {
+   "uid": "U00342",
+   "en": "This incredibly boring scheduled patrol… sir."
+  },
+  {
+   "uid": "U00343",
+   "en": "You fool!!<p>Soga, you're slacking off! It's precisely in peaceful times that we of the Ultra Garrison must pay even closer attention to protecting the safety and peace of the citizens!!"
+  },
+  {
+   "uid": "U00344",
+   "en": "Sir!! I-I'm sorry, sir!"
+  },
+  {
+   "uid": "U00345",
+   "en": "…That said, it really is boring, huh? Let's wrap this up early and head back to HQ."
+  },
+  {
+   "uid": "U00346",
+   "en": "Sounds good…"
+  },
+  {
+   "uid": "U00347",
+   "en": "What's this? Weird paint on their faces… Some underground theater troupe's wrap party?<p>He-ey, you there… Where do you think you're going at this hour?"
+  },
+  {
+   "uid": "U00348",
+   "en": "Whoa!? These guys are attacking us!"
+  },
+  {
+   "uid": "U00349",
+   "en": "Who are you!? Why are you attacking us?"
+  },
+  {
+   "uid": "U00350",
+   "en": "Eeee!"
+  },
+  {
+   "uid": "U00351",
+   "en": "Officer Furuhashi… They seriously mean to kill us!<p>Ah, hey, that's dangerous! You can't just charge out there like that… Of-Officer Furuhashi!!"
+  },
+  {
+   "uid": "U00352",
+   "en": "Who in the world are these guys…?"
+  },
+  {
+   "uid": "U00353",
+   "en": "They sure don't look like ordinary humans, but they don't seem like aliens either, do they? For now, let's contact HQ…"
+  },
+  {
+   "uid": "U00354",
+   "en": "Eh, eh, eh, eiii, eiiiiii!!"
+  },
+  {
+   "uid": "U00355",
+   "en": "Whoa! A m-monster!?"
+  },
+  {
+   "uid": "U00356",
+   "en": "Ugh! It's sinking its fangs into my neck!? Waaaaagh… Officer Furuhashi!!"
+  },
+  {
+   "uid": "U00357",
+   "en": "S-Soga!"
+  },
+  {
+   "uid": "U00358",
+   "en": "Ugh, uuuuugh…"
+  },
+  {
+   "uid": "U00359",
+   "en": "You monster! What did you do to Soga!?"
+  },
+  {
+   "uid": "U00360",
+   "en": "Eh, eh, eh… He has been injected with the mind-control virus!<p>Any human whose blood I drink becomes a servant of Shocker. Now it's your turn!! Eiii, eiiiiii!!"
+  },
+  {
+   "uid": "U00361",
+   "en": "Waaaaagh!!"
+  },
+  {
+   "uid": "U00362",
+   "en": "Final protection… released. [HERO2], I've gained access to the TDF's information bank."
+  },
+  {
+   "uid": "U00363",
+   "en": "Whoa? That's really something…<p>Getting into the TDF's information bank, a big lump of classified secrets, with an old computer from a tiny shop like this?"
+  },
+  {
+   "uid": "U00364",
+   "en": "[HERO4], is there any information?"
+  },
+  {
+   "uid": "U00365",
+   "en": "One moment, please…<p>Nothing in particular at the moment, it seems. Oh…?"
+  },
+  {
+   "uid": "U00366",
+   "en": "What is it, [HERO4]?"
+  },
+  {
+   "uid": "U00367",
+   "en": "This may not be anything serious, but it says the scheduled report from an Ultra Garrison patrol has stopped coming in…"
+  },
+  {
+   "uid": "U00368",
+   "en": "Couldn't they just be eating, or on a break or something?"
+  },
+  {
+   "uid": "U00369",
+   "en": "No. An ordinary officer, maybe, but the elite Ultra Garrison would never slip up like that.<p>Something's going on here…"
+  },
+  {
+   "uid": "U00370",
+   "en": "Oh, [HERO2]… For someone who just came back from space, you sure know a lot about the TDF."
+  },
+  {
+   "uid": "U00371",
+   "en": "Ah… no, well…"
+  },
+  {
+   "uid": "U00372",
+   "en": "[HERO4], do you know where they lost contact?"
+  },
+  {
+   "uid": "U00373",
+   "en": "Yes… Oh, it's surprisingly close by."
+  },
+  {
+   "uid": "U00374",
+   "en": "All right… Let's go take a look for now!"
+  },
+  {
+   "uid": "U00375",
+   "en": "Yeah, so that's how it is…"
+  },
+  {
+   "uid": "U00376",
+   "en": "Hmm… So you know a TDF communications officer, huh…"
+  },
+  {
+   "uid": "U00377",
+   "en": "Uh, yeah…"
+  },
+  {
+   "uid": "U00378",
+   "en": "Huh, really? Where… uh-huh, uh-huh… That's near here."
+  },
+  {
+   "uid": "U00379",
+   "en": "Is something wrong, [HERO4]?"
+  },
+  {
+   "uid": "U00380",
+   "en": "She says a scheduled patrol car carrying Ultra Garrison officers stopped sending in its scheduled reports…"
+  },
+  {
+   "uid": "U00381",
+   "en": "The Ultra Garrison?"
+  },
+  {
+   "uid": "U00382",
+   "en": "[HERO4], the place where they lost contact is near here, right? Let's go take a look for now!"
+  },
+  {
+   "uid": "U00383",
+   "en": "Ah, there are people over there…!?"
+  },
+  {
+   "uid": "U00384",
+   "en": "Those uniforms… The Ultra Garrison!?"
+  },
+  {
+   "uid": "U00385",
+   "en": "Hey, you! Are you all right?"
+  },
+  {
+   "uid": "U00386",
+   "en": "…Gwaah!"
+  },
+  {
+   "uid": "U00387",
+   "en": "Wh-what are you doing!"
+  },
+  {
+   "uid": "U00388",
+   "en": "Uwaaaagh!!"
+  },
+  {
+   "uid": "U00389",
+   "en": "Ngh… Something's wrong with these guys!?<p>[HERO4], run a bio-scan and check their condition!"
+  },
+  {
+   "uid": "U00390",
+   "en": "Roger!"
+  },
+  {
+   "uid": "U00391",
+   "en": "Either way, this is bad! We'll have to put them to sleep…<p>Tooh!!"
+  },
+  {
+   "uid": "U00392",
+   "en": "Geh!"
+  },
+  {
+   "uid": "U00393",
+   "en": "Sorry about this…"
+  },
+  {
+   "uid": "U00394",
+   "en": "Ugh…"
+  },
+  {
+   "uid": "U00395",
+   "en": "All right…<p>We managed to knock them out… Judging by these uniforms, they must be Ultra Garrison, no doubt about it. Why would they attack us?"
+  },
+  {
+   "uid": "U00396",
+   "en": "…Scan complete.<p>An unknown virus has gotten into their blood.<p>I can't be sure without a closer look, but most likely it acts on their central nervous system, and their minds are being controlled by someone…"
+  },
+  {
+   "uid": "U00397",
+   "en": "An unknown virus? Manipulating people?"
+  },
+  {
+   "uid": "U00398",
+   "en": "…!?<p>The only ones who could do something like that… are Shocker!!"
+  },
+  {
+   "uid": "U00399",
+   "en": "[HERO4]! Search the surrounding area! They're still somewhere nearby!"
+  },
+  {
+   "uid": "U00400",
+   "en": "Bio-weapon detected!"
+  },
+  {
+   "uid": "U00401",
+   "en": "All right! Let's go, Hongo!!"
+  },
+  {
+   "uid": "U00402",
+   "en": "Ah, there's someone over there.<p>Could it be… the Ultra Garrison!?"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U00330: その娘 read as the person [HERO4] is phoning ('She's probably calling her'); Hongo asked who she was calling",
+   "U00331: TDF = 地球防衛軍 rendered 'Terrestrial Defense Force' (U00210 source spelled 'Defence' in Latin text; kept that there)",
+   "U00342: added 'sir' for Soga's polite ですよ to his superior",
+   "U00366/U00372/U00382: dropped -san/-chan on [HERO4]",
+   "U00393: [HERO2] speaking to the unconscious Ultra Garrison officer"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "(speaker_en null)",
+    "why": "speaker_en null on hero/heroine dialogue rows"
+   },
+   {
+    "en": "Far East Branch",
+    "why": "not in glossary"
+   },
+   {
+    "en": "mind-control virus",
+    "why": "term"
+   },
+   {
+    "en": "Tokyo's K District",
+    "why": "place"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U00335",
+    "likely": "唯一"
+   },
+   {
+    "uid": "U00336",
+    "likely": "憧れ"
+   },
+   {
+    "uid": "U00337",
+    "likely": "応答"
+   },
+   {
+    "uid": "U00337",
+    "likely": "両名"
+   },
+   {
+    "uid": "U00338",
+    "likely": "引き続き / 続行"
+   },
+   {
+    "uid": "U00343",
+    "likely": "平穏"
+   },
+   {
+    "uid": "U00353",
+    "likely": "普通"
+   },
+   {
+    "uid": "U00360",
+    "likely": "意識"
+   },
+   {
+    "uid": "U00368",
+    "likely": "休憩"
+   },
+   {
+    "uid": "U00389",
+    "likely": "状態"
+   },
+   {
+    "uid": "U00396",
+    "likely": "意識"
+   },
+   {
+    "uid": "U00399",
+    "likely": "周辺"
+   }
+  ]
+ }
+}

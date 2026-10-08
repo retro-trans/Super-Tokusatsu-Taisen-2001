@@ -1,0 +1,487 @@
+{
+ "batch": "B0109",
+ "prev": "B0108",
+ "next": "B0110",
+ "rows": [
+  {
+   "uid": "U08659",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08660",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yazawa"
+  },
+  {
+   "uid": "U08661",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08662",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yazawa"
+  },
+  {
+   "uid": "U08663",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08664",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yazawa"
+  },
+  {
+   "uid": "U08665",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08666",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yazawa"
+  },
+  {
+   "uid": "U08667",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08668",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08669",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08670",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08671",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08672",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yazawa"
+  },
+  {
+   "uid": "U08673",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08674",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08675",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08676",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yazawa"
+  },
+  {
+   "uid": "U08677",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U08678",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tetsuya Sakai"
+  },
+  {
+   "uid": "U08679",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yazawa"
+  },
+  {
+   "uid": "U08680",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08681",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yazawa"
+  },
+  {
+   "uid": "U08682",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08683",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yazawa"
+  },
+  {
+   "uid": "U08684",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08685",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08686",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08687",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U08688",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08689",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U08690",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08691",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U08692",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tetsuya Sakai"
+  },
+  {
+   "uid": "U08693",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08694",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U08695",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08696",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08697",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08698",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08699",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08700",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08701",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08702",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08703",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08704",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08705",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08706",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08707",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08708",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08709",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U08710",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U08711",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U08712",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08713",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U08714",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Diamond Mask"
+  },
+  {
+   "uid": "U08715",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U08716",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08717",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08718",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08719",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaiju"
+  },
+  {
+   "uid": "U08720",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraman"
+  },
+  {
+   "uid": "U08721",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraman"
+  },
+  {
+   "uid": "U08722",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U08723",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U08724",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U08725",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U08726",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U08727",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U08728",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08729",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08730",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U08731",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U08732",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U08733",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U08734",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U08735",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U08736",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U08737",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U08738",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

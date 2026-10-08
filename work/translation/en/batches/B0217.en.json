@@ -1,0 +1,487 @@
+{
+ "batch": "B0217",
+ "prev": "B0216",
+ "next": "B0218",
+ "rows": [
+  {
+   "uid": "U17306",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U17307",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U17308",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17309",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17310",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17311",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17312",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17313",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17314",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17315",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17316",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17317",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17318",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17319",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U17320",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U17321",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U17322",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U17323",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U17324",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U17325",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U17326",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U17327",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U17328",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U17329",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U17330",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U17331",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17332",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17333",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17334",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17335",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17336",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17337",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17338",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17339",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17340",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17341",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17342",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U17343",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17344",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17345",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17346",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17347",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17348",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17349",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17350",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17351",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17352",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17353",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17354",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U17355",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17356",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17357",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17358",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17359",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17360",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17361",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17362",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17363",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17364",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17365",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17366",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U17367",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17368",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17369",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17370",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17371",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17372",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17373",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17374",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17375",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17376",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17377",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17378",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U17379",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U17380",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U17381",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U17382",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U17383",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U17384",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U17385",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Kiriyama"
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0151",
+ "prev": "B0150",
+ "next": "B0152",
+ "rows": [
+  {
+   "uid": "U12021",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U12022",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U12023",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U12024",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U12025",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U12026",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U12027",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U12028",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U12029",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U12030",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U12031",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U12032",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U12033",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U12034",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U12035",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12036",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U12037",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U12038",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12039",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12040",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12041",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U12042",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U12043",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U12044",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U12045",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U12046",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12047",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U12048",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U12049",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U12050",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U12051",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U12052",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U12053",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U12054",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U12055",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U12056",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U12057",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U12058",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U12059",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U12060",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U12061",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U12062",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U12063",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U12064",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U12065",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U12066",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U12067",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12068",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12069",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U12070",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12071",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U12072",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12073",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12074",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U12075",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U12076",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U12077",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12078",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U12079",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U12080",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U12081",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U12082",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12083",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U12084",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12085",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12086",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12087",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12088",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12089",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12090",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U12091",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U12092",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12093",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12094",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12095",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12096",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12097",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12098",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12099",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12100",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  }
+ ]
+}

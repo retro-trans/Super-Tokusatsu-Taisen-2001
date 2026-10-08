@@ -1,0 +1,487 @@
+{
+ "batch": "B0097",
+ "prev": "B0096",
+ "next": "B0098",
+ "rows": [
+  {
+   "uid": "U07699",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U07700",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07701",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U07702",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U07703",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U07704",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U07705",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07706",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U07707",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07708",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U07709",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07710",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07711",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U07712",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07713",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U07714",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07715",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07716",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07717",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U07718",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07719",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07720",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07721",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07722",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07723",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07724",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U07725",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U07726",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07727",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U07728",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U07729",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U07730",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07731",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U07732",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U07733",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U07734",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U07735",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07736",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07737",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07738",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07739",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07740",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07741",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07742",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U07743",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07744",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U07745",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U07746",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U07747",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman"
+  },
+  {
+   "uid": "U07748",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U07749",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U07750",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07751",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07752",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07753",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07754",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07755",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07756",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07757",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "His Majesty's Inspector"
+  },
+  {
+   "uid": "U07758",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07759",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07760",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U07761",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U07762",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07763",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07764",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U07765",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07766",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U07767",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U07768",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07769",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U07770",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U07771",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07772",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U07773",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07774",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U07775",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U07776",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07777",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U07778",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  }
+ ]
+}

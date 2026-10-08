@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 960
+PlayResY: 720
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,GenEi LateGo P v2,36,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,0,0,0,0,100,100,0,0,1,2,1,2,36,36,32,1
+Style: Credit,GenEi LateGo P v2,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Note,GenEi LateGo P v2,22,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,0,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.00,0:00:25.45,Default,,0,0,0,,An unprecedented astronomical\Ndiscovery was announced on Earth.
+Dialogue: 0,0:00:26.10,0:00:31.45,Default,,0,0,0,,A mysterious planet had been found\Nfar beyond Pluto.
+Dialogue: 0,0:00:32.12,0:00:38.80,Default,,0,0,0,,Discovered at the edge of the solar system,\Nit seemed to have appeared from nowhere.
+Dialogue: 0,0:00:38.80,0:00:44.45,Default,,0,0,0,,It was provisionally named "Number Ten,"\Nas the solar system's tenth planet.
+Dialogue: 0,0:00:44.92,0:00:49.04,Default,,0,0,0,,Every kind of investigation\Nwas launched from Earth...
+Dialogue: 0,0:00:49.04,0:00:54.05,Default,,0,0,0,,but no detailed information\Nabout the planet could be obtained.

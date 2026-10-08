@@ -1,0 +1,487 @@
+{
+ "batch": "B0024",
+ "prev": "B0023",
+ "next": "B0025",
+ "rows": [
+  {
+   "uid": "U01848",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01849",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01850",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U01851",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U01852",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01853",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01854",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U01855",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U01856",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U01857",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U01858",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01859",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01860",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01861",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01862",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U01863",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01864",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01865",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U01866",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U01867",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U01868",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U01869",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01870",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01871",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U01872",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01873",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U01874",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U01875",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U01876",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U01877",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U01878",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U01879",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01880",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U01881",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01882",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U01883",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01884",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "DARK Robot"
+  },
+  {
+   "uid": "U01885",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01886",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01887",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U01888",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01889",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01890",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U01891",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01892",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01893",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U01894",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01895",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01896",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U01897",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01898",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01899",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01900",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01901",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "DARK Scientist"
+  },
+  {
+   "uid": "U01902",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01903",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01904",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01905",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U01906",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U01907",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U01908",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U01909",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U01910",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U01911",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U01912",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U01913",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U01914",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U01915",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U01916",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U01917",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U01918",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U01919",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U01920",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U01921",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U01922",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U01923",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U01924",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01925",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U01926",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01927",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo"
+  }
+ ]
+}

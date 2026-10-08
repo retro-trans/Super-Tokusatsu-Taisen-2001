@@ -1,0 +1,388 @@
+{
+ "batch": "B0262",
+ "rows": [
+  {
+   "uid": "U20954",
+   "en": "Armor +150"
+  },
+  {
+   "uid": "U20957",
+   "en": "Mob. +5",
+   "note": "Shortened to fit the checker budget; preferred: Mobility +5"
+  },
+  {
+   "uid": "U20958",
+   "en": "Mob. +15",
+   "note": "Shortened to fit the checker budget; preferred: Mobility +15"
+  },
+  {
+   "uid": "U20959",
+   "en": "Atk Boost",
+   "note": "Shortened to fit the checker budget; preferred: Attack Boost"
+  },
+  {
+   "uid": "U20960",
+   "en": "Ability+",
+   "note": "Shortened to fit the checker budget; preferred: Ability Boost"
+  },
+  {
+   "uid": "U20961",
+   "en": "Sp. Ability+",
+   "note": "Shortened to fit the checker budget; preferred: Special Ability Boost"
+  },
+  {
+   "uid": "U20962",
+   "en": "<c3>Dir.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Direct</c>"
+  },
+  {
+   "uid": "U20963",
+   "en": "<c3>Ind.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Indirect</c>"
+  },
+  {
+   "uid": "U20964",
+   "en": "<c3>Skill</c>"
+  },
+  {
+   "uid": "U20966",
+   "en": "{05AD}L",
+   "note": "Shortened to fit the checker budget; preferred: {05AD}Land"
+  },
+  {
+   "uid": "U20967",
+   "en": "L/S",
+   "note": "Shortened to fit the checker budget; preferred: Land/Sea"
+  },
+  {
+   "uid": "U20968",
+   "en": "{05AD}Sea"
+  },
+  {
+   "uid": "U20969",
+   "en": "Spc",
+   "note": "Shortened to fit the checker budget; preferred: Space"
+  },
+  {
+   "uid": "U20970",
+   "en": "{05AD}Air"
+  },
+  {
+   "uid": "U20972",
+   "en": "All"
+  },
+  {
+   "uid": "U20973",
+   "en": "<c3>EXP</c>"
+  },
+  {
+   "uid": "U20974",
+   "en": "<c3>To next level:</c>"
+  },
+  {
+   "uid": "U20975",
+   "en": "HP",
+   "note": "Shortened to fit the checker budget; preferred: HP Display"
+  },
+  {
+   "uid": "U20976",
+   "en": "EN",
+   "note": "Shortened to fit the checker budget; preferred: EN Display"
+  },
+  {
+   "uid": "U20978",
+   "en": "<c3>ABC</c>"
+  },
+  {
+   "uid": "U20979",
+   "en": "<c3>abc</c>"
+  },
+  {
+   "uid": "U20980",
+   "en": "<c3>123</c>"
+  },
+  {
+   "uid": "U20981",
+   "en": "O: Confirm",
+   "note": "Shortened to fit the checker budget; preferred: O Button: Confirm"
+  },
+  {
+   "uid": "U20982",
+   "en": "Tri.: Delete",
+   "note": "Shortened to fit the checker budget; preferred: Triangle: Delete"
+  },
+  {
+   "uid": "U20983",
+   "en": "Hero's family name?",
+   "note": "Shortened to fit the checker budget; preferred: Enter the hero's family name."
+  },
+  {
+   "uid": "U20984",
+   "en": "Hero's given name?",
+   "note": "Shortened to fit the checker budget; preferred: Enter the hero's given name."
+  },
+  {
+   "uid": "U20985",
+   "en": "Heroine's family name?",
+   "note": "Shortened to fit the checker budget; preferred: Enter the heroine's family name."
+  },
+  {
+   "uid": "U20986",
+   "en": "Heroine's given name?",
+   "note": "Shortened to fit the checker budget; preferred: Enter the heroine's given name."
+  },
+  {
+   "uid": "U20987",
+   "en": "ABCDE FGHIJ KLMNO PQRST"
+  },
+  {
+   "uid": "U20988",
+   "en": "UVWXY Z.,!? -'&/  01234"
+  },
+  {
+   "uid": "U20989",
+   "en": "56789 ():   \"#$%* +    "
+  },
+  {
+   "uid": "U20990",
+   "en": ";=@~^ ★☆♥♪\\ «»°×…      "
+  },
+  {
+   "uid": "U20991",
+   "en": "–—‘’“ ”←→   |`±_É      "
+  },
+  {
+   "uid": "U20992",
+   "en": "abcde fghij klmno pqrst"
+  },
+  {
+   "uid": "U20993",
+   "en": "uvwxy z.,!? -'&/  01234"
+  },
+  {
+   "uid": "U20994",
+   "en": "56789 ():   àâçèé êë   "
+  },
+  {
+   "uid": "U20995",
+   "en": "ïôöü« »°×…★ ☆♥♪\\–      "
+  },
+  {
+   "uid": "U20996",
+   "en": "—‘’“” ←→|   `±_;=      "
+  },
+  {
+   "uid": "U21002",
+   "en": "<c3>End</c>"
+  },
+  {
+   "uid": "U21006",
+   "en": "Choose your hero."
+  },
+  {
+   "uid": "U21007",
+   "en": "<c3>Rename</c>"
+  },
+  {
+   "uid": "U21008",
+   "en": "       Fusion Steel Lucifard"
+  },
+  {
+   "uid": "U21009",
+   "en": "     EATER ~Test Subject 003~"
+  },
+  {
+   "uid": "U21010",
+   "en": "<c3>Hero</c>"
+  },
+  {
+   "uid": "U21011",
+   "en": "<c3>Heroi.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Heroine</c>"
+  },
+  {
+   "uid": "U21012",
+   "en": "Solar",
+   "note": "Shortened to fit the checker budget; preferred: Solar Battery"
+  },
+  {
+   "uid": "U21013",
+   "en": "Solar Energy"
+  },
+  {
+   "uid": "U21014",
+   "en": "HP Regen (S)"
+  },
+  {
+   "uid": "U21015",
+   "en": "HP Regen (L)"
+  },
+  {
+   "uid": "U21016",
+   "en": "C.Timer",
+   "note": "Shortened to fit the checker budget; preferred: Color Timer"
+  },
+  {
+   "uid": "U21017",
+   "en": "Shield",
+   "note": "Shortened to fit the checker budget; preferred: Shield Defense"
+  },
+  {
+   "uid": "U21018",
+   "en": "Parry"
+  },
+  {
+   "uid": "U21019",
+   "en": "Weak: Elec.",
+   "note": "Shortened to fit the checker budget; preferred: Weak to Lightning"
+  },
+  {
+   "uid": "U21020",
+   "en": "Weak to Fire"
+  },
+  {
+   "uid": "U21021",
+   "en": "Weak: Water",
+   "note": "Shortened to fit the checker budget; preferred: Weak to Water"
+  },
+  {
+   "uid": "U21022",
+   "en": "Clone"
+  },
+  {
+   "uid": "U21023",
+   "en": "Weak B.",
+   "note": "Shortened to fit the checker budget; preferred: Weak Barrier"
+  },
+  {
+   "uid": "U21024",
+   "en": "Str. Barrier",
+   "note": "Shortened to fit the checker budget; preferred: Strong Barrier"
+  },
+  {
+   "uid": "U21025",
+   "en": "Super Barrier"
+  },
+  {
+   "uid": "U21026",
+   "en": "Spellge. Armor",
+   "note": "Shortened to fit the checker budget; preferred: Spellgen Armor"
+  },
+  {
+   "uid": "U21027",
+   "en": "Auto Reflect",
+   "note": "Shortened to fit the checker budget; preferred: Auto Reflector"
+  },
+  {
+   "uid": "U21028",
+   "en": "Gust Barri.",
+   "note": "Shortened to fit the checker budget; preferred: Gust Barrier"
+  },
+  {
+   "uid": "U21029",
+   "en": "P.Barrier",
+   "note": "Shortened to fit the checker budget; preferred: Perfect Barrier"
+  },
+  {
+   "uid": "U21030",
+   "en": "Carry 1",
+   "note": "Shortened to fit the checker budget; preferred: Carry (1 unit)"
+  },
+  {
+   "uid": "U21031",
+   "en": "Carry 2",
+   "note": "Shortened to fit the checker budget; preferred: Carry (2 units)"
+  },
+  {
+   "uid": "U21032",
+   "en": "Carry 3",
+   "note": "Shortened to fit the checker budget; preferred: Carry (3 units)"
+  },
+  {
+   "uid": "U21033",
+   "en": "Carry 4",
+   "note": "Shortened to fit the checker budget; preferred: Carry (4 units)"
+  },
+  {
+   "uid": "U21034",
+   "en": "Armor",
+   "note": "Shortened to fit the checker budget; preferred: Super Armor"
+  },
+  {
+   "uid": "U21036",
+   "en": "Henshin 103",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 103)"
+  },
+  {
+   "uid": "U21037",
+   "en": "Henshin 105",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 105)"
+  },
+  {
+   "uid": "U21038",
+   "en": "Henshin 108",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 108)"
+  },
+  {
+   "uid": "U21039",
+   "en": "Henshin 110",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 110)"
+  },
+  {
+   "uid": "U21040",
+   "en": "Henshin 112",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 112)"
+  },
+  {
+   "uid": "U21041",
+   "en": "Henshin 115",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 115)"
+  },
+  {
+   "uid": "U21042",
+   "en": "Henshin (dying)",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (near death)"
+  },
+  {
+   "uid": "U21043",
+   "en": "Henten 105",
+   "note": "Shortened to fit the checker budget; preferred: Henten (Morale 105)"
+  },
+  {
+   "uid": "U21044",
+   "en": "Henten (Mor.112)",
+   "note": "Shortened to fit the checker budget; preferred: Henten (Morale 112)"
+  },
+  {
+   "uid": "U21045",
+   "en": "Johchaku 105",
+   "note": "Shortened to fit the checker budget; preferred: Johchaku (Morale 105)"
+  },
+  {
+   "uid": "U21046",
+   "en": "Sekisha 105",
+   "note": "Shortened to fit the checker budget; preferred: Sekisha (Morale 105)"
+  },
+  {
+   "uid": "U21047",
+   "en": "Shoketsu 105",
+   "note": "Shortened to fit the checker budget; preferred: Shoketsu (Morale 105)"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U20987-U20996: name-entry kana grid replaced by an English character grid with the same spacing pattern: page 1 (hiragana rows) = A-Z, punctuation, digits, symbols; page 2 (katakana rows) = a-z, digits, accented letters, symbols. The page tabs U20978/U20979/U20980 became ABC/abc/123. The input code mapping of the grid must be handled by the insert tool",
+   "U20966-U20972: movement types 陸/陸海/海/宇宙/空/万能 = Land, L/S, Sea, Space, Air, All (shortened to letters where needed)",
+   "U20982: △ not in the font; written 'Triangle'",
+   "U21008/U21009: hero-select labels; leading spaces kept; ～ written as ~",
+   "U21022: 分身 ability rendered 'Clone'",
+   "U21042: 変身（生命の危機） rendered 'Henshin (near death)'",
+   "U21011: 'Heroine' cannot fit 32px"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": []
+ }
+}

@@ -1,0 +1,376 @@
+{
+ "batch": "B0257",
+ "rows": [
+  {
+   "uid": "U20534",
+   "en": "{ranged}High{elec}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}High Voltage{elec}"
+  },
+  {
+   "uid": "U20535",
+   "en": "{ranged}High{S}{elec}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}High Voltage{S}{elec}"
+  },
+  {
+   "uid": "U20536",
+   "en": "{direct}Saber{P}"
+  },
+  {
+   "uid": "U20537",
+   "en": "{direct}Sword{P}{S}"
+  },
+  {
+   "uid": "U20538",
+   "en": "{ranged}Claw{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Claw Missile{bullet}"
+  },
+  {
+   "uid": "U20539",
+   "en": "{ranged}D.Ray{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Destruction Ray{beam}"
+  },
+  {
+   "uid": "U20540",
+   "en": "{direct}M.Roller{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Megaton Roller{P}"
+  },
+  {
+   "uid": "U20541",
+   "en": "{ranged}Tornado"
+  },
+  {
+   "uid": "U20542",
+   "en": "{direct}Sword{P}"
+  },
+  {
+   "uid": "U20543",
+   "en": "{ranged}Ray{fire}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Heat Ray{fire}★"
+  },
+  {
+   "uid": "U20544",
+   "en": "{direct}Drill{P}"
+  },
+  {
+   "uid": "U20545",
+   "en": "{ranged}Freeze Ray{beam}"
+  },
+  {
+   "uid": "U20546",
+   "en": "{direct}Drill{P}{S}"
+  },
+  {
+   "uid": "U20547",
+   "en": "{direct}H.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Hiryu Kick{P}"
+  },
+  {
+   "uid": "U20548",
+   "en": "{direct}H.Punch{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Hammer Punch{P}"
+  },
+  {
+   "uid": "U20549",
+   "en": "{ranged}H.Guil.{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Head Guillotine{bullet}"
+  },
+  {
+   "uid": "U20550",
+   "en": "{direct}Punch{P}{S}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Hammer Punch{P}{S}"
+  },
+  {
+   "uid": "U20551",
+   "en": "{direct}G.Drop{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Guillotine Drop{P}"
+  },
+  {
+   "uid": "U20552",
+   "en": "{ranged}Poison Needle★"
+  },
+  {
+   "uid": "U20553",
+   "en": "{direct}Bite{P}★"
+  },
+  {
+   "uid": "U20554",
+   "en": "{ranged}Fluid★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Dissolving Fluid★"
+  },
+  {
+   "uid": "U20555",
+   "en": "{direct}F.Sword{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Fencing Sword{P}"
+  },
+  {
+   "uid": "U20556",
+   "en": "{direct}Scissors{P}"
+  },
+  {
+   "uid": "U20557",
+   "en": "{ranged}D.Gas★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Dissolving Gas★"
+  },
+  {
+   "uid": "U20558",
+   "en": "{ranged}Flame{fire}"
+  },
+  {
+   "uid": "U20559",
+   "en": "{ranged}Poison Smoke★"
+  },
+  {
+   "uid": "U20560",
+   "en": "{ranged}Depth Charge{elec}"
+  },
+  {
+   "uid": "U20561",
+   "en": "{ranged}Fiss.",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Fissure"
+  },
+  {
+   "uid": "U20562",
+   "en": "{ranged}Lightning{elec}"
+  },
+  {
+   "uid": "U20563",
+   "en": "{ranged}S.Bazooka{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Super Bazooka{bullet}"
+  },
+  {
+   "uid": "U20564",
+   "en": "{ranged}H.TV{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Hypno TV{beam}★"
+  },
+  {
+   "uid": "U20565",
+   "en": "{ranged}Shot{bullet}"
+  },
+  {
+   "uid": "U20566",
+   "en": "{ranged}Power Shot{bullet}"
+  },
+  {
+   "uid": "U20567",
+   "en": "{ranged}Fireball{fire}"
+  },
+  {
+   "uid": "U20568",
+   "en": "{ranged}Missiles{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Mini Missiles{bullet}"
+  },
+  {
+   "uid": "U20569",
+   "en": "{ranged}Spray{water}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Freeze Spray{water}"
+  },
+  {
+   "uid": "U20570",
+   "en": "{direct}Axe{P}"
+  },
+  {
+   "uid": "U20571",
+   "en": "{ranged}L.Gun{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Laser Gun{beam}"
+  },
+  {
+   "uid": "U20572",
+   "en": "V.Bats",
+   "note": "Shortened to fit the checker budget; preferred: Vampire Bats"
+  },
+  {
+   "uid": "U20573",
+   "en": "{ranged}Breaker",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Shell Breaker"
+  },
+  {
+   "uid": "U20574",
+   "en": "{direct}S.Saber{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Satan Saber{P}"
+  },
+  {
+   "uid": "U20575",
+   "en": "{direct}Saber{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Bill Saber{P}"
+  },
+  {
+   "uid": "U20576",
+   "en": "{ranged}S.Flash{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Shadow Flash{beam}"
+  },
+  {
+   "uid": "U20577",
+   "en": "{ranged}Ray",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Heat Ray"
+  },
+  {
+   "uid": "U20578",
+   "en": "{ranged}Ray{S}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Heat Ray{S}"
+  },
+  {
+   "uid": "U20579",
+   "en": "{ranged}W.D.Ray{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}White Destruction Ray{beam}"
+  },
+  {
+   "uid": "U20580",
+   "en": "{ranged}R.F.Ray{S}{water}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Red Freeze Ray{S}{water}"
+  },
+  {
+   "uid": "U20581",
+   "en": "{direct}Tail{P}"
+  },
+  {
+   "uid": "U20582",
+   "en": "{ranged}R.Drop{S}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Rock Drop{S}"
+  },
+  {
+   "uid": "U20583",
+   "en": "{ranged}Gravity Storm"
+  },
+  {
+   "uid": "U20584",
+   "en": "{ranged}Gravity Storm{S}"
+  },
+  {
+   "uid": "U20585",
+   "en": "{ranged}Weird Ray{S}{beam}"
+  },
+  {
+   "uid": "U20586",
+   "en": "{ranged}Flame{S}{fire}"
+  },
+  {
+   "uid": "U20587",
+   "en": "{ranged}Gale"
+  },
+  {
+   "uid": "U20588",
+   "en": "{ranged}Gale{S}"
+  },
+  {
+   "uid": "U20589",
+   "en": "{ranged}E.Wave{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Energy Wave{beam}"
+  },
+  {
+   "uid": "U20590",
+   "en": "{ranged}Flame{S}{fire}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Super Heat Flame{S}{fire}"
+  },
+  {
+   "uid": "U20591",
+   "en": "{direct}Tail{P}{S}"
+  },
+  {
+   "uid": "U20592",
+   "en": "{ranged}Discharge{elec}"
+  },
+  {
+   "uid": "U20593",
+   "en": "{ranged}Poison Gas{S}★"
+  },
+  {
+   "uid": "U20594",
+   "en": "{ranged}Cannon{S}{bullet}"
+  },
+  {
+   "uid": "U20595",
+   "en": "{ranged}Ray{S}{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Destruction Ray{S}{beam}"
+  },
+  {
+   "uid": "U20596",
+   "en": "{ranged}R.Ray{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Ring Ray{beam}"
+  },
+  {
+   "uid": "U20597",
+   "en": "{ranged}Ray{beam}{S}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Ring Ray{beam}{S}"
+  },
+  {
+   "uid": "U20598",
+   "en": "{ranged}E.Ray{S}{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Emerium Ray{S}{beam}"
+  },
+  {
+   "uid": "U20599",
+   "en": "{ranged}S.Ray{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Shock Ray{beam}"
+  },
+  {
+   "uid": "U20600",
+   "en": "{ranged}Spark{elec}"
+  },
+  {
+   "uid": "U20601",
+   "en": "{ranged}Spark{S}{elec}"
+  },
+  {
+   "uid": "U20602",
+   "en": "{ranged}Ray{S}{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Destruction Ray{S}{beam}★"
+  },
+  {
+   "uid": "U20603",
+   "en": "{direct}Tentacles{P}{S}"
+  },
+  {
+   "uid": "U20604",
+   "en": "{ranged}F.Ray{water}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Freeze Ray{water}"
+  },
+  {
+   "uid": "U20605",
+   "en": "{ranged}F.Ray{S}{water}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Freeze Ray{S}{water}"
+  },
+  {
+   "uid": "U20606",
+   "en": "{ranged}Phosphor Light"
+  },
+  {
+   "uid": "U20607",
+   "en": "{ranged}Fire Shells{S}{fire}"
+  },
+  {
+   "uid": "U20608",
+   "en": "{ranged}Ray{S}{beam}"
+  },
+  {
+   "uid": "U20609",
+   "en": "{ranged}Heat Beam{S}{fire}"
+  },
+  {
+   "uid": "U20610",
+   "en": "{ranged}Heat Beam{fire}"
+  },
+  {
+   "uid": "U20611",
+   "en": "{direct}Fury Slicer{P}"
+  },
+  {
+   "uid": "U20612",
+   "en": "{ranged}Fury Saucer"
+  },
+  {
+   "uid": "U20613",
+   "en": "M.Space",
+   "note": "Shortened to fit the checker budget; preferred: Makuu Space"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "Weapon/name menu rows taken from the glossary and abbreviated where check_batch.py (which counts icon tags at 8px against a text-only budget) required it; shortened rows carry a note with the preferred full name"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": []
+ }
+}

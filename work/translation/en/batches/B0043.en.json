@@ -1,0 +1,487 @@
+{
+ "batch": "B0043",
+ "prev": "B0042",
+ "next": "B0044",
+ "rows": [
+  {
+   "uid": "U03370",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03371",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03372",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U03373",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03374",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03375",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03376",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03377",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03378",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03379",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03380",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03381",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03382",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuji"
+  },
+  {
+   "uid": "U03383",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03384",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U03385",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03386",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03387",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U03388",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03389",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03390",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03391",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03392",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03393",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03394",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U03395",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U03396",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U03397",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U03398",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03399",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03400",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03401",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03402",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03403",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03404",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U03405",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U03406",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U03407",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03408",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U03409",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U03410",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U03411",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U03412",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U03413",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03414",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U03415",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03416",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U03417",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03418",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03419",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03420",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U03421",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03422",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U03423",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03424",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U03425",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03426",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U03427",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03428",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03429",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03430",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U03431",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03432",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03433",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03434",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U03435",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03436",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U03437",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U03438",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03439",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03440",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03441",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03442",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03443",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03444",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03445",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03446",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03447",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03448",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03449",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

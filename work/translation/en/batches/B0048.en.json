@@ -1,0 +1,487 @@
+{
+ "batch": "B0048",
+ "prev": "B0047",
+ "next": "B0049",
+ "rows": [
+  {
+   "uid": "U03771",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03772",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U03773",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03774",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U03775",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03776",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U03777",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03778",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U03779",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03780",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U03781",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03782",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03783",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U03784",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03785",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03786",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U03787",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U03788",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U03789",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03790",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U03791",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03792",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U03793",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U03794",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U03795",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U03796",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03797",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U03798",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03799",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03800",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03801",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03802",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03803",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03804",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03805",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U03806",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03807",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03808",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03809",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U03810",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U03811",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U03812",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U03813",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03814",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03815",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03816",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03817",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03818",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U03819",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U03820",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03821",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U03822",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U03823",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03824",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U03825",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U03826",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U03827",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U03828",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U03829",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U03830",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U03831",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03832",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U03833",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U03834",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gel-Shocker Combatant"
+  },
+  {
+   "uid": "U03835",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U03836",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U03837",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U03838",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U03839",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U03840",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U03841",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U03842",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03843",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U03844",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U03845",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U03846",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U03847",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U03848",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U03849",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U03850",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0083",
+ "prev": "B0082",
+ "next": "B0084",
+ "rows": [
+  {
+   "uid": "U06578",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06579",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06580",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06581",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U06582",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U06583",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U06584",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06585",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U06586",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06587",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U06588",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06589",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U06590",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06591",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06592",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06593",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06594",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06595",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06596",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U06597",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06598",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "007"
+  },
+  {
+   "uid": "U06599",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06600",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06601",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06602",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06603",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06604",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U06605",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06606",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06607",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06608",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06609",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06610",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06611",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06612",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U06613",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06614",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06615",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06616",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06617",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06618",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06619",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06620",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06621",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06622",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06623",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06624",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06625",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06626",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U06627",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06628",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious General"
+  },
+  {
+   "uid": "U06629",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06630",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U06631",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06632",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U06633",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06634",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U06635",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06636",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U06637",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06638",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06639",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "007"
+  },
+  {
+   "uid": "U06640",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U06641",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06642",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06643",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U06644",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U06645",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenji Asuka"
+  },
+  {
+   "uid": "U06646",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06647",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06648",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U06649",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06650",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06651",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U06652",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06653",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U06654",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06655",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U06656",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06657",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  }
+ ]
+}

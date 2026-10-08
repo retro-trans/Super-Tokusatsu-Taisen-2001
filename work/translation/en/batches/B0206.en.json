@@ -1,0 +1,487 @@
+{
+ "batch": "B0206",
+ "prev": "B0205",
+ "next": "B0207",
+ "rows": [
+  {
+   "uid": "U16426",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U16427",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U16428",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U16429",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U16430",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U16431",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U16432",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U16433",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U16434",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U16435",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U16436",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U16437",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U16438",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U16439",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U16440",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U16441",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U16442",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U16443",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U16444",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U16445",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U16446",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ushio"
+  },
+  {
+   "uid": "U16447",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ushio"
+  },
+  {
+   "uid": "U16448",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ushio"
+  },
+  {
+   "uid": "U16449",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ushio"
+  },
+  {
+   "uid": "U16450",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ushio"
+  },
+  {
+   "uid": "U16451",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ushio"
+  },
+  {
+   "uid": "U16452",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ushio"
+  },
+  {
+   "uid": "U16453",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ushio"
+  },
+  {
+   "uid": "U16454",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ushio"
+  },
+  {
+   "uid": "U16455",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U16456",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U16457",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U16458",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U16459",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U16460",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U16461",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U16462",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U16463",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U16464",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U16465",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U16466",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U16467",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U16468",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U16469",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U16470",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U16471",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U16472",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U16473",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U16474",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Hirata"
+  },
+  {
+   "uid": "U16475",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Hirata"
+  },
+  {
+   "uid": "U16476",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Hirata"
+  },
+  {
+   "uid": "U16477",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Hirata"
+  },
+  {
+   "uid": "U16478",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Hirata"
+  },
+  {
+   "uid": "U16479",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Hirata"
+  },
+  {
+   "uid": "U16480",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Hirata"
+  },
+  {
+   "uid": "U16481",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Hirata"
+  },
+  {
+   "uid": "U16482",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U16483",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U16484",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U16485",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U16486",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U16487",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U16488",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U16489",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U16490",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U16491",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Yanagiya"
+  },
+  {
+   "uid": "U16492",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Yanagiya"
+  },
+  {
+   "uid": "U16493",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Yanagiya"
+  },
+  {
+   "uid": "U16494",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Yanagiya"
+  },
+  {
+   "uid": "U16495",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Yanagiya"
+  },
+  {
+   "uid": "U16496",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Yanagiya"
+  },
+  {
+   "uid": "U16497",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Yanagiya"
+  },
+  {
+   "uid": "U16498",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Yanagiya"
+  },
+  {
+   "uid": "U16499",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Yanagiya"
+  },
+  {
+   "uid": "U16500",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U16501",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U16502",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U16503",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U16504",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U16505",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0105",
+ "prev": "B0104",
+ "next": "B0106",
+ "rows": [
+  {
+   "uid": "U08339",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U08340",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U08341",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U08342",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U08343",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U08344",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U08345",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U08346",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08347",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U08348",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08349",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08350",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08351",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08352",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08353",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Stray Dog"
+  },
+  {
+   "uid": "U08354",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08355",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U08356",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08357",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U08358",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08359",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U08360",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U08361",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U08362",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U08363",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U08364",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U08365",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08366",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U08367",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08368",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U08369",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08370",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U08371",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U08372",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U08373",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U08374",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U08375",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08376",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U08377",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U08378",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U08379",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U08380",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U08381",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08382",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08383",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08384",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08385",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08386",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08387",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08388",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08389",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08390",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08391",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08392",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U08393",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U08394",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08395",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08396",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U08397",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U08398",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08399",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U08400",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08401",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08402",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08403",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08404",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08405",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08406",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08407",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U08408",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U08409",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U08410",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U08411",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Bishium"
+  },
+  {
+   "uid": "U08412",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U08413",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Creation King"
+  },
+  {
+   "uid": "U08414",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U08415",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U08416",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Bishium"
+  },
+  {
+   "uid": "U08417",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U08418",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  }
+ ]
+}

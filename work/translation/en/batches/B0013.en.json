@@ -1,0 +1,487 @@
+{
+ "batch": "B0013",
+ "prev": "B0012",
+ "next": "B0014",
+ "rows": [
+  {
+   "uid": "U00967",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U00968",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U00969",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U00970",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U00971",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00972",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00973",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U00974",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00975",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U00976",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00977",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00978",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U00979",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U00980",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Giant Robo"
+  },
+  {
+   "uid": "U00981",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U00982",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U00983",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U00984",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U00985",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U00986",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00987",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U00988",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U00989",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U00990",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00991",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00992",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U00993",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00994",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Spider Man"
+  },
+  {
+   "uid": "U00995",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bat Man"
+  },
+  {
+   "uid": "U00996",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Scorpion Man"
+  },
+  {
+   "uid": "U00997",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U00998",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Itsutsu Banbara"
+  },
+  {
+   "uid": "U00999",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01000",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01001",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01002",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01003",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01004",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01005",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01006",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01007",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Otaguro"
+  },
+  {
+   "uid": "U01008",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Hashimoto"
+  },
+  {
+   "uid": "U01009",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Otaguro"
+  },
+  {
+   "uid": "U01010",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Hashimoto"
+  },
+  {
+   "uid": "U01011",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Hashimoto"
+  },
+  {
+   "uid": "U01012",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Otaguro"
+  },
+  {
+   "uid": "U01013",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Hashimoto"
+  },
+  {
+   "uid": "U01014",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Otaguro"
+  },
+  {
+   "uid": "U01015",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Hashimoto"
+  },
+  {
+   "uid": "U01016",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Otaguro"
+  },
+  {
+   "uid": "U01017",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Hashimoto"
+  },
+  {
+   "uid": "U01018",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Otaguro"
+  },
+  {
+   "uid": "U01019",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U01020",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Colonel Zol"
+  },
+  {
+   "uid": "U01021",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U01022",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Colonel Zol"
+  },
+  {
+   "uid": "U01023",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01024",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01025",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01026",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U01027",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01028",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U01029",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01030",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U01031",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Otaguro"
+  },
+  {
+   "uid": "U01032",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01033",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Otaguro"
+  },
+  {
+   "uid": "U01034",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01035",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Otaguro"
+  },
+  {
+   "uid": "U01036",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01037",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01038",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U01039",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Otaguro"
+  },
+  {
+   "uid": "U01040",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01041",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01042",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01043",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01044",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01045",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01046",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  }
+ ]
+}

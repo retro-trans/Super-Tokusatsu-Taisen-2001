@@ -1,0 +1,487 @@
+{
+ "batch": "B0154",
+ "prev": "B0153",
+ "next": "B0155",
+ "rows": [
+  {
+   "uid": "U12261",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Great King Gamagon"
+  },
+  {
+   "uid": "U12262",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12263",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12264",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12265",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12266",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12267",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12268",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12269",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12270",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12271",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12272",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12273",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12274",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12275",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12276",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12277",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12278",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12279",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U12280",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U12281",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12282",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U12283",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U12284",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12285",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12286",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U12287",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U12288",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12289",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12290",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12291",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12292",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12293",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12294",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12295",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12296",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12297",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12298",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12299",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12300",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12301",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U12302",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U12303",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Holy One"
+  },
+  {
+   "uid": "U12304",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U12305",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U12306",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Holy One"
+  },
+  {
+   "uid": "U12307",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U12308",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U12309",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Holy One"
+  },
+  {
+   "uid": "U12310",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U12311",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U12312",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U12313",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Shaider"
+  },
+  {
+   "uid": "U12314",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12315",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12316",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Suspicious Man"
+  },
+  {
+   "uid": "U12317",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12318",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Suspicious Man"
+  },
+  {
+   "uid": "U12319",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12320",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12321",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Psycholer, Psycho's Avatar"
+  },
+  {
+   "uid": "U12322",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12323",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U12324",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12325",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12326",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U12327",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12328",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U12329",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U12330",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Warrior Psycholer"
+  },
+  {
+   "uid": "U12331",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U12332",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U12333",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Warrior Psycholer"
+  },
+  {
+   "uid": "U12334",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Warrior Psycholer"
+  },
+  {
+   "uid": "U12335",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12336",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U12337",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U12338",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U12339",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U12340",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  }
+ ]
+}

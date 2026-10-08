@@ -1,0 +1,371 @@
+{
+ "batch": "B0251",
+ "rows": [
+  {
+   "uid": "U20040",
+   "en": "Inazuman's dedicated vehicle, with a dog's brain built in. It flies at Mach 3 and fights enemy fighters with rockets and its bite. It is also an all-purpose combat craft that can dive underwater and underground. In the game it can carry up to two units besides Inazuman."
+  },
+  {
+   "uid": "U20041",
+   "en": "Riderman"
+  },
+  {
+   "uid": "U20042",
+   "en": "Joji Yuki transforms by donning a reinforced suit. His right arm is mechanized and fits various attachments such as the Power Arm and Rope Arm. His machine is the Riderman Machine."
+  },
+  {
+   "uid": "U20043",
+   "en": "Riderman Machine"
+  },
+  {
+   "uid": "U20044",
+   "en": "Riderman's dedicated machine, converted from an ordinary motorcycle. The mask, reinforced suit and attachments are stored under the seat. Nuclear-powered, it can reach a top speed of 250 km/h."
+  },
+  {
+   "uid": "U20045",
+   "en": "Rieko"
+  },
+  {
+   "uid": "U20046",
+   "en": "Akira's caretaker, a woman who shakes off Shadow's pursuers with him and continues life on the run. She was actually an android built by Gill."
+  },
+  {
+   "uid": "U20047",
+   "en": "Rita"
+  },
+  {
+   "uid": "U20048",
+   "en": "Lily"
+  },
+  {
+   "uid": "U20049",
+   "en": "Lucifard"
+  },
+  {
+   "uid": "U20050",
+   "en": "and has a specification that pushes its solo combat ability to the extreme. Its weapons include the Twin Linear Gun and Maser Bits."
+  },
+  {
+   "uid": "U20051",
+   "en": "Raider"
+  },
+  {
+   "uid": "U20052",
+   "en": "Red King"
+  },
+  {
+   "uid": "U20053",
+   "en": "Red Baron"
+  },
+  {
+   "uid": "U20054",
+   "en": "A super robot that robotics engineer Kenichiro Kurenai spent four years developing. It is piloted by his younger brother Ken Kurenai. It boasts an output of 10,000 horsepower, and its special attack is the Electrigger, a 100-million-volt high-voltage current released from its head. It was later powered up with the Space Wings and the Drill Arrow."
+  },
+  {
+   "uid": "U20055",
+   "en": "Red Baron Space Wings"
+  },
+  {
+   "uid": "U20056",
+   "en": "Red Baron's flight form fitted with the Space Wings designed by Dr. Mikami. Red Baron can fly on its own, but equipping the Space Wings let it sortie into space as well."
+  },
+  {
+   "uid": "U20057",
+   "en": "Roller Robot"
+  },
+  {
+   "uid": "U20058",
+   "en": "A Brain Party invasion robot. It causes landslides with the Megaton Roller at its front and fires destruction rays from the horn on its head. It killed young Saburo's family."
+  },
+  {
+   "uid": "U20059",
+   "en": "Roboizer"
+  },
+  {
+   "uid": "U20060",
+   "en": "The enhanced transformation of the Acrobatter that happens when RX turns into Robo Rider. Top speed 800 km/h. It can fire rockets from its rear. It has a sturdy body."
+  },
+  {
+   "uid": "U20061",
+   "en": "Robo Rider"
+  },
+  {
+   "uid": "U20062",
+   "en": "Washi Beast"
+  },
+  {
+   "uid": "U20063",
+   "en": "It confuses enemies by firing phantom rays from its eyes. It can also fly and swoops down to attack enemies."
+  },
+  {
+   "uid": "U20064",
+   "en": "Goro Watari"
+  },
+  {
+   "uid": "U20065",
+   "en": "Shinobu Watari"
+  },
+  {
+   "uid": "U20066",
+   "en": "Goro Watari's mother, separated from him 15 years ago and missing ever since. Goro himself confirmed it was her through a matching rose pendant and a rose-shaped birthmark. Because she had mutant potential, Banba forcibly remodeled her, and she transforms into Bara Banbara. But she had not lost her mother's heart."
+  },
+  {
+   "uid": "U20067",
+   "en": "Waruder"
+  },
+  {
+   "uid": "U20068",
+   "en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U20069",
+   "en": "One-Eight"
+  },
+  {
+   "uid": "U20070",
+   "en": "A robot made by Brain as One-Seven's younger brother. Because it has a built-in Satan Circuit, it obeys only Brain's orders. But after opening its heart a little to young Yazaki, it gradually awakens to a sense of justice."
+  },
+  {
+   "uid": "U20072",
+   "en": "Original"
+  },
+  {
+   "uid": "U20073",
+   "en": "Modern Weapons"
+  },
+  {
+   "uid": "U20074",
+   "en": "Kamen Rider"
+  },
+  {
+   "uid": "U20075",
+   "en": "Himitsu Sentai Gorenger"
+  },
+  {
+   "uid": "U20076",
+   "en": "Android Kikaider 01"
+  },
+  {
+   "uid": "U20081",
+   "en": "T90 Tank 1"
+  },
+  {
+   "uid": "U20082",
+   "en": "T90 Tank (P)"
+  },
+  {
+   "uid": "U20083",
+   "en": "T89 IFV (P)"
+  },
+  {
+   "uid": "U20084",
+   "en": "T75 SPH (P)"
+  },
+  {
+   "uid": "U20085",
+   "en": "T01 Beam 1"
+  },
+  {
+   "uid": "U20086",
+   "en": "T87 AA Gun 1"
+  },
+  {
+   "uid": "U20087",
+   "en": "Kaijo"
+  },
+  {
+   "uid": "U20088",
+   "en": "Akarenger F"
+  },
+  {
+   "uid": "U20089",
+   "en": "Aorenger F"
+  },
+  {
+   "uid": "U20090",
+   "en": "Oiwa"
+  },
+  {
+   "uid": "U20091",
+   "en": "Kirenger F"
+  },
+  {
+   "uid": "U20092",
+   "en": "Momorenger F"
+  },
+  {
+   "uid": "U20093",
+   "en": "Midorenger F"
+  },
+  {
+   "uid": "U20094",
+   "en": "T90 Tank 2"
+  },
+  {
+   "uid": "U20095",
+   "en": "T90 Tank 3"
+  },
+  {
+   "uid": "U20096",
+   "en": "T90 Tank 4"
+  },
+  {
+   "uid": "U20097",
+   "en": "T89 IFV 1"
+  },
+  {
+   "uid": "U20098",
+   "en": "Manaka"
+  },
+  {
+   "uid": "U20099",
+   "en": "Amamoto"
+  },
+  {
+   "uid": "U20100",
+   "en": "Ushio"
+  },
+  {
+   "uid": "U20101",
+   "en": "Ando"
+  },
+  {
+   "uid": "U20102",
+   "en": "Katsube"
+  },
+  {
+   "uid": "U20103",
+   "en": "Hirata"
+  },
+  {
+   "uid": "U20104",
+   "en": "Omura"
+  },
+  {
+   "uid": "U20105",
+   "en": "Yanagiya"
+  },
+  {
+   "uid": "U20106",
+   "en": "T89 IFV 2"
+  },
+  {
+   "uid": "U20107",
+   "en": "No.2 Cyc."
+  },
+  {
+   "uid": "U20108",
+   "en": "No.2 C.Cyc."
+  },
+  {
+   "uid": "U20109",
+   "en": "No.2 N.Cyc."
+  },
+  {
+   "uid": "U20110",
+   "en": "No.2 Cyc.(T)"
+  },
+  {
+   "uid": "U20111",
+   "en": "No.2 C.Cyc.(T)"
+  },
+  {
+   "uid": "U20112",
+   "en": "No.2 N.Cyc.(T)"
+  },
+  {
+   "uid": "U20113",
+   "en": "T89 IFV 3"
+  },
+  {
+   "uid": "U20114",
+   "en": "Gav."
+  },
+  {
+   "uid": "U20115",
+   "en": "T89 IFV 4"
+  },
+  {
+   "uid": "U20116",
+   "en": "Shariv."
+  },
+  {
+   "uid": "U20117",
+   "en": "T75 SPH 1"
+  },
+  {
+   "uid": "U20118",
+   "en": "T75 SPH 2"
+  },
+  {
+   "uid": "U20119",
+   "en": "Shaider"
+  },
+  {
+   "uid": "U20120",
+   "en": "T75 SPH 3"
+  },
+  {
+   "uid": "U20121",
+   "en": "Kikaid."
+  },
+  {
+   "uid": "U20122",
+   "en": "Side Mach.(T)"
+  },
+  {
+   "uid": "U20123",
+   "en": "Raijingo F"
+  },
+  {
+   "uid": "U20124",
+   "en": "T75 SPH 4"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U20040: entry title not in batch (Raijingo, from context)",
+   "U20050: fragment continuing the Lucifard entry whose start is not in this batch",
+   "U20054: 100百馬力 read as 10,000 hp; 一嬉ボルト read as 1億 = 100 million volts",
+   "Menu rows (unit list): numbered units ① etc. rendered with digits; 式 abbreviated 'T' (T90 Tank 1, T89 IFV, T75 SPH = Type 75 SP Howitzer, T01 Beam = Type 01 Twin Beam Gun, T87 AA Gun); （試） = prototype '(P)'; （飛） flying form = 'F' suffix; （変） transformed = '(T)'",
+   "U20087/U20090: 海城剛/大岩大太 shortened to surnames 'Kaijo'/'Oiwa' to fit 36/48px",
+   "U20114/U20116/U20121: Gavan/Sharivan/Kikaider do not fit 32-40px; abbreviated Gav./Shariv./Kikaid.",
+   "U20098-U20105: 隊員 dropped (Officer X does not fit)",
+   "U20107-U20112: Cyclone names abbreviated: No.2 Cyc. / No.2 C.Cyc. (Custom) / No.2 N.Cyc. (New)"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": [
+   {
+    "uid": "U20040",
+    "likely": "専用/噛み付き/万能/格納"
+   },
+   {
+    "uid": "U20044",
+    "likely": "普通/専用/収納"
+   },
+   {
+    "uid": "U20046",
+    "likely": "逃亡生活"
+   },
+   {
+    "uid": "U20054",
+    "likely": "誇り/一億ボルト"
+   },
+   {
+    "uid": "U20063",
+    "likely": "惑わす"
+   },
+   {
+    "uid": "U20066",
+    "likely": "無理やり/失って"
+   },
+   {
+    "uid": "U20070",
+    "likely": "目覚める"
+   }
+  ]
+ }
+}

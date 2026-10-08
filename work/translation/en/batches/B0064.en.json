@@ -1,0 +1,487 @@
+{
+ "batch": "B0064",
+ "prev": "B0063",
+ "next": "B0065",
+ "rows": [
+  {
+   "uid": "U05053",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U05054",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05055",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "BF Chief"
+  },
+  {
+   "uid": "U05056",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05057",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U05058",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05059",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05060",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05061",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05062",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05063",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U05064",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U05065",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05066",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U05067",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U05068",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U05069",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U05070",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Officer Hirata"
+  },
+  {
+   "uid": "U05071",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U05072",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05073",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U05074",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Officer Ushio"
+  },
+  {
+   "uid": "U05075",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05076",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05077",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U05078",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05079",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05080",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05081",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05082",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U05083",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Giant Robo's Electronic Brain"
+  },
+  {
+   "uid": "U05084",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U05085",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05086",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U05087",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05088",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05089",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05090",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05091",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05092",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05093",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05094",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05095",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05096",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U05097",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05098",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U05099",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05100",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05101",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05102",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05103",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05104",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U05105",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U05106",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U05107",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U05108",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U05109",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U05110",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U05111",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U05112",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05113",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U05114",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05115",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U05116",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U05117",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U05118",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U05119",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05120",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U05121",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U05122",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U05123",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U05124",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U05125",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05126",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05127",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05128",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05129",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05130",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05131",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05132",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

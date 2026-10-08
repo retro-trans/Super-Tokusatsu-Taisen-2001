@@ -1,0 +1,487 @@
+{
+ "batch": "B0171",
+ "prev": "B0170",
+ "next": "B0172",
+ "rows": [
+  {
+   "uid": "U13621",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13622",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13623",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U13624",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13625",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13626",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13627",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13628",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U13629",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U13630",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13631",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13632",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13633",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13634",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U13635",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U13636",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13637",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13638",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Dasmader"
+  },
+  {
+   "uid": "U13639",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13640",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Dasmader"
+  },
+  {
+   "uid": "U13641",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13642",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Jark"
+  },
+  {
+   "uid": "U13643",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13644",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Jark"
+  },
+  {
+   "uid": "U13645",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13646",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13647",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13648",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13649",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13650",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U13651",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13652",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13653",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13654",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U13655",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13656",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13657",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13658",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U13659",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13660",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13661",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13662",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13663",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13664",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13665",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13666",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13667",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U13668",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13669",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13670",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13671",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13672",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U13673",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13674",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13675",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U13676",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U13677",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13678",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13679",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13680",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13681",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13682",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13683",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U13684",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U13685",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U13686",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U13687",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Bogard"
+  },
+  {
+   "uid": "U13688",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U13689",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Bogard"
+  },
+  {
+   "uid": "U13690",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U13691",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Yanagawa"
+  },
+  {
+   "uid": "U13692",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Yanagawa"
+  },
+  {
+   "uid": "U13693",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U13694",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U13695",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U13696",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U13697",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U13698",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U13699",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U13700",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  }
+ ]
+}

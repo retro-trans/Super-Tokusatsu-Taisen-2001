@@ -1,0 +1,487 @@
+{
+ "batch": "B0089",
+ "prev": "B0088",
+ "next": "B0090",
+ "rows": [
+  {
+   "uid": "U07058",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07059",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07060",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07061",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07062",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07063",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07064",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07065",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07066",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07067",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07068",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07069",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07070",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07071",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07072",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07073",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07074",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07075",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Missile Gecko"
+  },
+  {
+   "uid": "U07076",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07077",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07078",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07079",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U07080",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07081",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07082",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U07083",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07084",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07085",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07086",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U07087",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07088",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07089",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07090",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07091",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U07092",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07093",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U07094",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07095",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U07096",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07097",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07098",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U07099",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07100",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U07101",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07102",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07103",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07104",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07105",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07106",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U07107",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07108",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07109",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07110",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07111",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07112",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07113",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07114",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07115",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07116",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07117",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07118",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07119",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07120",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07121",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07122",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07123",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07124",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07125",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07126",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07127",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U07128",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U07129",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07130",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U07131",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U07132",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U07133",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07134",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07135",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07136",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U07137",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  }
+ ]
+}

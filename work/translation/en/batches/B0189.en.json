@@ -1,0 +1,487 @@
+{
+ "batch": "B0189",
+ "prev": "B0188",
+ "next": "B0190",
+ "rows": [
+  {
+   "uid": "U15061",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15062",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15063",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15064",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15065",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15066",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15067",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15068",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15069",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15070",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15071",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15072",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15073",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15074",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15075",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U15076",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15077",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zoffy"
+  },
+  {
+   "uid": "U15078",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15079",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zoffy"
+  },
+  {
+   "uid": "U15080",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15081",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zoffy"
+  },
+  {
+   "uid": "U15082",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15083",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zoffy"
+  },
+  {
+   "uid": "U15084",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15085",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15086",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15087",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15088",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga, Controlled by Alien Guts"
+  },
+  {
+   "uid": "U15089",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15090",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga, Controlled by Alien Guts"
+  },
+  {
+   "uid": "U15091",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15092",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15093",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U15094",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U15095",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U15096",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U15097",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15098",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15099",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15100",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U15101",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U15102",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15103",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U15104",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga, Controlled by Alien Guts"
+  },
+  {
+   "uid": "U15105",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U15106",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15107",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Yanagawa"
+  },
+  {
+   "uid": "U15108",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U15109",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U15110",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U15111",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15112",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15113",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15114",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U15115",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15116",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U15117",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15118",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U15119",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15120",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Yanagawa"
+  },
+  {
+   "uid": "U15121",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15122",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15123",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zoffy"
+  },
+  {
+   "uid": "U15124",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15125",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15126",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15127",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15128",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15129",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15130",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15131",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15132",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15133",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15134",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15135",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U15136",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U15137",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15138",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15139",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15140",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  }
+ ]
+}

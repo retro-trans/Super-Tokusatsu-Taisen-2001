@@ -1,0 +1,487 @@
+{
+ "batch": "B0072",
+ "prev": "B0071",
+ "next": "B0073",
+ "rows": [
+  {
+   "uid": "U05694",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05695",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05696",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05697",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05698",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05699",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05700",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05701",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05702",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05703",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U05704",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05705",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U05706",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05707",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05708",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05709",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05710",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05711",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U05712",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05713",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05714",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05715",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05716",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05717",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05718",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U05720",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05722",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05723",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U05724",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05725",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U05726",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05727",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05728",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05729",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U05730",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05731",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05732",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05733",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05734",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05735",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05736",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05737",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05738",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05739",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05740",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05741",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05742",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05743",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05744",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05745",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05746",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05747",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05748",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05749",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05750",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05751",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05752",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05754",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05755",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U05756",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05757",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U05758",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U05759",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05760",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U05761",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05762",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U05763",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U05764",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05765",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05766",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05767",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05768",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05769",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05770",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05771",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05772",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05773",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05774",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05775",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05776",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0019",
+ "prev": "B0018",
+ "next": "B0020",
+ "rows": [
+  {
+   "uid": "U01448",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U01449",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01450",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U01451",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01452",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U01453",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01454",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01455",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U01456",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U01457",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U01458",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01459",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U01460",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U01461",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U01462",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01463",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01464",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01465",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01466",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01467",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01468",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01469",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01470",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01471",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01472",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01473",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01474",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01475",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "DARK Robot"
+  },
+  {
+   "uid": "U01476",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Android Infiltrator"
+  },
+  {
+   "uid": "U01477",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Android Infiltrator"
+  },
+  {
+   "uid": "U01478",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01479",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01480",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01481",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01482",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01483",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01484",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01485",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01486",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01487",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01488",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Androidman"
+  },
+  {
+   "uid": "U01489",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Androidman"
+  },
+  {
+   "uid": "U01490",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01491",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01492",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01493",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01494",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U01495",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01496",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U01497",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01498",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U01499",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01500",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01501",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U01502",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01503",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U01504",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01505",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U01506",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01507",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01508",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01509",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01510",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01511",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01512",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01513",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01514",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01515",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01516",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01517",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01518",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01519",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01520",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01521",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01522",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01523",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01524",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01525",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01526",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01527",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

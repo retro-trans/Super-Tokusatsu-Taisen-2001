@@ -1,0 +1,487 @@
+{
+ "batch": "B0021",
+ "prev": "B0020",
+ "next": "B0022",
+ "rows": [
+  {
+   "uid": "U01608",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U01609",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Scorpion Man"
+  },
+  {
+   "uid": "U01610",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U01611",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01612",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Androidman"
+  },
+  {
+   "uid": "U01613",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01614",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Androidman"
+  },
+  {
+   "uid": "U01615",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01616",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01617",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01618",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01619",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01620",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01621",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01622",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01623",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01624",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01625",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01626",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01627",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01628",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01629",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01630",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01631",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01632",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01633",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01634",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01635",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01636",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01637",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01638",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01639",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jinbe"
+  },
+  {
+   "uid": "U01640",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01641",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jinbe"
+  },
+  {
+   "uid": "U01642",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01643",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jinbe"
+  },
+  {
+   "uid": "U01644",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01645",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Androidman"
+  },
+  {
+   "uid": "U01646",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01647",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01648",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01649",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01650",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01651",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jinbe"
+  },
+  {
+   "uid": "U01652",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01653",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jinbe"
+  },
+  {
+   "uid": "U01654",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01655",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01656",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01657",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01658",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01659",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jinbe"
+  },
+  {
+   "uid": "U01660",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01661",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01662",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01663",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01664",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jinbe"
+  },
+  {
+   "uid": "U01665",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01666",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01667",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jinbe"
+  },
+  {
+   "uid": "U01668",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01669",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01670",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jinbe"
+  },
+  {
+   "uid": "U01671",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01672",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01673",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01674",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01675",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01676",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01677",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01678",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01679",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01680",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01681",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01682",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01683",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01684",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01685",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U01686",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U01687",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  }
+ ]
+}

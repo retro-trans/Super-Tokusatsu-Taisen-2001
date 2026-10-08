@@ -1,0 +1,410 @@
+{
+ "batch": "B0002",
+ "rows": [
+  {
+   "uid": "U00080",
+   "en": "We are an evil secret society whose goal is to modify the people of the whole world and control them as we please!"
+  },
+  {
+   "uid": "U00081",
+   "en": "What kind of nonsense is that? More importantly, who are you!? Let me out of here!"
+  },
+  {
+   "uid": "U00082",
+   "en": "I am the great Leader of Shocker… the new ruler of the entire world.<p>Right now, I am speaking to you over a secret line from Shocker Headquarters, far away from where you are."
+  },
+  {
+   "uid": "U00083",
+   "en": "The Leader of Shocker?"
+  },
+  {
+   "uid": "U00084",
+   "en": "The man we seek has an IQ of 600 and excels at every sport. You are a young man chosen for glory."
+  },
+  {
+   "uid": "U00085",
+   "en": "Ridiculous…! I never agreed to join Shocker!"
+  },
+  {
+   "uid": "U00086",
+   "en": "Heh heh heh… It's too late, Takeshi Hongo…<p>Regardless of your will, you have already all but become a member of Shocker.<p>A week has passed since you lost consciousness… In that time, Shocker's scientists have modified your body. You are now a cyborg!<p>Cyborgs will move the world, and I am the one who controls those cyborgs. The world will bend to my will!"
+  },
+  {
+   "uid": "U00087",
+   "en": "A cyborg? Ha ha ha… As if I'd believe that!!"
+  },
+  {
+   "uid": "U00088",
+   "en": "Heh heh heh… Then show him, so he has no choice but to believe!!"
+  },
+  {
+   "uid": "U00089",
+   "en": "Yes, sir…<p>Injecting energy into Hongo's internal dynamo. You there, send in the wind!!"
+  },
+  {
+   "uid": "U00090",
+   "en": "…Good, stop!"
+  },
+  {
+   "uid": "U00091",
+   "en": "We will now run 50,000 volts through your body. An ordinary human would become a charred corpse in an instant.<p>But your modified body has stored up wind energy. Begin the discharge!!"
+  },
+  {
+   "uid": "U00092",
+   "en": "Waaaaagh…"
+  },
+  {
+   "uid": "U00093",
+   "en": "Not a single burn will remain on your body. The only reason you feel that pain is that your brain has not yet been modified.<p>Once the brain modification is done and you move only on command, you will become a perfect Shocker cyborg!!<p>…Good, stop the discharge!"
+  },
+  {
+   "uid": "U00094",
+   "en": "Ngh… I-I'd die before I became the man you bastards want!"
+  },
+  {
+   "uid": "U00095",
+   "en": "Everyone thinks that at first… and in time, they come to be grateful that they are members of Shocker!<p>…Begin Takeshi Hongo's brain modification!!"
+  },
+  {
+   "uid": "U00096",
+   "en": "What's going on!?"
+  },
+  {
+   "uid": "U00097",
+   "en": "An unidentified object, possibly a meteorite, has crashed! The impact knocked out the generator!"
+  },
+  {
+   "uid": "U00098",
+   "en": "Damn it, at a time like this! We'll see to repairing the generator. …In any case, the operation is suspended!<p>Combatants, begin investigating that object at once!"
+  },
+  {
+   "uid": "U00099",
+   "en": "What is this…!?<p>A capsule for atmospheric entry? It doesn't seem to have any nationality marked on it… Where in the world is it from…?"
+  },
+  {
+   "uid": "U00100",
+   "en": "Wh-what the!?"
+  },
+  {
+   "uid": "U00101",
+   "en": "Wh-who are you!?"
+  },
+  {
+   "uid": "U00102",
+   "en": "Looks like… we made it down to Earth safely?"
+  },
+  {
+   "uid": "U00103",
+   "en": "[HERO2]… In this case, \"safely\" may not be the appropriate word.<p>Also… these Earthlings are a little different from the image I had from what you told me, [HERO2]."
+  },
+  {
+   "uid": "U00104",
+   "en": "You've got that right… What's more, it looks like we're not welcome!<p>[HERO4]! Analyze these guys' biological structure."
+  },
+  {
+   "uid": "U00105",
+   "en": "Roger."
+  },
+  {
+   "uid": "U00106",
+   "en": "Scan complete!<p>Their bodies show clear traces of enhancement modification… They appear to be cyborgs, but it doesn't seem to have been done with Vol cells."
+  },
+  {
+   "uid": "U00107",
+   "en": "In other words… cyborgs made without Vol?<p>Seems Earth has changed in these 15 years…<p>All right… Who did this, and where? I'm going to find out!"
+  },
+  {
+   "uid": "U00108",
+   "en": "What are you jabbering about?<p>We won't forgive anyone who gets in Shocker's way! Get them!!"
+  },
+  {
+   "uid": "U00109",
+   "en": "Damn it, if only I could get these chains off…"
+  },
+  {
+   "uid": "U00110",
+   "en": "…I tore through iron chains? Me? Have I really been turned into a cyborg!?"
+  },
+  {
+   "uid": "U00111",
+   "en": "…!?<p>Hey, Hongo's escaping! Send more combatants!"
+  },
+  {
+   "uid": "U00112",
+   "en": "That's right… This is no time to grieve! Whatever happens, I have to get out of here…"
+  },
+  {
+   "uid": "U00113",
+   "en": "Takeshi Hongo! It's useless to try to escape!<p>Now, come back to Shocker. Otherwise, I'll kill you! Hoah, hoah, hoah…"
+  },
+  {
+   "uid": "U00114",
+   "en": "Shocker's pursuers…<p>Thanks to you bastards, I've ended up with power like a monster's…<p>But… I'll use this power to crush the schemes of you Shocker bastards!"
+  },
+  {
+   "uid": "U00115",
+   "en": "Hoah, hoah, hoah… Takeshi Hongo! You mean to betray Shocker?"
+  },
+  {
+   "uid": "U00116",
+   "en": "Modified by you bastards, I'm no longer the Takeshi Hongo I used to be.<p>I'm a warrior of justice who'll crush Shocker's schemes… Kamen Rider!!"
+  },
+  {
+   "uid": "U00117",
+   "en": "[HERO2]… That appears to be a different type of cyborg."
+  },
+  {
+   "uid": "U00118",
+   "en": "Infighting among them? He doesn't seem like an ordinary human either."
+  },
+  {
+   "uid": "U00119",
+   "en": "He has probably undergone modification surgery too…<p>But… it seems he hasn't undergone the brain modification yet. He alone clearly has a sense of self."
+  },
+  {
+   "uid": "U00120",
+   "en": "A sense of self, huh…<p>So he's a cyborg… but he doesn't exist as a mere tool?"
+  },
+  {
+   "uid": "U00121",
+   "en": "Yes…<p>Just as you awakened to your own self and got yourself back, [HERO2], he too is resisting with everything he has…"
+  },
+  {
+   "uid": "U00122",
+   "en": "We can't just leave him, can we?<p>All right… We're helping him, [HERO4]!"
+  },
+  {
+   "uid": "U00123",
+   "en": "Right!"
+  },
+  {
+   "uid": "U00124",
+   "en": "…!?<p>Damn, reinforcements!<p>[HERO4]! Activate Roaring Steel! We'll take them all down at once!"
+  },
+  {
+   "uid": "U00125",
+   "en": "Roger!<p>Transmitting equip position coordinates to the command satellite!<p>Setting: \"Gravity Combat.\" Armament: \"Close Combat.\" Roaring Steel, activate!!"
+  },
+  {
+   "uid": "U00126",
+   "en": "Roaring Steel, equip!!"
+  },
+  {
+   "uid": "U00127",
+   "en": "…!?<p>You transformed? Are you Shocker? Are you cyborgs too?"
+  },
+  {
+   "uid": "U00128",
+   "en": "We'll talk later! For now, let's take care of these guys!"
+  },
+  {
+   "uid": "U00129",
+   "en": "This is Gavan, advancing into the Solar System…<p>Near Jupiter, the Solar System's fifth planet, I've found the Galactic Union's S-class most wanted fugitive, Black Knight Lucifard!"
+  },
+  {
+   "uid": "U00130",
+   "en": "Black Knight Lucifard?<p>Isn't he a top executive of the Battle Fleet Nation Naager, the space crime organization that manipulates all the evil in the universe from the shadows?<p>Gavan, will you be all right on your own?"
+  },
+  {
+   "uid": "U00131",
+   "en": "Yeah… He's a vicious opponent, all right, but now that I've found him, I have to do this!<p>Marine, if anything happens to me… tell Commander Kom to dispatch the Space Sheriff assigned to the Earth sector as my successor!"
+  },
+  {
+   "uid": "U00132",
+   "en": "Gavan…<p>All right! But be careful! Black Knight Lucifard is a dangerous man who wields the Roaring Steel…"
+  },
+  {
+   "uid": "U00133",
+   "en": "Thanks, Marine…<p>But I'll be fine. I'll show him the power of the super-dimensional high-speed ship Dolgiran! Let's go, Electronic Starbeast Dol!!"
+  },
+  {
+   "uid": "U00134",
+   "en": "The Galactic Union Police, founded with Planet Bird at its center to keep order and peace in the galaxy… dispatched officers wielding super-weapons to each star system."
+  },
+  {
+   "uid": "U00135",
+   "en": "One such officer, known as a Space Sheriff, has now come to our Solar System. His name is Gavan. Space Sheriff Gavan!"
+  },
+  {
+   "uid": "U00136",
+   "en": "You won't get away! Galactic Union S-class most wanted fugitive, Black Knight Lucifard!!"
+  },
+  {
+   "uid": "U00137",
+   "en": "Heh heh heh… A Space Sheriff, eh?<p>But… if you get in my way, you won't go home alive! Our Battle Fleet Nation Naager takes orders from no one!"
+  },
+  {
+   "uid": "U00138",
+   "en": "What!? What in the world are you people of the Battle Fleet Nation Naager plotting?"
+  },
+  {
+   "uid": "U00139",
+   "en": "Ha ha ha… I have no need to explain to the likes of you!<p>Our Battle Fleet Nation Naager, led by Steel Emperor Zephas, is the all-powerful, all-knowing creator!"
+  },
+  {
+   "uid": "U00140",
+   "en": "Steel Emperor Zephas?"
+  },
+  {
+   "uid": "U00141",
+   "en": "That's right…<p>Lord Zephas will give humanity warning, guide humanity, and make his will known to all creation!<p>Heh heh heh… This whole universe, and whether you live or die, lies entirely at Lord Zephas's will!"
+  },
+  {
+   "uid": "U00142",
+   "en": "What!? I won't allow such arrogance! Not while I, Space Sheriff Gavan, am here!!"
+  },
+  {
+   "uid": "U00143",
+   "en": "Ha ha ha, interesting… So you mean to defy us?<p>Fadita! Let's play with this man for a while!"
+  },
+  {
+   "uid": "U00144",
+   "en": "Roger, Lucifard!"
+  },
+  {
+   "uid": "U00145",
+   "en": "…!?<p>His partner Fadita is with him too!?<p>Ngh… Bring it on! Here I come, Lucifard!"
+  },
+  {
+   "uid": "U00146",
+   "en": "Have at you, Space Sheriff Gavan!!"
+  },
+  {
+   "uid": "U00147",
+   "en": "The battle between Lucifard and Gavan was fierce in the extreme… the struggle swung back and forth on and on."
+  },
+  {
+   "uid": "U00148",
+   "en": "But the tightly coordinated attacks of Lucifard and Fadita gradually began to push Gavan back… Even Dol, whom he relied on, began to show heavy damage."
+  },
+  {
+   "uid": "U00149",
+   "en": "Ngh, this is bad… At this rate, I'll be finished. I have to find some opening, any opening!"
+  },
+  {
+   "uid": "U00150",
+   "en": "Space Sheriff…<p>Gavan, was it? To give me this much trouble… you're quite something…<p>But this is the end! Roaring Steel, maximum output!!"
+  },
+  {
+   "uid": "U00151",
+   "en": "Roar!! Bullet of gravitons! Gravity Napalm!!"
+  },
+  {
+   "uid": "U00152",
+   "en": "…!?<p>Ngh, Dol Laser!!"
+  },
+  {
+   "uid": "U00153",
+   "en": "Uoooooh!!"
+  },
+  {
+   "uid": "U00154",
+   "en": "What!?"
+  },
+  {
+   "uid": "U00155",
+   "en": "Ugh, nngh…<p>…I'm alive? Did I win…? Where is he? Where's Lucifard…?"
+  },
+  {
+   "uid": "U00156",
+   "en": "…He's gone?<p>But… I definitely felt that hit land.<p>Still, Dolgiran and I are both in tatters. I can't chase him any further. I'll have to head back to Planet Bird for now…"
+  },
+  {
+   "uid": "U00157",
+   "en": "…Lucifard! Lucifard!"
+  },
+  {
+   "uid": "U00158",
+   "en": "Ughhh…"
+  },
+  {
+   "uid": "U00159",
+   "en": "Vital signs weak… Roaring Steel shifting to life-support mode."
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U00125/U00126: 轟機鋼 rendered 'Roaring Steel' (from glossary hero-select subtitle 'Lucifard, the Roaring Steel'); 発動 'activate', 装着 'equip'",
+   "U00103: inner 無事？ rendered \"safely\"",
+   "U00106: narration-kind row is the second half of [HERO4]'s U00105 line",
+   "U00128: speaker shows as Lucifard right after [HERO2] dons the armor; the hero appears to be Lucifard",
+   "U00151: narration-kind row continues Lucifard's U00150 line",
+   "U00088: Leader speaks to the scientist; rendered 'Then show him...'"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "(speaker_en null)",
+    "why": "speaker_en null on dialogue rows U00102-U00126; speaker_jp is the hero/heroine placeholder"
+   },
+   {
+    "en": "Roaring Steel",
+    "why": "not in glossary as a standalone term; taken from 'Lucifard, the Roaring Steel'"
+   },
+   {
+    "en": "Vol cells",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Battle Fleet Nation Naager",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Galactic Union Police",
+    "why": "from glossary note on コム長官"
+   },
+   {
+    "en": "Galactic Union S-class most wanted fugitive",
+    "why": "not in glossary"
+   },
+   {
+    "en": "super-dimensional high-speed ship",
+    "why": "Dolgiran epithet, not in glossary"
+   },
+   {
+    "en": "cyborg",
+    "why": "not in glossary standalone; follows 'TV-Type Cyborg'"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U00080",
+    "likely": "結社"
+   },
+   {
+    "uid": "U00097",
+    "likely": "衝撃"
+   },
+   {
+    "uid": "U00099",
+    "likely": "大気圏"
+   },
+   {
+    "uid": "U00104",
+    "likely": "歓迎"
+   },
+   {
+    "uid": "U00118",
+    "likely": "普通"
+   },
+   {
+    "uid": "U00129",
+    "likely": "惑星"
+   },
+   {
+    "uid": "U00131",
+    "likely": "派遣"
+   },
+   {
+    "uid": "U00134",
+    "likely": "派遣"
+   },
+   {
+    "uid": "U00147",
+    "likely": "続いた"
+   }
+  ]
+ }
+}

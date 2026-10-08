@@ -1,0 +1,406 @@
+{
+ "batch": "B0163",
+ "rows": [
+  {
+   "uid": "U12981",
+   "en": "Hehehe… Well, we're going mountain climbing! I can't sit still."
+  },
+  {
+   "uid": "U12982",
+   "en": "But… are you sure you don't mind taking them along?"
+  },
+  {
+   "uid": "U12983",
+   "en": "Of course! Why don't you come with us too, Go?"
+  },
+  {
+   "uid": "U12984",
+   "en": "Well… I just can't get any time off."
+  },
+  {
+   "uid": "U12985",
+   "en": "You really are busy, aren't you? Don't tell me there's been some incident…?"
+  },
+  {
+   "uid": "U12986",
+   "en": "No…"
+  },
+  {
+   "uid": "U12987",
+   "en": "Somehow… it feels like we're the only ones going off to play. Maybe we should skip it after all?"
+  },
+  {
+   "uid": "U12988",
+   "en": "No, I'd really like you to take them! Jiro's been looking forward to this so much…"
+  },
+  {
+   "uid": "U12989",
+   "en": "Oh… Even without you lot around, if anything happens, we'll put up a fine fight."
+  },
+  {
+   "uid": "U12990",
+   "en": "Even you're saying that, Mr. Tachibana…"
+  },
+  {
+   "uid": "U12991",
+   "en": "Well then… I guess we'll take you up on that and go."
+  },
+  {
+   "uid": "U12992",
+   "en": "Seriously! Come with us, Go…"
+  },
+  {
+   "uid": "U12993",
+   "en": "Hmm, so you're busy, huh? Don't tell me there's some incident…?"
+  },
+  {
+   "uid": "U12994",
+   "en": "Somehow… it feels like we're the only ones going off to play. Maybe we should skip it after all?"
+  },
+  {
+   "uid": "U12995",
+   "en": "Even you're saying that, Mr. Tachibana…"
+  },
+  {
+   "uid": "U12996",
+   "en": "Well then… we'll take you up on that and be on our way."
+  },
+  {
+   "uid": "U12997",
+   "en": "Go… what do you want for a souvenir?"
+  },
+  {
+   "uid": "U12998",
+   "en": "I'm not expecting anything…<p> Aki, be careful…"
+  },
+  {
+   "uid": "U12999",
+   "en": "I'll be fine… See you later."
+  },
+  {
+   "uid": "U13000",
+   "en": "This is a vacation-home area deep in the mountains, far from the city. Set a little apart from the ski slopes, it was popular as a quiet retreat…"
+  },
+  {
+   "uid": "U13001",
+   "en": "It is now late autumn… and at this time of year, there is never a shortage of couples and families coming for picnics."
+  },
+  {
+   "uid": "U13002",
+   "en": "So this monster Woo is an imaginary creature, like a sea goblin or a yuki-onna?"
+  },
+  {
+   "uid": "U13003",
+   "en": "But… apparently the hunter insists on having definitely seen it…"
+  },
+  {
+   "uid": "U13004",
+   "en": "They say snowy mountains can play tricks on the human mind, right?<p> The mystery of the mountains probably made the hunter see things."
+  },
+  {
+   "uid": "U13005",
+   "en": "I'd like to think so too."
+  },
+  {
+   "uid": "U13006",
+   "en": "Still, this is weird… It's nothing like the map, is it?"
+  },
+  {
+   "uid": "U13007",
+   "en": "Come to think of it… Mt. Asama keeps getting farther and farther away."
+  },
+  {
+   "uid": "U13008",
+   "en": "Maybe a snow angel turned the signposts around, telling us that mountain's dangerous?"
+  },
+  {
+   "uid": "U13009",
+   "en": "No… I can't help thinking someone's interfering with us."
+  },
+  {
+   "uid": "U13010",
+   "en": "…!?<p> What's that!?"
+  },
+  {
+   "uid": "U13011",
+   "en": "It's the Legendary Monster Woo!"
+  },
+  {
+   "uid": "U13012",
+   "en": "And more of them are showing up! I wish this was just an illusion…"
+  },
+  {
+   "uid": "U13013",
+   "en": "The fact is, there have been three strange disappearances… at Yatsugatake, Karuizawa and Manza, one after another."
+  },
+  {
+   "uid": "U13014",
+   "en": "Disappearances? That's the Metropolitan Police's jurisdiction… Why is MAT involved?"
+  },
+  {
+   "uid": "U13015",
+   "en": "Well… because we suspect the victims of those disappearances have vanished from this Earth."
+  },
+  {
+   "uid": "U13016",
+   "en": "From the face of the Earth?"
+  },
+  {
+   "uid": "U13017",
+   "en": "What's more… only couples have been targeted, on holidays when they were out enjoying a late-autumn picnic."
+  },
+  {
+   "uid": "U13018",
+   "en": "Couples on picnics?"
+  },
+  {
+   "uid": "U13019",
+   "en": "What's wrong?"
+  },
+  {
+   "uid": "U13020",
+   "en": "No, nothing…<p> It can't be… I hope [HERO2] and the others are all right…"
+  },
+  {
+   "uid": "U13021",
+   "en": "Man, you really saved us…"
+  },
+  {
+   "uid": "U13022",
+   "en": "We'd gotten completely lost, you see."
+  },
+  {
+   "uid": "U13023",
+   "en": "Mt. Asama is a strange mountain, known as the phantom snow mountain.<p> For some reason, that mountain alone is covered in snow even in summer."
+  },
+  {
+   "uid": "U13024",
+   "en": "Is some unusual air current flowing into it?"
+  },
+  {
+   "uid": "U13025",
+   "en": "Who knows…<p> Even the experts at the weather station call it a mystery zone and have thrown up their hands."
+  },
+  {
+   "uid": "U13026",
+   "en": "Hey, Ide!<p> What are you spacing out for? Are you still thinking about that girl from before?"
+  },
+  {
+   "uid": "U13027",
+   "en": "A girl?"
+  },
+  {
+   "uid": "U13028",
+   "en": "She said we were horrible people who call anything and everything a kaiju and kill it…<p> And then she pelted me with snow."
+  },
+  {
+   "uid": "U13029",
+   "en": "Ah… that'd be the \"Yukinko,\" the snow child!"
+  },
+  {
+   "uid": "U13030",
+   "en": "Yukinko…?"
+  },
+  {
+   "uid": "U13031",
+   "en": "This Yukinko… who exactly is she?"
+  },
+  {
+   "uid": "U13032",
+   "en": "Why, she's a proper human child, of course. She has a name, too: Yuki.<p> It was 15 years ago now… One night in a heavy snowfall, a mother and child collapsed in the village. No one knows where they came from.<p> The mother had long since died of hunger and cold, but for some reason, the baby alone was perfectly healthy.<p> But that only made the villagers fear her as the daughter of a \"yuki-onna,\" and not one of them would take her in."
+  },
+  {
+   "uid": "U13033",
+   "en": "That's terrible…"
+  },
+  {
+   "uid": "U13034",
+   "en": "In the end…<p> an old loner named Kisuke, who made charcoal at the foot of Mt. Asama, heard about it and raised her as his own…<p> But the old man passed away two years ago, and Yuki was left truly all alone.<p> On top of that, in this latest incident, the hunter who was attacked keeps insisting it was Yuki who called Woo…<p> So the villagers have been avoiding her more than ever."
+  },
+  {
+   "uid": "U13035",
+   "en": "I wonder how she gets by?<p> Actually, I lost my mother when I was young too…"
+  },
+  {
+   "uid": "U13036",
+   "en": "Is that so…<p> Well, when you think about it… she is a poor child. But as long as there's this Woo business, we can't just feel sorry for her…"
+  },
+  {
+   "uid": "U13037",
+   "en": "I see… Somehow, I feel like I understand how that girl feels…"
+  },
+  {
+   "uid": "U13038",
+   "en": "I wonder if [HERO4] and her partner are all right?"
+  },
+  {
+   "uid": "U13039",
+   "en": "They got mistaken for newlyweds and were taken to a different hut."
+  },
+  {
+   "uid": "U13040",
+   "en": "It's because Jiro made that weird joke! Now the two of them can't back out of it!"
+  },
+  {
+   "uid": "U13041",
+   "en": "Tch… They didn't look like they minded!"
+  },
+  {
+   "uid": "U13042",
+   "en": "Jiro…!"
+  },
+  {
+   "uid": "U13043",
+   "en": "But… we've got the stove burning like crazy, so why is it so cold?"
+  },
+  {
+   "uid": "U13044",
+   "en": "I knew it… I should have brought a thick sweater."
+  },
+  {
+   "uid": "U13045",
+   "en": "If you do this, you'll warm up…"
+  },
+  {
+   "uid": "U13046",
+   "en": "Whoa…"
+  },
+  {
+   "uid": "U13047",
+   "en": "Your hands are cold, Mari! That's not warming me up at all!"
+  },
+  {
+   "uid": "U13048",
+   "en": "Jiro, how can you say that?"
+  },
+  {
+   "uid": "U13049",
+   "en": "But…"
+  },
+  {
+   "uid": "U13050",
+   "en": "I'm sorry, okay?"
+  },
+  {
+   "uid": "U13051",
+   "en": "Even so, it really is cold."
+  },
+  {
+   "uid": "U13052",
+   "en": "\"I'm an android… I can't warm Aki's and Jiro's bodies!<p> But… I want to do whatever I can for them.\""
+  },
+  {
+   "uid": "U13053",
+   "en": "Aren't you cold, Mari?"
+  },
+  {
+   "uid": "U13054",
+   "en": "I'm fine…"
+  },
+  {
+   "uid": "U13055",
+   "en": "Huh? It's starting to feel a bit warmer… Thanks, Mari."
+  },
+  {
+   "uid": "U13056",
+   "en": "\"Can my energy converter withstand this cold? Still, for these two…\""
+  },
+  {
+   "uid": "U13057",
+   "en": "It's really gotten cold, hasn't it…"
+  },
+  {
+   "uid": "U13058",
+   "en": "Yes… By the way, what kind of legend is the legend of Woo?"
+  },
+  {
+   "uid": "U13059",
+   "en": "The legend of Woo?<p> There's no such thing. There aren't any monsters around these parts."
+  },
+  {
+   "uid": "U13060",
+   "en": "No, but… we came here to investigate that very monster."
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U12982: 連れてって下さる read as Go asking the heroes to take Jiro and Aki along ('them').",
+   "U12997/U12998: read as Jiro offering to bring Go a souvenir; Go answers he isn't expecting one.",
+   "U13038: [HERO4]さんたち rendered as [HERO4] and her partner (the hero pair); the source names only [HERO4].",
+   "U13045: Mari's gesture (hands on Jiro) is implied; kept generic 'If you do this'.",
+   "U13052/U13056: Mari's inner thoughts in 『』 rendered in double quotes per brief.",
+   "U13007/U13023: 浅間山 rendered Mt. Asama."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Legendary Monster Woo",
+    "why": "ウー=Woo in glossary; full title not listed"
+   },
+   {
+    "en": "Yukinko (snow child)",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Yuki",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Kisuke",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Mt. Asama",
+    "why": "not in glossary"
+   },
+   {
+    "en": "yuki-onna",
+    "why": "folklore term, not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U12984",
+    "likely": "休めない"
+   },
+   {
+    "uid": "U13001",
+    "likely": "訪れる"
+   },
+   {
+    "uid": "U13004",
+    "likely": "惑わす"
+   },
+   {
+    "uid": "U13008",
+    "likely": "標識"
+   },
+   {
+    "uid": "U13013",
+    "likely": "立て続け"
+   },
+   {
+    "uid": "U13014",
+    "likely": "警視庁"
+   },
+   {
+    "uid": "U13017",
+    "likely": "休日"
+   },
+   {
+    "uid": "U13034",
+    "likely": "年寄り"
+   },
+   {
+    "uid": "U13034",
+    "likely": "育ての親"
+   },
+   {
+    "uid": "U13059",
+    "likely": "辺り"
+   }
+  ]
+ }
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0016",
+ "prev": "B0015",
+ "next": "B0017",
+ "rows": [
+  {
+   "uid": "U01208",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U01209",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01210",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01211",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01212",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01213",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01214",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01215",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01216",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01217",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01218",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01219",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01220",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01221",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U01222",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01223",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U01224",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01225",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U01226",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marine"
+  },
+  {
+   "uid": "U01227",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01228",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01229",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U01230",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01231",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U01232",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01233",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U01234",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01235",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01236",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U01237",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crusher Soldier"
+  },
+  {
+   "uid": "U01238",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Beast Alien Doubleman"
+  },
+  {
+   "uid": "U01239",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shako Monster"
+  },
+  {
+   "uid": "U01240",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U01241",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U01242",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Beast Alien Doubleman"
+  },
+  {
+   "uid": "U01243",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01244",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01245",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01246",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01247",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01248",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01249",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01250",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01251",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01252",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01253",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01254",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01255",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01256",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01257",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01258",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01259",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Beast Alien Doubleman"
+  },
+  {
+   "uid": "U01260",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01261",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01262",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U01263",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U01264",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01265",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U01266",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01267",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U01268",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01269",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Beast Alien Doubleman"
+  },
+  {
+   "uid": "U01270",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01271",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01272",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U01273",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01274",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U01275",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01276",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01277",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U01278",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01279",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01280",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U01281",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U01282",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Beast Alien Doubleman"
+  },
+  {
+   "uid": "U01283",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01284",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01285",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01286",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01287",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  }
+ ]
+}

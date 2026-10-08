@@ -1,0 +1,33 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 960
+PlayResY: 720
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,GenEi LateGo P v2,36,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,0,0,0,0,100,100,0,0,1,2,1,2,36,36,32,1
+Style: Credit,GenEi LateGo P v2,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Note,GenEi LateGo P v2,22,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,0,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.18,0:00:19.50,Default,,0,0,0,,Tear through the storm and blaze!
+Dialogue: 0,0:00:19.50,0:00:24.50,Default,,0,0,0,,Shine, hero!
+Dialogue: 0,0:00:39.42,0:00:42.92,Default,,0,0,0,,You who know the heart of justice...
+Dialogue: 0,0:00:42.92,0:00:45.50,Default,,0,0,0,,become the light!
+Dialogue: 0,0:00:46.92,0:00:50.94,Default,,0,0,0,,Burning fiercely in your heart...
+Dialogue: 0,0:00:50.94,0:00:54.16,Default,,0,0,0,,unleash your courage and love!
+Dialogue: 0,0:00:54.16,0:00:57.40,Default,,0,0,0,,Now is the time!
+Dialogue: 0,0:00:57.40,0:01:00.40,Default,,0,0,0,,Let's set fire on!
+Dialogue: 0,0:01:00.46,0:01:03.28,Default,,0,0,0,,Put your life on the line!
+Dialogue: 0,0:01:03.28,0:01:07.00,Default,,0,0,0,,Run, Thunder! Never surrender!
+Dialogue: 0,0:01:07.00,0:01:12.30,Default,,0,0,0,,Tear through the storm and blaze!
+Dialogue: 0,0:01:12.30,0:01:15.30,Default,,0,0,0,,You are the warrior!
+Dialogue: 0,0:01:24.74,0:01:28.60,Default,,0,0,0,,I'll never forget...
+Dialogue: 0,0:01:28.60,0:01:31.86,Default,,0,0,0,,the fighting spirit surging through me.
+Dialogue: 0,0:01:31.86,0:01:35.70,Default,,0,0,0,,I won't let tomorrow slip away again.
+Dialogue: 0,0:01:38.18,0:01:41.26,Default,,0,0,0,,Tear through the storm!
+Dialogue: 0,0:01:41.26,0:01:43.50,Default,,0,0,0,,Race on, Thunder!
+Dialogue: 0,0:01:43.50,0:01:45.34,Default,,0,0,0,,You're a challenger!
+Dialogue: 0,0:01:45.34,0:01:50.10,Default,,0,0,0,,Rising up amid the storm...
+Dialogue: 0,0:01:50.10,0:01:53.10,Default,,0,0,0,,you are the warrior!
+Dialogue: 0,0:00:14.00,0:01:53.00,Note,,0,0,0,,Draft lyric translation

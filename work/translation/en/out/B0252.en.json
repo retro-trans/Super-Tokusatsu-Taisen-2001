@@ -1,0 +1,353 @@
+{
+ "batch": "B0252",
+ "rows": [
+  {
+   "uid": "U20125",
+   "en": "T01 Beam 2"
+  },
+  {
+   "uid": "U20126",
+   "en": "T01 Beam 3"
+  },
+  {
+   "uid": "U20127",
+   "en": "T01 Beam 4"
+  },
+  {
+   "uid": "U20128",
+   "en": "T01 Beam 5"
+  },
+  {
+   "uid": "U20129",
+   "en": "Mari M."
+  },
+  {
+   "uid": "U20130",
+   "en": "T87 AA Gun 2"
+  },
+  {
+   "uid": "U20131",
+   "en": "No.1 Cyc."
+  },
+  {
+   "uid": "U20132",
+   "en": "No.1 C.Cyc."
+  },
+  {
+   "uid": "U20133",
+   "en": "No.1 N.Cyc."
+  },
+  {
+   "uid": "U20134",
+   "en": "T87 AA Gun 3"
+  },
+  {
+   "uid": "U20135",
+   "en": "T87 AA Gun 4"
+  },
+  {
+   "uid": "U20136",
+   "en": "Riderman M.(T)"
+  },
+  {
+   "uid": "U20137",
+   "en": "T87 AA Gun 5"
+  },
+  {
+   "uid": "U20138",
+   "en": "Double M.(T)"
+  },
+  {
+   "uid": "U20139",
+   "en": "Patrol Car"
+  },
+  {
+   "uid": "U20140",
+   "en": "Daisaku F"
+  },
+  {
+   "uid": "U20141",
+   "en": "No.1 Cyc.(T)"
+  },
+  {
+   "uid": "U20142",
+   "en": "No.1 C.Cyc.(T)"
+  },
+  {
+   "uid": "U20143",
+   "en": "No.1 N.Cyc.(T)"
+  },
+  {
+   "uid": "U20144",
+   "en": "Hurric.(T)"
+  },
+  {
+   "uid": "U20145",
+   "en": "B.Hopper(T)"
+  },
+  {
+   "uid": "U20146",
+   "en": "Acrobat.(T)"
+  },
+  {
+   "uid": "U20147",
+   "en": "F-15J Kai (P)"
+  },
+  {
+   "uid": "U20148",
+   "en": "F-2 (P)"
+  },
+  {
+   "uid": "U20149",
+   "en": "AH-1S Heli (P)"
+  },
+  {
+   "uid": "U20150",
+   "en": "CH-47J Heli"
+  },
+  {
+   "uid": "U20152",
+   "en": "Tsuirai 1"
+  },
+  {
+   "uid": "U20153",
+   "en": "Tenso 1"
+  },
+  {
+   "uid": "U20161",
+   "en": "AH-1S Heli 1"
+  },
+  {
+   "uid": "U20162",
+   "en": "Battle Birth Form"
+  },
+  {
+   "uid": "U20163",
+   "en": "AH-1S Heli 2"
+  },
+  {
+   "uid": "U20164",
+   "en": "Babylos B-Form."
+  },
+  {
+   "uid": "U20165",
+   "en": "Tsuirai 2"
+  },
+  {
+   "uid": "U20166",
+   "en": "Tsuirai 3"
+  },
+  {
+   "uid": "U20167",
+   "en": "Tenso 2"
+  },
+  {
+   "uid": "U20168",
+   "en": "Tenso 3"
+  },
+  {
+   "uid": "U20169",
+   "en": "Giant Robo F"
+  },
+  {
+   "uid": "U20170",
+   "en": "AH-1S Heli 3"
+  },
+  {
+   "uid": "U20171",
+   "en": "One-7"
+  },
+  {
+   "uid": "U20172",
+   "en": "Fort.One-7"
+  },
+  {
+   "uid": "U20173",
+   "en": "One-7 F"
+  },
+  {
+   "uid": "U20174",
+   "en": "AH-1S Heli 4"
+  },
+  {
+   "uid": "U20175",
+   "en": "Tsuirai 4"
+  },
+  {
+   "uid": "U20176",
+   "en": "Red Baron F"
+  },
+  {
+   "uid": "U20177",
+   "en": "Tsuirai 5"
+  },
+  {
+   "uid": "U20178",
+   "en": "Jet VTOL 2"
+  },
+  {
+   "uid": "U20179",
+   "en": "Tenso 4"
+  },
+  {
+   "uid": "U20180",
+   "en": "Tenso 5"
+  },
+  {
+   "uid": "U20181",
+   "en": "Ultraman F"
+  },
+  {
+   "uid": "U20182",
+   "en": "Jet VTOL 1"
+  },
+  {
+   "uid": "U20183",
+   "en": "Space Jet VTOL"
+  },
+  {
+   "uid": "U20184",
+   "en": "Ultraseven F"
+  },
+  {
+   "uid": "U20185",
+   "en": "Wind."
+  },
+  {
+   "uid": "U20186",
+   "en": "Alp."
+  },
+  {
+   "uid": "U20187",
+   "en": "Bet."
+  },
+  {
+   "uid": "U20188",
+   "en": "Gm."
+  },
+  {
+   "uid": "U20189",
+   "en": "Ultraman J."
+  },
+  {
+   "uid": "U20190",
+   "en": "Ultraman Jack F"
+  },
+  {
+   "uid": "U20191",
+   "en": "Zoffy"
+  },
+  {
+   "uid": "U20192",
+   "en": "Scholar Apfaron"
+  },
+  {
+   "uid": "U20193",
+   "en": "Prin.Atefarina"
+  },
+  {
+   "uid": "U20194",
+   "en": "Bara B."
+  },
+  {
+   "uid": "U20195",
+   "en": "Android Daisaku"
+  },
+  {
+   "uid": "U20196",
+   "en": "Spider"
+  },
+  {
+   "uid": "U20197",
+   "en": "Bee"
+  },
+  {
+   "uid": "U20198",
+   "en": "Shocker Rider 1"
+  },
+  {
+   "uid": "U20199",
+   "en": "Shocker Rider 2"
+  },
+  {
+   "uid": "U20200",
+   "en": "Shocker Rider 3"
+  },
+  {
+   "uid": "U20201",
+   "en": "Shocker Rider 4"
+  },
+  {
+   "uid": "U20202",
+   "en": "Shocker Rider 5"
+  },
+  {
+   "uid": "U20203",
+   "en": "Shocker Rider 6"
+  },
+  {
+   "uid": "U20204",
+   "en": "Doktor G"
+  },
+  {
+   "uid": "U20205",
+   "en": "S.Moon"
+  },
+  {
+   "uid": "U20206",
+   "en": "Cubrican"
+  },
+  {
+   "uid": "U20207",
+   "en": "Cubrican Form 2"
+  },
+  {
+   "uid": "U20209",
+   "en": "B.Robot(Gomez)"
+  },
+  {
+   "uid": "U20210",
+   "en": "B.Robot(Rumi)"
+  },
+  {
+   "uid": "U20211",
+   "en": "Hir."
+  },
+  {
+   "uid": "U20212",
+   "en": "Alien Baltan II"
+  },
+  {
+   "uid": "U20213",
+   "en": "Giant Anne"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "Unit-name menu rows abbreviated to fit: Cyc. = Cyclone (C. = Custom, N. = New), (T) = transformed form, F = flying form, (P) = prototype, Tsuirai/Tenso = Special Attacker Tsuirai / Special Fighter Tenso, One-7 = One-Seven, Fort. = Fortress, B.Robot = Battleship Robot",
+   "U20129: 松原真理 'Mari M.' (48px)",
+   "U20139: 科特隊専用車 'Patrol Car' (Science dropped to fit 72px)",
+   "U20185: ウィンダム 'Wind.' - Windom does not fit 40px",
+   "U20186-U20188: α号/β号/γ号 'Alp.'/'Bet.'/'Gm.' - Alpha/Beta/Gamma do not fit 20px; Greek letters are not in the font",
+   "U20196/U20197: 蜘蛛男/蜂女 'Spider'/'Bee' (Spider Man/Bee Woman do not fit 36/24px; 'Spider' also collides with BF's Spider)",
+   "U20205: シャドームーン 'S.Moon' (56px)",
+   "U20211: 飛龍 'Hir.' - Hiryu does not fit 24px",
+   "U20194: バラバンバラ 'Bara B.'",
+   "U20192/U20193: 邪学者・/闘姫・ forms rendered 'Scholar Apfaron' / 'Prin.Atefarina'"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": [
+   {
+    "uid": "U20150",
+    "likely": "輸送"
+   },
+   {
+    "uid": "U20207",
+    "likely": "形態"
+   }
+  ]
+ }
+}

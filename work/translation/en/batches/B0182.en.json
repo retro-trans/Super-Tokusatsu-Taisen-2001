@@ -1,0 +1,487 @@
+{
+ "batch": "B0182",
+ "prev": "B0181",
+ "next": "B0183",
+ "rows": [
+  {
+   "uid": "U14501",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14502",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U14503",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U14504",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U14505",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14506",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Momorenger"
+  },
+  {
+   "uid": "U14507",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14508",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U14509",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U14510",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14511",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U14512",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14513",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14514",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14515",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14516",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14517",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U14518",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U14519",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U14520",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14521",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U14522",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U14523",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14524",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U14525",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenji Asuka"
+  },
+  {
+   "uid": "U14526",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U14527",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U14528",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U14529",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14530",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenji Asuka"
+  },
+  {
+   "uid": "U14531",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U14532",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U14533",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "007"
+  },
+  {
+   "uid": "U14534",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U14535",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U14536",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14537",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U14538",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14539",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U14540",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14541",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14542",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U14543",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U14544",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U14545",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U14546",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U14547",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U14548",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenji Asuka"
+  },
+  {
+   "uid": "U14549",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U14550",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U14551",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14552",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U14553",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14554",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U14555",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14556",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14557",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14558",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14559",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14560",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14561",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14562",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U14563",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14564",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14565",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14566",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14567",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U14568",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14569",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14570",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14571",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U14572",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14573",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14574",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14575",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14576",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U14577",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14578",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U14579",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14580",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  }
+ ]
+}

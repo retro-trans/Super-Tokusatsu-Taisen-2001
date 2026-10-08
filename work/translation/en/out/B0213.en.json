@@ -1,0 +1,335 @@
+{
+ "batch": "B0213",
+ "rows": [
+  {
+   "uid": "U16986",
+   "en": "Reverse Chest!"
+  },
+  {
+   "uid": "U16987",
+   "en": "Lightning Fist Shock! Chest!"
+  },
+  {
+   "uid": "U16988",
+   "en": "How about this! Chest!"
+  },
+  {
+   "uid": "U16989",
+   "en": "Take this! Lightning Typhoon!"
+  },
+  {
+   "uid": "U16990",
+   "en": "Super Lightning Drop!"
+  },
+  {
+   "uid": "U16991",
+   "en": "This is the end!"
+  },
+  {
+   "uid": "U16992",
+   "en": "Zeber, Inazuman Flaaash!!"
+  },
+  {
+   "uid": "U16993",
+   "en": "Like that'll hit me!"
+  },
+  {
+   "uid": "U16994",
+   "en": "All right! Dodged it!"
+  },
+  {
+   "uid": "U16995",
+   "en": "Like I'd go down to something like this!"
+  },
+  {
+   "uid": "U16996",
+   "en": "Ngh! Damn!"
+  },
+  {
+   "uid": "U16997",
+   "en": "Ugh!? What power…"
+  },
+  {
+   "uid": "U16998",
+   "en": "Impossible!? Not here…"
+  },
+  {
+   "uid": "U16999",
+   "en": "Here I go! Chest!"
+  },
+  {
+   "uid": "U17000",
+   "en": "I'll take you on! Chest!"
+  },
+  {
+   "uid": "U17001",
+   "en": "Reverse Chest!"
+  },
+  {
+   "uid": "U17002",
+   "en": "Lightning Fist Shock! Chest!"
+  },
+  {
+   "uid": "U17003",
+   "en": "How about this! Chest!"
+  },
+  {
+   "uid": "U17004",
+   "en": "Take this! Lightning Typhoon!"
+  },
+  {
+   "uid": "U17005",
+   "en": "Super Lightning Drop!"
+  },
+  {
+   "uid": "U17006",
+   "en": "This is the end!"
+  },
+  {
+   "uid": "U17007",
+   "en": "Zeber, Inazuman Flaaash!!"
+  },
+  {
+   "uid": "U17008",
+   "en": "You won't hit me!"
+  },
+  {
+   "uid": "U17009",
+   "en": "What! This is nothing!"
+  },
+  {
+   "uid": "U17010",
+   "en": "Is that all?"
+  },
+  {
+   "uid": "U17011",
+   "en": "Not yet!"
+  },
+  {
+   "uid": "U17012",
+   "en": "Ngh, this is bad…"
+  },
+  {
+   "uid": "U17013",
+   "en": "Watari… S-Sorry!!"
+  },
+  {
+   "uid": "U17014",
+   "en": "Take this!"
+  },
+  {
+   "uid": "U17015",
+   "en": "How about this!"
+  },
+  {
+   "uid": "U17016",
+   "en": "…!"
+  },
+  {
+   "uid": "U17017",
+   "en": "This is… just a scratch!"
+  },
+  {
+   "uid": "U17018",
+   "en": "Damn it! You got me good!"
+  },
+  {
+   "uid": "U17019",
+   "en": "Bad!? I've taken too much damage!"
+  },
+  {
+   "uid": "U17020",
+   "en": "Oh no!? The Raijingo…!"
+  },
+  {
+   "uid": "U17021",
+   "en": "Missiles, fire!"
+  },
+  {
+   "uid": "U17022",
+   "en": "This is… just a scratch!"
+  },
+  {
+   "uid": "U17023",
+   "en": "Damn it! You got me good!"
+  },
+  {
+   "uid": "U17024",
+   "en": "Bad!? I've taken too much damage!"
+  },
+  {
+   "uid": "U17025",
+   "en": "Oh no!? The Raijingo…!"
+  },
+  {
+   "uid": "U17026",
+   "en": "Missiles, fire!"
+  },
+  {
+   "uid": "U17027",
+   "en": "This is… just a scratch!"
+  },
+  {
+   "uid": "U17028",
+   "en": "Damn it! You got me good!"
+  },
+  {
+   "uid": "U17029",
+   "en": "Bad!? I've taken too much damage!"
+  },
+  {
+   "uid": "U17030",
+   "en": "Oh no!? The Raijingo…!"
+  },
+  {
+   "uid": "U17031",
+   "en": "Missiles, fire!"
+  },
+  {
+   "uid": "U17032",
+   "en": "This is… just a scratch!"
+  },
+  {
+   "uid": "U17033",
+   "en": "Damn it! You got me good!"
+  },
+  {
+   "uid": "U17034",
+   "en": "Bad!? I've taken too much damage!"
+  },
+  {
+   "uid": "U17035",
+   "en": "Oh no!? The Raijingo…!"
+  },
+  {
+   "uid": "U17036",
+   "en": "Missiles, fire!"
+  },
+  {
+   "uid": "U17037",
+   "en": "Like that'll hit me!"
+  },
+  {
+   "uid": "U17038",
+   "en": "How's that! I dodged it!"
+  },
+  {
+   "uid": "U17039",
+   "en": "I'm fine with this!"
+  },
+  {
+   "uid": "U17040",
+   "en": "Ngh! A tough enemy…"
+  },
+  {
+   "uid": "U17041",
+   "en": "Whoa!? They got me!"
+  },
+  {
+   "uid": "U17042",
+   "en": "…This is U7, withdrawing from the battle line!"
+  },
+  {
+   "uid": "U17043",
+   "en": "I won't lose!"
+  },
+  {
+   "uid": "U17044",
+   "en": "I'll show you!"
+  },
+  {
+   "uid": "U17045",
+   "en": "Where are you aiming?"
+  },
+  {
+   "uid": "U17046",
+   "en": "Whoa, close one!"
+  },
+  {
+   "uid": "U17047",
+   "en": "Ow!"
+  },
+  {
+   "uid": "U17048",
+   "en": "I'll keep fighting!"
+  },
+  {
+   "uid": "U17049",
+   "en": "Th-This is bad…!!"
+  },
+  {
+   "uid": "U17050",
+   "en": "Uwaaaaaaah…!!"
+  },
+  {
+   "uid": "U17051",
+   "en": "Take this! Hyah!"
+  },
+  {
+   "uid": "U17052",
+   "en": "Here I go! Prepare yourself!"
+  },
+  {
+   "uid": "U17053",
+   "en": "………………"
+  },
+  {
+   "uid": "U17054",
+   "en": "……………"
+  },
+  {
+   "uid": "U17055",
+   "en": "………"
+  },
+  {
+   "uid": "U17056",
+   "en": "…………"
+  },
+  {
+   "uid": "U17057",
+   "en": "………………………"
+  },
+  {
+   "uid": "U17058",
+   "en": "Fumio Kishida: Damn it! What a stubborn one!"
+  },
+  {
+   "uid": "U17059",
+   "en": "Fumio Kishida: Whoa! Not yet!"
+  },
+  {
+   "uid": "U17060",
+   "en": "Fumio Kishida: Whoa! Damn!"
+  },
+  {
+   "uid": "U17061",
+   "en": "Fumio Kishida: Like that'll hit me!"
+  },
+  {
+   "uid": "U17062",
+   "en": "Fumio Kishida: Uugh! Is this the end!"
+  },
+  {
+   "uid": "U17063",
+   "en": "Bemstar: Kiiiih!"
+  },
+  {
+   "uid": "U17064",
+   "en": "Bemstar: Kiiih! Kiih!"
+  },
+  {
+   "uid": "U17065",
+   "en": "Bemstar: Kiiih! Kikiih"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "Name-in-text quote rows rendered 'Name: line'"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": []
+ }
+}

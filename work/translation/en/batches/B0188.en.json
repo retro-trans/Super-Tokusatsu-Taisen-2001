@@ -1,0 +1,487 @@
+{
+ "batch": "B0188",
+ "prev": "B0187",
+ "next": "B0189",
+ "rows": [
+  {
+   "uid": "U14981",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14982",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U14983",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14984",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14985",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U14986",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U14987",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14988",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Guillotine"
+  },
+  {
+   "uid": "U14989",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14990",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U14991",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14992",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U14993",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U14994",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14995",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Guillotine"
+  },
+  {
+   "uid": "U14996",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14997",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14998",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Guillotine"
+  },
+  {
+   "uid": "U14999",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U15000",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Guillotine"
+  },
+  {
+   "uid": "U15001",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U15002",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Guillotine"
+  },
+  {
+   "uid": "U15003",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U15004",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Guillotine"
+  },
+  {
+   "uid": "U15005",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U15006",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Guillotine"
+  },
+  {
+   "uid": "U15007",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U15008",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U15009",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Guillotine"
+  },
+  {
+   "uid": "U15010",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U15011",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U15012",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Guillotine"
+  },
+  {
+   "uid": "U15013",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U15014",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U15015",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U15016",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U15017",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U15018",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U15019",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U15020",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U15021",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U15022",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U15023",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U15024",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15025",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15026",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15027",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U15028",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15029",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15030",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15031",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15032",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15033",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15034",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15035",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15036",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15037",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15038",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15039",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15040",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15041",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15042",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15043",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U15044",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15045",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15046",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15047",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15048",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15049",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15050",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U15051",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15052",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U15053",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15054",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15055",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15056",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15057",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U15058",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U15059",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15060",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  }
+ ]
+}

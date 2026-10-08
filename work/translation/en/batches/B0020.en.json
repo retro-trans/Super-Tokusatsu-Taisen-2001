@@ -1,0 +1,487 @@
+{
+ "batch": "B0020",
+ "prev": "B0019",
+ "next": "B0021",
+ "rows": [
+  {
+   "uid": "U01528",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01529",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01530",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01531",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01532",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01533",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01534",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01535",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01536",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01537",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01538",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01539",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01540",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01541",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01542",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01543",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01544",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U01545",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01546",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01547",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01548",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01549",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01550",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01551",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01552",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01553",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01554",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01555",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01556",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01557",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01558",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01559",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01560",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01561",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01562",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01563",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01564",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U01565",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01566",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01567",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01568",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U01569",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01570",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U01571",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U01572",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01573",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01574",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01575",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01576",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01577",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01578",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01579",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01580",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01581",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01582",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01583",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01584",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01585",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01586",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Androidman"
+  },
+  {
+   "uid": "U01587",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01588",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Androidman"
+  },
+  {
+   "uid": "U01589",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01590",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01591",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U01592",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01593",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01594",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01595",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01596",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01597",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01598",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01599",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U01600",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01601",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01602",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01603",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01604",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01605",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U01606",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U01607",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  }
+ ]
+}

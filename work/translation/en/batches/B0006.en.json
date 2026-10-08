@@ -1,0 +1,487 @@
+{
+ "batch": "B0006",
+ "prev": "B0005",
+ "next": "B0007",
+ "rows": [
+  {
+   "uid": "U00403",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00404",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00405",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00406",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00407",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00408",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U00409",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00410",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00411",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00412",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00413",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00414",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U00415",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bat Man"
+  },
+  {
+   "uid": "U00416",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00417",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U00418",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bat Man"
+  },
+  {
+   "uid": "U00419",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00420",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U00421",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U00422",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U00423",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U00424",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U00425",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U00426",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00427",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U00428",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00429",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U00430",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00431",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00432",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00433",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00434",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U00435",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00436",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U00437",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00438",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U00439",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00440",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U00441",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00442",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U00443",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00444",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U00445",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00446",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bat Man"
+  },
+  {
+   "uid": "U00447",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U00448",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00449",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U00450",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00451",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00452",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00453",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00454",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00455",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00456",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00457",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00458",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Scientist"
+  },
+  {
+   "uid": "U00459",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U00460",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Scorpion Man"
+  },
+  {
+   "uid": "U00461",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00462",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00463",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U00464",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Scorpion Man"
+  },
+  {
+   "uid": "U00465",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U00466",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Scorpion Man"
+  },
+  {
+   "uid": "U00467",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U00468",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Scorpion Man"
+  },
+  {
+   "uid": "U00469",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U00470",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00471",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Man in Uniform"
+  },
+  {
+   "uid": "U00472",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U00473",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Scorpion Man"
+  },
+  {
+   "uid": "U00474",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U00475",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Colonel Zol"
+  },
+  {
+   "uid": "U00476",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U00477",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Colonel Zol"
+  },
+  {
+   "uid": "U00478",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U00479",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Colonel Zol"
+  },
+  {
+   "uid": "U00480",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U00481",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Colonel Zol"
+  },
+  {
+   "uid": "U00482",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  }
+ ]
+}

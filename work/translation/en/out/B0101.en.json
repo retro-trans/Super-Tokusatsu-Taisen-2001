@@ -1,0 +1,410 @@
+{
+ "batch": "B0101",
+ "rows": [
+  {
+   "uid": "U08019",
+   "en": "I see… A Giant Robo Unit 2, eh? Now that's a fine idea!"
+  },
+  {
+   "uid": "U08020",
+   "en": "We shall assist with its construction as well…<p>On this glorious day… Now, if you'll excuse me."
+  },
+  {
+   "uid": "U08021",
+   "en": "Doctor… Thank you very much."
+  },
+  {
+   "uid": "U08022",
+   "en": "It took me far too long to make the chemical…"
+  },
+  {
+   "uid": "U08023",
+   "en": "Not at all… Thanks to you, we were able to completely dissolve the android we destroyed!<p>Now there won't be any more fake U7s…<p>Huh? Where did the real U7 go?"
+  },
+  {
+   "uid": "U08024",
+   "en": "Who knows? Where could he have gone?"
+  },
+  {
+   "uid": "U08025",
+   "en": "Robo, I'm sorry… I'll never make a mistake like this again.<p>Thank you so much… Robo, you're amazing!"
+  },
+  {
+   "uid": "U08026",
+   "en": "Young Daisaku's voice reached Robo, and Space Monster Doctor Gelma's plan was shattered!"
+  },
+  {
+   "uid": "U08027",
+   "en": "But Emperor Guillotine has not given up on Earth. Hang in there, young Daisaku! Hang in there, Giant Robo!"
+  },
+  {
+   "uid": "U08028",
+   "en": "Defeat Android U7 and take back the wristwatch!"
+  },
+  {
+   "uid": "U08029",
+   "en": "Seize the laboratory and rescue Dr. Tadokoro!"
+  },
+  {
+   "uid": "U08030",
+   "en": "Stop Giant Robo's advance! You may destroy it if necessary, but if you do, Giant Robo will be lost."
+  },
+  {
+   "uid": "U08031",
+   "en": "Defeat all of Gigant, Kelbaan and Ganger!"
+  },
+  {
+   "uid": "U08032",
+   "en": "Chief Kitakura is defeated"
+  },
+  {
+   "uid": "U08033",
+   "en": "Chief Kitakura or Daisaku Kusama is defeated"
+  },
+  {
+   "uid": "U08034",
+   "en": "This is the debug stage for single-image event art. Displaying them in order."
+  },
+  {
+   "uid": "U08035",
+   "en": "Ending the debug stage for single-image event art."
+  },
+  {
+   "uid": "U08036",
+   "en": "Kanto Map"
+  },
+  {
+   "uid": "U08037",
+   "en": "Japan Map"
+  },
+  {
+   "uid": "U08038",
+   "en": "World Map"
+  },
+  {
+   "uid": "U08039",
+   "en": "Outer Space"
+  },
+  {
+   "uid": "U08040",
+   "en": "Amigo"
+  },
+  {
+   "uid": "U08041",
+   "en": "Ultra Garrison HQ"
+  },
+  {
+   "uid": "U08042",
+   "en": "MAT HQ"
+  },
+  {
+   "uid": "U08043",
+   "en": "(Unreadable location)"
+  },
+  {
+   "uid": "U08044",
+   "en": "Science Patrol HQ"
+  },
+  {
+   "uid": "U08045",
+   "en": "Gel-Shocker Base"
+  },
+  {
+   "uid": "U08046",
+   "en": "Warehouse"
+  },
+  {
+   "uid": "U08047",
+   "en": "Star Chart"
+  },
+  {
+   "uid": "U08048",
+   "en": "Old TDF Command Room"
+  },
+  {
+   "uid": "U08049",
+   "en": "Boys' League HQ"
+  },
+  {
+   "uid": "U08050",
+   "en": "TBD"
+  },
+  {
+   "uid": "U08051",
+   "en": "This story is a work of fiction…"
+  },
+  {
+   "uid": "U08052",
+   "en": "Plan to Assassinate Seven"
+  },
+  {
+   "uid": "U08053",
+   "en": "When the Ultra Star Shines"
+  },
+  {
+   "uid": "U08054",
+   "en": "Game Over"
+  },
+  {
+   "uid": "U08055",
+   "en": "White Screen"
+  },
+  {
+   "uid": "U08056",
+   "en": "Red Screen"
+  },
+  {
+   "uid": "U08057",
+   "en": "Black Screen"
+  },
+  {
+   "uid": "U08058",
+   "en": "Saturn Space"
+  },
+  {
+   "uid": "U08059",
+   "en": "Shocker Base"
+  },
+  {
+   "uid": "U08060",
+   "en": "Amigo's PC"
+  },
+  {
+   "uid": "U08061",
+   "en": "TDF Command Room"
+  },
+  {
+   "uid": "U08062",
+   "en": "Shocker Operating Room"
+  },
+  {
+   "uid": "U08063",
+   "en": "Brain"
+  },
+  {
+   "uid": "U08064",
+   "en": "Town at Night"
+  },
+  {
+   "uid": "U08065",
+   "en": "Phantom Army HQ"
+  },
+  {
+   "uid": "U08066",
+   "en": "Generic: Enemy Lab"
+  },
+  {
+   "uid": "U08067",
+   "en": "DARK HQ"
+  },
+  {
+   "uid": "U08068",
+   "en": "TDF Org Chart"
+  },
+  {
+   "uid": "U08069",
+   "en": "Generic: Allied Lab"
+  },
+  {
+   "uid": "U08070",
+   "en": "Town by Day"
+  },
+  {
+   "uid": "U08071",
+   "en": "Seashore"
+  },
+  {
+   "uid": "U08072",
+   "en": "Forest"
+  },
+  {
+   "uid": "U08073",
+   "en": "Ultraman"
+  },
+  {
+   "uid": "U08074",
+   "en": "Giant Robo"
+  },
+  {
+   "uid": "U08075",
+   "en": "Red Baron"
+  },
+  {
+   "uid": "U08076",
+   "en": "One-Seven"
+  },
+  {
+   "uid": "U08077",
+   "en": "Kanto Map (Red Mist)"
+  },
+  {
+   "uid": "U08078",
+   "en": "Town at Night (Red Mist)"
+  },
+  {
+   "uid": "U08079",
+   "en": "Return of Ultraman"
+  },
+  {
+   "uid": "U08080",
+   "en": "EAGLE General HQ"
+  },
+  {
+   "uid": "U08081",
+   "en": "Black Cross Army HQ"
+  },
+  {
+   "uid": "U08082",
+   "en": "Commercial Eyecatch: Metal"
+  },
+  {
+   "uid": "U08083",
+   "en": "Commercial Eyecatch: Bio"
+  },
+  {
+   "uid": "U08084",
+   "en": "Room"
+  },
+  {
+   "uid": "U08085",
+   "en": "Emperor Guillotine HQ"
+  },
+  {
+   "uid": "U08086",
+   "en": "Iron Mask Party HQ"
+  },
+  {
+   "uid": "U08087",
+   "en": "Gorgom HQ"
+  },
+  {
+   "uid": "U08088",
+   "en": "Crisis HQ"
+  },
+  {
+   "uid": "U08089",
+   "en": "Prologue"
+  },
+  {
+   "uid": "U08090",
+   "en": "Kanto Map (Night)"
+  },
+  {
+   "uid": "U08091",
+   "en": "Makuu Castle"
+  },
+  {
+   "uid": "U08092",
+   "en": "Genmu Castle"
+  },
+  {
+   "uid": "U08093",
+   "en": "Fushigi Palace"
+  },
+  {
+   "uid": "U08094",
+   "en": "Private House"
+  },
+  {
+   "uid": "U08095",
+   "en": "Jiro's Blueprints"
+  },
+  {
+   "uid": "U08096",
+   "en": "Shadow HQ"
+  },
+  {
+   "uid": "U08097",
+   "en": "Desper Army HQ"
+  },
+  {
+   "uid": "U08098",
+   "en": "Makuu Space"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U08024: U7 (Daisaku) referred to as \"he\".",
+   "U08031: 夢腕ガンガー — 夢腕 unreadable (possibly a title like 鉄腕?); rendered just \"Ganger\".",
+   "U08034-U08098: debug-stage labels for event CG; translated as labels. 殻 appears to stand in for several unreadable kanji (室, 倉, 盟, 部, 殿).",
+   "U08043: 殻殻 — both characters unreadable; rendered \"(Unreadable location)\".",
+   "U08070: 寵の街 read as 昼の街 (\"Town by Day\"); could be 朝の街.",
+   "U08082/U08083: CMアイキャッチ メタル用/バイオ用 — likely Metal Hero / bio-themed eyecatches; rendered literally."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Plan to Assassinate Seven",
+    "why": "Ultraseven episode title"
+   },
+   {
+    "en": "When the Ultra Star Shines",
+    "why": "Return of Ultraman episode title"
+   },
+   {
+    "en": "Makuu Castle",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Fushigi Palace",
+    "why": "from glossary 不思議界 = Fushigi World"
+   },
+   {
+    "en": "Phantom Army",
+    "why": "from glossary ファントム兵士"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U08026",
+    "likely": "計画"
+   },
+   {
+    "uid": "U08031",
+    "likely": "?ガンガーを全て"
+   },
+   {
+    "uid": "U08046",
+    "likely": "倉庫"
+   },
+   {
+    "uid": "U08048",
+    "likely": "作戦司令室"
+   },
+   {
+    "uid": "U08061",
+    "likely": "作戦司令室"
+   },
+   {
+    "uid": "U08049",
+    "likely": "少年同盟員"
+   },
+   {
+    "uid": "U08058",
+    "likely": "土星"
+   },
+   {
+    "uid": "U08062",
+    "likely": "手術室"
+   },
+   {
+    "uid": "U08070",
+    "likely": "昼の街"
+   },
+   {
+    "uid": "U08084",
+    "likely": "部屋"
+   },
+   {
+    "uid": "U08093",
+    "likely": "不思議宮殿"
+   },
+   {
+    "uid": "U08043",
+    "likely": "?"
+   }
+  ]
+ }
+}

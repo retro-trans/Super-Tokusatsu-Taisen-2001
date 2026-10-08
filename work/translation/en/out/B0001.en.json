@@ -1,0 +1,340 @@
+{
+ "batch": "B0001",
+ "rows": [
+  {
+   "uid": "U00000",
+   "en": "System error! Please press the Reset button."
+  },
+  {
+   "uid": "U00001",
+   "en": "Clear Bonus went <c2>UP</c>!"
+  },
+  {
+   "uid": "U00002",
+   "en": "Clear Bonus went <c1>DOWN</c>!"
+  },
+  {
+   "uid": "U00003",
+   "en": "<c3>[HERO2]</c>'s Morale went <c2>UP</c>!"
+  },
+  {
+   "uid": "U00004",
+   "en": "<c3>[HERO2]</c>'s Morale went <c1>DOWN</c>!"
+  },
+  {
+   "uid": "U00005",
+   "en": "<c3>[HERO4]</c>'s Morale went <c2>UP</c>!"
+  },
+  {
+   "uid": "U00006",
+   "en": "<c3>[HERO4]</c>'s Morale went <c1>DOWN</c>!"
+  },
+  {
+   "uid": "U00007",
+   "en": "<c3>Takeshi Hongo</c>'s Morale went <c2>UP</c>!"
+  },
+  {
+   "uid": "U00008",
+   "en": "<c3>Takeshi Hongo</c>'s Morale went <c1>DOWN</c>!"
+  },
+  {
+   "uid": "U00009",
+   "en": "(For event use)"
+  },
+  {
+   "uid": "U00010",
+   "en": "<c3>Mari Matsubara</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00011",
+   "en": "<c3>Yuriko Oka</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00012",
+   "en": "<c3>Fumio Kishida</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00013",
+   "en": "<c3>Takeshi Minami</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00014",
+   "en": "<c3>Ippei Ueno</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00015",
+   "en": "<c3>Captain Kato</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00016",
+   "en": "<c3>Hideki Go</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00017",
+   "en": "<c3>Anne Yuri</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00018",
+   "en": "<c3>Soga</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00019",
+   "en": "<c3>Amagi</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00020",
+   "en": "<c3>Furuhashi</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00021",
+   "en": "<c3>Captain Kiriyama</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00022",
+   "en": "<c3>Dan Moroboshi</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00023",
+   "en": "<c3>Akiko Fuji</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00024",
+   "en": "<c3>Arashi</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00025",
+   "en": "<c3>Ide</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00026",
+   "en": "<c3>Captain Muramatsu</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00027",
+   "en": "<c3>Hayata</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00028",
+   "en": "<c3>Captain Sawa</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00029",
+   "en": "<c3>Officer Yanagiya</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00030",
+   "en": "<c3>Officer Omura</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00031",
+   "en": "<c3>Officer Hirata</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00032",
+   "en": "<c3>Officer Katsube</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00033",
+   "en": "<c3>Officer Ando</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00034",
+   "en": "<c3>Officer Ushio</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00035",
+   "en": "<c3>Officer Amamoto</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00036",
+   "en": "<c3>Officer Manaka</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00037",
+   "en": "<c3>Chief Kitakura</c> gained <c2>2</c> levels!"
+  },
+  {
+   "uid": "U00038",
+   "en": "<c3>Mari Matsubara</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00039",
+   "en": "<c3>Yuriko Oka</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00040",
+   "en": "<c3>Fumio Kishida</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00041",
+   "en": "<c3>Takeshi Minami</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00042",
+   "en": "<c3>Ippei Ueno</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00043",
+   "en": "<c3>Captain Kato</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00044",
+   "en": "<c3>Hideki Go</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00045",
+   "en": "<c3>Anne Yuri</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00046",
+   "en": "<c3>Soga</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00047",
+   "en": "<c3>Amagi</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00048",
+   "en": "<c3>Furuhashi</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00049",
+   "en": "<c3>Captain Kiriyama</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00050",
+   "en": "<c3>Dan Moroboshi</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00051",
+   "en": "<c3>Akiko Fuji</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00052",
+   "en": "<c3>Arashi</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00053",
+   "en": "<c3>Ide</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00054",
+   "en": "<c3>Captain Muramatsu</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00055",
+   "en": "<c3>Hayata</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00056",
+   "en": "<c3>Captain Sawa</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00057",
+   "en": "<c3>Officer Yanagiya</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00058",
+   "en": "<c3>Officer Omura</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00059",
+   "en": "<c3>Officer Hirata</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00060",
+   "en": "<c3>Officer Katsube</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00061",
+   "en": "<c3>Officer Ando</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00062",
+   "en": "<c3>Officer Ushio</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00063",
+   "en": "<c3>Officer Amamoto</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00064",
+   "en": "<c3>Officer Manaka</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00065",
+   "en": "<c3>Chief Kitakura</c> gained <c2>1</c> level!"
+  },
+  {
+   "uid": "U00066",
+   "en": "The power plant has been <c1>captured</c>!"
+  },
+  {
+   "uid": "U00067",
+   "en": "The factory has been <c1>captured</c>!"
+  },
+  {
+   "uid": "U00068",
+   "en": "The laboratory has been <c1>captured</c>!"
+  },
+  {
+   "uid": "U00069",
+   "en": "We <c2>captured</c> the power plant!"
+  },
+  {
+   "uid": "U00070",
+   "en": "We <c2>captured</c> the factory!"
+  },
+  {
+   "uid": "U00071",
+   "en": "We <c2>captured</c> the laboratory!"
+  },
+  {
+   "uid": "U00072",
+   "en": "One week earlier… a young man went missing."
+  },
+  {
+   "uid": "U00073",
+   "en": "His name was Takeshi Hongo. The brightest student in the biochemistry lab at Jonan University, he was also a formidable motocross racer."
+  },
+  {
+   "uid": "U00074",
+   "en": "His motocross mentor, and the guardian of a young man with no family left in the world, was Tobei Tachibana…"
+  },
+  {
+   "uid": "U00075",
+   "en": "While training at motocross with Tachibana, Hongo was attacked by a mysterious biker gang and abducted."
+  },
+  {
+   "uid": "U00076",
+   "en": "And so, still unconscious, Hongo was brought to a place far from any town…"
+  },
+  {
+   "uid": "U00077",
+   "en": "…Where the hell am I? Let me go!"
+  },
+  {
+   "uid": "U00078",
+   "en": "Heh heh heh…<p>Takeshi Hongo… Welcome to our Shocker."
+  },
+  {
+   "uid": "U00079",
+   "en": "…Shocker? What are you talking about?"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U00009: dev placeholder text 各イベント用, rendered as '(For event use)'"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": [
+   {
+    "uid": "U00075",
+    "likely": "練習"
+   }
+  ]
+ }
+}

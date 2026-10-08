@@ -1,0 +1,403 @@
+{
+ "batch": "B0029",
+ "rows": [
+  {
+   "uid": "U02248",
+   "en": "Oh, I forgot!<p>Hello… It's [HERO4]…"
+  },
+  {
+   "uid": "U02249",
+   "en": "You fooool!"
+  },
+  {
+   "uid": "U02250",
+   "en": "Whoa!? What? Oh, it's Grandpa…"
+  },
+  {
+   "uid": "U02251",
+   "en": "Don't \"Oh\" me! Where on earth are you right now?<p>If you left Tokyo three hours ago, you should've gotten here long ago. What are you doing!"
+  },
+  {
+   "uid": "U02252",
+   "en": "Sorry, sorry… You know what they say, \"more haste, less speed,\" right? So, um… you know…<p>Hello? Hello? The reception seems kinda bad…"
+  },
+  {
+   "uid": "U02253",
+   "en": "Don't lie to me! The nerve… What's this \"more haste, less speed\"? You forgot, didn't you?<p>You take after your late mother… Your grades are fine, but you've got a strangely scatterbrained side.<p>Well, anyway… hurry and get over here! I'm worried about [HERO2]'s body."
+  },
+  {
+   "uid": "U02254",
+   "en": "Okay, thanks…<p>But… he seems to be a little better! Right? [HERO2]…!"
+  },
+  {
+   "uid": "U02255",
+   "en": "Ngh…… Ooooooh!?"
+  },
+  {
+   "uid": "U02257",
+   "en": "Uoaaaah… Ooooooh!!"
+  },
+  {
+   "uid": "U02258",
+   "en": "[HERO2]!? Kyaaaah!"
+  },
+  {
+   "uid": "U02259",
+   "en": "Hm, don't tell me…!?"
+  },
+  {
+   "uid": "U02260",
+   "en": "[HERO4]'s grandfather was an authority on cytology, just like her father. He left the institute several years ago…<p>Since then… he's apparently been running a dojo for ancient martial arts. He also teaches things like horseback riding…<p>It seems he'd made some progress researching the Vol cells said to be living as parasites in [HERO2]."
+  },
+  {
+   "uid": "U02261",
+   "en": "Vol cells? I've heard the name, but… what exactly are they?"
+  },
+  {
+   "uid": "U02262",
+   "en": "They're a type of archaeal cell. Since they have no nucleus, they're closer to prokaryotic cells like bacteria.<p>They're said to have been discovered only in the last ten years or so, and they're considered ancient bacteria adapted to Earth's primitive environment, so to speak.<p>The problem is their parasitic instinct…<p>Apparently… they're a terrifying new species that parasitizes the eukaryotic cells of higher animals like us, and devours the host until it's completely assimilated."
+  },
+  {
+   "uid": "U02263",
+   "en": "Then what about [HERO2]? Is he going to get devoured by that stuff!?"
+  },
+  {
+   "uid": "U02264",
+   "en": "I don't know…"
+  },
+  {
+   "uid": "U02265",
+   "en": "[HERO4]! I was worried about [HERO2]… so I came flying out of the house!<p>From how you sounded on the phone…<p>Hm!?<p>This is serious! The infiltration of his brain cells has already begun."
+  },
+  {
+   "uid": "U02266",
+   "en": "What do you mean!? [HERO2] was controlling the Vol cells with his own will!<p>Vortex is… exactly like the hero [HERO2] used to draw ever since he was little…!"
+  },
+  {
+   "uid": "U02267",
+   "en": "Calm down, [HERO4]!<p>Vol cells are… archaeal cells that parasitize eukaryotic cells!<p>Until they've completely taken over the host's body, they actively divide again and again and multiply! And when that… reaches the brain cells, [HERO2] will…"
+  },
+  {
+   "uid": "U02268",
+   "en": "[HERO2] is going to be taken over by the Vol cells?<p>Is it too late to save [HERO2]!? Grandpa…!"
+  },
+  {
+   "uid": "U02269",
+   "en": "It's already beyond my power…<p>Before it came to this, regular doses of the inhibitor I formulated should have been able to suppress the activation of the adhesion factors…<p>In any case, [HERO4]… at least you should take the inhibitor…"
+  },
+  {
+   "uid": "U02270",
+   "en": "Just me? You're telling me to save only myself!?"
+  },
+  {
+   "uid": "U02271",
+   "en": "[HERO4]! You're all I have left! Please understand!"
+  },
+  {
+   "uid": "U02272",
+   "en": "…………<p>I'm sorry… Grandpa… But that's one thing… that's one thing I just can't do!"
+  },
+  {
+   "uid": "U02273",
+   "en": "Hey, [HERO4]! Where are you going? [HERO4]!!"
+  },
+  {
+   "uid": "U02274",
+   "en": "…This sea hasn't changed, has it? Not since back when I played here with [HERO2]…"
+  },
+  {
+   "uid": "U02275",
+   "en": "What's changed… the ones who've changed are us…<p>Fighting… hurting people… We never even thought about things like that back then…!"
+  },
+  {
+   "uid": "U02276",
+   "en": "Don't leave me behind, [HERO2]!! I… I…"
+  },
+  {
+   "uid": "U02277",
+   "en": "Huh, this feeling… It can't be!? Big brother? You really are alive!?"
+  },
+  {
+   "uid": "U02278",
+   "en": "…………"
+  },
+  {
+   "uid": "U02279",
+   "en": "Oh? What a familiar face…?"
+  },
+  {
+   "uid": "U02280",
+   "en": "Isn't that Satoru's little sister?"
+  },
+  {
+   "uid": "U02281",
+   "en": "Kaori, and even Mr. Todo…"
+  },
+  {
+   "uid": "U02282",
+   "en": "Still… I'm surprised you made it out of that big fire alive. I was sure you'd been caught up in it too.<p>From the look of it… you haven't even awakened yet, have you?"
+  },
+  {
+   "uid": "U02283",
+   "en": "Awakened…?"
+  },
+  {
+   "uid": "U02284",
+   "en": "Means you haven't \"evolved\" like us.<p>I thought I'd burned all you failures to ashes, but…"
+  },
+  {
+   "uid": "U02285",
+   "en": "Burned… What do you mean? Don't tell me it was you, Mr. Todo…!?"
+  },
+  {
+   "uid": "U02286",
+   "en": "That's right. On Satoru's orders…<p>Though the one who set the first fire was your old man, Dr. Hinata… And he took Kaori's old man down with him!"
+  },
+  {
+   "uid": "U02287",
+   "en": "My brother's orders…? Papa set the fire?<p>What are you talking about? I don't understand at all… Liar! That's a lie, a total lie!"
+  },
+  {
+   "uid": "U02288",
+   "en": "Please… Tell me it's a lie, big brother!"
+  },
+  {
+   "uid": "U02289",
+   "en": "Satoru… The \"scent of the beast\" we've been chasing… it seems to be somewhere near here, doesn't it?<p>I'll avenge Papa!"
+  },
+  {
+   "uid": "U02290",
+   "en": "…!? The scent of the beast…?"
+  },
+  {
+   "uid": "U02291",
+   "en": "Oh, looks like you know something. What shall we do, Satoru?"
+  },
+  {
+   "uid": "U02292",
+   "en": "Make her talk…"
+  },
+  {
+   "uid": "U02293",
+   "en": "Huh…?"
+  },
+  {
+   "uid": "U02294",
+   "en": "Slow as ever, huh? He means we'll ask your body directly! Where the scent of the beast is!"
+  },
+  {
+   "uid": "U02295",
+   "en": "Grooooooh!!"
+  },
+  {
+   "uid": "U02296",
+   "en": "Mr. Todo, that form…!?"
+  },
+  {
+   "uid": "U02297",
+   "en": "Volhazard! This is Tatsuya's EATER… It's finally awakened! He's a bit of a late bloomer!<p>Tatsuya! Make sure you make her talk before you kill her!"
+  },
+  {
+   "uid": "U02298",
+   "en": "Yeah… I know, I know!"
+  },
+  {
+   "uid": "U02299",
+   "en": "…!?<p>What's that sound?"
+  },
+  {
+   "uid": "U02300",
+   "en": "My phone…?"
+  },
+  {
+   "uid": "U02301",
+   "en": "Damn it… I missed the kill! What an irritating sound…"
+  },
+  {
+   "uid": "U02302",
+   "en": "[HERO2]!? Are you all right?"
+  },
+  {
+   "uid": "U02303",
+   "en": "This scent…<p>It seems he's the one. Test Subject 004! We've finally found you!"
+  },
+  {
+   "uid": "U02304",
+   "en": "I can feel it too… The powerful scent of the beast! So we've found what we were looking for, huh?"
+  },
+  {
+   "uid": "U02305",
+   "en": "…!?<p>The infiltration has reached his brain cells.<p>Vol Textured Type, Vortex! His EATER is the type that adapts to its environment and situation and keeps reconstructing its cell tissue…<p>For Satoru's Volfeed, which fuses with and absorbs other beings, he's the finest prey there is!"
+  },
+  {
+   "uid": "U02306",
+   "en": "What are you going to do to [HERO2]!?"
+  },
+  {
+   "uid": "U02307",
+   "en": "I was gonna devour him myself… but Satoru says he wants to devour him!<p>Satoru's EATER has a bigger appetite than mine!<p>Heh heh… Someone who hasn't even awakened isn't worth eating! I've got no more use for you! You failure!"
+  },
+  {
+   "uid": "U02308",
+   "en": "Kyaaaah…!?"
+  },
+  {
+   "uid": "U02309",
+   "en": "[HERO2] is just standing there… We can eat him easily!"
+  },
+  {
+   "uid": "U02310",
+   "en": "Heh heh heh…"
+  },
+  {
+   "uid": "U02311",
+   "en": "No… At this rate, [HERO2] will…!<p>Please… Vol inside me! Lend me your strength, now of all times!<p>I don't care what happens to my body… So, one more time… that \"power\" that awakened that day, in those flames…!!"
+  },
+  {
+   "uid": "U02312",
+   "en": "…!?<p>You… had awakened too? And without even letting us sense it…<p>You really are Satoru's sister. Your EATER… Velvet… probably has some special power too…?"
+  },
+  {
+   "uid": "U02313",
+   "en": "Who cares. It just means there's one more piece of prey!"
+  },
+  {
+   "uid": "U02314",
+   "en": "I won't let you do that!"
+  },
+  {
+   "uid": "U02315",
+   "en": "Mr. Hongo… Why are you here?"
+  },
+  {
+   "uid": "U02316",
+   "en": "On the day I became a cyborg… you two saved my heart. Now it's my turn to save you!<p>Now, [HERO2]! Stay back."
+  },
+  {
+   "uid": "U02317",
+   "en": "That's Kamen Rider? Tatsuya, be careful! I can't read his power at all."
+  },
+  {
+   "uid": "U02318",
+   "en": "Hmph… Cautious as ever, huh?"
+  },
+  {
+   "uid": "U02319",
+   "en": "Your Volhazard won't go down easily, I'm sure… but if things get dangerous, pull back!"
+  },
+  {
+   "uid": "U02320",
+   "en": "Yeah, yeah. Go on, get out of here!<p>…Now, let's get started!"
+  },
+  {
+   "uid": "U02321",
+   "en": "Ugh…"
+  },
+  {
+   "uid": "U02322",
+   "en": "[HERO4]… So that child has finally awakened too!?"
+  },
+  {
+   "uid": "U02323",
+   "en": "Sei… jiro…"
+  },
+  {
+   "uid": "U02324",
+   "en": "[HERO2]!? You've come to?<p>I see… The inhibitor I injected just for peace of mind… No, that can't be all there is to it, can it? You two never stop surprising me…"
+  },
+  {
+   "uid": "U02325",
+   "en": "…Seijiro! Is that [HERO4]? It's [HERO4], isn't it!?"
+  },
+  {
+   "uid": "U02326",
+   "en": "That's right… You'll save her, won't you? [HERO2]?"
+  },
+  {
+   "uid": "U02328",
+   "en": "[HERO2]…!?"
+  },
+  {
+   "uid": "U02329",
+   "en": "[HERO2]…!?"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U02269/U02324: 轟機鋼剤 (a serum Seijiro formulated to suppress Vol) rendered 'the inhibitor'; 轟機鋼 is the Lucifard-route armor name and looks like a mis-decoded glyph group here (cf. 轟合 = 融合 in U02305)",
+   "U02252: 急がば回れ rendered 'more haste, less speed'",
+   "U02260: Dr. Hinata (her father) used as 'her father'",
+   "U02286: カオリの親父さん = Assistant Minoshima (B0003)",
+   "U02292/U02294/U02297: Satoru/Todo/Kaori about [HERO4]; 'her'",
+   "U02316: [HERO2]君 in Hongo's line, but context suggests he may be speaking to [HERO4] (Velvet); kept the tag as written",
+   "U02323/U02325: 清次郎さん rendered 'Seijiro' (-san dropped)"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "(speaker_en null)",
+    "why": "speaker_en null on dialogue rows"
+   },
+   {
+    "en": "the inhibitor",
+    "why": "unclear term; see uncertain"
+   },
+   {
+    "en": "Test Subject 004",
+    "why": "term"
+   },
+   {
+    "en": "Vol Textured Type",
+    "why": "term"
+   },
+   {
+    "en": "adhesion factors",
+    "why": "term"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U02252",
+    "likely": "状態"
+   },
+   {
+    "uid": "U02260",
+    "likely": "寄生"
+   },
+   {
+    "uid": "U02262",
+    "likely": "寄生 / 喰らい"
+   },
+   {
+    "uid": "U02263",
+    "likely": "喰われ"
+   },
+   {
+    "uid": "U02267",
+    "likely": "寄生 / 繰り返し"
+   },
+   {
+    "uid": "U02269",
+    "likely": "unknown (inhibitor serum)"
+   },
+   {
+    "uid": "U02294",
+    "likely": "鈍い"
+   },
+   {
+    "uid": "U02305",
+    "likely": "融合"
+   },
+   {
+    "uid": "U02307",
+    "likely": "喰らう / 喰えん"
+   },
+   {
+    "uid": "U02324",
+    "likely": "気休め"
+   }
+  ]
+ }
+}

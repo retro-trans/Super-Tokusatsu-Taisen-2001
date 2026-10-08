@@ -1,0 +1,487 @@
+{
+ "batch": "B0240",
+ "prev": "B0239",
+ "next": "B0241",
+ "rows": [
+  {
+   "uid": "U19155",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Joe"
+  },
+  {
+   "uid": "U19156",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Joe"
+  },
+  {
+   "uid": "U19157",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Joe"
+  },
+  {
+   "uid": "U19158",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Joe"
+  },
+  {
+   "uid": "U19159",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Joe"
+  },
+  {
+   "uid": "U19160",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Joe"
+  },
+  {
+   "uid": "U19161",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Joe"
+  },
+  {
+   "uid": "U19162",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aron"
+  },
+  {
+   "uid": "U19163",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aron"
+  },
+  {
+   "uid": "U19164",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aron"
+  },
+  {
+   "uid": "U19165",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gyeron"
+  },
+  {
+   "uid": "U19166",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gyeron"
+  },
+  {
+   "uid": "U19167",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gyeron"
+  },
+  {
+   "uid": "U19168",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gyeron"
+  },
+  {
+   "uid": "U19169",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gyeron"
+  },
+  {
+   "uid": "U19170",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gyeron"
+  },
+  {
+   "uid": "U19171",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gyeron"
+  },
+  {
+   "uid": "U19172",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gyeron"
+  },
+  {
+   "uid": "U19173",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U19174",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U19175",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U19176",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U19177",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U19178",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Guts"
+  },
+  {
+   "uid": "U19179",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraseven"
+  },
+  {
+   "uid": "U19180",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraseven"
+  },
+  {
+   "uid": "U19181",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraseven"
+  },
+  {
+   "uid": "U19182",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraseven"
+  },
+  {
+   "uid": "U19183",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraseven"
+  },
+  {
+   "uid": "U19184",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraseven"
+  },
+  {
+   "uid": "U19185",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraseven"
+  },
+  {
+   "uid": "U19186",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takkong"
+  },
+  {
+   "uid": "U19187",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takkong"
+  },
+  {
+   "uid": "U19188",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takkong"
+  },
+  {
+   "uid": "U19189",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takkong"
+  },
+  {
+   "uid": "U19190",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takkong"
+  },
+  {
+   "uid": "U19191",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takkong"
+  },
+  {
+   "uid": "U19192",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takkong"
+  },
+  {
+   "uid": "U19193",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kingsaurus III"
+  },
+  {
+   "uid": "U19194",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kingsaurus III"
+  },
+  {
+   "uid": "U19195",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kingsaurus III"
+  },
+  {
+   "uid": "U19196",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kingsaurus III"
+  },
+  {
+   "uid": "U19197",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kingsaurus III"
+  },
+  {
+   "uid": "U19198",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kingsaurus III"
+  },
+  {
+   "uid": "U19199",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kingsaurus III"
+  },
+  {
+   "uid": "U19200",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seagorath"
+  },
+  {
+   "uid": "U19201",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seagorath"
+  },
+  {
+   "uid": "U19202",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seagorath"
+  },
+  {
+   "uid": "U19203",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seagorath"
+  },
+  {
+   "uid": "U19204",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seagorath"
+  },
+  {
+   "uid": "U19205",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seagorath"
+  },
+  {
+   "uid": "U19206",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seagorath"
+  },
+  {
+   "uid": "U19207",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seamons"
+  },
+  {
+   "uid": "U19208",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seamons"
+  },
+  {
+   "uid": "U19209",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seamons"
+  },
+  {
+   "uid": "U19210",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seamons"
+  },
+  {
+   "uid": "U19211",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seamons"
+  },
+  {
+   "uid": "U19212",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seamons"
+  },
+  {
+   "uid": "U19213",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Seamons"
+  },
+  {
+   "uid": "U19214",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bemstar"
+  },
+  {
+   "uid": "U19215",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bemstar"
+  },
+  {
+   "uid": "U19216",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bemstar"
+  },
+  {
+   "uid": "U19217",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bemstar"
+  },
+  {
+   "uid": "U19218",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bemstar"
+  },
+  {
+   "uid": "U19219",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bemstar"
+  },
+  {
+   "uid": "U19220",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dodongo"
+  },
+  {
+   "uid": "U19221",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bemstar"
+  },
+  {
+   "uid": "U19222",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bemstar"
+  },
+  {
+   "uid": "U19223",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Varicane"
+  },
+  {
+   "uid": "U19224",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Varicane"
+  },
+  {
+   "uid": "U19225",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Varicane"
+  },
+  {
+   "uid": "U19226",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Varicane"
+  },
+  {
+   "uid": "U19227",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Varicane"
+  },
+  {
+   "uid": "U19228",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Varicane"
+  },
+  {
+   "uid": "U19229",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Varicane"
+  },
+  {
+   "uid": "U19230",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Snowgon"
+  },
+  {
+   "uid": "U19231",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Snowgon"
+  },
+  {
+   "uid": "U19232",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Snowgon"
+  },
+  {
+   "uid": "U19233",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Snowgon"
+  },
+  {
+   "uid": "U19234",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Snowgon"
+  }
+ ]
+}

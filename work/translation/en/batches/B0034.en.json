@@ -1,0 +1,487 @@
+{
+ "batch": "B0034",
+ "prev": "B0033",
+ "next": "B0035",
+ "rows": [
+  {
+   "uid": "U02650",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gebacondor"
+  },
+  {
+   "uid": "U02651",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02652",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U02653",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U02654",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02655",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02656",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02657",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02658",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gebacondor"
+  },
+  {
+   "uid": "U02659",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gebacondor"
+  },
+  {
+   "uid": "U02660",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02661",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02662",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02663",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02664",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02665",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02666",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U02667",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02668",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02669",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02670",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U02671",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02672",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02673",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02674",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02675",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02676",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02677",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02678",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U02679",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U02680",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U02681",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U02682",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U02683",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02684",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02685",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02686",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02687",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U02688",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02689",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U02690",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02691",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U02692",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's New Monster"
+  },
+  {
+   "uid": "U02693",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02694",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Garagaranda"
+  },
+  {
+   "uid": "U02695",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02696",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Garagaranda"
+  },
+  {
+   "uid": "U02697",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Garagaranda"
+  },
+  {
+   "uid": "U02698",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Garagaranda"
+  },
+  {
+   "uid": "U02699",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02700",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U02701",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02702",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02703",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02704",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02705",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02706",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U02707",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02708",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U02709",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02710",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U02711",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02712",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02713",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02714",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U02715",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02716",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02717",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02718",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02719",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02720",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02721",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02722",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02723",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02724",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02725",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02726",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02727",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02728",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02729",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

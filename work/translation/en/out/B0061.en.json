@@ -1,0 +1,377 @@
+{
+ "batch": "B0061",
+ "rows": [
+  {
+   "uid": "U04813",
+   "en": "Yes… We're worried about Dr. Namikawa. If there's anything we can do too…"
+  },
+  {
+   "uid": "U04814",
+   "en": "Hey, Yellow! You're late! Where were you?"
+  },
+  {
+   "uid": "U04815",
+   "en": "Er, well… I was scoutin' out the area 'round the scene."
+  },
+  {
+   "uid": "U04816",
+   "en": "I see… Blue, tell him."
+  },
+  {
+   "uid": "U04817",
+   "en": "Huh… y-yes, sir…<p> Daita, you've got curry all around your mouth…"
+  },
+  {
+   "uid": "U04818",
+   "en": "Er, well… this here is…"
+  },
+  {
+   "uid": "U04819",
+   "en": "Looks like your belly's full, so move out! I'm counting on you all!"
+  },
+  {
+   "uid": "U04820",
+   "en": "Yes, sir!"
+  },
+  {
+   "uid": "U04821",
+   "en": "Kiete… koshi… kirekirete…"
+  },
+  {
+   "uid": "U04822",
+   "en": "What did you say?"
+  },
+  {
+   "uid": "U04823",
+   "en": "I said \"Me… you… frieeend…\" Or I meant to."
+  },
+  {
+   "uid": "U04824",
+   "en": "Are you sure about that?"
+  },
+  {
+   "uid": "U04825",
+   "en": "Well… I know quite a bit about space languages.<p> But… I've never actually talked to a real alien."
+  },
+  {
+   "uid": "U04826",
+   "en": "All right, let's go!"
+  },
+  {
+   "uid": "U04827",
+   "en": "Huh, we're going already!?"
+  },
+  {
+   "uid": "U04828",
+   "en": "I'm counting on you, Ide, Hayata! Rescue Dr. Namikawa, whatever it takes."
+  },
+  {
+   "uid": "U04829",
+   "en": "If only it goes that smoothly…"
+  },
+  {
+   "uid": "U04830",
+   "en": "Wh-whoa-whoa-whoa! A Black Cross Army ambush! The operation's failed right off the bat!?"
+  },
+  {
+   "uid": "U04831",
+   "en": "Damn… and we haven't even talked to the alien yet."
+  },
+  {
+   "uid": "U04832",
+   "en": "Hup! Leave this to us!"
+  },
+  {
+   "uid": "U04833",
+   "en": "…!?<p> You're from EAGLE? Right, I'm counting on you! Let's go, Ide!"
+  },
+  {
+   "uid": "U04834",
+   "en": "Play ball, Gorenger! Get them!"
+  },
+  {
+   "uid": "U04835",
+   "en": "Security Team, arriving!<p> The TDF has ordered us to support the Science Patrol and help secure the related facilities. We look forward to working with you."
+  },
+  {
+   "uid": "U04836",
+   "en": "Ide… It's probably on the upper floor. I'll keep watch here, then."
+  },
+  {
+   "uid": "U04837",
+   "en": "Ah, I knew it… So I'm the one who has to talk to it in space language? R-r-right!"
+  },
+  {
+   "uid": "U04838",
+   "en": "Um, uh… Will I need the Super Gun?"
+  },
+  {
+   "uid": "U04839",
+   "en": "Hm? Let's hope you won't…"
+  },
+  {
+   "uid": "U04840",
+   "en": "Um, uh… If the talks turn sour, I'm counting on you."
+  },
+  {
+   "uid": "U04841",
+   "en": "If you get far enough for them to turn sour, that'd be something."
+  },
+  {
+   "uid": "U04842",
+   "en": "Fair point…"
+  },
+  {
+   "uid": "U04843",
+   "en": "It's the Black Cross Army!"
+  },
+  {
+   "uid": "U04844",
+   "en": "Right, let's help rescue Dr. Namikawa too!"
+  },
+  {
+   "uid": "U04845",
+   "en": "Whoa, it's the Black Cross Army!"
+  },
+  {
+   "uid": "U04846",
+   "en": "Right, let's help rescue Dr. Namikawa too!"
+  },
+  {
+   "uid": "U04847",
+   "en": "All alone at last… Okay, be a man! You can do it!"
+  },
+  {
+   "uid": "U04848",
+   "en": "Fwoh-fwoh-fwoh-fwoh-fwoh!"
+  },
+  {
+   "uid": "U04849",
+   "en": "Th-there it is already! Kie… kie, koshi, koshi… eeek!"
+  },
+  {
+   "uid": "U04850",
+   "en": "Huh… walk, you say? Okay, okay. I'll go wherever you want."
+  },
+  {
+   "uid": "U04851",
+   "en": "How far are we going?<p> Huh!? It disappeared… Where'd it go?<p> Hm? That's Arashi! Heeey, Arashi! You're all right?"
+  },
+  {
+   "uid": "U04852",
+   "en": "Your space language is hard to understand. So we are borrowing this man's brain to use your words."
+  },
+  {
+   "uid": "U04853",
+   "en": "Huh!? N-n-no way? Eeek!? I'm hopeless…"
+  },
+  {
+   "uid": "U04854",
+   "en": "Calm down, Ide!"
+  },
+  {
+   "uid": "U04855",
+   "en": "H-Hayata! You came?"
+  },
+  {
+   "uid": "U04856",
+   "en": "What is your purpose in coming to Earth?"
+  },
+  {
+   "uid": "U04857",
+   "en": "Our purpose… in coming to planet M240, which you call Earth, is…"
+  },
+  {
+   "uid": "U04858",
+   "en": "Their purpose… What is that purpose?"
+  },
+  {
+   "uid": "U04859",
+   "en": "Cap…"
+  },
+  {
+   "uid": "U04860",
+   "en": "So…<p> your planet, \"Baltan\", exploded because of a mad scientist's experiment.<p> You were traveling through space at the time, so you lost your home, and had no choice but to wander in search of a world where you could survive.<p> Then your spaceship's gravity balance broke down, and you stopped at Earth to repair it… Is that it?<p> Then let me ask… Why did you land here?"
+  },
+  {
+   "uid": "U04861",
+   "en": "Because here were the diodes needed for the gravity balance, and a human with the knowledge and skill needed for the repair."
+  },
+  {
+   "uid": "U04862",
+   "en": "You mean Dr. Namikawa? But why did you take the lives of the other staff?"
+  },
+  {
+   "uid": "U04863",
+   "en": "Lives? I do not understand… What is life?"
+  },
+  {
+   "uid": "U04864",
+   "en": "What do you intend to do from now on?"
+  },
+  {
+   "uid": "U04865",
+   "en": "Our journey is now over. Earth will be a pleasant place for us to live. We will live on Earth."
+  },
+  {
+   "uid": "U04866",
+   "en": "What!?"
+  },
+  {
+   "uid": "U04867",
+   "en": "How shameless can they be?"
+  },
+  {
+   "uid": "U04868",
+   "en": "…Very well."
+  },
+  {
+   "uid": "U04869",
+   "en": "Whaaat!?"
+  },
+  {
+   "uid": "U04870",
+   "en": "If you adapt to Earth's customs and ways and obey Earth's laws, that isn't impossible.<p> How many of you are there?"
+  },
+  {
+   "uid": "U04871",
+   "en": "About 2.03 billion."
+  },
+  {
+   "uid": "U04872",
+   "en": "Hey, what did you say!?"
+  },
+  {
+   "uid": "U04873",
+   "en": "Above this place is a spaceship you cannot see.<p> Inside it, we sleep, shrunk to about the size of the bacteria you know."
+  },
+  {
+   "uid": "U04874",
+   "en": "Ugh, this is hopeless. The whole world's population put together is only 6.2 billion…"
+  },
+  {
+   "uid": "U04875",
+   "en": "Why not live on Mars?"
+  },
+  {
+   "uid": "U04876",
+   "en": "On Mars there is the Speci… that we hate…"
+  },
+  {
+   "uid": "U04877",
+   "en": "What's wrong? Why have you gone quiet?"
+  },
+  {
+   "uid": "U04878",
+   "en": "That I cannot say…"
+  },
+  {
+   "uid": "U04879",
+   "en": "Tch! Right at the good part… Well, how do you like that."
+  },
+  {
+   "uid": "U04880",
+   "en": "The talk is over… We will take the Earth!<p> Aah! Uuugh…"
+  },
+  {
+   "uid": "U04881",
+   "en": "Arashi!? Hey, hang in there!"
+  },
+  {
+   "uid": "U04882",
+   "en": "Wait! What happened to Dr. Namikawa? Where is he?"
+  },
+  {
+   "uid": "U04883",
+   "en": "Whoa! What's this shaking!?"
+  },
+  {
+   "uid": "U04884",
+   "en": "Whoa…!?"
+  },
+  {
+   "uid": "U04885",
+   "en": "Fwoh-fwoh-fwoh-fwoh-fwoh!"
+  },
+  {
+   "uid": "U04886",
+   "en": "Hayataaa, Ide!! What's happening? Are you all right?"
+  },
+  {
+   "uid": "U04887",
+   "en": "Cap!<p> We've lost contact with Hayata and Ide!! Something seems to have happened."
+  },
+  {
+   "uid": "U04888",
+   "en": "Good grief…"
+  },
+  {
+   "uid": "U04889",
+   "en": "Cap! Isn't there anything we can do?"
+  },
+  {
+   "uid": "U04890",
+   "en": "\"Specium\"! That must be the substance on Mars it was about to mention."
+  },
+  {
+   "uid": "U04891",
+   "en": "Specium? Then if we had it, we could beat them? Isn't there any on Earth?"
+  },
+  {
+   "uid": "U04892",
+   "en": "Hmm… But perhaps he could…"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U04814/U04816: Edogawa's color nicknames キー/アオ rendered 'Yellow'/'Blue' for readability.",
+   "U04821/U04849: Ide's 'space language' (from the Ultraman episode) kept as romanized gibberish.",
+   "U04857/U04860-U04880: the alien (Baltan) speaks through Arashi; speaker labels are glossary-supplied.",
+   "U04871/U04874: 20嬉3000万 / 62嬉 read as 20億3000万 / 62億 (2.03 billion / 6.2 billion).",
+   "U04892: 'he' = Ultraman (implied)."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Specium",
+    "why": "following スペシウム光線 = Specium Ray"
+   },
+   {
+    "en": "Baltan",
+    "why": "planet name"
+   },
+   {
+    "en": "planet M240",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U04830",
+    "likely": "待ち伏せ"
+   },
+   {
+    "uid": "U04857",
+    "likely": "惑星"
+   },
+   {
+    "uid": "U04860",
+    "likely": "立ち寄った"
+   },
+   {
+    "uid": "U04870",
+    "likely": "風俗、習慣"
+   },
+   {
+    "uid": "U04871",
+    "likely": "20億3000万"
+   },
+   {
+    "uid": "U04874",
+    "likely": "62億"
+   }
+  ]
+ }
+}

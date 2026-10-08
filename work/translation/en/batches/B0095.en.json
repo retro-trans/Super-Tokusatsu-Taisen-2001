@@ -1,0 +1,487 @@
+{
+ "batch": "B0095",
+ "prev": "B0094",
+ "next": "B0096",
+ "rows": [
+  {
+   "uid": "U07538",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07539",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07540",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07541",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07542",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07543",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07544",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07545",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07546",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07547",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07548",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07549",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07550",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07551",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07552",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U07553",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07554",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U07555",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07556",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U07557",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U07558",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07559",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U07560",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07561",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07562",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07563",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07564",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07565",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07566",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07567",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07568",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07569",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07570",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07571",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07572",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07573",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07574",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07575",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U07576",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07577",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07578",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Gomez"
+  },
+  {
+   "uid": "U07579",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U07580",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rumi Sahara"
+  },
+  {
+   "uid": "U07581",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U07582",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rumi Sahara"
+  },
+  {
+   "uid": "U07583",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07584",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07585",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07586",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07587",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07588",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07589",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07590",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07591",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07592",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07593",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07594",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07595",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07596",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U07597",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U07598",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Demon King Psycho"
+  },
+  {
+   "uid": "U07599",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U07600",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07601",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U07602",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U07603",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U07605",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07606",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U07607",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07608",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U07609",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U07610",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U07611",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U07612",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U07613",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U07614",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U07615",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07616",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U07617",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07618",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  }
+ ]
+}

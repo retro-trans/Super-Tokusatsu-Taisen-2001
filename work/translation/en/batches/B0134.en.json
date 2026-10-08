@@ -1,0 +1,487 @@
+{
+ "batch": "B0134",
+ "prev": "B0133",
+ "next": "B0135",
+ "rows": [
+  {
+   "uid": "U10661",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U10662",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U10663",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U10664",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U10665",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U10666",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. D. Anderson"
+  },
+  {
+   "uid": "U10667",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U10668",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. D. Anderson"
+  },
+  {
+   "uid": "U10669",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U10670",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U10671",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U10672",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U10673",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. D. Anderson"
+  },
+  {
+   "uid": "U10674",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10675",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U10676",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U10677",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U10678",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U10679",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U10680",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U10681",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U10682",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U10683",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U10684",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10685",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U10686",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U10687",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U10688",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U10689",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U10690",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U10691",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U10692",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U10693",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U10694",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U10695",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U10696",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U10697",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U10698",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U10699",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U10700",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U10701",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U10702",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U10703",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U10704",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U10705",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U10706",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U10707",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U10708",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U10709",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U10710",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U10711",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U10712",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U10713",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U10714",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U10715",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U10716",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U10717",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U10718",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U10719",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U10720",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U10721",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U10722",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Tsuchida"
+  },
+  {
+   "uid": "U10723",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U10724",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Tsuchida"
+  },
+  {
+   "uid": "U10725",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. D. Anderson"
+  },
+  {
+   "uid": "U10726",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Tsuchida"
+  },
+  {
+   "uid": "U10727",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. D. Anderson"
+  },
+  {
+   "uid": "U10728",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U10729",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10730",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U10731",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10732",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U10733",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U10734",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10735",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U10736",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U10737",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U10738",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U10739",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U10740",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0186",
+ "prev": "B0185",
+ "next": "B0187",
+ "rows": [
+  {
+   "uid": "U14821",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Angel"
+  },
+  {
+   "uid": "U14822",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Angel HQ Scientist"
+  },
+  {
+   "uid": "U14823",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U14824",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14825",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14826",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14827",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14828",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14829",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14830",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14831",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U14832",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U14833",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U14834",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U14835",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U14836",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14837",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14838",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14839",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14840",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U14841",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14842",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U14843",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U14844",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14845",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U14846",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U14847",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U14848",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14849",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U14850",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14851",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14852",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14853",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14854",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14855",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U14856",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U14857",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Bogard"
+  },
+  {
+   "uid": "U14858",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U14859",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U14860",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U14861",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U14862",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U14863",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U14864",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U14865",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U14866",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14867",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14868",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14869",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14870",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14871",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14872",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14873",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14874",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14875",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U14876",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U14877",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14878",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14879",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14880",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14881",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14882",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14883",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14884",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14885",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14886",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14887",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14888",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U14889",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U14890",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U14891",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14892",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14893",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14894",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14895",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U14896",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14897",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U14898",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U14899",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14900",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  }
+ ]
+}

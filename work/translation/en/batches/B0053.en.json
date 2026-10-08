@@ -1,0 +1,487 @@
+{
+ "batch": "B0053",
+ "prev": "B0052",
+ "next": "B0054",
+ "rows": [
+  {
+   "uid": "U04173",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04174",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04175",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04176",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04177",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04178",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U04179",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04180",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U04181",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U04182",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gel-Shocker Combatant"
+  },
+  {
+   "uid": "U04183",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U04184",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gel-Shocker's Great Leader"
+  },
+  {
+   "uid": "U04185",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U04186",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gel-Shocker's Great Leader"
+  },
+  {
+   "uid": "U04187",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U04188",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gel-Shocker's Great Leader"
+  },
+  {
+   "uid": "U04189",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U04190",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gel-Shocker's Great Leader"
+  },
+  {
+   "uid": "U04191",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04192",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04193",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04194",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04195",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04196",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04197",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04198",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04199",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04200",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04201",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04202",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04203",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04204",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04205",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04206",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04207",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04208",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04209",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04210",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04211",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04212",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04213",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04214",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04215",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04216",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04217",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04218",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04219",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U04220",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04221",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04222",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U04223",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04224",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04225",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04226",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U04227",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U04228",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U04229",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman in Black"
+  },
+  {
+   "uid": "U04230",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04231",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Man in Black"
+  },
+  {
+   "uid": "U04232",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04233",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman in Black"
+  },
+  {
+   "uid": "U04234",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04235",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seiichiro Kogure"
+  },
+  {
+   "uid": "U04236",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Ishigami"
+  },
+  {
+   "uid": "U04237",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04238",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seiichiro Kogure"
+  },
+  {
+   "uid": "U04239",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04240",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seiichiro Kogure"
+  },
+  {
+   "uid": "U04241",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Ishigami"
+  },
+  {
+   "uid": "U04242",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seiichiro Kogure"
+  },
+  {
+   "uid": "U04243",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Ishigami"
+  },
+  {
+   "uid": "U04244",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04245",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04246",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04247",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04248",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04249",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04250",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U04251",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U04252",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  }
+ ]
+}

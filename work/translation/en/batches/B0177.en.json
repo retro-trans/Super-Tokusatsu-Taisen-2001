@@ -1,0 +1,487 @@
+{
+ "batch": "B0177",
+ "prev": "B0176",
+ "next": "B0178",
+ "rows": [
+  {
+   "uid": "U14101",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider 01"
+  },
+  {
+   "uid": "U14102",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U14103",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U14104",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U14105",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U14106",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U14107",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U14108",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U14109",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U14110",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U14111",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U14112",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U14113",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U14114",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U14115",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14116",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U14117",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U14118",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U14119",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U14120",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U14121",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U14122",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U14123",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U14124",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14125",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U14126",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14127",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U14128",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14129",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U14130",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14131",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U14132",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14133",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U14134",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14135",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U14136",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voice from the Darkness"
+  },
+  {
+   "uid": "U14137",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14138",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U14139",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voice from the Darkness"
+  },
+  {
+   "uid": "U14140",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14141",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U14142",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U14143",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14144",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U14145",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14146",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U14147",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U14148",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U14149",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U14150",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U14151",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U14152",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U14153",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U14154",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U14155",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U14156",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U14157",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U14158",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U14159",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U14160",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U14161",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider 01"
+  },
+  {
+   "uid": "U14162",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14163",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U14164",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U14165",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U14166",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14167",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U14168",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U14169",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14170",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U14171",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14172",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U14173",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U14174",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U14175",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U14176",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U14177",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U14178",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14179",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U14180",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

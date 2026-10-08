@@ -1,0 +1,324 @@
+# Attacks / weapons (DB). kind=attack. Source for tools/glossary_add.py
+格闘 | Melee | attack |
+超振動ブレード | Ultrasonic Blade | attack |
+ツインリニアガン | Twin Linear Gun | attack |
+メーサービット | Maser Bits | attack |
+グラビティ・ファントム | Gravity Phantom | attack |
+グラビティ・ナパーム | Gravity Napalm | attack |
+メディカル・ブラスト | Medical Blast | attack |
+デストロイヤー・ブラスト | Destroyer Blast | attack |
+フィフス・シャイン | Fifth Shine | attack |
+ヴォルブレイド | Volblade | attack |
+ヴォルカノン | Volcannon | attack |
+ヴォルブレイド・ダークエッジ | Volblade Dark Edge | attack |
+ヴォルカノン・ハウリング | Volcannon Howling | attack |
+ヴォルテックス・クライ | Vortex Cry | attack |
+回復 | Repair | attack |
+ヴェルスライサー | Velslicer | attack |
+ヴェルソーサー | Velsaucer | attack |
+ヴェルヴェット・サークル | Velvet Circle | attack |
+ミサイル | Missiles | attack |
+20mm機関砲 | 20mm Cannon | attack |
+爆弾 | Bombs | attack |
+30mm機関砲 | 30mm Cannon | attack |
+（未定） | (TBD) | attack |
+120mm滑空砲 | 120mm Smoothbore | attack |
+7，62mm機銃 | 7.62mm MG | attack |
+35mm機関砲 | 35mm Cannon | attack |
+155mm榴弾砲 | 155mm Howitzer | attack |
+連装粒子ビーム | Twin Particle Beam | attack |
+対空レーザー砲 | AA Laser Cannon | attack |
+5，56mm機関銃 | 5.56mm MG | attack |
+対怪獣ミサイル | Anti-Kaiju Missile | attack |
+銃剣 | Bayonet | attack |
+重粒子砲 | Heavy Particle Cannon | attack |
+ホーミングドリルアタック | Homing Drill Attack | attack |
+スペースレーザー砲 | Space Laser Cannon | attack |
+レッドスパーク | Red Spark | attack | Akarenger
+レッドビュート | Red Bute | attack | Akarenger whip
+ニューレッドビュート | New Red Bute | attack |
+ブルーチェリ | Blue Cherry | attack | Aorenger bow
+チェリミサイル | Cherry Missile | attack |
+トリプルチェリ | Triple Cherry | attack |
+ウルトラブルーチェリ | Ultra Blue Cherry | attack |
+メガトン頭突き | Megaton Headbutt | attack |
+キーステッカー | Key Sticker | attack |
+モモ爆弾 | Momo Bomb | attack |
+モモカード | Momo Card | attack |
+ミドメラン | Midomeran | attack |
+ミドメラン斬り | Midomeran Slash | attack |
+ニューミドメラン | New Midomeran | attack |
+ミドパンチャー | Mido Puncher | attack |
+スカイロック | Sky Lock | attack |
+スカイミサイル | Sky Missile | attack |
+ジャイロカッター | Gyro Cutter | attack |
+マシンガン | Machine Gun | attack |
+ゴレンジャーチャージ | Gorenger Charge | attack |
+ゴレンジャーストーム | Gorenger Storm | attack |
+ゴレンジャーSNP作戦MS | Gorenger Op. SNP MS | attack |
+ゴレンジャーハリケーン | Gorenger Hurricane | attack |
+ゴレンジャーSNP作戦 | Gorenger Op. SNP | attack |
+稲妻拳法電撃 | Lightning Fist Shock | attack | Inazuman
+念力キック | Psychic Kick | attack |
+稲妻タイフーン | Lightning Typhoon | attack |
+超力稲妻落とし | Super Lightning Drop | attack |
+流星キック | Meteor Kick | attack |
+ウルトラスラッシュ | Ultra Slash | attack |
+スペシウム光線 | Specium Ray | attack |
+ウルトラスパーク | Ultra Spark | attack |
+ウルトラランス | Ultra Lance | attack |
+ウルトラロケット弾 | Ultra Rocket | attack |
+ロケット砲 | Rocket Launcher | attack |
+ヘッドミサイル | Head Missile | attack |
+ウルトラ水流 | Ultra Water Jet | attack |
+ハンドビーム | Hand Beam | attack |
+麻酔弾 | Tranquilizer | attack |
+赤色凍結光線 | Red Freeze Ray | attack |
+スパイラルキック | Spiral Kick | attack |
+ディメンションボンバー | Dimension Bomber | attack |
+レーザーZビーム | Laser Z Beam | attack |
+レーザーブレード | Laser Blade | attack |
+ギャバンダイナミック | Gavan Dynamic | attack |
+レーザー | Laser | attack |
+ドルレーザー | Dol Laser | attack |
+スパークボンバー | Spark Bomber | attack |
+シャリバンキック | Sharivan Kick | attack |
+クライムバスター | Crime Buster | attack |
+シャリバンクラッシュ | Sharivan Crash | attack |
+モトシャリアンレーザー | Moto-Sharian Laser | attack |
+バースビーム | Birth Beam | attack |
+グランドバスター | Grand Buster | attack |
+プラズマカノン | Plasma Cannon | attack |
+銃 | Gun | attack |
+ビデオビームガン | Video Beam Gun | attack |
+シャイダーブルーフラッシュ | Shaider Blue Flash | attack |
+ビッグマグナム | Big Magnum | attack |
+バードニアブラスター | Birdnia Blaster | attack |
+バビロスファイヤー | Babylos Fire | attack |
+バビロスレーザー | Babylos Laser | attack |
+回転アタック | Spin Attack | attack |
+ダブルチョップ | Double Chop | attack |
+大車輪投げ | Giant Wheel Throw | attack |
+電磁エンド | Electromagnetic End | attack | Kikaider
+キカイダースパーク | Kikaider Spark | attack |
+ゼロワンドライバー | Zero-One Driver | attack |
+ブラストエンド | Blast End | attack |
+ゼロワンキック | Zero-One Kick | attack |
+ゼロワンカット | Zero-One Cut | attack |
+ブラストレーザー | Blast Laser | attack |
+トリプルサークライン | Triple Circle Line | attack |
+ボウガン | Bowgun | attack |
+ビジンダーレザー | Bijinder Laser | attack |
+体当たり | Body Slam | attack |
+逆転チェスト | Reverse Chest | attack |
+ゼーバーイナズマンフラッシュ | Zeber Inazuman Flash | attack |
+追跡ミサイル | Homing Missile | attack |
+ショットガン | Shotgun | attack |
+メガトンパンチ | Megaton Punch | attack |
+ロケット弾 | Rockets | attack |
+レーザー光線 | Laser Beam | attack |
+火炎放射 | Flamethrower | attack |
+クロスファイヤー | Cross Fire | attack |
+ナイキ総ミサイル | Nike Missile Barrage | attack |
+ミサイルパンチ | Missile Punch | attack |
+グラビトン | Graviton | attack | Giant Robo
+全弾発射 | Full Barrage | attack |
+バロンブレイク | Baron Break | attack |
+バロンパンチ | Baron Punch | attack |
+バロンミサイル | Baron Missile | attack |
+ドリルアロー | Drill Arrow | attack |
+レインボーマーカー | Rainbow Marker | attack |
+アームミサイル | Arm Missile | attack |
+エレクトリッガー | Electrigger | attack |
+ムチ | Whip | attack |
+ライダーパンチ | Rider Punch | attack |
+ライダーキック | Rider Kick | attack |
+ライダー電光キック | Rider Lightning Kick | attack |
+ライダー反転キック | Rider Reverse Kick | attack |
+ライダー月面キック | Rider Moonsault Kick | attack |
+ライダー大車輪 | Rider Giant Swing | attack |
+V3パンチ | V3 Punch | attack |
+V3キック | V3 Kick | attack |
+V3きりもみキック | V3 Tailspin Kick | attack |
+V3反転キック | V3 Reverse Kick | attack |
+逆タイフーン | Reverse Typhoon | attack |
+パワーアーム | Power Arm | attack |
+ロープアーム | Rope Arm | attack |
+ドリルアーム | Drill Arm | attack |
+キングストーンフラッシュ | King Stone Flash | attack |
+RXキック | RX Kick | attack |
+リボルクラッシュ | Revol Crash | attack |
+ハードショット | Hard Shot | attack |
+バイオアタック | Bio Attack | attack |
+スパークカッター | Spark Cutter | attack |
+ダブルライダーキック | Double Rider Kick | attack |
+サイクロンカッター | Cyclone Cutter | attack |
+ダイナミックスマッシュ | Dynamic Smash | attack |
+アクロバットバーン | Acrobat Burn | attack |
+スーパーガン | Super Gun | attack |
+マルス133 | Mars 133 | attack |
+ペンシル爆弾 | Pencil Bomb | attack |
+ウルトラガン | Ultra Gun | attack |
+ヴァーチカルショットガン | Vertical Shotgun | attack |
+ライトンR30爆弾 | Ryton R30 Bomb | attack |
+マットシュート | MAT Shoot | attack |
+レーザーガンSP－70 | Laser Gun SP-70 | attack |
+スペースレーザーガン | Space Laser Gun | attack |
+ウルトラアタック光線 | Ultra Attack Ray | attack |
+スラッシュ光線 | Slash Ray | attack |
+ウルトラかすみ斬り | Ultra Mist Slash | attack |
+空中体当たり | Aerial Body Slam | attack |
+アイスラッガー | Eye Slugger | attack |
+エメリウム光線 | Emerium Ray | attack |
+ハンディショット | Handy Shot | attack |
+ワイドショット | Wide Shot | attack |
+M87光線 | M87 Ray | attack |
+ビーム | Beam | attack |
+角 | Horn | attack |
+レーザー砲 | Laser Cannon | attack |
+冷凍弾 | Freeze Shell | attack |
+光線銃 | Ray Gun | attack |
+投下爆弾 | Dropped Bombs | attack |
+ロケットランチャー | Rocket Launcher | attack |
+機関砲 | Autocannon | attack |
+メス | Scalpel | attack |
+アシッド・ニードル | Acid Needle | attack |
+アシッド・ミスト | Acid Mist | attack |
+プラズマ・ウェッブ | Plasma Web | attack |
+ルシファー・ロッド | Lucifer Rod | attack |
+圧縮重力子弾 | Compressed Graviton Shell | attack |
+ルシファニウム・ブレット | Luciferium Bullet | attack |
+プラズマ・バルカン砲 | Plasma Vulcan | attack |
+ルシファニウム徹甲弾 | Luciferium AP Shell | attack |
+ヴォルスプラッシュ | Volsplash | attack |
+ヴォルコレダー | Volcoleda | attack |
+ヴォルコレダー・アストラル | Volcoleda Astral | attack |
+ヴォルリッパー | Volripper | attack |
+ヴォルフレイム | Volflame | attack |
+ヴォルリッパー・ヘブン | Volripper Heaven | attack |
+ヴォルフレイム・デスサイト | Volflame Death Scythe | attack |
+ヴァルジャベリン | Valjavelin | attack |
+ヴァルストリーム | Valstream | attack |
+ヴァルジャベリン・飛燕連撃 | Valjavelin: Swallow Barrage | attack |
+ヴァルキュリア・天翔空牙 | Valkyria: Skyward Fang | attack |
+刀 | Katana | attack |
+バット | Bat | attack |
+ボール | Ball | attack |
+カマ | Sickle | attack |
+杖 | Staff | attack |
+杖ミサイル | Staff Missile | attack |
+火山弾 | Volcanic Bomb | attack |
+ナバロン砲 | Navaron Cannon | attack |
+ファイアーロード | Fire Road | attack |
+黒十字剣 | Black Cross Sword | attack |
+ウルトラ光線 | Ultra Ray | attack |
+デンジャーライト | Danger Light | attack |
+雷神村雨 | Raijin Murasame | attack | the sword of Waruder
+ワルダーつばめ返し | Waruder Swallow Return | attack |
+仕込み杖 | Sword Cane | attack |
+イカリ型分銅 | Anchor Weight | attack |
+大砲 | Cannon | attack |
+サンシャインシュート | Sunshine Shoot | attack |
+竜巻 | Tornado | attack |
+メガトンローラー | Megaton Roller | attack |
+熱光線 | Heat Ray | attack |
+足 | Kick | attack |
+ルシファニウム・カッター | Luciferium Cutter | attack |
+ナイフ | Knife | attack |
+怪光線 | Weird Ray | attack |
+剣 | Sword | attack |
+クサリ鎌 | Chain Sickle | attack |
+槍 | Spear | attack |
+妖術 | Sorcery | attack |
+短剣 | Dagger | attack |
+蛮刀 | Machete | attack |
+幻影光線 | Phantom Ray | attack |
+電光剣 | Lightning Sword | attack |
+電光撃 | Lightning Strike | attack |
+舌 | Tongue | attack |
+電撃舌 | Shock Tongue | attack |
+光線 | Ray | attack |
+電撃ムチ | Shock Whip | attack |
+ナギナタ | Naginata | attack |
+スティック | Stick | attack |
+ムササビライナー | Musasabi Liner | attack |
+頭飛ばし | Head Launch | attack |
+赤面ブーメラン | Red-Face Boomerang | attack |
+ハカイ剣 | Hakai Sword | attack |
+ハカイダーショット | Hakaider Shot | attack |
+破壊光線 | Destruction Ray | attack |
+鉄の爪 | Iron Claws | attack |
+毒ガス | Poison Gas | attack |
+火柱攻め | Fire Pillar | attack |
+地割れ振動 | Fissure Quake | attack |
+トゲ | Spikes | attack |
+毒花粉 | Poison Pollen | attack |
+爪 | Claws | attack |
+合体ウデスパー落とし | Combined Udesper Drop | attack |
+クロスハリケーン | Cross Hurricane | attack |
+ファイヤーアロー | Fire Arrow | attack |
+串刺し | Impale | attack |
+念動力 | Telekinesis | attack |
+高熱火炎 | Searing Flame | attack |
+腕飛ばし | Arm Launch | attack |
+高圧電流 | High Voltage | attack |
+サーベル | Saber | attack |
+爪ミサイル | Claw Missile | attack |
+ソード | Sword | attack |
+ドリル | Drill | attack |
+物体停止光線 | Freeze Ray | attack | stops objects in place
+飛龍キック | Hiryu Kick | attack |
+ハンマーパンチ | Hammer Punch | attack |
+ヘッドギロチン | Head Guillotine | attack |
+ギロチン落とし | Guillotine Drop | attack |
+毒針 | Poison Needle | attack |
+噛み付き | Bite | attack |
+溶解液 | Dissolving Fluid | attack |
+フェンシング剣 | Fencing Sword | attack |
+ハサミ | Scissors | attack |
+溶解ガス | Dissolving Gas | attack |
+火炎 | Flame | attack |
+毒煙 | Poison Smoke | attack |
+爆雷 | Depth Charge | attack |
+地割れ | Fissure | attack |
+雷撃 | Lightning | attack |
+超馬力バズーカ | Super Bazooka | attack |
+催眠テレビ | Hypno TV | attack |
+射撃 | Shot | attack |
+パワーアップ射撃 | Power Shot | attack |
+火球 | Fireball | attack |
+小型ミサイル | Mini Missiles | attack |
+冷気噴射 | Freeze Spray | attack |
+斧 | Axe | attack |
+レーザーガン | Laser Gun | attack |
+吸血コウモリ | Vampire Bats | attack |
+甲羅くずし | Shell Breaker | attack |
+サタンサーベル | Satan Saber | attack |
+ビルセイバー | Bill Saber | attack |
+シャドウフラッシュ | Shadow Flash | attack |
+白色破壊光線 | White Destruction Ray | attack |
+尻尾 | Tail | attack |
+岩石落とし | Rock Drop | attack |
+重力嵐 | Gravity Storm | attack |
+突風 | Gale | attack |
+エネルギー波 | Energy Wave | attack |
+超高熱火炎 | Super Heat Flame | attack |
+放電 | Discharge | attack |
+リング光線 | Ring Ray | attack |
+ショック光線 | Shock Ray | attack |
+スパーク | Spark | attack |
+触手 | Tentacles | attack |
+冷凍光線 | Freeze Ray | attack |
+燐光 | Phosphor Light | attack |
+火炎弾 | Fire Shells | attack |
+熱線 | Heat Beam | attack |
+フューリー・スライサー | Fury Slicer | attack |
+フューリー・ソーサー | Fury Saucer | attack |
+魔空空間 | Makuu Space | term |
+幻夢界 | Genmu World | term |
+不思議界 | Fushigi World | term |
+蒸着 | Johchaku | term | Gavan transformation call, kept as the show's word
+赤射 | Sekisha | term | Sharivan transformation call
+焼結 | Shoketsu | term | Shaider transformation call
+変身 | Henshin | term | transformation call; use "Henshin!" when shouted, "transform" in narration
+おやっさん | Oyassan | term | what the Riders call Tobei Tachibana

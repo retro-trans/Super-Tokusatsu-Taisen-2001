@@ -1,0 +1,487 @@
+{
+ "batch": "B0088",
+ "prev": "B0087",
+ "next": "B0089",
+ "rows": [
+  {
+   "uid": "U06978",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U06979",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Yanagawa"
+  },
+  {
+   "uid": "U06980",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Bogard"
+  },
+  {
+   "uid": "U06981",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U06982",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U06983",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U06984",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U06985",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U06986",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U06987",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U06988",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U06989",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U06990",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U06991",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U06992",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U06993",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U06994",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U06995",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U06996",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U06997",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U06998",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U06999",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07000",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U07001",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07002",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U07003",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07004",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U07005",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07006",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U07007",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U07008",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07009",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U07010",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U07011",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U07012",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07013",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U07014",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07015",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U07016",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U07017",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07018",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U07019",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U07020",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U07021",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U07022",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07023",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07024",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U07025",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07026",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U07027",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U07028",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Missile Gecko"
+  },
+  {
+   "uid": "U07029",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Missile Gecko"
+  },
+  {
+   "uid": "U07030",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Boy"
+  },
+  {
+   "uid": "U07031",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tomboyish Woman"
+  },
+  {
+   "uid": "U07032",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Missile Gecko"
+  },
+  {
+   "uid": "U07033",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tomboyish Woman"
+  },
+  {
+   "uid": "U07034",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Missile Gecko"
+  },
+  {
+   "uid": "U07035",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07036",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Missile Gecko"
+  },
+  {
+   "uid": "U07037",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07038",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Missile Gecko"
+  },
+  {
+   "uid": "U07039",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07040",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tomboyish Woman"
+  },
+  {
+   "uid": "U07041",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U07042",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07043",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07044",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U07045",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Missile Gecko"
+  },
+  {
+   "uid": "U07046",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U07047",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U07048",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07049",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U07050",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07051",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07052",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07053",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07054",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07055",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07056",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07057",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  }
+ ]
+}

@@ -1,0 +1,383 @@
+{
+ "batch": "B0020",
+ "rows": [
+  {
+   "uid": "U01528",
+   "en": "Shocker!? What are you talking about? We are the DARK Destruction Squad! Never mind, tear them apart!!"
+  },
+  {
+   "uid": "U01529",
+   "en": "A new enemy!? Be careful, [HERO4]!"
+  },
+  {
+   "uid": "U01530",
+   "en": "Roger!!"
+  },
+  {
+   "uid": "U01531",
+   "en": "Insolent fools… Do you think mere humans can beat me!?"
+  },
+  {
+   "uid": "U01532",
+   "en": "[HERO4], did you really hear it?"
+  },
+  {
+   "uid": "U01533",
+   "en": "Yeah, I really did! It's a really nasty sound. It sounded kind of like a flute…<p>The person playing it must be really bad at it, huh? With that, even electronic instruments are gonna go haywire. It's straight-up noise pollution, seriously…<p>Oh… Looks like there's someone else who got sick from it…"
+  },
+  {
+   "uid": "U01534",
+   "en": "A new enemy!? Be careful, [HERO4]!"
+  },
+  {
+   "uid": "U01535",
+   "en": "Is it that guy? The one playing the flute… Super annoying."
+  },
+  {
+   "uid": "U01536",
+   "en": "Ngh, s-strong… We'll settle this another time!"
+  },
+  {
+   "uid": "U01537",
+   "en": "So… how's that young man doing?"
+  },
+  {
+   "uid": "U01538",
+   "en": "Well… it seems he isn't human."
+  },
+  {
+   "uid": "U01539",
+   "en": "What!? Then he's… a cyborg too?"
+  },
+  {
+   "uid": "U01540",
+   "en": "No, unlike us, he's an elaborate android that someone built from scratch.<p>The mechanism's so complicated that there's no way to work on him without blueprints. He's still shut down, too."
+  },
+  {
+   "uid": "U01541",
+   "en": "An elaborate android!?<p>The only one who could build something like that… as far as I know, Dr. Komyoji…? No, it has to be him!"
+  },
+  {
+   "uid": "U01542",
+   "en": "Komyoji? You don't mean Dr. Komyoji, the one famous for robotics?<p>But hasn't the doctor been missing for several years?"
+  },
+  {
+   "uid": "U01543",
+   "en": "Hmm… Something smells fishy! Something, you know… a real whiff of it. And this new enemy bothers me too."
+  },
+  {
+   "uid": "U01544",
+   "en": "According to the TDF's information, that's an organization called DARK. Apparently the FBI's been after them for several years too…"
+  },
+  {
+   "uid": "U01545",
+   "en": "I see…<p>Even so, I wish we could do something for him. This young man… he's a bit like Goro somehow, isn't he? I just can't think of him as a stranger…"
+  },
+  {
+   "uid": "U01546",
+   "en": "…………<p>Still, an android carrying a guitar… Hm?"
+  },
+  {
+   "uid": "U01547",
+   "en": "What's wrong, Goro?"
+  },
+  {
+   "uid": "U01548",
+   "en": "There's something inside the guitar? What is it? This is…!? Some kind of blueprint?"
+  },
+  {
+   "uid": "U01549",
+   "en": "A blueprint!?<p>This is… a blueprint of him! In that case… it's time for that guy to step in."
+  },
+  {
+   "uid": "U01550",
+   "en": "Hayato… Who's \"that guy\"?"
+  },
+  {
+   "uid": "U01551",
+   "en": "Heh heh, as long as we have the blueprints… Hongo might be able to repair him.<p>He's a genius with an IQ of 600, after all. Let's get in touch with him right away!"
+  },
+  {
+   "uid": "U01552",
+   "en": "At his alma mater, Jonan University, Takeshi Hongo repaired Jiro and installed the mechanism for transforming into combat mode."
+  },
+  {
+   "uid": "U01553",
+   "en": "There, that does it!<p>How do you feel?"
+  },
+  {
+   "uid": "U01554",
+   "en": "Thank you, Mr. Hongo… I'm all right now."
+  },
+  {
+   "uid": "U01555",
+   "en": "Yes… It's a really good thing we had your blueprints.<p>Thanks to them, I was able to find a flaw in part of your combat-mode transformation mechanism.<p>And one more thing… It's a very rare feature, but it seems you have a Conscience Circuit built in. This is the first time I've seen one actually put into practice.<p>Unfortunately, though, the blueprints for the Conscience Circuit weren't included in these.<p>Most likely, they're somewhere else…"
+  },
+  {
+   "uid": "U01556",
+   "en": "It's fine, the way it is now…"
+  },
+  {
+   "uid": "U01557",
+   "en": "Jiro?"
+  },
+  {
+   "uid": "U01558",
+   "en": "To live rightly with an incomplete Conscience Circuit, I was taught three rules by the doctor!<p>First: A robot must not harm a human being, nor, by overlooking a danger to a human, allow that human to come to harm!<p>Second: A robot must obey human beings, except where those orders would go against the First Rule.<p>Third: A robot must protect itself, as long as doing so does not go against the First or Second Rule.<p>These are what the doctor…"
+  },
+  {
+   "uid": "U01559",
+   "en": "Who's there!?"
+  },
+  {
+   "uid": "U01560",
+   "en": "Heh heh heh…<p>Dr. Komyoji is in the hands of Grey Rhinoking of the DARK Destruction Squad! If you want to save Komyoji, come to Jigokudani!"
+  },
+  {
+   "uid": "U01561",
+   "en": "Grey Rhinoking! I accept your offer!"
+  },
+  {
+   "uid": "U01562",
+   "en": "All right… We'll help too."
+  },
+  {
+   "uid": "U01563",
+   "en": "So you've come? Traitor android! DARK will stop at nothing to reach its goal. Die by the landmines along with your friends!"
+  },
+  {
+   "uid": "U01564",
+   "en": "Waaagh!!"
+  },
+  {
+   "uid": "U01565",
+   "en": "Kikaider, jump!"
+  },
+  {
+   "uid": "U01566",
+   "en": "Ha ha ha ha… The android Dr. Komyoji built is nothing special after all!"
+  },
+  {
+   "uid": "U01567",
+   "en": "What's that sound?"
+  },
+  {
+   "uid": "U01568",
+   "en": "Warrior of justice, Kikaider!!"
+  },
+  {
+   "uid": "U01569",
+   "en": "What!? Kikaider?<p>A warrior of justice? Don't make me laugh! No one who gets in DARK's way will be left alive! Get him!! Do it!"
+  },
+  {
+   "uid": "U01570",
+   "en": "Nngh… Curse you, Kikaider! I'll come back and challenge you again!"
+  },
+  {
+   "uid": "U01571",
+   "en": "Still… new enemies keep turning up one after another like this, don't they?"
+  },
+  {
+   "uid": "U01572",
+   "en": "The DARK Destruction Squad, huh… They're tough opponents, all right! And I'm worried about Dr. Komyoji too.<p>[HERO2], what do you think we should do?"
+  },
+  {
+   "uid": "U01573",
+   "en": "The DARK Destruction Squad, huh… They're tough opponents, all right! And I'm worried about Dr. Komyoji too.<p>[HERO2], what do you think we should do?"
+  },
+  {
+   "uid": "U01574",
+   "en": "\"Let's leave the doctor to Jiro.\" \"Rescuing Dr. Komyoji comes first.\""
+  },
+  {
+   "uid": "U01575",
+   "en": "\"Let's leave the doctor to Jiro.\" \"Let's make rescuing Dr. Komyoji our priority.\""
+  },
+  {
+   "uid": "U01576",
+   "en": "All right… If that's decided, let's follow after Jiro!"
+  },
+  {
+   "uid": "U01577",
+   "en": "But…"
+  },
+  {
+   "uid": "U01578",
+   "en": "No… Listen, Hongo! Shocker, the Neo-Human Empire, and Makuu too are all still actively on the move.<p>This may sound harsh, but our fighting strength is limited. Don't forget that…"
+  },
+  {
+   "uid": "U01579",
+   "en": "The DARK Destruction Squad, with its terrifying abilities. The incomplete android Kikaider, Jiro, set off from Hongo and the others in search of his creator, Dr. Komyoji…"
+  },
+  {
+   "uid": "U01580",
+   "en": "Defeat Grey Rhinoking and the Androidmen and rescue Dr. Komyoji!"
+  },
+  {
+   "uid": "U01581",
+   "en": "Defeat Grey Rhinoking and the Androidmen and support Dr. Komyoji!"
+  },
+  {
+   "uid": "U01582",
+   "en": "Defeat Grey Rhinoking to rescue Dr. Komyoji!"
+  },
+  {
+   "uid": "U01583",
+   "en": "Jiro is defeated"
+  },
+  {
+   "uid": "U01584",
+   "en": "Jiro cannot be protected, or all allies are destroyed"
+  },
+  {
+   "uid": "U01585",
+   "en": "What!? Komyoji has escaped?"
+  },
+  {
+   "uid": "U01586",
+   "en": "We're terribly sorry!<p>We gave him a massive dose of truth serum to make him spill the secret of the special circuit, and he was so dazed that…"
+  },
+  {
+   "uid": "U01587",
+   "en": "So you let your guard down? Fool!!"
+  },
+  {
+   "uid": "U01588",
+   "en": "Ugyaaah!!"
+  },
+  {
+   "uid": "U01589",
+   "en": "Find him!! Find Komyoji!<p>Kaimen Green of the DARK Destruction Squad! Find Komyoji and bring him back to DARK!"
+  },
+  {
+   "uid": "U01590",
+   "en": "Yes, sir…"
+  },
+  {
+   "uid": "U01591",
+   "en": "The secret of the special circuit must never fall into anyone else's hands! Never! Go!!"
+  },
+  {
+   "uid": "U01592",
+   "en": "I feel as if I've been here before… But it's as though there's a haze over it, and I just can't remember.<p>That's right! I have definitely been here before! And not just once or twice."
+  },
+  {
+   "uid": "U01593",
+   "en": "This is Anne. On scheduled patrol in Tokyo's K District… Nothing unusual. Returning to base now."
+  },
+  {
+   "uid": "U01594",
+   "en": "Look out!!<p>Are you all right? Are you hurt?"
+  },
+  {
+   "uid": "U01595",
+   "en": "I… I don't know who you are. I don't know why I came here, either.<p>But I remember… I feel I entrusted something important to you."
+  },
+  {
+   "uid": "U01596",
+   "en": "Um… Haven't you mistaken me for someone else? I don't know who you are either…"
+  },
+  {
+   "uid": "U01597",
+   "en": "Liar… Now, I'll have it back!"
+  },
+  {
+   "uid": "U01598",
+   "en": "Eeek!"
+  },
+  {
+   "uid": "U01599",
+   "en": "Oh no, DARK's caught up with me!"
+  },
+  {
+   "uid": "U01600",
+   "en": "Hee hee hee… Komyoji, I've found you!"
+  },
+  {
+   "uid": "U01601",
+   "en": "Komyoji?<p>That's it… This man is that Dr. Komyoji, isn't he? The Dr. Komyoji who's been missing for years."
+  },
+  {
+   "uid": "U01602",
+   "en": "Now that you, who should have lost your memory, have shown up in this city… a secret must be hidden here!<p>Out of my way!"
+  },
+  {
+   "uid": "U01603",
+   "en": "Eek, look out! Dr. Komyoji, quick, into the car…"
+  },
+  {
+   "uid": "U01604",
+   "en": "Talk! Where is the secret of the special circuit hidden? You, hand Komyoji over to me!"
+  },
+  {
+   "uid": "U01605",
+   "en": "No, no, that won't do. I may not look it, but I'm an Ultra Garrison officer! I can't abandon a civilian!"
+  },
+  {
+   "uid": "U01606",
+   "en": "What!? So you mean to get in my way?"
+  },
+  {
+   "uid": "U01607",
+   "en": "This is Anne, this is Anne… HQ, please respond!<p>On patrol in Tokyo's K District… I've found and taken Dr. Komyoji into protection, but we're being attacked by a round green monster."
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U01533/U01535: heroine (Kanou route) rambling about the bad flute player; 'super annoying' for 超迷惑",
+   "U01549: あの男の出番 rendered 'it's time for that guy to step in' (Hongo)",
+   "U01558: the three robot laws rendered in my own wording; last sentence cut off by the attack and continued in U01559 ('Who's there!?')",
+   "U01572/U01573: どうする rendered 'what do you think we should do' since a player choice follows",
+   "U01574/U01575: player choice rows; brackets replaced by double quotes",
+   "U01584: [ja] rendered 'Jiro cannot be protected, or all allies are destroyed'",
+   "U01597: Komyoji (amnesiac) accusing Anne of lying; 'Liar…'"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "(speaker_en null)",
+    "why": "speaker_en null on dialogue rows"
+   },
+   {
+    "en": "special circuit",
+    "why": "term"
+   },
+   {
+    "en": "combat mode",
+    "why": "term"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U01535",
+    "likely": "超迷惑"
+   },
+   {
+    "uid": "U01537",
+    "likely": "容態"
+   },
+   {
+    "uid": "U01552",
+    "likely": "形態"
+   },
+   {
+    "uid": "U01555",
+    "likely": "形態"
+   },
+   {
+    "uid": "U01555",
+    "likely": "残念"
+   },
+   {
+    "uid": "U01586",
+    "likely": "意識"
+   },
+   {
+    "uid": "U01607",
+    "likely": "応答"
+   }
+  ]
+ }
+}

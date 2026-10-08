@@ -1,0 +1,487 @@
+{
+ "batch": "B0040",
+ "prev": "B0039",
+ "next": "B0041",
+ "rows": [
+  {
+   "uid": "U03130",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U03131",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Priest Poe"
+  },
+  {
+   "uid": "U03132",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Great Emperor Kubilai"
+  },
+  {
+   "uid": "U03133",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Priest Poe"
+  },
+  {
+   "uid": "U03134",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U03135",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 2"
+  },
+  {
+   "uid": "U03136",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 3"
+  },
+  {
+   "uid": "U03137",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 4"
+  },
+  {
+   "uid": "U03138",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 5"
+  },
+  {
+   "uid": "U03139",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Miracler"
+  },
+  {
+   "uid": "U03140",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U03141",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Priest Poe"
+  },
+  {
+   "uid": "U03142",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Priest Poe"
+  },
+  {
+   "uid": "U03143",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fushigi Beast Baribari"
+  },
+  {
+   "uid": "U03144",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03145",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U03146",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U03147",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U03148",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03149",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03150",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03151",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03152",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03153",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03154",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03155",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03156",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03157",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03158",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03159",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03160",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03161",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03162",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03163",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03164",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03165",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03166",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03167",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03168",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U03169",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Priest Poe"
+  },
+  {
+   "uid": "U03170",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Great Emperor Kubilai"
+  },
+  {
+   "uid": "U03171",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 4"
+  },
+  {
+   "uid": "U03172",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 5"
+  },
+  {
+   "uid": "U03173",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 3"
+  },
+  {
+   "uid": "U03174",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U03175",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03176",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03177",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U03178",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03179",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03180",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03181",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U03182",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03183",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U03184",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U03185",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Shaider"
+  },
+  {
+   "uid": "U03186",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03187",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U03188",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U03189",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Shaider"
+  },
+  {
+   "uid": "U03190",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Shaider"
+  },
+  {
+   "uid": "U03191",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Shaider"
+  },
+  {
+   "uid": "U03192",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U03193",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fushigi Beast Baribari"
+  },
+  {
+   "uid": "U03194",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Great Emperor Kubilai"
+  },
+  {
+   "uid": "U03195",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Priest Poe"
+  },
+  {
+   "uid": "U03196",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03197",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U03198",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03199",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U03200",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03201",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U03202",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U03203",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U03204",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U03205",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U03206",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lily"
+  },
+  {
+   "uid": "U03207",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U03208",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U03209",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  }
+ ]
+}

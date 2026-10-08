@@ -1,0 +1,487 @@
+{
+ "batch": "B0036",
+ "prev": "B0035",
+ "next": "B0037",
+ "rows": [
+  {
+   "uid": "U02810",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02811",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02812",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02813",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02814",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02815",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Garagaranda"
+  },
+  {
+   "uid": "U02816",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02817",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Garagaranda"
+  },
+  {
+   "uid": "U02818",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02819",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ika-Devil"
+  },
+  {
+   "uid": "U02820",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02821",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ika-Devil"
+  },
+  {
+   "uid": "U02822",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02823",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02824",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02825",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02826",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02827",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02828",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02829",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02830",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02831",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02832",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02833",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02834",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02835",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02836",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02837",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02838",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02839",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02840",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02841",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02842",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02843",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02844",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02845",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02846",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02847",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02848",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02849",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02850",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02851",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U02852",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02853",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02854",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02855",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02856",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02857",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02858",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02859",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02860",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02861",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02862",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02863",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02864",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ika-Devil"
+  },
+  {
+   "uid": "U02865",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02866",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02867",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02868",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ika-Devil"
+  },
+  {
+   "uid": "U02869",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02870",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02871",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U02872",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ika-Devil"
+  },
+  {
+   "uid": "U02873",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02874",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ika-Devil"
+  },
+  {
+   "uid": "U02875",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Garagaranda"
+  },
+  {
+   "uid": "U02876",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02877",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U02878",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02879",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02880",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02881",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02882",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02883",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02884",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02885",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U02886",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02887",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U02888",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02889",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  }
+ ]
+}

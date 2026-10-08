@@ -1,0 +1,487 @@
+{
+ "batch": "B0012",
+ "prev": "B0011",
+ "next": "B0013",
+ "rows": [
+  {
+   "uid": "U00886",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U00887",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U00888",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00889",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00890",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00891",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00892",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00893",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00894",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U00895",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00896",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U00897",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U00898",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00899",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U00900",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Boy Flying with a Back Rocket"
+  },
+  {
+   "uid": "U00901",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Girl Operator"
+  },
+  {
+   "uid": "U00902",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "U7"
+  },
+  {
+   "uid": "U00903",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Girl Operator"
+  },
+  {
+   "uid": "U00905",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bat Man"
+  },
+  {
+   "uid": "U00906",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "U7"
+  },
+  {
+   "uid": "U00907",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Girl Operator"
+  },
+  {
+   "uid": "U00908",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "U7"
+  },
+  {
+   "uid": "U00909",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U00910",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "U7"
+  },
+  {
+   "uid": "U00911",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U00912",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "U7"
+  },
+  {
+   "uid": "U00913",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U00914",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "U7"
+  },
+  {
+   "uid": "U00915",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U00916",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "U7"
+  },
+  {
+   "uid": "U00917",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U00918",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "U7"
+  },
+  {
+   "uid": "U00919",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00920",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U00921",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U00922",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U00923",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U00924",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U00925",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00926",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00927",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U00928",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00929",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U00930",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00931",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00932",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U00933",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "U7"
+  },
+  {
+   "uid": "U00934",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "U7"
+  },
+  {
+   "uid": "U00935",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00936",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U00937",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U00938",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U00939",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U00940",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U00941",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00942",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00943",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U00944",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00945",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U00946",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00947",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U00948",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "U7"
+  },
+  {
+   "uid": "U00949",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U00950",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00951",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U00952",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U00953",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U00954",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U00955",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U00956",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00957",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00958",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U00959",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00960",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U00961",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00962",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00963",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U00964",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U00965",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00966",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  }
+ ]
+}

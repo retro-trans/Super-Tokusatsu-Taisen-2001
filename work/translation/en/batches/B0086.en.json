@@ -1,0 +1,487 @@
+{
+ "batch": "B0086",
+ "prev": "B0085",
+ "next": "B0087",
+ "rows": [
+  {
+   "uid": "U06818",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06819",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06820",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06821",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06822",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06823",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rhino Monster"
+  },
+  {
+   "uid": "U06824",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06825",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06826",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06827",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06828",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06829",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06830",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Sun"
+  },
+  {
+   "uid": "U06831",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U06832",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiroshi"
+  },
+  {
+   "uid": "U06833",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U06834",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Boy Who Was Researching"
+  },
+  {
+   "uid": "U06835",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06836",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman Who Was Researching"
+  },
+  {
+   "uid": "U06837",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06838",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U06839",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman Who Was Researching"
+  },
+  {
+   "uid": "U06840",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Raita Narukami"
+  },
+  {
+   "uid": "U06841",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiroshi"
+  },
+  {
+   "uid": "U06842",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U06843",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U06844",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hikaru Inazuma"
+  },
+  {
+   "uid": "U06845",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06846",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hikaru Inazuma"
+  },
+  {
+   "uid": "U06847",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U06848",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hikaru Inazuma"
+  },
+  {
+   "uid": "U06849",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06850",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U06851",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U06852",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U06853",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U06854",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U06855",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06856",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06857",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06858",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06859",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06860",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06861",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06862",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U06863",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U06864",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rhino Monster"
+  },
+  {
+   "uid": "U06865",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U06866",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06867",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marine"
+  },
+  {
+   "uid": "U06868",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lily"
+  },
+  {
+   "uid": "U06869",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U06870",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06871",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U06872",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06873",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U06874",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06875",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Barnes"
+  },
+  {
+   "uid": "U06876",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U06877",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Barnes"
+  },
+  {
+   "uid": "U06878",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U06879",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Barnes"
+  },
+  {
+   "uid": "U06880",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06881",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06882",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U06883",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Barnes"
+  },
+  {
+   "uid": "U06884",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06885",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U06886",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06887",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U06888",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06889",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U06890",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U06891",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U06892",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U06893",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U06894",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06895",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U06896",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ozuma"
+  },
+  {
+   "uid": "U06897",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  }
+ ]
+}

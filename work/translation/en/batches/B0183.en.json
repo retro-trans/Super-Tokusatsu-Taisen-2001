@@ -1,0 +1,487 @@
+{
+ "batch": "B0183",
+ "prev": "B0182",
+ "next": "B0184",
+ "rows": [
+  {
+   "uid": "U14581",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14582",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U14583",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U14584",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14585",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Momorenger"
+  },
+  {
+   "uid": "U14586",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14587",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Momorenger"
+  },
+  {
+   "uid": "U14588",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U14589",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U14590",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U14591",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14592",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14593",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14594",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14595",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14596",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Momorenger"
+  },
+  {
+   "uid": "U14597",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U14598",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14599",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U14600",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14601",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U14602",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U14603",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14604",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U14605",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14606",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14607",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14608",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U14609",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14610",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U14611",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14612",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14613",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14614",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U14615",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U14616",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14617",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14618",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U14619",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U14620",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14621",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14622",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U14623",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenji Asuka"
+  },
+  {
+   "uid": "U14624",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U14625",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U14626",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Momorenger"
+  },
+  {
+   "uid": "U14627",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenji Asuka"
+  },
+  {
+   "uid": "U14628",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U14629",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U14630",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U14631",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U14632",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U14633",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U14634",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U14635",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14636",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14637",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14638",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14639",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14640",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14641",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14642",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U14643",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U14644",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U14645",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U14646",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U14647",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U14648",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U14649",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U14650",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U14651",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Bogard"
+  },
+  {
+   "uid": "U14652",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14653",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14654",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14655",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U14656",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U14657",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U14658",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U14659",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U14660",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  }
+ ]
+}

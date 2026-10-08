@@ -1,0 +1,394 @@
+{
+ "batch": "B0266",
+ "rows": [
+  {
+   "uid": "U21301",
+   "en": "Opening"
+  },
+  {
+   "uid": "U21303",
+   "en": "Homecoming",
+   "note": "Shortened to fit the checker budget; preferred: Return to Port"
+  },
+  {
+   "uid": "U21304",
+   "en": "Hawk Launch",
+   "note": "Shortened to fit the checker budget; preferred: Ultra Hawk, Launch"
+  },
+  {
+   "uid": "U21306",
+   "en": "Staff Roll (Metal)"
+  },
+  {
+   "uid": "U21307",
+   "en": "Staff Roll (Bio)"
+  },
+  {
+   "uid": "U21308",
+   "en": "Ending"
+  },
+  {
+   "uid": "U21309",
+   "en": "Akarenger (New Red Bute)"
+  },
+  {
+   "uid": "U21310",
+   "en": "Aorenger (Ultra Blue Cherry)"
+  },
+  {
+   "uid": "U21311",
+   "en": "Kirenger (Key Sticker)"
+  },
+  {
+   "uid": "U21312",
+   "en": "Momor. (Momo Bomb)",
+   "note": "Shortened to fit the checker budget; preferred: Momorenger (Momo Bomb)"
+  },
+  {
+   "uid": "U21313",
+   "en": "Midoren. (Mido Puncher.",
+   "note": "Shortened to fit the checker budget; preferred: Midorenger (Mido Puncher)"
+  },
+  {
+   "uid": "U21314",
+   "en": "G.Storm New Power Op. MS",
+   "note": "Shortened to fit the checker budget; preferred: Gorenger Storm New Power Op. MS"
+  },
+  {
+   "uid": "U21315",
+   "en": "Gavan (Johc.",
+   "note": "Shortened to fit the checker budget; preferred: Gavan (Johchaku)"
+  },
+  {
+   "uid": "U21316",
+   "en": "Gavan (Laser Blade)"
+  },
+  {
+   "uid": "U21317",
+   "en": "Gavan (Gavan Dynamic)"
+  },
+  {
+   "uid": "U21318",
+   "en": "Shariv. (Sekis.",
+   "note": "Shortened to fit the checker budget; preferred: Sharivan (Sekisha)"
+  },
+  {
+   "uid": "U21319",
+   "en": "Sharivan (Laser Blade)"
+  },
+  {
+   "uid": "U21320",
+   "en": "Sharivan (Sharivan Crash)"
+  },
+  {
+   "uid": "U21321",
+   "en": "Shaide. (Shoke.",
+   "note": "Shortened to fit the checker budget; preferred: Shaider (Shoketsu)"
+  },
+  {
+   "uid": "U21322",
+   "en": "Shaider (Laser Blade)"
+  },
+  {
+   "uid": "U21323",
+   "en": "Shaider (Shaider Blue Flash)"
+  },
+  {
+   "uid": "U21324",
+   "en": "Shaider (Big Magnum)"
+  },
+  {
+   "uid": "U21325",
+   "en": "Red Baron (Laun.",
+   "note": "Shortened to fit the checker budget; preferred: Red Baron (Launch)"
+  },
+  {
+   "uid": "U21326",
+   "en": "Grand Birth Battle Formation"
+  },
+  {
+   "uid": "U21327",
+   "en": "Kikaid. (Hensh.",
+   "note": "Shortened to fit the checker budget; preferred: Kikaider (Henshin)"
+  },
+  {
+   "uid": "U21328",
+   "en": "Kikaider (E.M. End)",
+   "note": "Shortened to fit the checker budget; preferred: Kikaider (Electromagnetic End)"
+  },
+  {
+   "uid": "U21329",
+   "en": "Ultram. (Hensh.",
+   "note": "Shortened to fit the checker budget; preferred: Ultraman (Henshin)"
+  },
+  {
+   "uid": "U21330",
+   "en": "Ultrase. (Henshi.",
+   "note": "Shortened to fit the checker budget; preferred: Ultraseven (Henshin)"
+  },
+  {
+   "uid": "U21331",
+   "en": "Ultraman Jack (Henshin)"
+  },
+  {
+   "uid": "U21332",
+   "en": "Giant Robo (Fire Stance)",
+   "note": "Shortened to fit the checker budget; preferred: Giant Robo (Firing Stance)"
+  },
+  {
+   "uid": "U21333",
+   "en": "Sanagi. (Hente.",
+   "note": "Shortened to fit the checker budget; preferred: Sanagiman (Henten)"
+  },
+  {
+   "uid": "U21334",
+   "en": "Inazu. (Hent.",
+   "note": "Shortened to fit the checker budget; preferred: Inazuman (Henten)"
+  },
+  {
+   "uid": "U21335",
+   "en": "I.Flash (Henten)",
+   "note": "Shortened to fit the checker budget; preferred: Inazuman Flash (Henten)"
+  },
+  {
+   "uid": "U21336",
+   "en": "Giant Robo (Megaton Punch)"
+  },
+  {
+   "uid": "U21337",
+   "en": "Giant Robo (Rockets)"
+  },
+  {
+   "uid": "U21338",
+   "en": "Kamen Rider 1 (Henshin)"
+  },
+  {
+   "uid": "U21339",
+   "en": "New Rider 1 (Henshin)",
+   "note": "Shortened to fit the checker budget; preferred: New Kamen Rider 1 (Henshin)"
+  },
+  {
+   "uid": "U21340",
+   "en": "Kamen Rider 1 (Rider Kick)"
+  },
+  {
+   "uid": "U21341",
+   "en": "New Kamen Rider 1 (Rider Kick)"
+  },
+  {
+   "uid": "U21342",
+   "en": "Kamen Rider 2 (Henshin)"
+  },
+  {
+   "uid": "U21343",
+   "en": "New Rider 2 (Henshin)",
+   "note": "Shortened to fit the checker budget; preferred: New Kamen Rider 2 (Henshin)"
+  },
+  {
+   "uid": "U21344",
+   "en": "Kamen Rider 2 (Rider Punch)"
+  },
+  {
+   "uid": "U21345",
+   "en": "Zephas (Fusion Steel On)",
+   "note": "Shortened to fit the checker budget; preferred: Steel Emperor Zephas (Fusion Steel On)"
+  },
+  {
+   "uid": "U21346",
+   "en": "Z.C.(Awakening)",
+   "note": "Shortened to fit the checker budget; preferred: Zephas Core (Awakening)"
+  },
+  {
+   "uid": "U21347",
+   "en": "Rider V3 (Henshin)",
+   "note": "Shortened to fit the checker budget; preferred: Kamen Rider V3 (Henshin)"
+  },
+  {
+   "uid": "U21348",
+   "en": "Rider V3 (V3 Kick)",
+   "note": "Shortened to fit the checker budget; preferred: Kamen Rider V3 (V3 Kick)"
+  },
+  {
+   "uid": "U21349",
+   "en": "Riderm. (Hensh.",
+   "note": "Shortened to fit the checker budget; preferred: Riderman (Henshin)"
+  },
+  {
+   "uid": "U21350",
+   "en": "Rider BLACK (Henshin)",
+   "note": "Shortened to fit the checker budget; preferred: Kamen Rider BLACK (Henshin)"
+  },
+  {
+   "uid": "U21351",
+   "en": "Rider BLACK RX (Henshin)",
+   "note": "Shortened to fit the checker budget; preferred: Kamen Rider BLACK RX (Henshin)"
+  },
+  {
+   "uid": "U21352",
+   "en": "Kamen Rider BLACK (Rider Kick)"
+  },
+  {
+   "uid": "U21353",
+   "en": "BLACK RX (Revolcane)",
+   "note": "Shortened to fit the checker budget; preferred: Kamen Rider BLACK RX (Revolcane)"
+  },
+  {
+   "uid": "U21354",
+   "en": "E.S.Dol",
+   "note": "Shortened to fit the checker budget; preferred: Electronic Starbeast Dol"
+  },
+  {
+   "uid": "U21355",
+   "en": "New Rider 2 (Rider Punch)",
+   "note": "Shortened to fit the checker budget; preferred: New Kamen Rider 2 (Rider Punch)"
+  },
+  {
+   "uid": "U21356",
+   "en": "Daitet. 17 (Trans.",
+   "note": "Shortened to fit the checker budget; preferred: Daitetsujin 17 (Transform)"
+  },
+  {
+   "uid": "U21357",
+   "en": "Giant Robo (Launch.",
+   "note": "Shortened to fit the checker budget; preferred: Giant Robo (Launch)"
+  },
+  {
+   "uid": "U21358",
+   "en": "Lucifard (Fusion Steel On)"
+  },
+  {
+   "uid": "U21359",
+   "en": "Fadita (Fusion Steel On)"
+  },
+  {
+   "uid": "U21360",
+   "en": "Vortex (Awaken.",
+   "note": "Shortened to fit the checker budget; preferred: Vortex (Awakening)"
+  },
+  {
+   "uid": "U21361",
+   "en": "Velvet (Awaken.",
+   "note": "Shortened to fit the checker budget; preferred: Velvet (Awakening)"
+  },
+  {
+   "uid": "U21362",
+   "en": "Velvet Fury (Fusion)"
+  },
+  {
+   "uid": "U21363",
+   "en": "Apfaron (Fusion Steel On)"
+  },
+  {
+   "uid": "U21364",
+   "en": "Atefarina (Fusion Steel On)"
+  },
+  {
+   "uid": "U21365",
+   "en": "Volfeed (Awaken.",
+   "note": "Shortened to fit the checker budget; preferred: Volfeed (Awakening)"
+  },
+  {
+   "uid": "U21366",
+   "en": "Volhaza. (Awaken.",
+   "note": "Shortened to fit the checker budget; preferred: Volhazard (Awakening)"
+  },
+  {
+   "uid": "U21367",
+   "en": "Valkyri. (Awaken.",
+   "note": "Shortened to fit the checker budget; preferred: Valkyria (Awakening)"
+  },
+  {
+   "uid": "U21368",
+   "en": "Velvet Reverse (Awaken.",
+   "note": "Shortened to fit the checker budget; preferred: Velvet Reverse (Awakening)"
+  },
+  {
+   "uid": "U21369",
+   "en": "Kikaid. 01 (Hensh.",
+   "note": "Shortened to fit the checker budget; preferred: Kikaider 01 (Henshin)"
+  },
+  {
+   "uid": "U21370",
+   "en": "Hakai. (Hens.",
+   "note": "Shortened to fit the checker budget; preferred: Hakaider (Henshin)"
+  },
+  {
+   "uid": "U21371",
+   "en": "Bijin. Enemy (Hens.",
+   "note": "Shortened to fit the checker budget; preferred: Bijinder, Enemy (Henshin)"
+  },
+  {
+   "uid": "U21372",
+   "en": "Bijinde. Ally (Henshi.",
+   "note": "Shortened to fit the checker budget; preferred: Bijinder, Ally (Henshin)"
+  },
+  {
+   "uid": "U21373",
+   "en": " Turns"
+  },
+  {
+   "uid": "U21374",
+   "en": "Phase End"
+  },
+  {
+   "uid": "U21375",
+   "en": " Units"
+  },
+  {
+   "uid": "U21376",
+   "en": "Goals",
+   "note": "Shortened to fit the checker budget; preferred: Objectives"
+  },
+  {
+   "uid": "U21377",
+   "en": " Sys.",
+   "note": "Shortened to fit the checker budget; preferred:  System"
+  },
+  {
+   "uid": "U21378",
+   "en": " Save"
+  },
+  {
+   "uid": "U21379",
+   "en": "Victory"
+  },
+  {
+   "uid": "U21380",
+   "en": " Defeat"
+  },
+  {
+   "uid": "U21381",
+   "en": " Quick Save"
+  },
+  {
+   "uid": "U21382",
+   "en": "Slot 1"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U21301-U21308: last BGM titles (kind=music)",
+   "U21309-U21372: Henshin Movie list entries 'Unit (Scene)'; 轟機鋼着装 rendered '(Fusion Steel On)', 覚醒 '(Awakening)', 轟合 '(Fusion)'",
+   "U21362: 轟合 = 融合 'Fusion'",
+   "U21373-U21382: a second copy of system menu labels with OCR damage (フェイズ的了 = フェイズ終了, 部隊象 = 部隊表, 品戦目陸 = 作戦目的); leading spaces kept"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": [
+   {
+    "uid": "U21374",
+    "likely": "フェイズ終了"
+   },
+   {
+    "uid": "U21375",
+    "likely": "部隊表"
+   },
+   {
+    "uid": "U21376",
+    "likely": "作戦目的"
+   }
+  ]
+ }
+}

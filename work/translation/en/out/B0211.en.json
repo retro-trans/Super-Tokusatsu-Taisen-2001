@@ -1,0 +1,342 @@
+{
+ "batch": "B0211",
+ "rows": [
+  {
+   "uid": "U16826",
+   "en": "I'm a Space Sheriff too!"
+  },
+  {
+   "uid": "U16827",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "uid": "U16828",
+   "en": "Hit!!"
+  },
+  {
+   "uid": "U16829",
+   "en": "Beam, fire!!"
+  },
+  {
+   "uid": "U16830",
+   "en": "Missiles, fire!!"
+  },
+  {
+   "uid": "U16831",
+   "en": "Heh heh, this is easy."
+  },
+  {
+   "uid": "U16832",
+   "en": "That might have been a little close."
+  },
+  {
+   "uid": "U16833",
+   "en": "Ngh! Not yet."
+  },
+  {
+   "uid": "U16834",
+   "en": "Uugh! Not bad!"
+  },
+  {
+   "uid": "U16835",
+   "en": "At this rate…!!"
+  },
+  {
+   "uid": "U16836",
+   "en": "I-I can't die yet…!!"
+  },
+  {
+   "uid": "U16837",
+   "en": "Haah!"
+  },
+  {
+   "uid": "U16838",
+   "en": "Yah!"
+  },
+  {
+   "uid": "U16839",
+   "en": "Take this!"
+  },
+  {
+   "uid": "U16840",
+   "en": "…!"
+  },
+  {
+   "uid": "U16841",
+   "en": "Like that'll hit me!"
+  },
+  {
+   "uid": "U16842",
+   "en": "It missed!?"
+  },
+  {
+   "uid": "U16843",
+   "en": "Not yet!"
+  },
+  {
+   "uid": "U16844",
+   "en": "Ngh! Not bad!"
+  },
+  {
+   "uid": "U16845",
+   "en": "It's strong!?"
+  },
+  {
+   "uid": "U16846",
+   "en": "…Th-They got me!?"
+  },
+  {
+   "uid": "U16847",
+   "en": "Tooh!"
+  },
+  {
+   "uid": "U16848",
+   "en": "Hmph!"
+  },
+  {
+   "uid": "U16849",
+   "en": "Shaider: I've seen through it!"
+  },
+  {
+   "uid": "U16850",
+   "en": "Like that'll hit me!"
+  },
+  {
+   "uid": "U16851",
+   "en": "It missed!?"
+  },
+  {
+   "uid": "U16852",
+   "en": "Not yet!"
+  },
+  {
+   "uid": "U16853",
+   "en": "Ngh! Not bad!"
+  },
+  {
+   "uid": "U16854",
+   "en": "It's strong!?"
+  },
+  {
+   "uid": "U16855",
+   "en": "…Th-They got me!?"
+  },
+  {
+   "uid": "U16856",
+   "en": "Tooh!"
+  },
+  {
+   "uid": "U16857",
+   "en": "Hmph!"
+  },
+  {
+   "uid": "U16858",
+   "en": "I've seen through it!"
+  },
+  {
+   "uid": "U16859",
+   "en": "Video Beam Gun!"
+  },
+  {
+   "uid": "U16860",
+   "en": "Laser Blade!"
+  },
+  {
+   "uid": "U16861",
+   "en": "Shaider! Blue Flaaash!"
+  },
+  {
+   "uid": "U16862",
+   "en": "Babyloooos!"
+  },
+  {
+   "uid": "U16863",
+   "en": "Shooting Formation!"
+  },
+  {
+   "uid": "U16864",
+   "en": "Big Magnum!"
+  },
+  {
+   "uid": "U16865",
+   "en": "Your aim is sloppy!"
+  },
+  {
+   "uid": "U16866",
+   "en": "Luck is a skill too!"
+  },
+  {
+   "uid": "U16867",
+   "en": "That won't work on me!"
+  },
+  {
+   "uid": "U16868",
+   "en": "Ngh! I can still fight!"
+  },
+  {
+   "uid": "U16869",
+   "en": "I-It's no good…!?"
+  },
+  {
+   "uid": "U16870",
+   "en": "Aah…! Help me, Shaider!"
+  },
+  {
+   "uid": "U16871",
+   "en": "Hyah!"
+  },
+  {
+   "uid": "U16872",
+   "en": "Yaah!"
+  },
+  {
+   "uid": "U16873",
+   "en": "I won't miss!"
+  },
+  {
+   "uid": "U16874",
+   "en": "It won't hit me with just that!"
+  },
+  {
+   "uid": "U16875",
+   "en": "Ngh, that was a little close…!"
+  },
+  {
+   "uid": "U16876",
+   "en": "This much is nothing!"
+  },
+  {
+   "uid": "U16877",
+   "en": "Agh!"
+  },
+  {
+   "uid": "U16878",
+   "en": "E-Even for an android…!"
+  },
+  {
+   "uid": "U16879",
+   "en": "Oh no! I'm going to break down!?"
+  },
+  {
+   "uid": "U16880",
+   "en": "Here I go!!"
+  },
+  {
+   "uid": "U16881",
+   "en": "Toryaah!!"
+  },
+  {
+   "uid": "U16882",
+   "en": "It won't hit me with just that!"
+  },
+  {
+   "uid": "U16883",
+   "en": "Ngh, that was a little close…!"
+  },
+  {
+   "uid": "U16884",
+   "en": "This much is nothing!"
+  },
+  {
+   "uid": "U16885",
+   "en": "Agh!"
+  },
+  {
+   "uid": "U16886",
+   "en": "E-Even for an android…!"
+  },
+  {
+   "uid": "U16887",
+   "en": "Oh no! I'm going to break down!?"
+  },
+  {
+   "uid": "U16888",
+   "en": "Tooh!!"
+  },
+  {
+   "uid": "U16889",
+   "en": "Here I go!!"
+  },
+  {
+   "uid": "U16890",
+   "en": "Spin Attaaack!!"
+  },
+  {
+   "uid": "U16891",
+   "en": "Take this, Double Chop!!"
+  },
+  {
+   "uid": "U16892",
+   "en": "Here I go! Giant Wheel Throw!!"
+  },
+  {
+   "uid": "U16893",
+   "en": "Electromagnetic End!!"
+  },
+  {
+   "uid": "U16894",
+   "en": "Energy charged! Kikaider Spark!!"
+  },
+  {
+   "uid": "U16895",
+   "en": "Electro-magnetic Eeend!!"
+  },
+  {
+   "uid": "U16896",
+   "en": "Hmph!"
+  },
+  {
+   "uid": "U16897",
+   "en": "There!"
+  },
+  {
+   "uid": "U16898",
+   "en": "Not yet!"
+  },
+  {
+   "uid": "U16899",
+   "en": "Whoa! Not bad!?"
+  },
+  {
+   "uid": "U16900",
+   "en": "I-I can't afford to lose yet!"
+  },
+  {
+   "uid": "U16901",
+   "en": "Taah!!"
+  },
+  {
+   "uid": "U16902",
+   "en": "Hm, an enemy!!"
+  },
+  {
+   "uid": "U16903",
+   "en": "Hmph!"
+  },
+  {
+   "uid": "U16904",
+   "en": "There!"
+  },
+  {
+   "uid": "U16905",
+   "en": "Not yet!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U16849: name-in-text quote rendered 'Shaider: line'",
+   "U16893/U16895: デーンジ・エンド = glossary 電磁エンド Electromagnetic End",
+   "U16863: [ja] 'Shooting Formation' not in glossary"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Shooting Formation",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": []
+ }
+}

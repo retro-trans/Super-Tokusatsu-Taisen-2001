@@ -1,0 +1,487 @@
+{
+ "batch": "B0174",
+ "prev": "B0173",
+ "next": "B0175",
+ "rows": [
+  {
+   "uid": "U13861",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U13862",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13863",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U13864",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13865",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U13866",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13867",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13868",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13869",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U13870",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U13871",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U13872",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U13873",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U13874",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U13875",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U13876",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U13877",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13878",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U13879",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13880",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13881",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13882",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13883",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13884",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U13885",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U13886",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U13887",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13888",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U13889",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13890",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13891",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U13892",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13893",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13894",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U13895",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13896",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13897",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13898",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13899",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13900",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13901",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U13902",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13903",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U13904",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13905",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U13906",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13907",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U13908",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13909",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U13910",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13911",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U13912",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13913",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U13914",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U13915",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13916",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13917",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U13918",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U13919",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13920",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U13921",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13922",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13923",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13924",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13925",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13926",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13927",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13928",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13929",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13930",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13931",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13932",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13933",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13934",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13935",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13936",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13937",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U13938",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13939",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13940",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  }
+ ]
+}

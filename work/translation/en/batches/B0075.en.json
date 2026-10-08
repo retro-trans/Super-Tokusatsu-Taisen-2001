@@ -1,0 +1,487 @@
+{
+ "batch": "B0075",
+ "prev": "B0074",
+ "next": "B0076",
+ "rows": [
+  {
+   "uid": "U05937",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05938",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U05939",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05940",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05941",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05942",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05943",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05944",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05945",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05946",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05947",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05948",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05949",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05950",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05951",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05952",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05953",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05954",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U05955",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05956",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05957",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05958",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U05959",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05960",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05961",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05962",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U05963",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05964",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U05965",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U05966",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05967",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U05968",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05969",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05970",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U05971",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05972",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U05973",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05974",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05975",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05976",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05977",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05978",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05979",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05980",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05981",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U05982",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05983",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05984",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05985",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05986",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U05987",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05988",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U05989",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U05990",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05991",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05992",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U05993",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U05994",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U05995",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U05996",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05997",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U05998",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U05999",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U06000",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U06001",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U06002",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U06003",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U06004",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U06005",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U06006",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U06007",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U06008",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U06009",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U06010",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U06011",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U06012",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U06013",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U06014",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U06015",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U06016",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  }
+ ]
+}

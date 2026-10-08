@@ -1,0 +1,395 @@
+{
+ "batch": "B0263",
+ "rows": [
+  {
+   "uid": "U21048",
+   "en": "Level Up <c3>Level</c>"
+  },
+  {
+   "uid": "U21049",
+   "en": "<c3>Acc.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Accuracy</c>"
+  },
+  {
+   "uid": "U21050",
+   "en": "assigned.",
+   "note": "Shortened to fit the checker budget; preferred: will be assigned."
+  },
+  {
+   "uid": "U21051",
+   "en": "withdrawn.",
+   "note": "Shortened to fit the checker budget; preferred: will be withdrawn."
+  },
+  {
+   "uid": "U21052",
+   "en": "to develop.",
+   "note": "Shortened to fit the checker budget; preferred: will be developed."
+  },
+  {
+   "uid": "U21053",
+   "en": "to produce.",
+   "note": "Shortened to fit the checker budget; preferred: will be produced."
+  },
+  {
+   "uid": "U21054",
+   "en": "boards.",
+   "note": "Shortened to fit the checker budget; preferred: boards the unit."
+  },
+  {
+   "uid": "U21055",
+   "en": "Launch Units",
+   "note": "Shortened to fit the checker budget; preferred: Select Launch Units"
+  },
+  {
+   "uid": "U21056",
+   "en": "<c3>Unit</c>"
+  },
+  {
+   "uid": "U21057",
+   "en": "No Memory Card in the MEMORY CARD slot.",
+   "note": "Shortened to fit the checker budget; preferred: There is no Memory Card in the MEMORY CARD slot."
+  },
+  {
+   "uid": "U21058",
+   "en": "Saving needs at least 2",
+   "note": "Shortened to fit the checker budget; preferred: To save this game, you need at least 2"
+  },
+  {
+   "uid": "U21059",
+   "en": "Memory Card access failed.",
+   "note": "Shortened to fit the checker budget; preferred: Could not access the Memory Card."
+  },
+  {
+   "uid": "U21060",
+   "en": "(New Card)"
+  },
+  {
+   "uid": "U21061",
+   "en": "Memory Card not formatted.",
+   "note": "Shortened to fit the checker budget; preferred: The Memory Card is not formatted."
+  },
+  {
+   "uid": "U21062",
+   "en": "Format it now?"
+  },
+  {
+   "uid": "U21063",
+   "en": "No save data.",
+   "note": "Shortened to fit the checker budget; preferred: There is no save data."
+  },
+  {
+   "uid": "U21064",
+   "en": "Save data exists.",
+   "note": "Shortened to fit the checker budget; preferred: Save data already exists."
+  },
+  {
+   "uid": "U21065",
+   "en": "Overwrite it?"
+  },
+  {
+   "uid": "U21066",
+   "en": "Searching for saves.",
+   "note": "Shortened to fit the checker budget; preferred: Searching for save data."
+  },
+  {
+   "uid": "U21067",
+   "en": "Loading data."
+  },
+  {
+   "uid": "U21068",
+   "en": "Saving data."
+  },
+  {
+   "uid": "U21069",
+   "en": "Formatting card.",
+   "note": "Shortened to fit the checker budget; preferred: Formatting the Memory Card."
+  },
+  {
+   "uid": "U21070",
+   "en": "Don't touch the console or card.",
+   "note": "Shortened to fit the checker budget; preferred: Do not touch the console or Memory Card."
+  },
+  {
+   "uid": "U21071",
+   "en": "Card format failed.",
+   "note": "Shortened to fit the checker budget; preferred: Failed to format the Memory Card."
+  },
+  {
+   "uid": "U21072",
+   "en": "Card format complete.",
+   "note": "Shortened to fit the checker budget; preferred: Finished formatting the Memory Card."
+  },
+  {
+   "uid": "U21073",
+   "en": "Failed to save the data."
+  },
+  {
+   "uid": "U21074",
+   "en": "Failed to load the data."
+  },
+  {
+   "uid": "U21075",
+   "en": "Data corrupted.",
+   "note": "Shortened to fit the checker budget; preferred: The data is corrupted."
+  },
+  {
+   "uid": "U21076",
+   "en": "Save complete."
+  },
+  {
+   "uid": "U21077",
+   "en": "Formatting..."
+  },
+  {
+   "uid": "U21078",
+   "en": "<c3>Turns</c>"
+  },
+  {
+   "uid": "U21079",
+   "en": "Phase End"
+  },
+  {
+   "uid": "U21080",
+   "en": "Units"
+  },
+  {
+   "uid": "U21081",
+   "en": "Goals",
+   "note": "Shortened to fit the checker budget; preferred: Objectives"
+  },
+  {
+   "uid": "U21082",
+   "en": "Sys.",
+   "note": "Shortened to fit the checker budget; preferred: System"
+  },
+  {
+   "uid": "U21083",
+   "en": "Save"
+  },
+  {
+   "uid": "U21084",
+   "en": "Settings",
+   "note": "Shortened to fit the checker budget; preferred: System Settings"
+  },
+  {
+   "uid": "U21085",
+   "en": "<c3>Grid</c>"
+  },
+  {
+   "uid": "U21088",
+   "en": "<c3>Sound</c>"
+  },
+  {
+   "uid": "U21089",
+   "en": "Stereo"
+  },
+  {
+   "uid": "U21090",
+   "en": "Mono"
+  },
+  {
+   "uid": "U21091",
+   "en": "<c3>Vib.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Vibration</c>"
+  },
+  {
+   "uid": "U21092",
+   "en": "On"
+  },
+  {
+   "uid": "U21093",
+   "en": "<c3>BGM</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Battle BGM</c>"
+  },
+  {
+   "uid": "U21094",
+   "en": "Fixed"
+  },
+  {
+   "uid": "U21095",
+   "en": "Switch"
+  },
+  {
+   "uid": "U21096",
+   "en": "<c3>Q.Load</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Quick Load</c>"
+  },
+  {
+   "uid": "U21097",
+   "en": "L2+R2+START"
+  },
+  {
+   "uid": "U21098",
+   "en": "<c3>Soft Reset</c>"
+  },
+  {
+   "uid": "U21099",
+   "en": "L2+R2+START+SELECT"
+  },
+  {
+   "uid": "U21100",
+   "en": "Level",
+   "note": "Shortened to fit the checker budget; preferred: Show Level"
+  },
+  {
+   "uid": "U21101",
+   "en": "HP",
+   "note": "Shortened to fit the checker budget; preferred: By HP"
+  },
+  {
+   "uid": "U21102",
+   "en": "EN",
+   "note": "Shortened to fit the checker budget; preferred: By EN"
+  },
+  {
+   "uid": "U21103",
+   "en": "Morale",
+   "note": "Shortened to fit the checker budget; preferred: By Morale"
+  },
+  {
+   "uid": "U21105",
+   "en": "Fell to Earth",
+   "note": "Shortened to fit the checker budget; preferred: The Man Who Fell to Earth"
+  },
+  {
+   "uid": "U21106",
+   "en": "Twisted Life",
+   "note": "Shortened to fit the checker budget; preferred: A Twisted Life"
+  },
+  {
+   "uid": "U21107",
+   "en": "Shocker's Plot",
+   "note": "Shortened to fit the checker budget; preferred: Shocker's Conspiracy"
+  },
+  {
+   "uid": "U21108",
+   "en": "The Other Rider",
+   "note": "Shortened to fit the checker budget; preferred: The Other Kamen Rider"
+  },
+  {
+   "uid": "U21109",
+   "en": "New Humans",
+   "note": "Shortened to fit the checker budget; preferred: The Terrifying New Humans"
+  },
+  {
+   "uid": "U21110",
+   "en": "Boy & Robo",
+   "note": "Shortened to fit the checker budget; preferred: The Boy and the Robot"
+  },
+  {
+   "uid": "U21111",
+   "en": "Onslaught! Shocker Japan",
+   "note": "Shortened to fit the checker budget; preferred: Onslaught! Shocker Japan Branch"
+  },
+  {
+   "uid": "U21112",
+   "en": "Chase! S.Sheriff Gavan",
+   "note": "Shortened to fit the checker budget; preferred: Chase! Space Sheriff Gavan"
+  },
+  {
+   "uid": "U21113",
+   "en": "Evil Scholar"
+  },
+  {
+   "uid": "U21114",
+   "en": "Battle Princess"
+  },
+  {
+   "uid": "U21115",
+   "en": "Android"
+  },
+  {
+   "uid": "U21116",
+   "en": "3-Way Battle",
+   "note": "Shortened to fit the checker budget; preferred: Three-Way Battle"
+  },
+  {
+   "uid": "U21117",
+   "en": "Hell's Messenger",
+   "note": "Shortened to fit the checker budget; preferred: Messenger from Hell"
+  },
+  {
+   "uid": "U21118",
+   "en": "Mech Anguish",
+   "note": "Shortened to fit the checker budget; preferred: A Mechanical Anguish"
+  },
+  {
+   "uid": "U21119",
+   "en": "Brothers' Bond",
+   "note": "Shortened to fit the checker budget; preferred: Bond of Brothers"
+  },
+  {
+   "uid": "U21121",
+   "en": "Father"
+  },
+  {
+   "uid": "U21122",
+   "en": "Double Rider Op",
+   "note": "Shortened to fit the checker budget; preferred: Operation: Remodel the Double Riders"
+  },
+  {
+   "uid": "U21123",
+   "en": "Geldam Clan"
+  },
+  {
+   "uid": "U21124",
+   "en": "Genmu"
+  },
+  {
+   "uid": "U21125",
+   "en": "Ultra Op No. 1",
+   "note": "Shortened to fit the checker budget; preferred: Ultra Operation No. 1"
+  },
+  {
+   "uid": "U21126",
+   "en": "Five Stars Unite",
+   "note": "Shortened to fit the checker budget; preferred: When the Five Stars Gather"
+  },
+  {
+   "uid": "U21127",
+   "en": "Brain Gone Wild",
+   "note": "Shortened to fit the checker budget; preferred: Brain Runs Wild"
+  },
+  {
+   "uid": "U21128",
+   "en": "Giants Roar",
+   "note": "Shortened to fit the checker budget; preferred: Roar of the Giants"
+  },
+  {
+   "uid": "U21129",
+   "en": "Mother's Memory",
+   "note": "Shortened to fit the checker budget; preferred: Memories of Mother"
+  },
+  {
+   "uid": "U21130",
+   "en": "Baronium",
+   "note": "Shortened to fit the checker budget; preferred: Super Alloy Baronium"
+  },
+  {
+   "uid": "U21131",
+   "en": "His Name Is V3!",
+   "note": "Shortened to fit the checker budget; preferred: Rider No. 3: His Name Is V3!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U21050-U21054: suffixes appended after a name/item ('[X] will be assigned.' etc.)",
+   "U21057-U21058: memory-card message split across rows; U21058 ends mid-sentence ('...at least 2' [blocks])",
+   "U21085: スクエア option label rendered 'Grid' (map grid squares setting) - meaning inferred",
+   "U21105-U21131: stage titles; several are TV episode titles of the source shows, translated rather than matched to official English titles",
+   "U21115: 人造人間 stage title filled from glossary as 'Android'",
+   "U21121: 父よ rendered 'Father' (budget 20px)",
+   "U21124: 幻夢 stage title kept as 'Genmu'"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Super Alloy Baronium",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": []
+ }
+}

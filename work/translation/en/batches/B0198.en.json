@@ -1,0 +1,487 @@
+{
+ "batch": "B0198",
+ "prev": "B0197",
+ "next": "B0199",
+ "rows": [
+  {
+   "uid": "U15781",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U15782",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U15783",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U15784",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U15785",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U15786",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U15787",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U15788",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U15789",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U15790",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U15791",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U15792",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U15793",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U15794",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U15795",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U15797",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15798",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15799",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15800",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15801",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15802",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U15803",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U15804",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U15805",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U15806",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U15807",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U15808",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U15809",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U15810",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15811",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15812",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U15813",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15814",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U15815",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U15816",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15817",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U15818",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15819",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15820",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15821",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15822",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15823",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15824",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U15825",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U15826",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15827",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U15828",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15829",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U15830",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15831",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U15832",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15833",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U15834",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15835",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U15836",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15837",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U15838",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U15839",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15840",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U15841",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15842",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U15843",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15844",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U15845",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U15846",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15847",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U15848",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15849",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U15850",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15851",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U15852",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15853",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U15854",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U15855",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U15856",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U15857",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U15858",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U15859",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U15860",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U15861",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  }
+ ]
+}

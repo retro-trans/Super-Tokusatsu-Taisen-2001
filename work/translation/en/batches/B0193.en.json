@@ -1,0 +1,487 @@
+{
+ "batch": "B0193",
+ "prev": "B0192",
+ "next": "B0194",
+ "rows": [
+  {
+   "uid": "U15381",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Sakata"
+  },
+  {
+   "uid": "U15382",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15383",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U15384",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15385",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U15386",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Sakata"
+  },
+  {
+   "uid": "U15387",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U15388",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15389",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U15390",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15391",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U15392",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15393",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U15394",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15395",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15396",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15397",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15398",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15399",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15400",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U15401",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15402",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U15403",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15404",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15405",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15406",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15407",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraman"
+  },
+  {
+   "uid": "U15408",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15409",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U15410",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15411",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U15412",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15413",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15414",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U15415",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15416",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15417",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15418",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15419",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15420",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15421",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director (Alien Nackle in Disguise)"
+  },
+  {
+   "uid": "U15422",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staffer (Alien Nackle in Disguise)"
+  },
+  {
+   "uid": "U15423",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director (Alien Nackle in Disguise)"
+  },
+  {
+   "uid": "U15424",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staffer (Alien Nackle in Disguise)"
+  },
+  {
+   "uid": "U15425",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15426",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15427",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U15428",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15429",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15430",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15431",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15432",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15433",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15434",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15435",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15436",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15437",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15438",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15439",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15440",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15441",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15442",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15443",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15444",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15445",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15446",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15447",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U15448",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15449",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15450",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15451",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15452",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15453",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15454",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director (Alien Nackle in Disguise)"
+  },
+  {
+   "uid": "U15455",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staffer (Alien Nackle in Disguise)"
+  },
+  {
+   "uid": "U15456",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director (Alien Nackle in Disguise)"
+  },
+  {
+   "uid": "U15457",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U15458",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Watchmaker"
+  },
+  {
+   "uid": "U15459",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U15460",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Watchmaker"
+  }
+ ]
+}

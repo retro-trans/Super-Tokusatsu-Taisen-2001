@@ -1,0 +1,455 @@
+{
+ "batch": "B0248",
+ "rows": [
+  {
+   "uid": "U19800",
+   "en": "A member of the Earth Defense Force Science Center and a researcher of new high-performance explosives. Working with Dr. Anderson, he actually produced the special anti-robot round \"Ryton R30\". When the doctor joins the TDF science group, mass-production models of the \"AH-1S\" and \"F-15J Kai\" become available for development in the game."
+  },
+  {
+   "uid": "U19801",
+   "en": "Archbishop Wing"
+  },
+  {
+   "uid": "U19802",
+   "en": "Emperor Banba"
+  },
+  {
+   "uid": "U19803",
+   "en": "Destron Motorcycle Squad"
+  },
+  {
+   "uid": "U19804",
+   "en": "Formed from the elite of Destron's combatants, they torment the Riders with superb motorcycle technique."
+  },
+  {
+   "uid": "U19805",
+   "en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U19806",
+   "en": "The skull monster who ruled the dark organization Destron. He seems to be the same person as the leader of Shocker and Gel-Shocker."
+  },
+  {
+   "uid": "U19807",
+   "en": "Destron Combatant"
+  },
+  {
+   "uid": "U19808",
+   "en": "People with all-round athletic ability, remodeled and enhanced, who attack in groups. They wear suits bearing Destron's scorpion emblem and excel at quick coordinated teamwork."
+  },
+  {
+   "uid": "U19809",
+   "en": "Desper Soldier"
+  },
+  {
+   "uid": "U19810",
+   "en": "The Desper Army's vanguard: Phantom Soldiers who resented Emperor Banba, scouted and re-enhanced by the Desper Army. They attack shouting \"Dee!\"."
+  },
+  {
+   "uid": "U19811",
+   "en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U19812",
+   "en": "Dr. Deviler"
+  },
+  {
+   "uid": "U19813",
+   "en": "TV-Fly"
+  },
+  {
+   "uid": "U19814",
+   "en": "Special Fighter Tenso"
+  },
+  {
+   "uid": "U19815",
+   "en": "cannon. Length 20.4 m. It can only be developed when Joji Yuki, formerly a Destron scientist, job-changes to a doctor."
+  },
+  {
+   "uid": "U19816",
+   "en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U19817",
+   "en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U19818",
+   "en": "A 22-year-old who is aggressive, ambitious and strongly elitist by nature. A friend of Satoru Hinata who often came and went at the laboratory. A carrier of Vol cells, he transforms into the EATER Volhazard. He had been missing since the fire at the Hinata Laboratory three years ago. Clinical test subject No. 8."
+  },
+  {
+   "uid": "U19819",
+   "en": "Submarine S16"
+  },
+  {
+   "uid": "U19820",
+   "en": "A special submarine for underwater exploration, carried slung beneath the VTOL. Armed with torpedoes and a heat-beam gun, it can operate even in the deep sea."
+  },
+  {
+   "uid": "U19821",
+   "en": "Doctor Polter"
+  },
+  {
+   "uid": "U19822",
+   "en": "He works day and night on plans to eliminate Sharivan and conquer the world. Madou's operations staff officer, he can also create Demon Beasts. Extremely hysterical by nature."
+  },
+  {
+   "uid": "U19823",
+   "en": "Doktor G"
+  },
+  {
+   "uid": "U19824",
+   "en": "The first chief executive of Destron's Japan branch. From Germany. He has more than three times the strength of a monster, and his weapons are an axe that cuts steel in one blow and a shield that repels the Rider's punches. He calls lightning with his dagger and makes his body bulletproof with incantations. He transforms into Crab Laser."
+  },
+  {
+   "uid": "U19825",
+   "en": "Toge Banbara"
+  },
+  {
+   "uid": "U19826",
+   "en": "It fires the spikes all over its body to stab people."
+  },
+  {
+   "uid": "U19827",
+   "en": "Dodongo"
+  },
+  {
+   "uid": "U19828",
+   "en": "A mummy kaiju that emerged near the Oninoiwadai hills, thought to have slept for about 7,000 years. Calling to the Mummy Man by telepathy, it destroyed an industrial area. It fires a powerful weird ray from its eyes. Height 30 m, weight 25,000 t."
+  },
+  {
+   "uid": "U19829",
+   "en": "Dracula"
+  },
+  {
+   "uid": "U19830",
+   "en": "A vampire from space. It sucked human blood and tried to increase its minions one after another. It uses a temple as its base."
+  },
+  {
+   "uid": "U19831",
+   "en": "Dolgiran"
+  },
+  {
+   "uid": "U19832",
+   "en": "Gavan's mothership, a super-dimensional light-speed craft. It can split into an upper half, the Giran saucer, and a lower half, the Electronic Starbeast Dol. It can operate both in outer space and in Makuu Space. Length 220 m."
+  },
+  {
+   "uid": "U19833",
+   "en": "Trojan Horse"
+  },
+  {
+   "uid": "U19834",
+   "en": "The first invasion robot built by the Iron Mask Party. Carrying Mecha Robos inside, it stole robots from each country exhibited at the International Robot Expo. Its weapons are the object-stopping ray from its face and the drill on its right hand."
+  },
+  {
+   "uid": "U19835",
+   "en": "Dr. Dorothy Anderson"
+  },
+  {
+   "uid": "U19836",
+   "en": "Don Horror"
+  },
+  {
+   "uid": "U19837",
+   "en": "Naager"
+  },
+  {
+   "uid": "U19838",
+   "en": "Alien Nackle"
+  },
+  {
+   "uid": "U19839",
+   "en": "Navaron"
+  },
+  {
+   "uid": "U19840",
+   "en": "A mobile invasion fortress commanded by Volcano Mask General Magman. Armed with the giant Navaron Cannon, it lays down ferocious bombardments. It defends against approaching enemies with poison gas. It emerges from underground."
+  },
+  {
+   "uid": "U19841",
+   "en": "Dr. Namikawa"
+  },
+  {
+   "uid": "U19842",
+   "en": "An authority on rocket engineering. The Science Center where he worked was attacked by the Alien Baltan. He later joins the TDF science group. His joining improves the \"Type 90 Tank\" and the \"F-2 Support Fighter\" and makes them mass-producible."
+  },
+  {
+   "uid": "U19843",
+   "en": "Fake Ultraman"
+  },
+  {
+   "uid": "U19844",
+   "en": "Fake Ultraseven"
+  },
+  {
+   "uid": "U19845",
+   "en": "A robot superhuman built by the Alien Salome to look exactly like Ultraseven. Its weapons and techniques are almost equal to the real Seven's, but its abilities are slightly inferior. Height 40 m, weight 35,000 t."
+  },
+  {
+   "uid": "U19846",
+   "en": "Haken Killer"
+  },
+  {
+   "uid": "U19847",
+   "en": "Bio Hero (Male)"
+  },
+  {
+   "uid": "U19848",
+   "en": "A clinical test subject of \"Vol\", the unknown cells Dr. Hinata collected at Nojimazaki. A childhood friend of the Bio heroine, he often came and went at the laboratory. 17 years old. Clinical test subject No. 4."
+  },
+  {
+   "uid": "U19849",
+   "en": "Bio Heroine (Female)"
+  },
+  {
+   "uid": "U19850",
+   "en": "A clinical test subject of \"Vol\", the unknown cells Dr. Hinata collected at Nojimazaki. The real daughter of Dr. Hinata, who was driven out of the old TDF over the Vol cells affair. 16 years old. Her hobby is black magic. She has an i-mode-style cell phone and is apparently good at making ringtones. Measurements unknown. Clinical test subject No. 3."
+  },
+  {
+   "uid": "U19851",
+   "en": "Bio Rider"
+  },
+  {
+   "uid": "U19852",
+   "en": "Hakaider"
+  },
+  {
+   "uid": "U19853",
+   "en": "Saburo transforms into him and repeatedly drives Jiro into a corner with the Hakaider Shot. His head houses Dr. Komyoji's brain, so his blood must be exchanged at regular intervals. His machine is the White Crow."
+  },
+  {
+   "uid": "U19854",
+   "en": "Scissors Jaguar"
+  },
+  {
+   "uid": "U19855",
+   "en": "Destron's first hybrid monster, made by combining and remodeling scissors and a jaguar. It killed Shiro Kazami's parents and sister. Its weapons are the blades on its arms, which form scissors that cut even steel when it puts its hands together."
+  },
+  {
+   "uid": "U19856",
+   "en": "Professor Hustler"
+  },
+  {
+   "uid": "U19857",
+   "en": "Formerly a staff member of the science laboratory of the International Peace Organization, also known as the Red Muffler Squad. He took part in developing Brain, the world's largest artificial brain, under Dr. Sahara, but stole Brain just before its completion and founded the Brain Party. He plotted to use Brain to conquer the world, but instead Brain controlled him and he ended up serving it as a subordinate. \"Oh~!\" is his catchphrase."
+  },
+  {
+   "uid": "U19858",
+   "en": "It controls people by scattering glasses with built-in special sensory devices. It excels at sword attacks and can also fire poison needles from the tip of its sword. It is ruthless enough not to tolerate its subordinates' failures."
+  },
+  {
+   "uid": "U19859",
+   "en": "White Eagle Musasabi"
+  },
+  {
+   "uid": "U19860",
+   "en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U19861",
+   "en": "Buffalo Doubler"
+  },
+  {
+   "uid": "U19862",
+   "en": "Makuu's Double Monster. With superb charging power, it excels at body-slam attacks. Its mission is guarding the Makuu base, and in the original show it gravely wounded Den Iga, then a forest patrol member."
+  },
+  {
+   "uid": "U19863",
+   "en": "Battle Hopper"
+  },
+  {
+   "uid": "U19864",
+   "en": "It thinks with an artificial cybernetic brain and can act on its own will. It also has a self-repair function, with a top speed of 500 km/h. Originally a machine exclusive to the Century Kings, it escaped from Gorgom along with Kotaro."
+  },
+  {
+   "uid": "U19865",
+   "en": "Babylos"
+  },
+  {
+   "uid": "U19866",
+   "en": "A super-dimensional combat mothership that is also Shaider's base. It flies faster than light and can transform into the Shooting Formation, which fires the Big Magnum, and the Battle Formation, a robot form."
+  },
+  {
+   "uid": "U19867",
+   "en": "Hayata"
+  },
+  {
+   "uid": "U19868",
+   "en": "Bara Banbara"
+  },
+  {
+   "uid": "U19869",
+   "en": "Hurricane"
+  },
+  {
+   "uid": "U19870",
+   "en": "V3's machine, designed by the Double Riders. Nuclear-powered with a top speed of 600 km/h, it can fly through the air with rocket boosters. It can also be summoned by V3's telepathy."
+  },
+  {
+   "uid": "U19871",
+   "en": "Varicane"
+  },
+  {
+   "uid": "U19872",
+   "en": "Hurricane Robot"
+  },
+  {
+   "uid": "U19873",
+   "en": "Varitank"
+  },
+  {
+   "uid": "U19874",
+   "en": "An all-purpose six-wheeled tank used by Gorenger, normally stored inside the Varidreen. Its special-alloy body withstands any attack. It can also extend its arms and spin its claws to burrow underground."
+  },
+  {
+   "uid": "U19875",
+   "en": "Varidreen"
+  },
+  {
+   "uid": "U19876",
+   "en": "A new fighter that appeared to replace the Variblune after it self-destructed. It has weapons and performance beyond the Variblune and carries the Varikikyun, Varitank, Star Machines and more inside. It is mainly piloted by Aorenger."
+  },
+  {
+   "uid": "U19877",
+   "en": "Baribari"
+  },
+  {
+   "uid": "U19878",
+   "en": "Variblune"
+  },
+  {
+   "uid": "U19879",
+   "en": "A large fighter exclusive to Gorenger, designed and developed by EAGLE's science team. Piloted by Aorenger, it can fly at 1,200 km/h. It carries the Gorenger Machines inside."
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U19815: continuation of an entry whose first part is not in this batch (starts mid-word 'ー砲' = '...cannon')",
+   "U19858: body row whose title is not adjacent (after the Hustler entry); subject 'it' kept generic",
+   "U19850: eモードの携帯 rendered 'an i-mode-style cell phone' (parody of i-mode)",
+   "U19868: title バラバンパラ (likely バラバンバラ = glossary Bara Banbara) rendered 'Bara Banbara'",
+   "U19814: 天檜 is OCR for 天槍 = glossary Special Fighter Tenso",
+   "U19828: 鬼ノ岌台 read as 鬼ノ岩台 'Oninoiwadai'",
+   "Not in glossary: Earth Defense Force Science Center, Oninoiwadai, Giran saucer, Mecha Robos, White Crow, Varikikyun, Star Machines, Gorenger Machines, International Peace Organization"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Dr. Dorothy Anderson",
+    "why": "not in glossary"
+   },
+   {
+    "en": "White Crow",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Varikikyun",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U19814",
+    "likely": "天槍"
+   },
+   {
+    "uid": "U19801",
+    "likely": "ツバサ大僧正"
+   },
+   {
+    "uid": "U19808",
+    "likely": "万能"
+   },
+   {
+    "uid": "U19810",
+    "likely": "反感"
+   },
+   {
+    "uid": "U19817",
+    "likely": "藤堂タツヤ"
+   },
+   {
+    "uid": "U19818",
+    "likely": "細胞"
+   },
+   {
+    "uid": "U19820",
+    "likely": "懸架/運搬/深海/活動"
+   },
+   {
+    "uid": "U19822",
+    "likely": "世界/練り出し/魔界獣"
+   },
+   {
+    "uid": "U19824",
+    "likely": "3倍/呪文"
+   },
+   {
+    "uid": "U19828",
+    "likely": "鬼ノ岩台/付近/体重"
+   },
+   {
+    "uid": "U19832",
+    "likely": "母艦/分離"
+   },
+   {
+    "uid": "U19834",
+    "likely": "満載/万国ロボット博覧会/停止"
+   },
+   {
+    "uid": "U19842",
+    "likely": "権威/勤務"
+   },
+   {
+    "uid": "U19845",
+    "likely": "互角/体重"
+   },
+   {
+    "uid": "U19848",
+    "likely": "細胞"
+   },
+   {
+    "uid": "U19853",
+    "likely": "搭載"
+   },
+   {
+    "uid": "U19857",
+    "likely": "世界/口癖"
+   },
+   {
+    "uid": "U19858",
+    "likely": "感覚/先端/失敗"
+   },
+   {
+    "uid": "U19862",
+    "likely": "体当たり/重傷"
+   },
+   {
+    "uid": "U19864",
+    "likely": "自己/世紀王/専用"
+   },
+   {
+    "uid": "U19866",
+    "likely": "母艦"
+   },
+   {
+    "uid": "U19868",
+    "likely": "バラバンバラ"
+   },
+   {
+    "uid": "U19874",
+    "likely": "万能/普段/収納"
+   },
+   {
+    "uid": "U19876",
+    "likely": "格納"
+   },
+   {
+    "uid": "U19879",
+    "likely": "専用/格納"
+   }
+  ]
+ }
+}

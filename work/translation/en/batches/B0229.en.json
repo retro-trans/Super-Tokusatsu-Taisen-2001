@@ -1,0 +1,487 @@
+{
+ "batch": "B0229",
+ "prev": "B0228",
+ "next": "B0230",
+ "rows": [
+  {
+   "uid": "U18266",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Scorpion Man"
+  },
+  {
+   "uid": "U18267",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Scorpion Man"
+  },
+  {
+   "uid": "U18268",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Scorpion Man"
+  },
+  {
+   "uid": "U18269",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Scorpion Man"
+  },
+  {
+   "uid": "U18270",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U18271",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U18272",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U18273",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U18274",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U18275",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U18276",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U18277",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U18278",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bee Woman"
+  },
+  {
+   "uid": "U18279",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gebacondor"
+  },
+  {
+   "uid": "U18280",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gebacondor"
+  },
+  {
+   "uid": "U18281",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gebacondor"
+  },
+  {
+   "uid": "U18282",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gebacondor"
+  },
+  {
+   "uid": "U18283",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gebacondor"
+  },
+  {
+   "uid": "U18284",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gebacondor"
+  },
+  {
+   "uid": "U18285",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U18286",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U18287",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U18288",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.4"
+  },
+  {
+   "uid": "U18289",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.4"
+  },
+  {
+   "uid": "U18290",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.4"
+  },
+  {
+   "uid": "U18291",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.4"
+  },
+  {
+   "uid": "U18292",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.4"
+  },
+  {
+   "uid": "U18293",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.4"
+  },
+  {
+   "uid": "U18294",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.4"
+  },
+  {
+   "uid": "U18295",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.4"
+  },
+  {
+   "uid": "U18296",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.4"
+  },
+  {
+   "uid": "U18297",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.3"
+  },
+  {
+   "uid": "U18298",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.3"
+  },
+  {
+   "uid": "U18299",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.3"
+  },
+  {
+   "uid": "U18300",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.3"
+  },
+  {
+   "uid": "U18301",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.3"
+  },
+  {
+   "uid": "U18302",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.3"
+  },
+  {
+   "uid": "U18303",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.3"
+  },
+  {
+   "uid": "U18304",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.3"
+  },
+  {
+   "uid": "U18305",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.1"
+  },
+  {
+   "uid": "U18306",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.1"
+  },
+  {
+   "uid": "U18307",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.1"
+  },
+  {
+   "uid": "U18308",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.1"
+  },
+  {
+   "uid": "U18309",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.1"
+  },
+  {
+   "uid": "U18310",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.1"
+  },
+  {
+   "uid": "U18311",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.1"
+  },
+  {
+   "uid": "U18312",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.1"
+  },
+  {
+   "uid": "U18313",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.1"
+  },
+  {
+   "uid": "U18314",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.6"
+  },
+  {
+   "uid": "U18315",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.6"
+  },
+  {
+   "uid": "U18316",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.6"
+  },
+  {
+   "uid": "U18317",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.6"
+  },
+  {
+   "uid": "U18318",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.6"
+  },
+  {
+   "uid": "U18319",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.6"
+  },
+  {
+   "uid": "U18320",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.6"
+  },
+  {
+   "uid": "U18321",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.6"
+  },
+  {
+   "uid": "U18322",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.6"
+  },
+  {
+   "uid": "U18323",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.5"
+  },
+  {
+   "uid": "U18324",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.5"
+  },
+  {
+   "uid": "U18325",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.5"
+  },
+  {
+   "uid": "U18326",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.5"
+  },
+  {
+   "uid": "U18327",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.5"
+  },
+  {
+   "uid": "U18328",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.5"
+  },
+  {
+   "uid": "U18329",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.5"
+  },
+  {
+   "uid": "U18330",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.5"
+  },
+  {
+   "uid": "U18331",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.5"
+  },
+  {
+   "uid": "U18332",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.2"
+  },
+  {
+   "uid": "U18333",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.2"
+  },
+  {
+   "uid": "U18334",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.2"
+  },
+  {
+   "uid": "U18335",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.2"
+  },
+  {
+   "uid": "U18336",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.2"
+  },
+  {
+   "uid": "U18337",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.2"
+  },
+  {
+   "uid": "U18338",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.2"
+  },
+  {
+   "uid": "U18339",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Rider No.2"
+  },
+  {
+   "uid": "U18340",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Scissors Jaguar"
+  },
+  {
+   "uid": "U18341",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Scissors Jaguar"
+  },
+  {
+   "uid": "U18342",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Scissors Jaguar"
+  },
+  {
+   "uid": "U18343",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamebazooka"
+  },
+  {
+   "uid": "U18344",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamebazooka"
+  },
+  {
+   "uid": "U18345",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamebazooka"
+  }
+ ]
+}

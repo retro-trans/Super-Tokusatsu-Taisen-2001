@@ -1,0 +1,394 @@
+{
+ "batch": "B0026",
+ "rows": [
+  {
+   "uid": "U02008",
+   "en": "Minami, are you all right? We've come to rescue you! Please open this entrance!"
+  },
+  {
+   "uid": "U02009",
+   "en": "We came to rescue you at Daisaku's request!"
+  },
+  {
+   "uid": "U02010",
+   "en": "It's not that I don't believe you, but let me make sure…<p>The password… \"What's Napoleon's trump card?\""
+  },
+  {
+   "uid": "U02011",
+   "en": "\"15 of Diamonds\" \"Ace of Hearts\" \"15 of Clovers\" \"Ace of Diamonds\""
+  },
+  {
+   "uid": "U02012",
+   "en": "I see… So that's your answer?"
+  },
+  {
+   "uid": "U02013",
+   "en": "Waaaaagh…"
+  },
+  {
+   "uid": "U02014",
+   "en": "Damn you, BF… Trying to fool me is useless! How do you like that!"
+  },
+  {
+   "uid": "U02015",
+   "en": "Oh, thank goodness!<p>I was worried whether I'd passed the password on to all of you properly!<p>That password is used in common by every branch of the Unicorn Agency."
+  },
+  {
+   "uid": "U02016",
+   "en": "I nearly hurt you all badly! So… what about the code-breaking machine?"
+  },
+  {
+   "uid": "U02017",
+   "en": "We recovered it safely! And this time we beat the mollusk kaiju Ikagerasu, too. Mission complete."
+  },
+  {
+   "uid": "U02018",
+   "en": "All right… Let's contact the branch right away."
+  },
+  {
+   "uid": "U02019",
+   "en": "This is U7, this is U7… Branch, come in."
+  },
+  {
+   "uid": "U02020",
+   "en": "Contacting us over the comm line… So it seems you've recovered the code-breaking machine safely?"
+  },
+  {
+   "uid": "U02021",
+   "en": "Yes, and U3 is safe too!"
+  },
+  {
+   "uid": "U02022",
+   "en": "Hey, [HERO2]… What is an omamori?"
+  },
+  {
+   "uid": "U02023",
+   "en": "An omamori!?<p>Well… it's something you carry to protect yourself, how do I put it? It's hard to explain to you…"
+  },
+  {
+   "uid": "U02024",
+   "en": "Is it some kind of defensive shield?"
+  },
+  {
+   "uid": "U02025",
+   "en": "Hmm, well, depending on how the person carrying it feels, you could say that… But what's this about? [HERO4]?"
+  },
+  {
+   "uid": "U02026",
+   "en": "Mitsuko gave Jiro a defensive shield from Izumo Grand Shrine…"
+  },
+  {
+   "uid": "U02027",
+   "en": "I see, so that's it…<p>But… what is Mitsuko thinking? Izumo Grand Shrine is the god of matchmaking, you know?"
+  },
+  {
+   "uid": "U02028",
+   "en": "Hey, [HERO2]… I want a charm too."
+  },
+  {
+   "uid": "U02029",
+   "en": "Huh? You want a charm? What's gotten into you all of a sudden…"
+  },
+  {
+   "uid": "U02030",
+   "en": "'Cause Jiro got one from Mitsuko. A charm…"
+  },
+  {
+   "uid": "U02031",
+   "en": "I see… Then I'll buy you one at Tomioka Hachimangu Shrine, near Amigo."
+  },
+  {
+   "uid": "U02032",
+   "en": "No, no, nooo! It's meaningless unless it's a charm from Izumo Grand Shrine!"
+  },
+  {
+   "uid": "U02033",
+   "en": "Where even is Izumo Grand Shrine! Who's brand-conscious about charms? Come on, we're going home, [HERO4]…"
+  },
+  {
+   "uid": "U02034",
+   "en": "[HERO2], you idiot!"
+  },
+  {
+   "uid": "U02035",
+   "en": "Curse you, Gavan… Just you wait. I'll show you how terrifying Makuu can be."
+  },
+  {
+   "uid": "U02036",
+   "en": "Dr. Komyoji had finally fallen into DARK's hands. Professor Gill launched a secret plan to defeat his archenemy Kikaider!"
+  },
+  {
+   "uid": "U02037",
+   "en": "Into the body of the strongest android, he transplanted none other than Dr. Komyoji's brain. Kikaider cannot attack Hakaider! DARK's fierce assault was about to begin!"
+  },
+  {
+   "uid": "U02038",
+   "en": "Eeek…"
+  },
+  {
+   "uid": "U02039",
+   "en": "Recover the code-breaking machine and defeat all of BF and Makuu!"
+  },
+  {
+   "uid": "U02040",
+   "en": "Seize the laboratory and recover the code-breaking machine! Defeat all of BF, Makuu and the DARK Destruction Squad!"
+  },
+  {
+   "uid": "U02041",
+   "en": "Daisaku Kusama, Chief Kitakura or Jiro is defeated"
+  },
+  {
+   "uid": "U02042",
+   "en": "Daisaku Kusama or Chief Kitakura is defeated"
+  },
+  {
+   "uid": "U02043",
+   "en": "<c3>Ichiro</c>'s Morale went <c2>UP</c>!"
+  },
+  {
+   "uid": "U02044",
+   "en": "<c3>Ichiro</c>'s Morale went <c1>DOWN</c>!"
+  },
+  {
+   "uid": "U02045",
+   "en": "Sis… Do you really have to open up Jiro's body?"
+  },
+  {
+   "uid": "U02046",
+   "en": "You see, Jiro… is still missing one more circuit.<p>Once I install it, Jiro will be complete. With Father missing, I'm the only one who can do it…"
+  },
+  {
+   "uid": "U02047",
+   "en": "I don't want to… I don't want to see. Jiro's just like a human, but inside his body, he's machinery…"
+  },
+  {
+   "uid": "U02048",
+   "en": "I feel the same…<p>But it's my duty! …!?<p>Jiro?"
+  },
+  {
+   "uid": "U02049",
+   "en": "I'm fine as I am. Please don't do anything unnecessary!"
+  },
+  {
+   "uid": "U02050",
+   "en": "Don't stop me! Father asked me to…"
+  },
+  {
+   "uid": "U02051",
+   "en": "Dr. Komyoji's Conscience Circuit may be incomplete. But…<p>I make up for that incompleteness by controlling it with my own will! Mitsuko, I'm fine the way I am!"
+  },
+  {
+   "uid": "U02052",
+   "en": "Jiro, I want you to be complete. Because your Conscience Circuit is incomplete, you waste energy.<p>Please! Let me do it, and become a complete android!"
+  },
+  {
+   "uid": "U02053",
+   "en": "Even if you're the one asking, Mitsuko, that's the one thing I can't agree to!"
+  },
+  {
+   "uid": "U02054",
+   "en": "Why not? I'm sure Father wants you to be complete too."
+  },
+  {
+   "uid": "U02055",
+   "en": "Dr. Komyoji too? Why?"
+  },
+  {
+   "uid": "U02056",
+   "en": "Do you know… why he named you Jiro?<p>The truth is, my brother and I had an older brother. His name was Taro."
+  },
+  {
+   "uid": "U02057",
+   "en": "I see… So that's why my name is Jiro?<p>I'd assumed it was because the doctor built me as the younger brother of Ichiro, who remains faintly in my memory computer…"
+  },
+  {
+   "uid": "U02058",
+   "en": "Father built you hoping you would carry on the strong sense of justice and love of peace of our late brother Taro."
+  },
+  {
+   "uid": "U02059",
+   "en": "Taro is dead?"
+  },
+  {
+   "uid": "U02060",
+   "en": "He was the chief of the Environmental Guard Corps… A forest fire broke out, and he died protecting a village."
+  },
+  {
+   "uid": "U02061",
+   "en": "And the one who started that forest fire was DARK… Jiro, please! Let me install the last part of the Conscience Circuit!"
+  },
+  {
+   "uid": "U02062",
+   "en": "I… I've always faced you as a man, as if I were human.<p>Inside this body of mine, there's a power engine instead of a heart, and a computer for a brain. I know that, but… I don't want you to see any more of it!"
+  },
+  {
+   "uid": "U02063",
+   "en": "Jiro…"
+  },
+  {
+   "uid": "U02064",
+   "en": "Hmm, we sure live in amazing times…"
+  },
+  {
+   "uid": "U02065",
+   "en": "What's the matter, Mr. Tachibana?"
+  },
+  {
+   "uid": "U02066",
+   "en": "Oh, [HERO4]. This paper's top story!<p>\"World Robot Expo Opens\"… Science has finally come this far, huh."
+  },
+  {
+   "uid": "U02067",
+   "en": "Robotics has made dramatic progress, thanks in part to Giant Robo's achievements."
+  },
+  {
+   "uid": "U02068",
+   "en": "Apparently the highlight of the exhibits is a robot built by Dr. Kenichiro Kurenai, Japan's pride in robotics."
+  },
+  {
+   "uid": "U02069",
+   "en": "That's Hiryu, the one in this photo, isn't it?"
+  },
+  {
+   "uid": "U02070",
+   "en": "It's an amazing robot, all right… But we're probably not the only ones who think so."
+  },
+  {
+   "uid": "U02071",
+   "en": "What do you mean, Hayato…?"
+  },
+  {
+   "uid": "U02072",
+   "en": "In other words…<p>Shocker and the other organizations probably want this robot too. That's what he means, Oyassan."
+  },
+  {
+   "uid": "U02073",
+   "en": "Sure enough, if a super robot like this fell into enemy hands, it'd be a disaster. What's the security like at the site?"
+  },
+  {
+   "uid": "U02074",
+   "en": "According to TDF information… a group called the SSI is handling security."
+  },
+  {
+   "uid": "U02075",
+   "en": "The SSI? I've heard they're secret investigators, half government and half private…<p>I wonder if they'll be enough on their own."
+  },
+  {
+   "uid": "U02076",
+   "en": "What's up, Mr. Tachibana?"
+  },
+  {
+   "uid": "U02077",
+   "en": "Oh, [HERO4]. This paper's top story!<p>\"World Robot Expo Opens\"… Science has finally come this far, huh."
+  },
+  {
+   "uid": "U02078",
+   "en": "Robotics has really leapt forward since Daisaku got Giant Robo, huh."
+  },
+  {
+   "uid": "U02079",
+   "en": "That's Hiryu, the one in this photo, right? I've been following it."
+  },
+  {
+   "uid": "U02080",
+   "en": "Oh? You're asking for our DARK's cooperation, Dr. Deviler?"
+  },
+  {
+   "uid": "U02081",
+   "en": "I'm asking as a friend who once studied mechanical engineering alongside you.<p>If my giant robots team up with your Destruction Squad, we'll be invincible."
+  },
+  {
+   "uid": "U02082",
+   "en": "Our DARK Destruction Squad is plenty strong without borrowing the power of your Iron Mask Party…<p>But the completion of DARK's pride, the Giant Devil, is still far off… With the cooperation of your robot empire, its completion would be within reach, is that it?<p>Very well… I'll join hands with your robot empire, the Iron Mask Party. But don't try any clumsy tricks…<p>DARK Destruction Squad! Grey Rhinoking, Kaimen Green! Attack the World Robot Expo site! Kidnap the scientists from every country!"
+  },
+  {
+   "uid": "U02083",
+   "en": "Brother!"
+  },
+  {
+   "uid": "U02084",
+   "en": "Hey, Ken! Are you heading to the venue too?"
+  },
+  {
+   "uid": "U02085",
+   "en": "It's finally tomorrow, isn't it, Brother…"
+  },
+  {
+   "uid": "U02086",
+   "en": "Yeah… Are you doing well too?"
+  },
+  {
+   "uid": "U02087",
+   "en": "As you can see! By the way, Brother…"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U02011: player choice row with four options; brackets replaced by double quotes; ミツバ rendered 'Clovers'",
+   "U02020: speaker 'Branch Chief Higashi' (glossary); content fits the Unicorn branch chief",
+   "U02022-U02032: お守り rendered 'omamori' at first mention, then 'charm'; [HERO4] (Lucifard-route droid) literal-minded",
+   "U02056/U02058: ミツ子 speaks of 兄 Taro; 'my brother and I' = Mitsuko and Masaru",
+   "U02057: Jiro thought he was named as Ichiro's younger brother",
+   "U02072: Hongo explaining Hayato's point to Tobei ('That's what he means')"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "(speaker_en null)",
+    "why": "speaker_en null on dialogue rows"
+   },
+   {
+    "en": "Taro",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Environmental Guard Corps",
+    "why": "not in glossary"
+   },
+   {
+    "en": "World Robot Expo",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Iron Mask Party",
+    "why": "from glossary 鉄面党員"
+   },
+   {
+    "en": "Tomioka Hachimangu Shrine",
+    "why": "place"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U02012",
+    "likely": "答え"
+   },
+   {
+    "uid": "U02026",
+    "likely": "出雲大社"
+   },
+   {
+    "uid": "U02027",
+    "likely": "出雲大社"
+   },
+   {
+    "uid": "U02032",
+    "likely": "出雲大社"
+   },
+   {
+    "uid": "U02033",
+    "likely": "出雲大社"
+   },
+   {
+    "uid": "U02068",
+    "likely": "誇る"
+   },
+   {
+    "uid": "U02082",
+    "likely": "誇る"
+   }
+  ]
+ }
+}

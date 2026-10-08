@@ -1,0 +1,487 @@
+{
+ "batch": "B0090",
+ "prev": "B0089",
+ "next": "B0091",
+ "rows": [
+  {
+   "uid": "U07138",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U07139",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07140",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07141",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07142",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07143",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07144",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07145",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07146",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07147",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07148",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07149",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07150",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Pitt"
+  },
+  {
+   "uid": "U07151",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07152",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Pitt"
+  },
+  {
+   "uid": "U07153",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Girl"
+  },
+  {
+   "uid": "U07154",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Pitt"
+  },
+  {
+   "uid": "U07155",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Pitt"
+  },
+  {
+   "uid": "U07156",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Pitt"
+  },
+  {
+   "uid": "U07157",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraseven"
+  },
+  {
+   "uid": "U07158",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U07159",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U07160",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07161",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U07162",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U07163",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U07164",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U07165",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07166",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07167",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U07168",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Missile Gecko"
+  },
+  {
+   "uid": "U07169",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U07170",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07171",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U07172",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07173",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U07174",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Missile Gecko"
+  },
+  {
+   "uid": "U07175",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07176",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U07177",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07178",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07179",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07180",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U07181",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07182",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U07183",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Missile Gecko"
+  },
+  {
+   "uid": "U07184",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07185",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U07186",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U07187",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U07188",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U07189",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07190",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07191",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07192",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07193",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07194",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07195",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07196",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07197",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07198",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07199",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07200",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07201",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07202",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07203",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07204",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07205",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07206",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07207",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U07208",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07209",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07210",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07211",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07212",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07213",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07214",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07215",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07216",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07217",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

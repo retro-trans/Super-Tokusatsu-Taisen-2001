@@ -1,0 +1,487 @@
+{
+ "batch": "B0187",
+ "prev": "B0186",
+ "next": "B0188",
+ "rows": [
+  {
+   "uid": "U14901",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14902",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14903",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14904",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14905",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14906",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U14907",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14908",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U14909",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14910",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14911",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14912",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U14913",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14914",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U14915",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14916",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14917",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14918",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14919",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14920",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14921",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14922",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14923",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14924",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14925",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14926",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14927",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14928",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14929",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14930",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14931",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14932",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14933",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14934",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14935",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14936",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14937",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14938",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14939",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14940",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14941",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14942",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14943",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14944",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14945",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14946",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14947",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14948",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14949",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14950",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14951",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14952",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14953",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Vampire Dracula"
+  },
+  {
+   "uid": "U14954",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14955",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14956",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14957",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14958",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14959",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U14960",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14961",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U14962",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14963",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U14964",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U14965",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14966",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U14967",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14968",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U14969",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U14970",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U14971",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U14972",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U14973",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U14974",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Guillotine"
+  },
+  {
+   "uid": "U14975",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14976",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U14977",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U14978",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14979",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U14980",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

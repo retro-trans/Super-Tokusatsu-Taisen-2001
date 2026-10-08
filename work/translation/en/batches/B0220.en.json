@@ -1,0 +1,487 @@
+{
+ "batch": "B0220",
+ "prev": "B0219",
+ "next": "B0221",
+ "rows": [
+  {
+   "uid": "U17546",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U17547",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U17548",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U17549",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U17550",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U17551",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U17552",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U17553",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U17554",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U17555",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U17556",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U17557",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U17558",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U17559",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U17560",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U17561",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U17562",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U17563",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U17564",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U17565",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U17566",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17567",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17568",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17569",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17570",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17571",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17572",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17573",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17574",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17575",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17576",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17577",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Apfaron"
+  },
+  {
+   "uid": "U17578",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U17579",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U17580",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U17581",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U17582",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U17583",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U17584",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U17585",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U17586",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17587",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17588",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17589",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17590",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17591",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17592",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17593",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17594",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17595",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17596",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17597",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Atefarina"
+  },
+  {
+   "uid": "U17598",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U17599",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U17600",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U17601",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U17602",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U17603",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U17604",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U17605",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U17606",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U17607",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U17608",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U17609",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U17610",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U17611",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U17612",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U17613",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U17614",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U17615",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U17616",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U17617",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U17618",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U17619",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gigant"
+  },
+  {
+   "uid": "U17620",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gigant"
+  },
+  {
+   "uid": "U17621",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gigant"
+  },
+  {
+   "uid": "U17622",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gigant"
+  },
+  {
+   "uid": "U17623",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gigant"
+  },
+  {
+   "uid": "U17624",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volfeed"
+  },
+  {
+   "uid": "U17625",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volfeed"
+  }
+ ]
+}

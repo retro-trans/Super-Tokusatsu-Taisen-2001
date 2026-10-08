@@ -1,0 +1,8 @@
+1
+00:00:01,000 --> 00:00:02,500
+Johchaku!
+
+2
+00:00:09,500 --> 00:00:13,450
+Understood.
+Transmitting the Combat Suit.

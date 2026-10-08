@@ -1,0 +1,487 @@
+{
+ "batch": "B0017",
+ "prev": "B0016",
+ "next": "B0018",
+ "rows": [
+  {
+   "uid": "U01288",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01289",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01290",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01291",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01292",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01293",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01294",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01295",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01296",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01297",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01298",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01299",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01300",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01301",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01302",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01303",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01304",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01305",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01306",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01307",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01308",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01309",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01310",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01311",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01312",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U01313",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01314",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01315",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01316",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01317",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01318",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U01319",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01320",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U01321",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01322",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01323",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U01324",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01325",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01326",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U01327",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U01328",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U01329",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U01330",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U01331",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U01332",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U01333",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U01334",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U01335",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U01336",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U01337",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Man"
+  },
+  {
+   "uid": "U01338",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U01339",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Man"
+  },
+  {
+   "uid": "U01340",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U01341",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U01342",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U01343",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U01344",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01345",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U01346",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U01347",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U01348",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U01349",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U01350",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U01351",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U01352",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U01353",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U01354",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U01355",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U01356",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01357",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U01358",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U01359",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U01360",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U01361",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U01362",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U01363",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U01364",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U01365",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U01366",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U01367",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

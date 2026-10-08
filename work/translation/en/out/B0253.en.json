@@ -1,0 +1,397 @@
+{
+ "batch": "B0253",
+ "rows": [
+  {
+   "uid": "U20214",
+   "en": "G.Annie",
+   "note": "Shortened to fit the checker budget; preferred: Giant Annie"
+  },
+  {
+   "uid": "U20215",
+   "en": "Kitakura",
+   "note": "Shortened to fit the checker budget; preferred: Maya Kitakura"
+  },
+  {
+   "uid": "U20216",
+   "en": "K.Sawa",
+   "note": "Shortened to fit the checker budget; preferred: Kenji Sawa"
+  },
+  {
+   "uid": "U20217",
+   "en": "K.Sakom.",
+   "note": "Shortened to fit the checker budget; preferred: K.Sakomizu"
+  },
+  {
+   "uid": "U20218",
+   "en": "T.Todo",
+   "note": "Shortened to fit the checker budget; preferred: Tatsuya Todo"
+  },
+  {
+   "uid": "U20219",
+   "en": "Kaori",
+   "note": "Shortened to fit the checker budget; preferred: K.Minoshima"
+  },
+  {
+   "uid": "U20220",
+   "en": "Mechacl.",
+   "note": "Shortened to fit the checker budget; preferred: Mechaclone"
+  },
+  {
+   "uid": "U20221",
+   "en": "Farra Cat"
+  },
+  {
+   "uid": "U20222",
+   "en": "Saigohn"
+  },
+  {
+   "uid": "U20223",
+   "en": "Metzler"
+  },
+  {
+   "uid": "U20224",
+   "en": "Juoh"
+  },
+  {
+   "uid": "U20225",
+   "en": "Maso.",
+   "note": "Shortened to fit the checker budget; preferred: Mason"
+  },
+  {
+   "uid": "U20226",
+   "en": "Farr.",
+   "note": "Shortened to fit the checker budget; preferred: Farra"
+  },
+  {
+   "uid": "U20227",
+   "en": "Miki",
+   "note": "Shortened to fit the checker budget; preferred: Mecha Miki"
+  },
+  {
+   "uid": "U20228",
+   "en": "Prince"
+  },
+  {
+   "uid": "U20229",
+   "en": "Silv.",
+   "note": "Shortened to fit the checker budget; preferred: Silva"
+  },
+  {
+   "uid": "U20230",
+   "en": "Android Daisaku"
+  },
+  {
+   "uid": "U20231",
+   "en": "Combatant:Beret"
+  },
+  {
+   "uid": "U20232",
+   "en": "Combatant:Mask"
+  },
+  {
+   "uid": "U20233",
+   "en": "Racer Hell Sq.",
+   "note": "Shortened to fit the checker budget; preferred: Racer Hell Squad"
+  },
+  {
+   "uid": "U20234",
+   "en": "M.Armor",
+   "note": "Shortened to fit the checker budget; preferred: Marshal Armor"
+  },
+  {
+   "uid": "U20235",
+   "en": "GOD Agent"
+  },
+  {
+   "uid": "U20236",
+   "en": "Neptune"
+  },
+  {
+   "uid": "U20237",
+   "en": "Icarus"
+  },
+  {
+   "uid": "U20238",
+   "en": "Achill.",
+   "note": "Shortened to fit the checker budget; preferred: Achilles"
+  },
+  {
+   "uid": "U20239",
+   "en": "Ch.Fantoma"
+  },
+  {
+   "uid": "U20240",
+   "en": "God Rider"
+  },
+  {
+   "uid": "U20241",
+   "en": "Napoleon",
+   "note": "Shortened to fit the checker budget; preferred: Spider Napoleon"
+  },
+  {
+   "uid": "U20242",
+   "en": "A.Geist",
+   "note": "Shortened to fit the checker budget; preferred: Apollo Geist"
+  },
+  {
+   "uid": "U20243",
+   "en": "Rev.A.Geist",
+   "note": "Shortened to fit the checker budget; preferred: Revived A.Geist"
+  },
+  {
+   "uid": "U20244",
+   "en": "Nobuhik.",
+   "note": "Shortened to fit the checker budget; preferred: Nobuhiko"
+  },
+  {
+   "uid": "U20245",
+   "en": "Grotesc.",
+   "note": "Shortened to fit the checker budget; preferred: Grotescance"
+  },
+  {
+   "uid": "U20246",
+   "en": "Am.Megas",
+   "note": "Shortened to fit the checker budget; preferred: Amazon Megas"
+  },
+  {
+   "uid": "U20247",
+   "en": "S.Megas",
+   "note": "Shortened to fit the checker budget; preferred: Satan Megas"
+  },
+  {
+   "uid": "U20248",
+   "en": "B.Robot",
+   "note": "Shortened to fit the checker budget; preferred: Battleship Robot"
+  },
+  {
+   "uid": "U20249",
+   "en": "Android X"
+  },
+  {
+   "uid": "U20250",
+   "en": "Goryu"
+  },
+  {
+   "uid": "U20251",
+   "en": "K.Dark",
+   "note": "Shortened to fit the checker budget; preferred: King Dark"
+  },
+  {
+   "uid": "U20252",
+   "en": "A.Metron",
+   "note": "Shortened to fit the checker budget; preferred: Alien Metron"
+  },
+  {
+   "uid": "U20253",
+   "en": "Pand.",
+   "note": "Shortened to fit the checker budget; preferred: Pandon"
+  },
+  {
+   "uid": "U20254",
+   "en": "{direct}Melee{P}"
+  },
+  {
+   "uid": "U20255",
+   "en": "{direct}U.Blade{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Ultrasonic Blade{P}"
+  },
+  {
+   "uid": "U20256",
+   "en": "{ranged}T.L.Gun{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Twin Linear Gun{bullet}"
+  },
+  {
+   "uid": "U20257",
+   "en": "{ranged}Maser Bit",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Maser Bits"
+  },
+  {
+   "uid": "U20258",
+   "en": "{ranged}G.Phantom",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Gravity Phantom"
+  },
+  {
+   "uid": "U20259",
+   "en": "{ranged}G.Napalm{M}{AP}{fire}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Gravity Napalm{M}{AP}{fire}"
+  },
+  {
+   "uid": "U20260",
+   "en": "{c287}Medical Blast"
+  },
+  {
+   "uid": "U20261",
+   "en": "{ranged}Destroyer Blast{beam}"
+  },
+  {
+   "uid": "U20262",
+   "en": "{direct}Fifth Shine{P}"
+  },
+  {
+   "uid": "U20263",
+   "en": "{direct}V.Blade{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Volblade{P}"
+  },
+  {
+   "uid": "U20264",
+   "en": "{ranged}Volcan{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Volcannon{beam}"
+  },
+  {
+   "uid": "U20265",
+   "en": "{direct}Volblade D.Edge{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Volblade Dark Edge{P}"
+  },
+  {
+   "uid": "U20266",
+   "en": "{ranged}Volcan.Howling",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Volcannon Howling"
+  },
+  {
+   "uid": "U20267",
+   "en": "{ranged}Vortex Cry{M}{AP}"
+  },
+  {
+   "uid": "U20268",
+   "en": "{c287}Repair{P}"
+  },
+  {
+   "uid": "U20269",
+   "en": "{direct}Velslicer{P}"
+  },
+  {
+   "uid": "U20270",
+   "en": "{ranged}Velsaucr",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Velsaucer"
+  },
+  {
+   "uid": "U20271",
+   "en": "{ranged}Velvet Circle{M}{AP}"
+  },
+  {
+   "uid": "U20272",
+   "en": "{ranged}Msl{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Missile{bullet}"
+  },
+  {
+   "uid": "U20273",
+   "en": "{ranged}20mm Gun{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}20mm Cannon{bullet}"
+  },
+  {
+   "uid": "U20274",
+   "en": "{direct}Bomb{P}{bullet}★"
+  },
+  {
+   "uid": "U20275",
+   "en": "{ranged}30mm Gun{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}30mm Cannon{bullet}"
+  },
+  {
+   "uid": "U20276",
+   "en": "{ranged}Cannon{S}{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}30mm Cannon{S}{bullet}"
+  },
+  {
+   "uid": "U20277",
+   "en": "(TBD)"
+  },
+  {
+   "uid": "U20278",
+   "en": "{ranged}1.Smoo.{L}{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}120mm Smoothbore{L}{bullet}"
+  },
+  {
+   "uid": "U20279",
+   "en": "{ranged}7.62m. MG{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}7.62mm MG{bullet}"
+  },
+  {
+   "uid": "U20280",
+   "en": "{ranged}Cannon{L}{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}35mm Cannon{L}{bullet}"
+  },
+  {
+   "uid": "U20281",
+   "en": "{ranged}155m. Howi.{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}155mm Howitzer{bullet}"
+  },
+  {
+   "uid": "U20282",
+   "en": "{ranged}Howitzer{L}{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}155mm Howitzer{L}{bullet}"
+  },
+  {
+   "uid": "U20283",
+   "en": "{ranged}2x P.Beam{L}{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Twin Particle Beam{L}{beam}★"
+  },
+  {
+   "uid": "U20284",
+   "en": "{ranged}AA Laser{L}{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}AA Laser Cannon{L}{beam}"
+  },
+  {
+   "uid": "U20285",
+   "en": "{ranged}35mm Gun{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}35mm Cannon{bullet}"
+  },
+  {
+   "uid": "U20286",
+   "en": "{ranged}5.56mm MG{bullet}"
+  },
+  {
+   "uid": "U20287",
+   "en": "{ranged}AK Msl.{L}{bullet}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Anti-Kaiju Missile{L}{bullet}★"
+  },
+  {
+   "uid": "U20288",
+   "en": "{direct}Bayonet{P}"
+  },
+  {
+   "uid": "U20289",
+   "en": "{ranged}Heavy{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Heavy Particle Cannon{beam}★"
+  },
+  {
+   "uid": "U20290",
+   "en": "{direct}H.Drill Attack{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Homing Drill Attack{P}"
+  },
+  {
+   "uid": "U20291",
+   "en": "{ranged}Space Laser{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Space Laser Cannon{beam}★"
+  },
+  {
+   "uid": "U20292",
+   "en": "{direct}Spark{P}{elec}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Red Spark{P}{elec}"
+  },
+  {
+   "uid": "U20293",
+   "en": "{direct}R.Bute{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Red Bute{P}"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "Weapon menu rows: budget_px appears to exclude the icon tags, but check_batch.py counts each icon as 8px, so most weapon names had to be abbreviated hard; rows marked with a note give the preferred full name",
+   "U20254/U20268/U20272/U20274: no readable English fits the checker limit once the icons are counted (e.g. {direct}{P}{bullet}★ alone is 36px vs a 41px limit for U20274); full word kept and the row still fails the checker - see unresolved list",
+   "U20231/U20232: Shocker Combatant: Beret/Mask shortened to 'Combatant:Beret'/'Combatant:Mask' (Shocker dropped)",
+   "U20217/U20219: K.Sakomizu / K.Minoshima initials for given names",
+   "U20239: Chameleon Fantoma shortened 'Ch.Fantoma'"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": [
+   {
+    "uid": "U20219",
+    "likely": "蓑島カオリ"
+   }
+  ]
+ }
+}

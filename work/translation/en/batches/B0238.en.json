@@ -1,0 +1,487 @@
+{
+ "batch": "B0238",
+ "prev": "B0237",
+ "next": "B0239",
+ "rows": [
+  {
+   "uid": "U18995",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Trojan Horse"
+  },
+  {
+   "uid": "U18996",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Trojan Horse"
+  },
+  {
+   "uid": "U18997",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Trojan Horse"
+  },
+  {
+   "uid": "U18998",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Trojan Horse"
+  },
+  {
+   "uid": "U18999",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Trojan Horse"
+  },
+  {
+   "uid": "U19000",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Trojan Horse"
+  },
+  {
+   "uid": "U19001",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Trojan Horse"
+  },
+  {
+   "uid": "U19002",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Trojan Horse"
+  },
+  {
+   "uid": "U19003",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hiryu"
+  },
+  {
+   "uid": "U19004",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hiryu"
+  },
+  {
+   "uid": "U19005",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hiryu"
+  },
+  {
+   "uid": "U19006",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hiryu"
+  },
+  {
+   "uid": "U19007",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hiryu"
+  },
+  {
+   "uid": "U19008",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hiryu"
+  },
+  {
+   "uid": "U19009",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hiryu"
+  },
+  {
+   "uid": "U19010",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hiryu"
+  },
+  {
+   "uid": "U19011",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Deviler"
+  },
+  {
+   "uid": "U19012",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Deviler"
+  },
+  {
+   "uid": "U19013",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Deviler"
+  },
+  {
+   "uid": "U19014",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Deviler"
+  },
+  {
+   "uid": "U19015",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Deviler"
+  },
+  {
+   "uid": "U19016",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Deviler"
+  },
+  {
+   "uid": "U19017",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Deviler"
+  },
+  {
+   "uid": "U19018",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Deviler"
+  },
+  {
+   "uid": "U19019",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Space Fortress Naager"
+  },
+  {
+   "uid": "U19020",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Space Fortress Naager"
+  },
+  {
+   "uid": "U19021",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Space Fortress Naager"
+  },
+  {
+   "uid": "U19022",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Space Fortress Naager"
+  },
+  {
+   "uid": "U19023",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Space Fortress Naager"
+  },
+  {
+   "uid": "U19024",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Space Fortress Naager"
+  },
+  {
+   "uid": "U19025",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Space Fortress Naager"
+  },
+  {
+   "uid": "U19026",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Space Fortress Naager"
+  },
+  {
+   "uid": "U19027",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Space Fortress Naager"
+  },
+  {
+   "uid": "U19028",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bemular"
+  },
+  {
+   "uid": "U19029",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bemular"
+  },
+  {
+   "uid": "U19030",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bemular"
+  },
+  {
+   "uid": "U19031",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Baltan"
+  },
+  {
+   "uid": "U19032",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Baltan"
+  },
+  {
+   "uid": "U19033",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Baltan"
+  },
+  {
+   "uid": "U19034",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Baltan"
+  },
+  {
+   "uid": "U19035",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Baltan"
+  },
+  {
+   "uid": "U19036",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red King"
+  },
+  {
+   "uid": "U19037",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red King"
+  },
+  {
+   "uid": "U19038",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red King"
+  },
+  {
+   "uid": "U19039",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red King"
+  },
+  {
+   "uid": "U19040",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red King"
+  },
+  {
+   "uid": "U19041",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red King"
+  },
+  {
+   "uid": "U19042",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red King"
+  },
+  {
+   "uid": "U19043",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red King"
+  },
+  {
+   "uid": "U19044",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Baltan II"
+  },
+  {
+   "uid": "U19045",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Baltan II"
+  },
+  {
+   "uid": "U19046",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Baltan II"
+  },
+  {
+   "uid": "U19047",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Baltan II"
+  },
+  {
+   "uid": "U19048",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Baltan II"
+  },
+  {
+   "uid": "U19049",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Baltan II"
+  },
+  {
+   "uid": "U19050",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dodongo"
+  },
+  {
+   "uid": "U19051",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dodongo"
+  },
+  {
+   "uid": "U19052",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dodongo"
+  },
+  {
+   "uid": "U19053",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dodongo"
+  },
+  {
+   "uid": "U19054",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dodongo"
+  },
+  {
+   "uid": "U19055",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dodongo"
+  },
+  {
+   "uid": "U19056",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dodongo"
+  },
+  {
+   "uid": "U19057",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Dodongo"
+  },
+  {
+   "uid": "U19058",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U19059",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U19060",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U19061",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U19062",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U19063",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U19064",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U19065",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U19066",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U19067",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraman"
+  },
+  {
+   "uid": "U19068",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraman"
+  },
+  {
+   "uid": "U19069",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraman"
+  },
+  {
+   "uid": "U19070",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraman"
+  },
+  {
+   "uid": "U19071",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraman"
+  },
+  {
+   "uid": "U19072",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraman"
+  },
+  {
+   "uid": "U19073",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraman"
+  },
+  {
+   "uid": "U19074",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraman"
+  }
+ ]
+}

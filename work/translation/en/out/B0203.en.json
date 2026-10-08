@@ -1,0 +1,359 @@
+{
+ "batch": "B0203",
+ "rows": [
+  {
+   "uid": "U16184",
+   "en": "Wh-What!? Am I going to lose!?"
+  },
+  {
+   "uid": "U16185",
+   "en": "Here I come!"
+  },
+  {
+   "uid": "U16186",
+   "en": "I'll show you what I can do!"
+  },
+  {
+   "uid": "U16188",
+   "en": "Heh heh heh…"
+  },
+  {
+   "uid": "U16189",
+   "en": "An attack like that won't leave a single scratch on Fusion Steel!"
+  },
+  {
+   "uid": "U16190",
+   "en": "Ngh…! This is nothing, I can still go on!!"
+  },
+  {
+   "uid": "U16191",
+   "en": "The Fusion Steel…? Don't tell me it's reached its limit!?"
+  },
+  {
+   "uid": "U16192",
+   "en": "Nuoooooh!! M-My power… is fading!?"
+  },
+  {
+   "uid": "U16193",
+   "en": "Here I come!"
+  },
+  {
+   "uid": "U16194",
+   "en": "I'll show you the power of Fusion Steel!"
+  },
+  {
+   "uid": "U16195",
+   "en": "D-Field, deploy!!"
+  },
+  {
+   "uid": "U16196",
+   "en": "Draw!!"
+  },
+  {
+   "uid": "U16197",
+   "en": "…!"
+  },
+  {
+   "uid": "U16198",
+   "en": "Come forth, steel blade! Ultrasonic Blade!!"
+  },
+  {
+   "uid": "U16199",
+   "en": "One clean cut!!"
+  },
+  {
+   "uid": "U16200",
+   "en": "Target locked!"
+  },
+  {
+   "uid": "U16201",
+   "en": "Twin Linear Gun!!"
+  },
+  {
+   "uid": "U16202",
+   "en": "Take this! Maser Bits!!"
+  },
+  {
+   "uid": "U16203",
+   "en": "Eat this! Bullets of gravitons!!"
+  },
+  {
+   "uid": "U16204",
+   "en": "Gravity Phantom!!"
+  },
+  {
+   "uid": "U16205",
+   "en": "One-hit kill!!"
+  },
+  {
+   "uid": "U16206",
+   "en": "Here I come! Nuoooooh!!"
+  },
+  {
+   "uid": "U16207",
+   "en": "Look out…!"
+  },
+  {
+   "uid": "U16208",
+   "en": "Ugh…! But I'm okay!"
+  },
+  {
+   "uid": "U16209",
+   "en": "Kyaah…!!"
+  },
+  {
+   "uid": "U16210",
+   "en": "Uuugh…! This is getting dangerous!"
+  },
+  {
+   "uid": "U16211",
+   "en": "Kyaaaaah…"
+  },
+  {
+   "uid": "U16212",
+   "en": "Attacking!"
+  },
+  {
+   "uid": "U16213",
+   "en": "Here I go!"
+  },
+  {
+   "uid": "U16215",
+   "en": "Kyah…!"
+  },
+  {
+   "uid": "U16216",
+   "en": "Look out…!"
+  },
+  {
+   "uid": "U16217",
+   "en": "Ugh…! But I'm okay!"
+  },
+  {
+   "uid": "U16218",
+   "en": "Kyaah…!!"
+  },
+  {
+   "uid": "U16219",
+   "en": "Uuugh…! At this rate my functions will be impaired…!"
+  },
+  {
+   "uid": "U16220",
+   "en": "Fusion Steel, switching to life-support mode…"
+  },
+  {
+   "uid": "U16221",
+   "en": "Weapon selection = \"OK\". Attacking!"
+  },
+  {
+   "uid": "U16222",
+   "en": "Here I go!"
+  },
+  {
+   "uid": "U16223",
+   "en": "D-Field, deploy!"
+  },
+  {
+   "uid": "U16224",
+   "en": "Target locked…!"
+  },
+  {
+   "uid": "U16225",
+   "en": "Destroyer Blast!!"
+  },
+  {
+   "uid": "U16226",
+   "en": "Fifth Shine!!"
+  },
+  {
+   "uid": "U16227",
+   "en": "Like I'd go down to an attack like that!"
+  },
+  {
+   "uid": "U16228",
+   "en": "…Whoa!"
+  },
+  {
+   "uid": "U16229",
+   "en": "Uuugh…!"
+  },
+  {
+   "uid": "U16230",
+   "en": "Ngh! You got me good, huh!?"
+  },
+  {
+   "uid": "U16231",
+   "en": "Ugh!? Th-This is bad…?"
+  },
+  {
+   "uid": "U16232",
+   "en": "Sorry… [HERO4]…! I couldn't protect you…"
+  },
+  {
+   "uid": "U16233",
+   "en": "Here I come! I'll make you pay!"
+  },
+  {
+   "uid": "U16234",
+   "en": "Take this!"
+  },
+  {
+   "uid": "U16235",
+   "en": "Like I'd go down to an attack like that!"
+  },
+  {
+   "uid": "U16236",
+   "en": "Don't underestimate me too much…!"
+  },
+  {
+   "uid": "U16237",
+   "en": "Ngh, an attack like that…!"
+  },
+  {
+   "uid": "U16238",
+   "en": "Ngh! You got me good, huh!?"
+  },
+  {
+   "uid": "U16239",
+   "en": "Ugh!? Th-This is bad…?"
+  },
+  {
+   "uid": "U16240",
+   "en": "Sorry… [HERO4]…! I couldn't protect you…"
+  },
+  {
+   "uid": "U16241",
+   "en": "Here I come! I'll show you the power of Vortex!"
+  },
+  {
+   "uid": "U16242",
+   "en": "Take this!"
+  },
+  {
+   "uid": "U16243",
+   "en": "Nuoooooh…!"
+  },
+  {
+   "uid": "U16244",
+   "en": "Playtime's over!"
+  },
+  {
+   "uid": "U16245",
+   "en": "Volcannon!!"
+  },
+  {
+   "uid": "U16246",
+   "en": "Blade of darkness! Rip them apart!"
+  },
+  {
+   "uid": "U16247",
+   "en": "This ends now!"
+  },
+  {
+   "uid": "U16248",
+   "en": "Vol! I'll give you everything I've got!"
+  },
+  {
+   "uid": "U16249",
+   "en": "Huh…? You were aiming at me?"
+  },
+  {
+   "uid": "U16250",
+   "en": "Huh? Looks like I dodged it…?"
+  },
+  {
+   "uid": "U16251",
+   "en": "Yeah! I'm fine with this…"
+  },
+  {
+   "uid": "U16252",
+   "en": "Whoa whoa whoa! Hey, what are you doing!?"
+  },
+  {
+   "uid": "U16253",
+   "en": "Kyaah! Th-That's so mean!"
+  },
+  {
+   "uid": "U16254",
+   "en": "No way…!? Looks like… I'm done for…?"
+  },
+  {
+   "uid": "U16255",
+   "en": "Hyah…!"
+  },
+  {
+   "uid": "U16256",
+   "en": "Yah…!"
+  },
+  {
+   "uid": "U16257",
+   "en": "Huh…? You were aiming at me?"
+  },
+  {
+   "uid": "U16258",
+   "en": "Huh? Looks like I dodged it…?"
+  },
+  {
+   "uid": "U16259",
+   "en": "Yeah! I'm fine with this…"
+  },
+  {
+   "uid": "U16260",
+   "en": "Whoa whoa whoa! Hey, what are you doing!?"
+  },
+  {
+   "uid": "U16261",
+   "en": "Kyaah! Th-That's so mean!"
+  },
+  {
+   "uid": "U16262",
+   "en": "No way…!? Looks like… I'm done for…?"
+  },
+  {
+   "uid": "U16263",
+   "en": "Hyah…!"
+  },
+  {
+   "uid": "U16264",
+   "en": "Yah…!"
+  },
+  {
+   "uid": "U16265",
+   "en": "It's Velslicer!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U16203: 喰れ read as 喰らえ ('Eat this!')",
+   "U16199: 一刀西断 read as 一刀両断, rendered 'One clean cut!!'",
+   "U16255-U16256: speaker shown as '[HERO3] [HERO4]' (full heroine name)"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "[HERO2]/[HERO4]",
+    "why": "speaker_en null; player placeholders"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U16189",
+    "likely": "融機鋼"
+   },
+   {
+    "uid": "U16199",
+    "likely": "一刀両断"
+   },
+   {
+    "uid": "U16203",
+    "likely": "喰らえ"
+   },
+   {
+    "uid": "U16210",
+    "likely": "状態"
+   }
+  ]
+ }
+}

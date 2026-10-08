@@ -1,0 +1,487 @@
+{
+ "batch": "B0103",
+ "prev": "B0102",
+ "next": "B0104",
+ "rows": [
+  {
+   "uid": "U08179",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08180",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08181",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U08182",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08183",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08184",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08185",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08186",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08187",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08188",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08189",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U08190",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08191",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U08192",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08193",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08194",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08195",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08196",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08197",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U08198",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08199",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08200",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U08201",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08202",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08203",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08204",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08205",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08206",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08207",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U08208",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08209",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U08210",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U08211",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U08212",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U08213",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08214",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U08215",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U08216",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08217",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U08218",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U08219",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U08220",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08221",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U08222",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U08223",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08224",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U08225",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U08226",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U08227",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U08228",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U08229",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U08230",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U08231",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U08232",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U08233",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08234",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider 01"
+  },
+  {
+   "uid": "U08235",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U08236",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U08237",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U08238",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U08239",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U08240",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U08241",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U08242",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U08243",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U08244",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U08245",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U08246",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U08247",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U08248",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U08249",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U08250",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U08251",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08252",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08253",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U08254",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U08255",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U08256",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U08257",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U08258",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  }
+ ]
+}

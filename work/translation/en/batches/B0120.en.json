@@ -1,0 +1,487 @@
+{
+ "batch": "B0120",
+ "prev": "B0119",
+ "next": "B0121",
+ "rows": [
+  {
+   "uid": "U09539",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U09540",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U09541",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U09542",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U09543",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U09544",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U09545",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U09546",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Combatant"
+  },
+  {
+   "uid": "U09547",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U09548",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U09549",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Colonel Zol"
+  },
+  {
+   "uid": "U09550",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U09551",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U09552",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U09553",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U09554",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U09555",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Black"
+  },
+  {
+   "uid": "U09556",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U09557",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U09558",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Death"
+  },
+  {
+   "uid": "U09559",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09560",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09561",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U09562",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U09563",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U09564",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U09565",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U09566",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09567",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09568",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U09569",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U09570",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09571",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U09572",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09573",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09574",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U09575",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U09576",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U09577",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U09578",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U09579",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U09580",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U09581",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U09582",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U09583",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U09584",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U09585",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Bishium"
+  },
+  {
+   "uid": "U09586",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U09587",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Bishium"
+  },
+  {
+   "uid": "U09588",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U09589",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U09590",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U09591",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Bishium"
+  },
+  {
+   "uid": "U09592",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U09593",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09594",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U09595",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Bishium"
+  },
+  {
+   "uid": "U09596",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U09597",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U09598",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U09599",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09600",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U09601",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider 01"
+  },
+  {
+   "uid": "U09602",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider 01"
+  },
+  {
+   "uid": "U09603",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09604",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09605",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09606",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U09607",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09608",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U09609",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09610",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09611",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09612",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09613",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U09614",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U09615",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U09616",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U09617",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U09618",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  }
+ ]
+}

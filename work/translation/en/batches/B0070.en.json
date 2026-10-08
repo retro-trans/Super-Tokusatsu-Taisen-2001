@@ -1,0 +1,487 @@
+{
+ "batch": "B0070",
+ "prev": "B0069",
+ "next": "B0071",
+ "rows": [
+  {
+   "uid": "U05534",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05535",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05536",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05537",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05538",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05539",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05540",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05541",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05542",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05543",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05544",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05545",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05546",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05547",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U05548",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05549",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U05550",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U05551",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U05552",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U05553",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U05554",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U05555",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U05556",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U05557",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U05558",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U05559",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Great Emperor Kubilai"
+  },
+  {
+   "uid": "U05560",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Priest Poe"
+  },
+  {
+   "uid": "U05561",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U05562",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U05563",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U05564",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U05565",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U05566",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Shaider"
+  },
+  {
+   "uid": "U05567",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U05568",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Shaider"
+  },
+  {
+   "uid": "U05569",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05570",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05571",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U05572",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U05573",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05574",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U05575",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U05576",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U05577",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U05578",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U05579",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U05580",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U05581",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U05582",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U05583",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U05584",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U05585",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U05586",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U05587",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U05588",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05589",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05590",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U05591",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05592",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05593",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05594",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05595",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05596",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05597",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05598",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05599",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05600",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05601",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05602",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Billy"
+  },
+  {
+   "uid": "U05603",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05604",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05605",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U05606",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05607",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05608",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05609",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05610",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05611",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05612",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U05613",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  }
+ ]
+}

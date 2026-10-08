@@ -1,0 +1,487 @@
+{
+ "batch": "B0106",
+ "prev": "B0105",
+ "next": "B0107",
+ "rows": [
+  {
+   "uid": "U08419",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U08420",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Bishium"
+  },
+  {
+   "uid": "U08421",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U08422",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U08423",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U08424",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U08425",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08426",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U08427",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08428",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U08429",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08430",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U08431",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08432",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08433",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08434",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08435",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08436",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08437",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08438",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08439",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08440",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08441",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08442",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08443",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08444",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08445",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08446",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08447",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08448",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08449",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rhino Monster"
+  },
+  {
+   "uid": "U08450",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08451",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08452",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U08453",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08454",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U08455",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08456",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U08457",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08458",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08459",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U08460",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08461",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08462",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08463",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08464",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U08465",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08466",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U08467",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08468",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08469",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08470",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Bishium"
+  },
+  {
+   "uid": "U08471",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08472",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U08473",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08474",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U08475",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08476",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U08477",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08478",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U08479",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08480",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08481",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08482",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U08483",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08484",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U08485",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hostage Woman"
+  },
+  {
+   "uid": "U08486",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Policeman"
+  },
+  {
+   "uid": "U08487",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Man Holding the King's Sword"
+  },
+  {
+   "uid": "U08488",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Policeman"
+  },
+  {
+   "uid": "U08489",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08490",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Man Holding the King's Sword"
+  },
+  {
+   "uid": "U08491",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hostage Woman"
+  },
+  {
+   "uid": "U08492",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Policeman"
+  },
+  {
+   "uid": "U08493",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Man Who Held the King's Sword"
+  },
+  {
+   "uid": "U08494",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Policeman"
+  },
+  {
+   "uid": "U08495",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Man Who Held the King's Sword"
+  },
+  {
+   "uid": "U08496",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Policeman Holding the King's Sword"
+  },
+  {
+   "uid": "U08497",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08498",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Policeman Holding the King's Sword"
+  }
+ ]
+}

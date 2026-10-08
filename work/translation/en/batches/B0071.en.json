@@ -1,0 +1,487 @@
+{
+ "batch": "B0071",
+ "prev": "B0070",
+ "next": "B0072",
+ "rows": [
+  {
+   "uid": "U05614",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U05615",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05616",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U05617",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05618",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05619",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05620",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05621",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05622",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05623",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05624",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05625",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05626",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05627",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05628",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05629",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05630",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05631",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05632",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05633",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05634",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05635",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05636",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05637",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05638",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05639",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05640",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05641",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05642",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05643",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05644",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05645",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05646",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05647",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05648",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05649",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05650",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05651",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05652",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05653",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05654",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05655",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05656",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05657",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05658",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "EATER"
+  },
+  {
+   "uid": "U05659",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05660",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05661",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05662",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05663",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05664",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05665",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05666",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05667",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05668",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05669",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05670",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05671",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05672",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U05673",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05674",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U05675",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05676",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U05677",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05678",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U05679",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U05680",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05681",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05682",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U05683",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U05684",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05685",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U05686",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05687",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U05688",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05689",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U05690",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05691",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U05692",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05693",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

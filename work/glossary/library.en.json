@@ -1,0 +1,1798 @@
+[
+ {
+  "en": "007",
+  "desc_en": "A liaison for EAGLE and the right hand of Commander Edogawa. She usually poses as a waitress at Snack Gon."
+ },
+ {
+  "en": "Type 01 Twin Beam Gun",
+  "desc_en": "An anti-kaiju, anti-robot beam weapon developed by the full might of the Defense Force's scientists. It burns its target with the thermal effect of a neutral particle beam. The twin turrets aim at the same target and fire alternately in bursts, which also allows mechanical destruction. Besides the main guns, it carries beam guns for anti-air fire. A weapon that can only be developed once Dr. Kuroda joins."
+ },
+ {
+  "en": "Type 75 SP Howitzer",
+  "desc_en": "A self-propelled howitzer operated by the Defense Force ground troops. Length 10.7 m, top speed 54 km/h. Armed with a 203mm howitzer with automatic feeding and loading. Upgraded by Dr. Sahara, after which it can be mass-produced."
+ },
+ {
+  "en": "Type 87 AA Gun",
+  "desc_en": "Belongs to the Defense Force ground troops. Armed with two 35mm anti-aircraft cannons, it mainly provides air-defense cover. Length 7.99 m, top speed 53 km/h. The cannons can be elevated and turned to ground attack as well. A weapon upgraded once Dr. Kuroda joins, after which it can be mass-produced."
+ },
+ {
+  "en": "Type 89 IFV",
+  "desc_en": "An armored fighting vehicle able to transport troops. Length 6.8 m, top speed 70 km/h. Armed with a 35mm cannon, a 7.62mm machine gun and anti-tank guided missiles. Upgraded by Dr. Sahara, after which it can be mass-produced. It can carry four S-size units and transport them quickly to their destination."
+ },
+ {
+  "en": "Type 90 Tank",
+  "desc_en": "The main battle tank of the Defense Force ground troops. Length 9.8 m, top speed 70 km/h. Armed with a 120mm smoothbore gun, a 12.7mm M2 heavy machine gun and more. Modified by Dr. Namikawa to fire special anti-kaiju shells, after which it can be mass-produced."
+ },
+ {
+  "en": "AH-1S Attack Heli",
+  "desc_en": "An attack helicopter operated by the Defense Force ground troops. It carries both ground-attack and anti-air weapons. Length 16.16 m. Engine type T53-K-703. Top speed 315 km/h. Upgraded once Dr. Tsuchida joins, after which it can be mass-produced."
+ },
+ {
+  "en": "BF Chief",
+  "desc_en": "A subordinate of Spider, the first head of BF's Japan branch. He directly commands the BF members in the field. Since he commands BF members who start a game of poker at the slightest excuse, his worries may never end."
+ },
+ {
+  "en": "CH-47J Transport Heli",
+  "desc_en": "An all-weather tandem-rotor transport helicopter. It boasts flexible operation in all kinds of environments and high survivability in combat, and can carry up to 55 personnel. Length 30.18 m, cruising speed 250 km/h. In the game it can transport four S-size units."
+ },
+ {
+  "en": "F-15J Kai",
+  "desc_en": "A high-mobility interceptor used by the Defense Force as the successor to the F-15J. Canards on the front of the fuselage allow advanced maneuvering combat. Crew of 2, length 19.4 m, top speed Mach 2. Armed with a 20mm cannon, missiles and bombs. Strengthened beyond the standard model by Dr. Tsuchida, it can be mass-produced once he joins."
+ },
+ {
+  "en": "F-2",
+  "desc_en": "The next-generation support fighter, intended to repel airspace intruders and support ground and sea forces. A newly deployed aircraft whose mobility and stability surpass the American F-16C it was based on. Length 15.52 m, top speed Mach 2. Armed with cannons, missiles and more. Upgraded by Dr. Namikawa, after which it can be mass-produced."
+ },
+ {
+  "en": "GR2",
+  "desc_en": "Developed by BF, its official name is Giant Robo No. 2. It attacks by launching its horns and hands, can even launch its own head, and fires laser beams from its eyes. Its power equals Robo's, but its performance is somewhat inferior."
+ },
+ {
+  "en": "NAAGER",
+  "desc_en": "A giant space exploration ship built on the far side of the Moon by Kiichi Sakomizu, former Director of SIDO, who had long loudly warned SIDO and the TDF about threats from outer space. Some say it carried enough weaponry to call it a fortress ship. Kiichi Sakomizu himself took command and attempted the closest approach to Number Ten, but communications broke off there and the ship went missing. This accident was covered up by the TDF, and few know the truth."
+ },
+ {
+  "en": "VOL",
+  "desc_en": "When Number Ten appeared at the outer edge of the solar system and Earth's scientists were in an uproar, Dr. Hinata, a former TDF science staff member, suggested that Number Ten itself might be a life form, and gave this provisional name to its cells. VOL is short for \"Vagarious Outer Life\", meaning something like \"wandering life from outer space\". It is said to be a hypothesis based on reports from Ryoma and Ryoko Sakomizu, who were aboard the NAAGER, but the truth is unclear. Because the doctor submitted this hypothesis, he was driven out of the TDF. There are signs that Dr. Hinata continued basic research on these cells after leaving, and that, to prove his hypothesis using a sample found at Nojimazaki, he knowingly carried out forbidden and dangerous clinical trials on his own laboratory staff. VOL is a type of archaebacterial cell that cannot reproduce on its own and lives as a parasite in a host. Once it begins to multiply, it rapidly assimilates the host's eukaryotic cells and replaces them. Higher organisms assimilated by the Vol whose bodies have transformed are called EATERs."
+ },
+ {
+  "en": "Iron Rocks",
+  "desc_en": "A battleship robot built by the Mimi Aliens from the scrap iron of warships sleeping on the seabed. It bombards with many cannons and stops enemies with giant handcuffs. It is set to self-destruct 15 minutes after shutting down. Length 80 m, weight 1,500 t. In the game, destroying it yields a lot of Materials."
+ },
+ {
+  "en": "Aorenger",
+  "desc_en": "One of the five warriors of the International Secret Defense Organization EAGLE's Japan branch. Akira Shinmei transforms into him. His weapons include the Blue Cherry and the Ultra Blue Cherry. He also handles piloting the mecha."
+ },
+ {
+  "en": "Akarenger",
+  "desc_en": "One of the five warriors of the International Secret Defense Organization EAGLE's Japan branch, and the leader of Gorenger. Tsuyoshi Kaijo transforms into him. His weapons include the Red Bute, a whip that can change into many forms, and the Silver Shot tranquilizer gun."
+ },
+ {
+  "en": "Soichiro Akizuki",
+  "desc_en": "An archaeologist. Nobuhiko Akizuki's real father and Kotaro Minami's foster father. He was actually a member of the dark society Gorgom and handed the two over to Gorgom as Century Kings, but on learning their memories would be erased, he tried to save them at the last moment."
+ },
+ {
+  "en": "Nobuhiko Akizuki",
+  "desc_en": "Kotaro Minami's best friend, kidnapped by Gorgom and remodeled at the same time as him. He transforms into Shadow Moon and commands Gorgom. He keeps his human memories, but his personality has become cold and cruel."
+ },
+ {
+  "en": "Akira",
+  "desc_en": "Son of Professor Gill and younger brother of Hiroshi. Half of the blueprints for the giant robot Giant Devil are recorded on his back, and Shadow relentlessly hunts him for that secret. The blueprints on his back appear when light reflects off it. Worn down by life on the run, he once tearfully pleaded with Jiro."
+ },
+ {
+  "en": "Agira",
+  "desc_en": "One of the three Capsule Monsters owned by Dan Moroboshi. Smart and agile, it excels at attacking with its horn. It comes from the Animal Planet."
+ },
+ {
+  "en": "Acrobatter",
+  "desc_en": "A light-mobile life form reborn and evolved from the Battle Hopper by the sun's life energy. It has a will of its own and boasts a top speed of 750 km/h. It can also transform into the Roboizer and the Mackjaber to match RX's forms. Its Acrobat Burn, a body slam at top speed, is devastating."
+ },
+ {
+  "en": "Kenji Asuka",
+  "desc_en": "The sole survivor of EAGLE's Kansai branch, which was wiped out by Poison Gas Mask. He is the youngest member, but he can talk with animals. He transforms into Midorenger."
+ },
+ {
+  "en": "Atefarina",
+  "desc_en": "Fusion Steel Shell Type S: Atefarina. The Fusion Steel shell exclusive to Atefarina the Battle Princess. Type S is a speed-focused specification, and the ion craft at its waist gives it astonishing speed. Incidentally, Ryoko's personality seems to change completely when she dons the Fusion Steel shell. Weapons include the Plasma Web."
+ },
+ {
+  "en": "Annie",
+  "desc_en": "A female Space Sheriff and Shaider's partner, from the 16th squad of the training academy. Her home planet, Mount in the Great Orion Nebula M47, was destroyed by Fuuma. An expert with the Birdnia Blaster, and good at disguises too."
+ },
+ {
+  "en": "Apfaron",
+  "desc_en": "Fusion Steel Shell Type H: Apfaron. The Fusion Steel shell exclusive to Apfaron the Evil Scholar. A Type H specification built for \"mass slaughter: holocaust\", it has plants inside its body that produce every kind of poison, and can turn an Earth-sized planet into a dead world in a week. It also has excellent search and scanning functions, and instantly finds out an opponent's weak points. Its weapons are the Acid Needle and Acid Mist."
+ },
+ {
+  "en": "Amagi",
+  "desc_en": "Good with numbers, he is an authority on electronic computers and a skilled planner. He is a little timid, but extremely gentle by nature. His hobby is photography. He is from Nagoya."
+ },
+ {
+  "en": "Amamoto",
+  "desc_en": "A UCMA unit member. Excels at indirect attacks."
+ },
+ {
+  "en": "Suspicious Man",
+  "desc_en": "A mysterious man who transformed into a white balloon and kept watch on Den Iga wherever he went. He is really Psycholer in human form, also called the Cultivator."
+ },
+ {
+  "en": "Makoto Arai",
+  "desc_en": "A secret agent of Interpol. He warned Goro Watari about the threat of the Desper Army and fights alongside him. In fact his body has been turned into a cyborg, and his wife and child are held captive in Desper City."
+ },
+ {
+  "en": "Dr. Araki",
+  "desc_en": "A scientist who designed an auxiliary circuit with almost the same performance as the Conscience Circuit developed by Dr. Komyoji. Targeted by Dark for his secret, he hid it in the red shoes of his daughter Taeko. In the game he later joins the TDF science group and handles development of the \"Zone Canceller\" and \"Hyper Maneuver L\"."
+ },
+ {
+  "en": "Arashi",
+  "desc_en": "A tough guy and expert marksman who easily handles the 3 kg Spider Shot. He has a strong sense of responsibility and is brave and daring. His real name is Daisuke Arashi. In the game he is the only one who can use the Spider Shot."
+ },
+ {
+  "en": "Aron",
+  "desc_en": "A strongman kaiju. A decoy that the Alien Guts made fight in order to study Ultraseven's abilities and weaknesses. It has a long tail and giant wings, but no particular attack abilities. Height 45 m, weight 13,000 t."
+ },
+ {
+  "en": "Ando",
+  "desc_en": "A UCMA unit member. Especially strong in direct attacks."
+ },
+ {
+  "en": "Androidman",
+  "desc_en": "Dark's combat machine soldiers. Armed with naginata, they attack in groups. They operate behind the scenes in cars with \"He-9999\" plates."
+ },
+ {
+  "en": "Ika-Devil",
+  "desc_en": "The form Doctor Death himself transformed into. He tried to drop meteorites onto Earth with the control device on his head. He can also seal away the Rider Kick with his \"Kick Killer\". His weapons are the freely extending whips on both hands."
+ },
+ {
+  "en": "Den Iga",
+  "desc_en": "A former forest patrol member. Gravely wounded in an attack by Makuu, he was saved by Gavan and resolved to fight the evil of space. After finishing his training, he becomes the second Space Sheriff, Sharivan, and fights the space crime syndicate Madou. He is actually a descendant of the destroyed Planet Iga."
+ },
+ {
+  "en": "Retsu Ichijouji",
+  "desc_en": "From Planet Bird. Born to the Space Sheriff Voicer and an Earth mother, Tamiko Ichijouji. He equips the Combat Suit with \"Johchaku\", becomes Space Sheriff Gavan, and fights the space crime organization Makuu. He searches for his father Voicer, who disappeared after being betrayed by a comrade."
+ },
+ {
+  "en": "Hayato Ichimonji",
+  "desc_en": "A freelance photographer with a 6th-dan in judo and a 5th-dan in karate. Shocker remodeled him to fight Rider No. 1, but No. 1 rescued him before his brain was altered, and they began fighting Shocker together."
+ },
+ {
+  "en": "Ichiro",
+  "desc_en": "An android Dr. Komyoji completed before Kikaider. He rides the Double Machine and appears to the sound of a white trumpet."
+ },
+ {
+  "en": "Itsutsu Banbara",
+  "desc_en": "The first Mutant Robo of the Phantom Army. It has five faces and burns down towns with \"Fire Pillar\", spewing red and blue flames. It also has abilities such as \"Fissure Quake\", which causes a magnitude-6 earthquake."
+ },
+ {
+  "en": "Ide",
+  "desc_en": "A genius inventing maniac who developed most of the Science Patrol's weapons, such as the kaiju translator, the Mars 133 and the QX Gun. He is also the Science Patrol's joker. His real name is Mitsuhiro Ide."
+ },
+ {
+  "en": "Inazuman",
+  "desc_en": ""
+ },
+ {
+  "en": "Inazuman Flash",
+  "desc_en": "Inazuman with new power gained from the \"Zeber\", made by fusing his own eyes and antennae, in order to fight the new enemy, the Desper Army. The Zeber can also be used as a weapon, and the time needed to transform with \"Choriki, Shorai\" is shortened."
+ },
+ {
+  "en": "Dr. Iwamoto",
+  "desc_en": "A scientist who cooperates with the Science Patrol. A calm man of fine character who developed the Jet VTOL and the hydrogenate rocket engine. When he joins the TDF science group, the \"Barrier Machine S\" and \"Soul Tab\" become available for development in the game."
+ },
+ {
+  "en": "Valkyria",
+  "desc_en": "The EATER manifested by the Vol that assimilated Kaori Minoshima. It has wings and toys with enemies through swift movement. It can control air pressure at will and has techniques using wind and lightning. Its special attacks include Valstream and Valjavelin."
+ },
+ {
+  "en": "Windom",
+  "desc_en": "One of the three Capsule Monsters owned by Dan Moroboshi. It fires a powerful beam from its forehead. Possessor of great strength. It comes from the Metal Planet."
+ },
+ {
+  "en": "Woo",
+  "desc_en": "A legendary kaiju that appeared on Mount Iida. It always appears when the girl called Yukinko is persecuted by villagers, and is said to be the reincarnation of Yukinko's late mother. Covered in pure white fur, its true nature is unknown. Height 40 m, weight 0 t."
+ },
+ {
+  "en": "Ippei Ueno",
+  "desc_en": "Ippei Ueno. A member of MAT. A comical fellow who tends to jump to conclusions and is into astrology. Though all alone in the world, he gets along best with Go."
+ },
+ {
+  "en": "Communications Officer Ueno",
+  "desc_en": "Handles communications for the Ultra Garrison. He is the first to catch mysterious signals and radio waves from space."
+ },
+ {
+  "en": "Velvet",
+  "desc_en": "The form in which the Bio heroine's Vol manifested when her childhood friend, the Bio hero, faced danger before her eyes. Her weapons include the Velslicer, which attacks by turning the protrusions on her head into blades. She has the Velvet Circle, an application of her hobby of black magic, as a map weapon."
+ },
+ {
+  "en": "Velvet Fury",
+  "desc_en": "The monstrous form that resulted when the Vol infecting Atefarina forcibly fused with Velvet, the Bio heroine's EATER. Some of Ryoko Sakomizu's lingering thoughts also remain. It is a perfect organism fusing three things: the Bio heroine's human eukaryotic cells, Velvet's archaebacterial cells and the prokaryotic cells of Atefarina's Fusion Steel, but in terms of assimilation it is still incomplete."
+ },
+ {
+  "en": "Velvet Reverse",
+  "desc_en": "The second stage of Velvet Fury's assimilation. The first stage, Velvet Fury, was a creature, but thanks to Ryoko Sakomizu's lingering thoughts and the Bio heroine's mental stability, she regained Velvet's original form and personality. The only example of an ideal fusion of eukaryotic, archaebacterial and prokaryotic cells. In a sense, this is a kind of miracle."
+ },
+ {
+  "en": "Vortex",
+  "desc_en": "The form in which the Bio hero's Vol manifested. His special attacks include the Volblade, which cuts down enemies by reshaping part of his own body, and the Volcannon, a kind of bio-oscillation laser."
+ },
+ {
+  "en": "Volhazard",
+  "desc_en": "The EATER manifested by the Vol that assimilated Tatsuya Todo. It has a huge body with enormous heat energy and excels at flame-based attacks. Ferocious by nature and recklessly charging. Its special attacks include Volflame and Volripper."
+ },
+ {
+  "en": "Volfeed",
+  "desc_en": "The EATER manifested by the Vol cells that assimilated Satoru Hinata. Of all the EATERs it has the strongest urge to assimilate, and is greedy. To survive, it devours the Gigants, the Fusion Steel combat droids. Its weapons include Volsplash and Volcoleda."
+ },
+ {
+  "en": "Ushio",
+  "desc_en": "A UCMA unit member. Boasts remarkable evasion."
+ },
+ {
+  "en": "Space Sheriff Gavan",
+  "desc_en": "A Space Sheriff dispatched by the Galactic Union Police to stop the space crime organization Makuu's invasion of Earth. With the call \"Johchaku\", Retsu Ichijouji dons the Combat Suit in just 0.05 seconds. His special attack is the Gavan Dynamic."
+ },
+ {
+  "en": "Space Sheriff Shaider",
+  "desc_en": "Dispatched as the third Space Sheriff assigned to Earth. With the call \"Shoketsu\", Dai Sawamura dons the Combat Suit in just 1 millisecond. His weapons are the Video Beam Gun and Laser Blade. His special attack is the Shaider Blue Flash."
+ },
+ {
+  "en": "Space Sheriff Sharivan",
+  "desc_en": "The second Space Sheriff dispatched by the Galactic Union Police. With the call \"Sekisha\", Den Iga dons his Solar Metal battle suit in just 1 millisecond. He boasts a jumping power of 300 m and a running speed of 50 m per second. His special attack is the Sharivan Crash."
+ },
+ {
+  "en": "Space Jet VTOL",
+  "desc_en": "A Jet VTOL fitted with a space booster, the \"hydrogenate rocket engine\", allowing it to operate in outer space. Designed by Dr. Iwamoto. In the game, the Space Jet VTOL itself is newly built."
+ },
+ {
+  "en": "Udesper",
+  "desc_en": "A Desper cyborg who could be called the right-hand man of Fuhrer Geisel of the Desper Army. By removing his arms, he can attach claws, machine guns and more."
+ },
+ {
+  "en": "Udesper Alpha",
+  "desc_en": "One of the brother staff officers made from the remains of Udesper after he was defeated by Inazuman. Proud of his strength, he overpowers opponents with brute force, but he is short-tempered and not very bright. His combined technique with Beta, the Cross Hurricane, is tremendously powerful."
+ },
+ {
+  "en": "Udesper Beta",
+  "desc_en": "One of the brother staff officers made from the remains of Udesper after he was defeated by Inazuman. He is clever and draws up many plans, but Alpha often holds him back. His combined technique with Alpha, the Cross Hurricane, is tremendously powerful."
+ },
+ {
+  "en": "Umiumi",
+  "desc_en": "Excels at moving underwater. In the original show, it kidnapped beautiful girls and tried to turn them into mermaids to wait on Kubilai in his \"dream paradise\"."
+ },
+ {
+  "en": "Ultraseven",
+  "desc_en": "Fixed-star Observer No. 340 from the M78 Nebula. He takes the form of Jiro Satsuma, a young man who tried to give his life for a friend, calls himself Dan Moroboshi and fights the alien invaders and kaiju attacking Earth. He transforms with the Ultra Eye. In the game, after 7 turns his energy drains by 80 each turn."
+ },
+ {
+  "en": "Ultra Hawk 1",
+  "desc_en": "The Ultra Garrison's proud large fighter. It separates into three craft, Alpha, Beta and Gamma, for joint operations. Length 42 m, top speed Mach 4. It can also operate in outer space and is armed with laser cannons and missiles. In the game, Alpha, Beta and Gamma sortie separately and can combine on the map. None of them can carry units."
+ },
+ {
+  "en": "Ultra Hawk 2",
+  "desc_en": "The Ultra Garrison's combat spacecraft. It uses jets inside the atmosphere and nuclear-powered ion rockets in space. Length 64 m, top speed Mach 5. The laser cannon in its nose is its main weapon. In the game it can carry one person besides the pilot."
+ },
+ {
+  "en": "Ultra Hawk 3",
+  "desc_en": "The Ultra Garrison's small jet reconnaissance craft. Its uses are many, such as transporting the Magma Riser. The rocket launchers on both sides of the fuselage are its main weapons. Length 19.5 m, top speed Mach 3.5. In the game it can carry one person besides the pilot."
+ },
+ {
+  "en": "Ultraman",
+  "desc_en": "When he flew to Earth chasing Bemular, he collided with the Science Patrol's VTOL, became one with Hayata and decided to stay and fight on Earth. He transforms with the Beta Capsule, but on Earth he loses energy rapidly and can only fight for 3 minutes. His special attacks include the Specium Ray and the Ultra Slash. In the game, after 3 turns he enters Color Timer mode and his ener gy drains by 80 each turn."
+ },
+ {
+  "en": "Commander Gonpachi Edogawa",
+  "desc_en": "The top official of EAGLE's Japan Block and Gorenger's commander. He usually poses as the master of Snack Gon."
+ },
+ {
+  "en": "Eleking",
+  "desc_en": "A space kaiju controlled by the Alien Pitt. The antennae on its head are always spinning. It wraps its long tail around opponents and shocks them with several hundred volts. It also fires a destruction ray from its mouth. Height 53 m, weight 25,000 t."
+ },
+ {
+  "en": "Golden Wolf",
+  "desc_en": "A monster with a golden mane, the form Colonel Zol himself transformed into. He fires missiles from his fingers, and his fangs carry the wolf virus. His body is so hard that it bounces back an ordinary punch."
+ },
+ {
+  "en": "Daita Oiwa",
+  "desc_en": "The survivor of EAGLE's Kyushu branch, which was destroyed in an attack by Bronze Mask. He transforms into Kirenger. Good with codes, he carries a YTC radio. Curry is his favorite food."
+ },
+ {
+  "en": "Dr. Otaguro",
+  "desc_en": "Developer of \"X-Alpha Fluid\", a drug that revives dead creatures and brings them back to life. Shocker targeted his research materials and took his assistant hostage. He later joins the TDF science group, making the \"Reload Magazine L\" and \"EN Repair Kit L\" available for development."
+ },
+ {
+  "en": "Omura",
+  "desc_en": "A UCMA unit member. A rookie only recently assigned. Has lots of room to grow."
+ },
+ {
+  "en": "Yuriko Oka",
+  "desc_en": "Yuriko Oka. The only woman in MAT. Communications is her main job, but she sometimes fights kaiju too. She holds a 4th-dan in kendo. She also comes from a well-off family. In the game she has repair abilities."
+ },
+ {
+  "en": "Female Spy",
+  "desc_en": "Udesper's subordinate, known as \"the Hound\". She approached Goro Watari and told Udesper the location of the secret base. She has been turned into a cyborg and was also called No. 8001. When Interpol secret agent Makoto Arai was wounded, she gave him a part of her own body, the \"Diode VS3\", and chose death."
+ },
+ {
+  "en": "Kara",
+  "desc_en": "A female monster born from the golden ray emitted from Shadow Moon's left hand. Together with Mara, she always attends at Shadow Moon's side."
+ },
+ {
+  "en": "Tsuyoshi Kaijo",
+  "desc_en": "The survivor of EAGLE's Kanto branch, which was destroyed in an attack by Golden Mask. He transforms into Akarenger."
+ },
+ {
+  "en": "Fuhrer Geisel",
+  "desc_en": "Leader of the Desper Army, which remodels people with psychic powers into Desper cyborgs and seeks world conquest. He gives orders to his subordinates using chess pieces. A mighty evil psychic, but his right eye is his weak point."
+ },
+ {
+  "en": "Custom Cyclone",
+  "desc_en": "The Cyclone that No. 2 received from Hongo, strengthened and remodeled. Top speed 400 km/h, with power upped to 600 horsepower. It can jump 40 m and climb vertical walls. It can also travel underwater and fires wire rope from its cowling."
+ },
+ {
+  "en": "Kaimen Green",
+  "desc_en": "Its weapon is the \"Kaimen Ball\", where it turns its head into a ball and rolls it into opponents. It has an immortal body that reassembles itself even after being torn apart."
+ },
+ {
+  "en": "General Guiler",
+  "desc_en": "The action commander who directs Madou's operations. He fights swinging his deadly Lightning Sword and is violent by nature. \"Annihilation!\" is his catchphrase. In the original show, after repeated failures, there was a time when he was made into a chair at headquarters."
+ },
+ {
+  "en": "Ultraman Jack",
+  "desc_en": "He became one with Hideki Go, a young man killed in a kaiju attack, and fights kaiju. His time limit while transformed is 3 minutes. He has no transformation device and can transform when Go is truly in mortal danger. He has abilities such as the Specium Ray and the Ultra Barrier. In the game he transforms when HP falls to one third or less. He is later armed and strengthened with the Meteor Kick and the Ultra Bracelet."
+ },
+ {
+  "en": "Flame Fighter",
+  "desc_en": "The form Emperor Banba transformed into. He controls flames at will and emits searing 8,000-degree flames."
+ },
+ {
+  "en": "Shiro Kazami",
+  "desc_en": "A biochemistry graduate student at Jonan University and Hongo's junior. Good at gymnastics, he is called \"the White Panther of the Mat\". Because he helped a witness to Destron, his parents and sister were killed and he was gravely wounded, but Riders No. 1 and No. 2 remodeled him and he became Kamen Rider V3."
+ },
+ {
+  "en": "Combined Udesper",
+  "desc_en": "The form completed by running 2,000 volts through the Udesper brothers and remodeling them into one. Its weapons are the left-hand whip, which can send ten people flying, and the right-hand claws. Even Inazuman struggled against its tremendous 300-horsepower might."
+ },
+ {
+  "en": "Alien Guts",
+  "desc_en": "An alien who can split into copies, which used Aron to study Ultraseven's abilities and tried to assassinate him. It confuses Seven by splitting itself and has high strategic ability. Apparently it has never lost any battle in the past. Height 2-40 m, weight 200 kg-10,000 t."
+ },
+ {
+  "en": "Katsube",
+  "desc_en": "A UCMA unit member. His Skill is outstanding compared with the other members."
+ },
+ {
+  "en": "Mecha Commander Gatezone",
+  "desc_en": "The Mecha Commander leading the Kaima Robot Battalion. An expert gunman who never misses his target. He manages all the machinery inside the Crisis Fortress."
+ },
+ {
+  "en": "Shoichiro Kato",
+  "desc_en": "Shoichiro Kato. Strictness hides beneath his gentle personality. The decisive, action-oriented captain of the kaiju attack team MAT."
+ },
+ {
+  "en": "Science Patrol Car",
+  "desc_en": "The Science Patrol's dedicated ground patrol vehicle. It excels at searching, but carries no offensive weapons. In the game too it has no weapons. It can carry up to two people."
+ },
+ {
+  "en": "Ganikomol",
+  "desc_en": "A crab and bat hybrid monster, the first Gel-Shocker monster. Its weapons are the pincer on its left hand and sharp fangs. It also spits a powder that makes humans vanish."
+ },
+ {
+  "en": "Crab Laser",
+  "desc_en": "The form Doktor G transformed into. The scorpion on its head carries deadly poison, its mouth dissolving fluid, its left hand pincers that cut steel, and the lamp on its forehead a laser that can destroy even tanks. It was powered up by the \"Ritual of the Devil Warrior's Spirit\"."
+ },
+ {
+  "en": "Great King Gamagon",
+  "desc_en": "The great king of another world, whom Den Iga encountered in the future and met again in the present. It shoots out its long tongue, binds enemies and electrocutes them. It is sensitive to light."
+ },
+ {
+  "en": "Kama Doubler",
+  "desc_en": "Excels at continuous attacks using the Chain Sickle, boomerang sickles and more."
+ },
+ {
+  "en": "Kamebazooka",
+  "desc_en": "A bazooka and turtle hybrid monster. The shell on its back is made of special metal and even repels the Double Rider Kick. It has a large bazooka on its back and sniped at the Riders."
+ },
+ {
+  "en": "Kamen Rider 1",
+  "desc_en": "Takeshi Hongo transforms using the wind power caught by the windmill dynamo in his belt. He uses 48 special techniques to defeat Shocker's monsters. He is later remodeled again into a new form. Also known as No. 1, the Rider of Technique. His machine is the Cyclone."
+ },
+ {
+  "en": "Kamen Rider 1 (New)",
+  "desc_en": "Hongo's Rider, powered up after being remodeled again. True to being No. 1, the Rider of Technique, he has a wide variety of techniques. This remodeling added two lines to his body and turned his boots and gloves silver."
+ },
+ {
+  "en": "Kamen Rider 2",
+  "desc_en": "Hayato Ichimonji transforms into him. Because he has even greater strength than No. 1, he is also called No. 2, the Rider of Strength. He is later remodeled again into a new form. His machine is the Cyclone."
+ },
+ {
+  "en": "Kamen Rider 2 (New)",
+  "desc_en": "Ichimonji's Rider, powered up after being remodeled again. True to being No. 2, the Rider of Strength, his power is also enhanced. One line was added to his body, and his boots and gloves turned red."
+ },
+ {
+  "en": "Kamen Rider BLACK",
+  "desc_en": "The form Kotaro Minami transforms into with the power of the King Stone. With a 30 m jump, he stands up to Gorgom with the Rider Kick and Rider Punch. His machines are the Battle Hopper and the Road Sector. Gorgom calls him Black Sun."
+ },
+ {
+  "en": "Kamen Rider BLACK RX",
+  "desc_en": "Captured by the new enemy, the Crisis Empire, and cast out into space, Kotaro Minami's King Stone was baptized by the sun's rays, gained new power and became RX. Jump power 60 m. Activating his hybrid energy draws out even greater power. His special attack is the Revol Crash."
+ },
+ {
+  "en": "Kamen Rider V3",
+  "desc_en": "The third Kamen Rider, into whom Shiro Kazami transforms. He has 26 secrets, including a 60 m jump, the Big Sky Kick, the V3 Barrier and the V3 Hopper, and fights Destron's cyborgs. His machine is the Hurricane."
+ },
+ {
+  "en": "Garagaranda",
+  "desc_en": "The form Ambassador Hell transformed into. He can move freely through sand, and his weapons are the right-hand whip that smashes steel and fangs laced with deadly poison. He tried to throw deadly poison into a reservoir."
+ },
+ {
+  "en": "Calamity",
+  "desc_en": "A robot built by the Republic of Merca, which forcibly demanded the loan of Giant Robo and copied it. It carries an automatic reflection device that repels every attack, and once even blinded Robo. It was stolen by BF's Sparky."
+ },
+ {
+  "en": "Ganger",
+  "desc_en": "A giant flying steel arm. It was after the secrets of the transparent metal QQV and YZ metal. Its grip is so fearsome that it nearly crushed even Giant Robo. In the game it fires missiles from the back of its hand."
+ },
+ {
+  "en": "Gyeron",
+  "desc_en": "A regenerated kaiju that flew to Earth for revenge from Planet Gyeron, which was used as the testing ground for the planet-attack super weapon R1 and destroyed. Mutated by radiation, it has powerful regenerative abilities. It puts its hands together to emit a ring-shaped ray, and its wings repel the Eye Slugger. Height 50 m, weight 35,000 t."
+ },
+ {
+  "en": "Kikaider 01",
+  "desc_en": "He emerged from inside a Nio statue in response to the evil power filling the world. Ichiro transforms with the call \"Change Kikaider, 01\". Since his power source is solar batteries, he can barely exert any strength in darkness. His special attacks include the 01 Driver and the Blast End."
+ },
+ {
+  "en": "Locomotive Mask",
+  "desc_en": "With an underground structure probe on his feet, he runs all over the place trying to locate Gorenger's base. His specialty is a powerful headbutt, the \"Locomotive Heading\"."
+ },
+ {
+  "en": "Gigant",
+  "desc_en": "Ground-combat Fusion combat droid: Gigant. A mass-produced organic combat droid that operates unmanned. A four-legged type that boasts high off-road performance and mobility, it fights in melee with Luciferium-alloy claws and with the Luciferium Cutter."
+ },
+ {
+  "en": "Gigant 2",
+  "desc_en": "An improved version of the unmanned mass-produced combat droid. A system incorporating Vol cells has been newly added. Its armor is higher than the prototype's, making it an even tougher enemy. A four-legged type that boasts high off-road performance and mobility, it fights in melee with Luciferium-alloy claws and with the Luciferium Bullet. More spikes all over its body also make it visually intimidating."
+ },
+ {
+  "en": "Fumio Kishida",
+  "desc_en": "Fumio Kishida. A MAT member. An intellectual with a strong sense of responsibility, which makes him somewhat inflexible. His uncle is the Director of the Earth Defense Force. He often clashes with Go, who is easily moved by emotion. He worked on developing an ultra-long-range radar, but Akane Hirota, the woman he loved, was an alien whose goal was to destroy the radar."
+ },
+ {
+  "en": "Chief Kitakura",
+  "desc_en": "Chief of the UCMA special unit. Her real name is Maya Kitakura. Though young, she was promoted to chief of the special unit for her outstanding sense and the trust she inspires. Her father served as a staff officer in the old TDF, but resigned to take responsibility for the NAAGER disaster 15 years ago and is said to have died an unhappy death afterward. She excels in Armor, Accuracy and Evasion, and among the defense officers she is the only one with repair abilities."
+ },
+ {
+  "en": "Baron Fang",
+  "desc_en": "Destron's second executive. From the Congo. He is also a sorcerer of the Voodoo religion and skilled at curses. He has a helmet harder than diamond and attacks people by launching it. Leading the ferocious Fang Clan, he drove the Riders into a corner. He transforms into the Bloodsucking Mammoth."
+ },
+ {
+  "en": "Captain Gomez",
+  "desc_en": "A man who has committed every evil imaginable with his subordinate Chief Kid. Brain took him in and appointed him commander of the Brain Party. Full of ambition, he planned to bring even Brain under his control given the chance, but Professor Hustler betrayed him and he failed miserably. He died in an explosion together with the Battleship Robot."
+ },
+ {
+  "en": "Captain Saller",
+  "desc_en": "A psychic of justice who created the Boys' League, a mutant organization that uses psychic powers for justice. He was quick to see Goro Watari's abilities and scouted him."
+ },
+ {
+  "en": "Gal 1",
+  "desc_en": "One of the Gal Corps, Fuuma's five female ninja made up of Gal 1, Gal 2, Gal 3, Gal 4 and Gal 5. A female ninja squad, they are also masters of espionage and swordsmanship. They trap opponents with an electric net."
+ },
+ {
+  "en": "Gal 2",
+  "desc_en": "One of the Gal Corps, Fuuma's five female ninja made up of Gal 1, Gal 2, Gal 3, Gal 4 and Gal 5. A female ninja squad, they are also masters of espionage and swordsmanship. They trap opponents with an electric net."
+ },
+ {
+  "en": "Gal 3",
+  "desc_en": "One of the Gal Corps, Fuuma's five female ninja made up of Gal 1, Gal 2, Gal 3, Gal 4 and Gal 5. A female ninja squad, they are also masters of espionage and swordsmanship. They trap opponents with an electric net."
+ },
+ {
+  "en": "Gal 4",
+  "desc_en": "One of the Gal Corps, Fuuma's five female ninja made up of Gal 1, Gal 2, Gal 3, Gal 4 and Gal 5. A female ninja squad, they are also masters of espionage and swordsmanship. They trap opponents with an electric net."
+ },
+ {
+  "en": "Gal 5",
+  "desc_en": "One of the Gal Corps, Fuuma's five female ninja made up of Gal 1, Gal 2, Gal 3, Gal 4 and Gal 5. A female ninja squad, they are also masters of espionage and swordsmanship. They trap opponents with an electric net."
+ },
+ {
+  "en": "Cubrican",
+  "desc_en": "A Kaima Robot sent by Gatezone to eliminate RX. It fires laser beams from its right hand and slashes opponents with the claws on its left."
+ },
+ {
+  "en": "Cubrican Second Form",
+  "desc_en": "The second form of Cubrican, which rebooted by sprouting a second head after being destroyed. Besides laser beams, it also fires napalm bombs."
+ },
+ {
+  "en": "Kiriyama",
+  "desc_en": "Captain of the Ultra Garrison, Far East Branch of the Earth Defense Force. Always calm and seemingly logical, he is actually warm-hearted. He was in the same military academy class as Captain Kurata of Space Station V3. From Tokyo."
+ },
+ {
+  "en": "Kirenger",
+  "desc_en": "One of the five warriors of the International Secret Defense Organization EAGLE's Japan branch. Daita Oiwa transforms into him. His weapons include the Key Sticker and the Megaton Headbutt."
+ },
+ {
+  "en": "Emperor Guillotine",
+  "desc_en": "He came from the planet Big Fire in the Andromeda Nebula. The leader of BF, who uses his superior science to develop one kaiju and robot after another in his bid for world conquest. His body is a mass of nuclear energy, so he cannot be attacked carelessly."
+ },
+ {
+  "en": "Kingsaurus III",
+  "desc_en": "An ancient kaiju that emerged from the mountains of Hakone. It raises a barrier in front of its body and repelled Ultraman's techniques. It torments opponents by breathing a mist of poison gas from its mouth. Length 105 m, weight 27,000 t. In the game it fires a Shock Ray from its horn."
+ },
+ {
+  "en": "King Joe",
+  "desc_en": "A space robot controlled by the Alien Pedan. It splits into four craft to move through the air and sea. It is more powerful than Ultraseven, and its special metal armor repels the Emerium Ray and the Eye Slugger. The Alien Pedan's command saucer is housed in its abdomen. Height 55 m, weight 48,000 t."
+ },
+ {
+  "en": "King Deviler",
+  "desc_en": "The Iron Mask Party's strongest robot. It flies with Bat Feathers that even repel the Baron Punch, and drove Red Baron into a corner with the Hammer Punch of both arms and the Head Guillotine mounted on its head."
+ },
+ {
+  "en": "Daisaku Kusama",
+  "desc_en": "A boy who became Giant Robo's only pilot after he was held captive at BF's secret base and happened to give it the start-up command. He later joins the Unicorn Agency and, code-named U7, fights BF led by Emperor Guillotine."
+ },
+ {
+  "en": "Spider Man",
+  "desc_en": "The first monster the evil secret organization Shocker assigned to its Japan branch. It kidnapped Takeshi Hongo, and later tried to kill Hongo after he escaped. It shoots threads and poison needles that melt humans from its mouth."
+ },
+ {
+  "en": "Crisis Emperor",
+  "desc_en": "A mysterious despot who, a thousand years ago, suddenly conquered the once green and peaceful Kaima World and founded the Crisis Empire. With the empire on the verge of ruin from heavy-industry pollution, he sent General Jark and the Earth Attack Corps to Earth so his five billion subjects could migrate there. He relays his orders by borrowing Colonel Dasmader's body."
+ },
+ {
+  "en": "Crusher",
+  "desc_en": "Makuu's low-level combatants. They support the operations of the Beast Monsters and Doublemen, and attack enemies in groups."
+ },
+ {
+  "en": "Granadas",
+  "desc_en": "A phosphor kaiju controlled by the Alien Centaurus. It has a hard shell, fires destructive phosphor rays from its eyes and breathes flame from its mouth. At one point it even tried to kill Akane, who hesitated to carry out the plan. Height 47 m, weight 25,000 t."
+ },
+ {
+  "en": "Granzairus",
+  "desc_en": "The strongest monster, directly under the Crisis Emperor. It came to Earth to defeat RX. It flies through the air as a fireball and fires destruction rays from both eyes. It boasts a body so sturdy that it repels every one of the Rider's attacks."
+ },
+ {
+  "en": "Grand Birth",
+  "desc_en": "A super-dimensional combat mothership and Sharivan's mobile fortress. It can also transform into a giant robot via the Battle Birth Formation. It is armed with the Grand Buster and the Plasma Cannon."
+ },
+ {
+  "en": "Grey Rhinoking",
+  "desc_en": "The first android of Dark's destruction unit. It prides itself on its 1,000-horsepower strength and legs that run at 200 km/h. Its horn is a drill."
+ },
+ {
+  "en": "Ken Kurenai",
+  "desc_en": "A member of SSI and the only pilot of Red Baron, built by his older brother Kenichiro. His brother was murdered by the Iron Mask Party right after Red Baron was completed. He usually poses as a car mechanic."
+ },
+ {
+  "en": "Kenichiro Kurenai",
+  "desc_en": "Older brother of Red Baron's pilot Ken Kurenai. A brilliant young authority on robotics himself, he spent four years completing Red Baron on his own. He exhibited the pollution-monitoring and removal robot \"Hien\" as Japan's representative at the International Robot Expo, but it was stolen by the Iron Mask Party and remodeled into an invasion robot. He himself was kidnapped by the Iron Mask Party and made into a Mecha Human. Later a Mecha Human built to look exactly like him, \"Android X\", was created and deceived Ken Kurenai."
+ },
+ {
+  "en": "Black Cross Castle",
+  "desc_en": "The strongest giant mobile base of the Black Cross Army. Armed with many gun batteries and ultra rays, it flies with an anti-gravity device. It is actually the true form of the Black Cross Fuhrer."
+ },
+ {
+  "en": "Black Cross Fuhrer",
+  "desc_en": "A mysterious figure in a white hood. Ruler of the Black Cross Army, which plots world conquest, and also the true form of the giant mobile base Black Cross Castle. Weak against rays from Cassiopeia."
+ },
+ {
+  "en": "Black Cross Ninja Corps",
+  "desc_en": "Special combat soldiers: Zolders given special training who have mastered ninjutsu. They are stronger than ordinary Zolders."
+ },
+ {
+  "en": "Fang Commander Gedorian",
+  "desc_en": "The cunning Fang Commander who leads the Kaima Alien Beast Battalion. He comes from the Gedora region, the coldest place in the Kaima World. The nobles Bosgun and Maribaron look down on him. Kaima Alien Beasts are creatures of the Kaima World powered up by Crisis science."
+ },
+ {
+  "en": "Gebacondor",
+  "desc_en": "A Rider-killing monster built by gathering only the strengths of monsters the Riders had defeated before. It surpasses the Riders in martial arts, and its sturdy body repels the Rider Punch. It can also fly through the air. Its energy source is the fresh blood of women."
+ },
+ {
+  "en": "Gel-Shocker's Great Leader",
+  "desc_en": "The leader of Gel-Shocker, newly organized when Shocker joined hands with the Geldam Clan, a secret society hiding in the depths of Africa, and was reorganized. In this thorough reorganization, almost all remaining Shocker members were killed. He is the same person as Shocker's Great Leader."
+ },
+ {
+  "en": "Gel-Shocker Combatant",
+  "desc_en": "With four times the strength of a human, they hide behind their capes and attack from the air. They die unless they drink Gelper Fluid every three hours."
+ },
+ {
+  "en": "Kelbaan",
+  "desc_en": "Air-combat Fusion combat droid: Kelbaan. The general name for an air-combat system with a Gigant as its core. It operates unmanned and attacks in formation. Its weapon is the Plasma Vulcan, which can attack both L- and S-size targets."
+ },
+ {
+  "en": "Kelbaan 2",
+  "desc_en": "The general name for an air-combat system with a Gigant as its core. A system incorporating Vol cells has been newly added. Its armor is higher than the old model's, making it even tougher. It operates unmanned in formation and can attack both air and ground units. Besides the Plasma Vulcan, the Luciferium AP Shell has been added as a new weapon."
+ },
+ {
+  "en": "Dr. Gelma",
+  "desc_en": "Known as the Space Yokai Doctor. At Emperor Guillotine's request he planned and carried out an operation to steal young Daisaku's communicator. He built an android Daisaku Kusama and sent it to the boy's house as a birthday present."
+ },
+ {
+  "en": "Swordsaint Birugenia",
+  "desc_en": "A man born on the day of a solar eclipse 300 years ago who failed to become a Century King because he was born too early. He was sealed in a coffin for defying the Creation King, but was revived to defeat BLACK. He carries a sword and shield and rides the armed bike Hell Shooter."
+ },
+ {
+  "en": "Alien Centaurus",
+  "desc_en": "A space bull-man sent to Earth on a mission to destroy the ultra-long-range radar MAT was building. It transformed into Akane Hirota and controlled Granadas to carry out sabotage, but meeting Kishida threw everything off course. A bomb has been planted inside its body. Height 1.5-50 m, weight 40 kg-10,000 t."
+ },
+ {
+  "en": "Steel Emperor Zephas",
+  "desc_en": "Former Director of SIDO and the official who forced through the NAAGER Project, whose goal was an investigative expedition to Number Ten and the construction of a forward base against outer space. His real name is Kiichi Sakomizu. He is the real father of the Metal hero. The encounter with Number Ten stirred the intense lust for control deep in his psyche, and after fusing with living metal he named himself the Steel Emperor. As leader of the \"Battle Fleet Nation Naager\" he ravaged planet after planet, and finally set his sights on his home, Earth. He has come to hate the TDF, which once slighted him, and by extension the Earth itself."
+ },
+ {
+  "en": "Hideki Go",
+  "desc_en": "Hideki Go. Originally a racer, he is a young man who lost his life saving a boy and a dog attacked by a kaiju, and became one with Ultraman. His act of saving the child was recognized, and he joined MAT. At first he was emotionally immature, but he grows through many battles."
+ },
+ {
+  "en": "Dr. Komyoji",
+  "desc_en": "A world-class authority on robotics who was held by Dark for five years. After completing Kikaider and escaping, he lost his memory and wandered. He was later captured by Professor Gill, and his brain was transplanted into Hakaider's body. After being rescued, he joins the TDF science group along with his daughter, making the \"Atta ck Tab S\" and \"Attack Tab L\" available for development."
+ },
+ {
+  "en": "Mitsuko Komyoji",
+  "desc_en": "Captured by Dark along with her father, Dr. Komyoji, she was forced to work on android development. After escaping Dark's base, she travels from place to place searching for her missing father. She has faint romantic feelings for Jiro. She joins the TDF science group, making the \"Super Maneuver S\" and \"Booster S\" available for development."
+ },
+ {
+  "en": "Bat Man",
+  "desc_en": "He bit people with his sharp fangs to inject a virus developed by Shocker's scientists, turning them into vampires he tried to control at will with sound waves. Nocturnal."
+ },
+ {
+  "en": "Seiichiro Kogure",
+  "desc_en": "A man whose son was killed by Gel-Shocker. He became a central figure of the Anti-Shocker League and worked hard to expose the true identity of Gel-Shocker's Great Leader. He asks Kamen Rider to transport an attache case containing data on Gel-Shocker's Great Leader."
+ },
+ {
+  "en": "Commander Kom",
+  "desc_en": "The commander of the Galactic Union Police, headquartered on Planet Bird, and the head of the Space Sheriffs starting with Gavan. He is also something of a parent figure to them."
+ },
+ {
+  "en": "Gori Beast",
+  "desc_en": "Madou's first Demon Beast. It can flip its face upside down to take two different forms. It wraps its body in the shutters on its head, turns into a ball and charges. It uses a spear and a machete as weapons."
+ },
+ {
+  "en": "Cyclone",
+  "desc_en": "The Rider's dedicated machine. It transforms when Hongo operates the lever beside the handlebar as he transforms. Top speed 400 km/h. Built by Dr. Midorikawa."
+ },
+ {
+  "en": "Psycholer",
+  "desc_en": "A being who shares a life with Demon King Psycho; if either one dies, they can share their life with each other and revive. It launches two swords, crosses them and fires a ray. It usually transforms into a human form, the \"Cultivator\", and kept watch on Den Iga."
+ },
+ {
+  "en": "Sai Doubler",
+  "desc_en": "The first Double Monster, with three times the power of a Beast Monster. Also a master swordsman who can hold his own against Gavan's Laser Blade. The heart in his right knee is his only weak point."
+ },
+ {
+  "en": "Side Machine",
+  "desc_en": "A sidecar Kikaider summons with a signal from his coat belt. It can move by autopilot via a triple computer, and its top speed is 500 km/h."
+ },
+ {
+  "en": "Cyberian",
+  "desc_en": "Gavan's super sidecar. 500 km/h. It can also fly and is often used to break into Makuu Space."
+ },
+ {
+  "en": "Rhino Monster",
+  "desc_en": "With great strength, it excels at charging attacks using the horn on its head. The skin all over its body is as hard as steel, and it is belligerent by nature."
+ },
+ {
+  "en": "Tetsuya Sakai",
+  "desc_en": "A member of SSI. His marksmanship is top-class. He usually works as a car salesman. He seems cool, but when it counts he burns hot."
+ },
+ {
+  "en": "Aki Sakata",
+  "desc_en": "Ken Sakata's younger sister and Hideki Go's girlfriend. She grumbles that there's no time for dates since Go joined MAT, but she trusted him with all her heart. In the TV series, like her brother Ken, she was killed by the Alien Nackle, who plotted to eliminate Ultraman."
+ },
+ {
+  "en": "Ken Sakata",
+  "desc_en": "He runs a car repair shop and is like an older brother to Hideki Go. After hurting his leg, he gave up his own dream of being a racer and entrusted it to Go. He developed the stabilizer for the MAT Vehicle and helped improve its performance. In the TV series he is killed together with his sister Aki through the Alien Nackle's plot."
+ },
+ {
+  "en": "Jiro Sakata",
+  "desc_en": "The youngest brother of the Sakata siblings. He looks up to Go like a big brother. After the Alien Nackle killed his brother and sister, Go took him in."
+ },
+ {
+  "en": "Ryoko Sakomizu",
+  "desc_en": "A former officer of SIDO's System Information Division. The Metal hero's older sister, she designed almost the entire main architecture of the NAAGER. Fifteen years ago she set out with her father, SIDO Director Kiichi Sakomizu, on the NAAGER to investigate Number Ten, and has been missing ever since."
+ },
+ {
+  "en": "Ryoma Sakomizu",
+  "desc_en": ""
+ },
+ {
+  "en": "Scorpion Man",
+  "desc_en": "He used Shocker's forced laborers as bait in a plot to kill Hongo. He spews red dissolving fluid from his tail and controls \"man-eating scorpions\". His left hand is an electromagnetic pincer."
+ },
+ {
+  "en": "Zadam",
+  "desc_en": "One of Shadow's top executives, summoned from the Moon by Big Shadow. He fights with a trident and has two heads, a red face and a blue face. His trump card is the Zadam Separation Technique."
+ },
+ {
+  "en": "Sadesper",
+  "desc_en": "A new executive of the Desper Army. He crushes opponents to death with the spikes on the inside of his knees. He is also the mayor who governs \"Desper City\", the experimental city spreading beneath Tokyo."
+ },
+ {
+  "en": "Sanagiman",
+  "desc_en": "The first form Goro Watari transforms into. He transforms with the call \"Goriki, Shorai!\". It has no particular attack abilities, but in this form he endures enemy attacks until enough energy builds up to become Inazuman. His body is extremely tough."
+ },
+ {
+  "en": "Saburo",
+  "desc_en": "A robot cyborg built to fight Kikaider, and Kikaider's younger brother. He transforms into Hakaider. He carries the Hakai Sword, which cuts androids apart."
+ },
+ {
+  "en": "Alien Zarab",
+  "desc_en": ""
+ },
+ {
+  "en": "Zariganna",
+  "desc_en": "The form Marshal Armor transformed into. It squeezes enemies with the pincer on its left hand. It also has a technique called \"Shell Breaker\", in which it stomps the shell on its back to pieces and hurls it at enemies."
+ },
+ {
+  "en": "Alien Salome",
+  "desc_en": "Invading aliens who plotted to conquer Earth and tried to frame Ultraseven as an invader using a robot that looks exactly like him. They look just like humans, but whether that is their true form is unknown. Height 1.9 m, weight 120 kg."
+ },
+ {
+  "en": "Captain Sawa",
+  "desc_en": "Captain of the UCMA special unit. A direct-attack specialist who excels in Armor and Mobility. The child of a Director of the old TDF, Sawa seems to have been raised in a strict family and is severe, showing no leniency to self or others."
+ },
+ {
+  "en": "Dai Sawamura",
+  "desc_en": "A young space archaeologist who deciphered the Nazca Lines in college and, recognized for that achievement, was scouted to be a Space Sheriff. He trained in the 7th squad of the Space Sheriff Training Academy. As the third sheriff assigned to Earth, he transforms into Space Sheriff Shaider and fights the Fushigi World Fuuma."
+ },
+ {
+  "en": "Chie Sahara",
+  "desc_en": "A Red Muffler member who sometimes sorties to the front lines. Her fiance was killed by the Brain Party. She is Dr. Sahara's daughter and mainly handles communications."
+ },
+ {
+  "en": "Dr. Sahara",
+  "desc_en": "Head of the International Peace Corps' science laboratory and a renowned scientist. He is in a position to give orders directly to the Red Muffler Squad. He feels deeply responsible for Brain, which he designed himself, running out of control. Meanwhile, in the game he also cooperates with the TDF science group, making the \"Type 75 SP Howitzer\" and \"Type 89 IFV\" available for development, and they can be mass-produced."
+ },
+ {
+  "en": "Rumi Sahara",
+  "desc_en": "Dr. Sahara's second daughter and Chie's younger sister. She is also young Saburo Minami's classmate. She encourages Saburo, who struggles to balance school with the Red Muffler Squad. Brain's scheming once made her the pilot of the Battleship Robot."
+ },
+ {
+  "en": "Sandoruba",
+  "desc_en": "The son of Makuu's boss Don Horror, which may be why he is so arrogant and always throwing his weight around. But his fighting skill is real, strong enough to duel Gavan one-on-one."
+ },
+ {
+  "en": "Seagorath",
+  "desc_en": "A tsunami kaiju and the husband of Seamons, the legendary tornado kaiju. It came ashore in Japan chasing Seamons. It sparks its horns to raise huge tornadoes, but by nature the couple are both gentle. Height 62 m, weight 52,000 t."
+ },
+ {
+  "en": "Seamons",
+  "desc_en": "A tornado kaiju that lived on Morotai Island in the West Irian islands and crossed the sea to come ashore in Japan to lay eggs. The wife of the tsunami kaiju Seagorath, it raises tornadoes, but its true nature is gentle. Height 43 m, weight 35,000 t."
+ },
+ {
+  "en": "Jet VTOL",
+  "desc_en": "The main anti-kaiju fighter, designed by Dr. Iwamoto. It has VTOL capability, and its main armament is the anti-kaiju missiles fired from both wingtips and the laser cannon in its nose. Length 18.5 m, top speed Mach 2. In the game it can carry one person besides the pilot, and is also equipped with Freeze Shells."
+ },
+ {
+  "en": "Sigcon Jet",
+  "desc_en": "An unmanned flying machine that launches from the back of Daitetsujin One-Seven and boasts Mach 3.5. Its main mission is reconnaissance. Equipped with tranquilizer rounds and more."
+ },
+ {
+  "en": "Hell Kappa",
+  "desc_en": "Excels at underwater combat. In the game it attacks by scratching."
+ },
+ {
+  "en": "Ambassador Hell",
+  "desc_en": "The third executive, who came from Southeast Asia. A brilliant strategist who built as many as 156 secret bases around the world, he launches large-scale attack operations. He is also a scientist who studies rattlesnakes. He transforms into Garagaranda."
+ },
+ {
+  "en": "Doctor Death",
+  "desc_en": "The second executive, who came from Shocker's Swiss branch. He excels at creating cyborgs and compounding poisons and poison gas, and is also an extremely gifted scientist. He carries a large scythe and controls monsters with a 1,000-volt electric whip. He transforms into Ika-Devil."
+ },
+ {
+  "en": "Assistant Shibata",
+  "desc_en": "He worked with Dr. Shirakawa on developing the Danger Light. In the TV series he betrayed the doctor, joined Shocker himself and was remodeled into Yamogeras, but in the game he appears still as the assistant."
+ },
+ {
+  "en": "Corpse Bat",
+  "desc_en": "The form Archbishop Wing transformed into. He injects humans with the bacterium \"Devil of the Himalayas\" to make them combatants. He hides countless vampire bats at his waist."
+ },
+ {
+  "en": "Jimmy Kitahara",
+  "desc_en": "A space engineer who had gone missing. In the game he left Earth 15 years ago as a member of the NAAGER staff and went missing along with the NAAGER. While drifting through space he gained psychic powers."
+ },
+ {
+  "en": "Jark Midora",
+  "desc_en": ""
+ },
+ {
+  "en": "General Jark",
+  "desc_en": "Supreme commander of the Earth Attack Corps of the Crisis Empire of the Kaima World, once a rich paradise but now on the brink of ruin from the emperor's tyranny and pollution from science and technology. To move five billion subjects, he plots to first invade Japan and make it a forward base. He is cold-hearted and does not tolerate failure. He transforms into Jark Midora."
+ },
+ {
+  "en": "Giant Devil",
+  "desc_en": "A giant robot that Dark's Professor Gill spent years developing. Its blueprints were hidden on the backs of Gill's sons Akira and Hiroshi, and Shadow uncovered the secret, built it and completed it. In the TV series it was destroyed inside its hangar, but in the game it ends up mass-produced with help from the Iron Mask Party and Naager. It launches its head and fires small and large missiles."
+ },
+ {
+  "en": "Giant Robo",
+  "desc_en": "A super robot developed by BF to invade Earth. But by chance, young Daisaku Kusama imprinted his voice on Robo's electronic brain at start-up, and it became a robot of justice. It smashes enemies with the Megaton Punch and missiles. Height 30 m, it flies at Mach 17."
+ },
+ {
+  "en": "Apfaron the Evil Scholar",
+  "desc_en": "Like his father Kiichi, he is obsessed with the pursuit of science, and nothing delights him more than watching the super weapons he built destroy the stars. He smoothly approaches each of Earth's secret societies and tries to manipulate them from the shadows."
+ },
+ {
+  "en": "Shako Monster",
+  "desc_en": "The first Beast Monster. It crawls across the ground at high speed and attacks enemies. The spots on its back are laser oscillators, letting it fire powerful rays."
+ },
+ {
+  "en": "Shadow Knight",
+  "desc_en": "Shadow's first executive. His weapons are his sword and the destruction rays from his eyes. He also has the ability to transform into a human."
+ },
+ {
+  "en": "Shadowman",
+  "desc_en": ""
+ },
+ {
+  "en": "Jamila",
+  "desc_en": ""
+ },
+ {
+  "en": "Shocker Motorcycle Squad",
+  "desc_en": "A killer rider team formed from enhanced combatants with especially good motorcycle skills. They attack the Riders in groups."
+ },
+ {
+  "en": "Shocker Combatant (Beret)",
+  "desc_en": "Early Shocker combatants. Their face markings differ for each monster, and they lead the black combatants wearing the same berets to carry out operations."
+ },
+ {
+  "en": "Shocker Combatant (Mask)",
+  "desc_en": "Enhanced combatants who wear masks and have an eagle emblem on their knees."
+ },
+ {
+  "en": "Shocker Rider No.1",
+  "desc_en": "One of the Shocker Riders developed by Gel-Shocker. They have power equal to the Riders, combined with monster abilities. No. 1's scarf is yellow. He can breathe fire from his mouth."
+ },
+ {
+  "en": "Shocker Rider No.2",
+  "desc_en": "One of the Shocker Riders developed by Gel-Shocker. They have power equal to the Riders, combined with monster abilities. No. 2's scarf is white. He can emit poison smoke from his body and extend knives from his toes."
+ },
+ {
+  "en": "Shocker Rider No.3",
+  "desc_en": "One of the Shocker Riders developed by Gel-Shocker. They have power equal to the Riders, combined with monster abilities. No. 3's scarf is green. He uses depth charges."
+ },
+ {
+  "en": "Shocker Rider No.4",
+  "desc_en": "One of the Shocker Riders developed by Gel-Shocker. They have power equal to the Riders, combined with monster abilities. No. 4's scarf is blue. He can cause fissures."
+ },
+ {
+  "en": "Shocker Rider No.5",
+  "desc_en": "One of the Shocker Riders developed by Gel-Shocker. They have power equal to the Riders, combined with monster abilities. No. 5's scarf is purple. He runs electricity through his body to shock opponents."
+ },
+ {
+  "en": "Shocker Rider No.6",
+  "desc_en": "One of the Shocker Riders developed by Gel-Shocker. They have power equal to the Riders, combined with monster abilities. No. 6's scarf is pink. He can melt opponents with dissolving fluid."
+ },
+ {
+  "en": "Shocker's Great Leader",
+  "desc_en": "The ruler of the evil secret society Shocker, which plots to conquer the world, and of Gel-Shocker. Beneath a red hood is a snake mask, and beneath that a one-eyed face. True identity unknown."
+ },
+ {
+  "en": "Dr. Shirakawa",
+  "desc_en": "Developer of the Danger Light. Fearing his invention would be misused, he recorded it on microfilm and entrusted it to his younger sister Machiko, but Machiko was kidnapped by Shocker. In the game, from this point on, Shocker and Gel-Shocker combatants are armed with Danger Lights. After he joins the TDF science group, the \"Hyper Maneuver S\" and \"Su per Maneuver L\" become available for development."
+ },
+ {
+  "en": "Machiko Shirakawa",
+  "desc_en": "Younger sister of Dr. Shirakawa, inventor of the Danger Light. Because she carried a locket holding the microfilm with the blueprints, she was kidnapped by Shocker."
+ },
+ {
+  "en": "Jiro",
+  "desc_en": "An android built by Dr. Komyoji to stop Dark's ambitions. He rides the Side Machine and appears to the sound of a red guitar. Because his Conscience Circuit is incomplete, Gill's flute often makes him malfunction."
+ },
+ {
+  "en": "Priest Poe",
+  "desc_en": "An executive of Fuuma and the granddaughter of Great Emperor Kubilai. She is in charge of the ritual that births Fushigi Beasts and of creating the Fushigi Dimension. Her true form has the face of a demon, and she has lived for 15,000 years by drinking the essence of beautiful girls."
+ },
+ {
+  "en": "New Cyclone",
+  "desc_en": "Developed by Hongo with help from Tobei and Taki. It carries a 700-horsepower enhanced jet engine, with a top speed of 500 km/h. It can also spread wings and glide through the air. It unleashes the Cyclone Attack and the Cyclone Cutter, which cuts opponents with its wings."
+ },
+ {
+  "en": "Android Kikaider",
+  "desc_en": "Jiro transforms with the call \"Chaaange, Switch On\". After transforming, Gill's flute no longer affects him. His special attacks include the Double Chop, the Giant Wheel Throw and the Denji End."
+ },
+ {
+  "en": "Android Daisaku Kusama",
+  "desc_en": "An android that transformed from a plastic model sent to young Daisaku as a birthday present, part of Dr. Gelma's scheme. It stole Robo's communicator and tried to make it destroy the city. It looks just like young Daisaku, but its eyebrows are slightly thicker. In the original show, it was finally melted with a dissolving fluid made from improved model glue."
+ },
+ {
+  "en": "Jinbe",
+  "desc_en": "A clown robot built by Dr. Komyoji. Believed to hold the secret of a special circuit, it was kidnapped and tortured by Dark."
+ },
+ {
+  "en": "Akira Shinmei",
+  "desc_en": "The survivor of EAGLE's Tohoku branch, which was wiped out by Warrior Mask. He transforms into Aorenger. Good at inventing weapons, he also pilots mecha such as the Variblune, Varidreen and Varitank."
+ },
+ {
+  "en": "Station Hawk 1",
+  "desc_en": "A small two-seat fighter deployed on the space station run by the TDF. It also serves as the first line of defense and can fly inside the atmosphere."
+ },
+ {
+  "en": "Snowgon",
+  "desc_en": "A snow-woman kaiju that freezes opponents by firing freezing gas from its mouth and freezing rays from both hands. Controlled by the Alien Black, it had disguised itself as a snow woman. Height 45 m, weight 23,000 t."
+ },
+ {
+  "en": "Sparky",
+  "desc_en": "It appears out of black clouds with a clap of thunder. A kaiju like a giant jellyfish, it attacks enemies by emitting high-voltage current from its body. It appears and vanishes at will, and once stole Calamity from the Republic of Merca."
+ },
+ {
+  "en": "Spider",
+  "desc_en": "The first head of BF's Japan branch."
+ },
+ {
+  "en": "Space Arrow",
+  "desc_en": "A dedicated spacecraft made by fitting a MAT Arrow 1 airframe with booster rockets. Mainly used for maintenance and inspection of the MAT Station. Crew of 2. Length 15 m. In the game it can carry one person besides the pilot."
+ },
+ {
+  "en": "Century King Shadow Moon",
+  "desc_en": "The form Nobuhiko Akizuki transforms into. He was revived by the three Gorgom Priests' \"Stones of Heaven, Earth and Sea\". He seeks to defeat Kotaro Minami, a.k.a. \"Black Sun\", and become Gorgom's complete ruler."
+ },
+ {
+  "en": "Dr. Segawa",
+  "desc_en": "A member of the International Committee for Earth Defense. A scientist who, with Dr. Maeno, pushed ahead with developing the planet-attack super weapon \"R1\". When Gyeron, with its terrifying regenerative power, attacked Earth, he urged the rushed development and use of \"R2\". When the doctor joins the TDF science group, the \"HP/EN Repair Kit S\" and \"Special Tab S\" become available for development in the game."
+ },
+ {
+  "en": "Red-Face Turtle",
+  "desc_en": "The first of Shadow's assassination squad. It appears with a burst of smoke. Number 13 on its back. It fights with the Red-Face Boomerang, launching both of its hands. \"You don't stand a chance!\" is its catchphrase."
+ },
+ {
+  "en": "Zetton",
+  "desc_en": "The strongest space dinosaur, brought to Earth by the Alien Zetton. More powerful than Ultraman, it repels everything from the Specium Ray to the Ultra Slash. It fires trillion-degree super-hot fireballs from its mouth and powerful destruction rays from its hands. Height 60 m, weight 30,000 t."
+ },
+ {
+  "en": "Alien Zetton",
+  "desc_en": "A shape-shifting alien said to have studied Earth for 40 years in order to invade it. It challenges Ultraman with Zetton in tow. It disguised itself as Dr. Iwamoto and tried to destroy Science Patrol headquarters. Height 2 m, weight 60 kg."
+ },
+ {
+  "en": "Zephas",
+  "desc_en": "Fusion Steel Shell Type E: Zephas. The Fusion Steel shell exclusive to Zephas, whose type name means \"Emperor\". It has the strongest performance in both attack and defense. Its whole body shines gold, and despite its appearance it moves with agility. Its weapon is the Lucifer Rod, whose converters on both hands it controls freely by wire."
+ },
+ {
+  "en": "Zephas Core",
+  "desc_en": "The form in which Zephas's Fusion Steel shell overloaded and completed its fusion with the living metal that had possessed Naager. In this state Zephas becomes a mere \"vessel\" and completely loses consciousness. In a sense it is a pure metal life form; acting only on its instincts as Number Ten and without hesitation about destruction itself, it becomes a terrifying being. Besides the Lucifer Rod, its weapon is the compressed graviton shot, which uses Naager's dimensional distortion field to blow enemies away to a galactic core star system far, far away."
+ },
+ {
+  "en": "Battleship Robot",
+  "desc_en": "A large flying battleship. It attacks with 20 cannons sticking out like a hedgehog's quills and by launching the anchor-shaped weight on its bow. An invasion robot that needs one, and only one, pilot."
+ },
+ {
+  "en": "Chie Ishigami",
+  "desc_en": "A woman in black who plays a central role in the Anti-Shocker League along with Seiichiro Kogure. She entrusts the Rider with transporting an attache case containing data on Gel-Shocker's Great Leader."
+ },
+ {
+  "en": "Creation King",
+  "desc_en": "The ruler of Gorgom, replaced every 500 years and growing stronger each time. He regarded whichever won between the Century Kings Black Sun and Shadow Moon as the next candidate. He exists only as a giant heart, with enough energy to destroy the Earth."
+ },
+ {
+  "en": "Soga",
+  "desc_en": "The Defense Force's finest marksman. Single-minded, but a passionate man with a gentle side too. He has a fiancee named Saeko Nanbu. From Kyushu. In the game too, his Accuracy is head and shoulders above the rest."
+ },
+ {
+  "en": "Zoffy",
+  "desc_en": "Captain of the Space Garrison of the M78 Nebula. He supports the Ultra Brothers fighting on Earth, often flying to Earth to rescue them from danger. His special attack is the M87 Ray."
+ },
+ {
+  "en": "Zolder",
+  "desc_en": "Combat soldiers who carry out operations under the Mask Monsters. The lowest-ranking cyborgs, they attack enemies in groups. They can transform and also carry out espionage."
+ },
+ {
+  "en": "Colonel Zol",
+  "desc_en": "The first executive, who came to the Japan branch from Shocker's Middle East branch. He controls the monsters with the whip in his right hand. He does not even tolerate untidy uniforms among his subordinates, and is feared for his extremely cruel nature. He transforms into the Golden Wolf."
+ },
+ {
+  "en": "Minoru Ogo",
+  "desc_en": "The boss of SSI. Gentle by nature and loved by everyone, but a man who will make ruthless decisions when necessary. In the original show, he defeated Fuhrer Deviler and took back Red Baron's secret blueprints, but learning he would be carried off to the Iron Mask Party's space base, he chose to blow himself up. He usually runs a car repair shop."
+ },
+ {
+  "en": "Archpriest Darom",
+  "desc_en": "Leader of the three Gorgom Priests, who carries the \"Stone of Heaven\" inside his body. Over 800 years old, he is the wisest in Gorgom. He fires a gene-manipulation beam from his right hand and used it to remodel Kotaro Minami. Insidious by nature."
+ },
+ {
+  "en": "Archpriest Baraom",
+  "desc_en": "One of the three Gorgom Priests, who carries the \"Stone of Sea\" inside his body. The most powerful of the three, he fires shock rays from his fingertips and can raise a barrier in front of his body. Cruel and belligerent by nature."
+ },
+ {
+  "en": "Archpriest Bishium",
+  "desc_en": "One of the three Gorgom Priests, who carries the \"Stone of Earth\" inside her body. A prophet who can see the future with her right eye and the past with her left. She fires scorching balls of light from both eyes. She shows no mercy to enemies."
+ },
+ {
+  "en": "Great Emperor Kubilai",
+  "desc_en": "A super life form that rules the Fushigi World Fuuma and plots to rule the whole universe. It lays Fushigi Beast eggs from its mouth. 12,000 years ago its head was cut off by the hero Shaider, and it had been secretly building a mechanical body."
+ },
+ {
+  "en": "Daitetsujin One-Seven",
+  "desc_en": ""
+ },
+ {
+  "en": "Diamond Mask",
+  "desc_en": "It extends from its head a Diamond Cutter that slices even steel and Kirenger's face, and fires from its eyes a Diamond Ray that melts even safe dials. On General Magman's orders, it stole the secret blueprints of the Gorenger suits from the Science Weapons Research Institute."
+ },
+ {
+  "en": "Collapsed Woman",
+  "desc_en": "She approached Jiro intending to kill him, but failed. She was actually a temporary form taken by Violet Sazae of Dark's destruction unit. In the game she does not transform, and blows herself up with a charm containing a bomb."
+ },
+ {
+  "en": "Kazuya Taki",
+  "desc_en": "Takeshi Hongo's fellow racer and an FBI special investigator. He fights Shocker and Gel-Shocker together with Hongo and Ichimonji."
+ },
+ {
+  "en": "Chief of Staff Takenaka",
+  "desc_en": "Staff officer at the TDF Far East Base, who also commands the Ultra Garrison. His calm judgment often leads incidents to resolution, and he frequently takes personal command of the Garrison in the field. He was once in charge of the nuclear ship Max."
+ },
+ {
+  "en": "Colonel Dasmader",
+  "desc_en": "An inspector sent by the Crisis Emperor, under his direct command. He reports each operational failure of General Jark and the four battalion commanders to the emperor. A skilled swordsman."
+ },
+ {
+  "en": "Tobei Tachibana",
+  "desc_en": "He runs the Tachibana Racing Club and is also the master of the snack bar \"Amigo\". He knows about Shocker and understands the situation of Riders such as Hongo and Ichimonji. He also helped develop the \"New Cyclone\". In the game, the Amigo becomes the heroes' hangout."
+ },
+ {
+  "en": "Takkong",
+  "desc_en": ""
+ },
+ {
+  "en": "Dr. Tadokoro",
+  "desc_en": "Inventor of the transparent metal QQV. In the game he is an authority on functional alloys, and joining the TDF science group makes the \"High Defender S\" and \"High Defender L\" available for development."
+ },
+ {
+  "en": "Double Machine",
+  "desc_en": "An all-purpose sidecar that can operate not only on land but underwater, underground and in space. In the air in particular it can fly at 800 km/h. It carries one missile launcher on each side of the body. Top speed on land is 500 km/h."
+ },
+ {
+  "en": "Doubleman",
+  "desc_en": "They attack with swords and shields and can disguise themselves as humans. Highly intelligent, they command the Beast Monsters. They later merge with Beast Monsters to become Double Monsters."
+ },
+ {
+  "en": "Chief Kid",
+  "desc_en": "He was taken into the Brain Party together with Captain Gomez. He supports Gomez as his trusty right hand. A master of knife throwing and disguise."
+ },
+ {
+  "en": "Chakram",
+  "desc_en": ""
+ },
+ {
+  "en": "Special Attacker Tsuirai",
+  "desc_en": "A heavy attack aircraft dedicated to fighting kaiju and robots, which becomes available for development when Science Patrol member Ide joins through a job change. It fires reusable ultra-hard drills made of a new alloy from the airframe, dealing mechanical blows to giant kaiju and robots. Crew of 1, length 30.74 m, top speed Mach 3.2."
+ },
+ {
+  "en": "Dr. Tsuchida",
+  "desc_en": "A member of the Earth Defense Force Science Center and a researcher of new high-performance explosives. Working with Dr. Anderson, he actually produced the special anti-robot round \"Ryton R30\". When the doctor joins the TDF science group, mass-production models of the \"AH-1S\" and \"F-15J Kai\" become available for development in the game."
+ },
+ {
+  "en": "Archbishop Wing",
+  "desc_en": ""
+ },
+ {
+  "en": "Emperor Banba",
+  "desc_en": ""
+ },
+ {
+  "en": "Destron Motorcycle Squad",
+  "desc_en": "Formed from the elite of Destron's combatants, they torment the Riders with superb motorcycle technique."
+ },
+ {
+  "en": "Destron's Great Leader",
+  "desc_en": "The skull monster who ruled the dark organization Destron. He seems to be the same person as the leader of Shocker and Gel-Shocker."
+ },
+ {
+  "en": "Destron Combatant",
+  "desc_en": "People with all-round athletic ability, remodeled and enhanced, who attack in groups. They wear suits bearing Destron's scorpion emblem and excel at quick coordinated teamwork."
+ },
+ {
+  "en": "Desper Soldier",
+  "desc_en": "The Desper Army's vanguard: Phantom Soldiers who resented Emperor Banba, scouted and re-enhanced by the Desper Army. They attack shouting \"Dee!\"."
+ },
+ {
+  "en": "Iron Mask General Temujin",
+  "desc_en": ""
+ },
+ {
+  "en": "Dr. Deviler",
+  "desc_en": ""
+ },
+ {
+  "en": "TV-Fly",
+  "desc_en": ""
+ },
+ {
+  "en": "Special Fighter Tenso",
+  "desc_en": "cannon. Length 20.4 m. It can only be developed when Joji Yuki, formerly a Destron scientist, job-changes to a doctor."
+ },
+ {
+  "en": "Atefarina the Battle Princess",
+  "desc_en": ""
+ },
+ {
+  "en": "Tatsuya Todo",
+  "desc_en": "A 22-year-old who is aggressive, ambitious and strongly elitist by nature. A friend of Satoru Hinata who often came and went at the laboratory. A carrier of Vol cells, he transforms into the EATER Volhazard. He had been missing since the fire at the Hinata Laboratory three years ago. Clinical test subject No. 8."
+ },
+ {
+  "en": "Submarine S16",
+  "desc_en": "A special submarine for underwater exploration, carried slung beneath the VTOL. Armed with torpedoes and a heat-beam gun, it can operate even in the deep sea."
+ },
+ {
+  "en": "Doctor Polter",
+  "desc_en": "He works day and night on plans to eliminate Sharivan and conquer the world. Madou's operations staff officer, he can also create Demon Beasts. Extremely hysterical by nature."
+ },
+ {
+  "en": "Doktor G",
+  "desc_en": "The first chief executive of Destron's Japan branch. From Germany. He has more than three times the strength of a monster, and his weapons are an axe that cuts steel in one blow and a shield that repels the Rider's punches. He calls lightning with his dagger and makes his body bulletproof with incantations. He transforms into Crab Laser."
+ },
+ {
+  "en": "Toge Banbara",
+  "desc_en": "It fires the spikes all over its body to stab people."
+ },
+ {
+  "en": "Dodongo",
+  "desc_en": "A mummy kaiju that emerged near the Oninoiwadai hills, thought to have slept for about 7,000 years. Calling to the Mummy Man by telepathy, it destroyed an industrial area. It fires a powerful weird ray from its eyes. Height 30 m, weight 25,000 t."
+ },
+ {
+  "en": "Dracula",
+  "desc_en": "A vampire from space. It sucked human blood and tried to increase its minions one after another. It uses a temple as its base."
+ },
+ {
+  "en": "Dolgiran",
+  "desc_en": "Gavan's mothership, a super-dimensional light-speed craft. It can split into an upper half, the Giran saucer, and a lower half, the Electronic Starbeast Dol. It can operate both in outer space and in Makuu Space. Length 220 m."
+ },
+ {
+  "en": "Trojan Horse",
+  "desc_en": "The first invasion robot built by the Iron Mask Party. Carrying Mecha Robos inside, it stole robots from each country exhibited at the International Robot Expo. Its weapons are the object-stopping ray from its face and the drill on its right hand."
+ },
+ {
+  "en": "Dr. Dorothy Anderson",
+  "desc_en": ""
+ },
+ {
+  "en": "Don Horror",
+  "desc_en": ""
+ },
+ {
+  "en": "Naager",
+  "desc_en": ""
+ },
+ {
+  "en": "Alien Nackle",
+  "desc_en": ""
+ },
+ {
+  "en": "Navaron",
+  "desc_en": "A mobile invasion fortress commanded by Volcano Mask General Magman. Armed with the giant Navaron Cannon, it lays down ferocious bombardments. It defends against approaching enemies with poison gas. It emerges from underground."
+ },
+ {
+  "en": "Dr. Namikawa",
+  "desc_en": "An authority on rocket engineering. The Science Center where he worked was attacked by the Alien Baltan. He later joins the TDF science group. His joining improves the \"Type 90 Tank\" and the \"F-2 Support Fighter\" and makes them mass-producible."
+ },
+ {
+  "en": "Fake Ultraman",
+  "desc_en": ""
+ },
+ {
+  "en": "Fake Ultraseven",
+  "desc_en": "A robot superhuman built by the Alien Salome to look exactly like Ultraseven. Its weapons and techniques are almost equal to the real Seven's, but its abilities are slightly inferior. Height 40 m, weight 35,000 t."
+ },
+ {
+  "en": "Haken Killer",
+  "desc_en": ""
+ },
+ {
+  "en": "Bio Hero (Male)",
+  "desc_en": "A clinical test subject of \"Vol\", the unknown cells Dr. Hinata collected at Nojimazaki. A childhood friend of the Bio heroine, he often came and went at the laboratory. 17 years old. Clinical test subject No. 4."
+ },
+ {
+  "en": "Bio Heroine (Female)",
+  "desc_en": "A clinical test subject of \"Vol\", the unknown cells Dr. Hinata collected at Nojimazaki. The real daughter of Dr. Hinata, who was driven out of the old TDF over the Vol cells affair. 16 years old. Her hobby is black magic. She has an i-mode-style cell phone and is apparently good at making ringtones. Measurements unknown. Clinical test subject No. 3."
+ },
+ {
+  "en": "Bio Rider",
+  "desc_en": ""
+ },
+ {
+  "en": "Hakaider",
+  "desc_en": "Saburo transforms into him and repeatedly drives Jiro into a corner with the Hakaider Shot. His head houses Dr. Komyoji's brain, so his blood must be exchanged at regular intervals. His machine is the White Crow."
+ },
+ {
+  "en": "Scissors Jaguar",
+  "desc_en": "Destron's first hybrid monster, made by combining and remodeling scissors and a jaguar. It killed Shiro Kazami's parents and sister. Its weapons are the blades on its arms, which form scissors that cut even steel when it puts its hands together."
+ },
+ {
+  "en": "Professor Hustler",
+  "desc_en": "Formerly a staff member of the science laboratory of the International Peace Organization, also known as the Red Muffler Squad. He took part in developing Brain, the world's largest artificial brain, under Dr. Sahara, but stole Brain just before its completion and founded the Brain Party. He plotted to use Brain to conquer the world, but instead Brain controlled him and he ended up serving it as a subordinate. \"Oh~!\" is his catchphrase. It controls people by scattering glasses with built-in special sensory devices. It excels at sword attacks and can also fire poison needles from the tip of its sword. It is ruthless enough not to tolerate its subordinates' failures."
+ },
+ {
+  "en": "White Eagle Musasabi",
+  "desc_en": ""
+ },
+ {
+  "en": "Hanpei Hattori",
+  "desc_en": ""
+ },
+ {
+  "en": "Buffalo Doubler",
+  "desc_en": "Makuu's Double Monster. With superb charging power, it excels at body-slam attacks. Its mission is guarding the Makuu base, and in the original show it gravely wounded Den Iga, then a forest patrol member."
+ },
+ {
+  "en": "Battle Hopper",
+  "desc_en": "It thinks with an artificial cybernetic brain and can act on its own will. It also has a self-repair function, with a top speed of 500 km/h. Originally a machine exclusive to the Century Kings, it escaped from Gorgom along with Kotaro."
+ },
+ {
+  "en": "Babylos",
+  "desc_en": "A super-dimensional combat mothership that is also Shaider's base. It flies faster than light and can transform into the Shooting Formation, which fires the Big Magnum, and the Battle Formation, a robot form."
+ },
+ {
+  "en": "Hayata",
+  "desc_en": ""
+ },
+ {
+  "en": "Bara Banbara",
+  "desc_en": ""
+ },
+ {
+  "en": "Hurricane",
+  "desc_en": "V3's machine, designed by the Double Riders. Nuclear-powered with a top speed of 600 km/h, it can fly through the air with rocket boosters. It can also be summoned by V3's telepathy."
+ },
+ {
+  "en": "Varicane",
+  "desc_en": ""
+ },
+ {
+  "en": "Hurricane Robot",
+  "desc_en": ""
+ },
+ {
+  "en": "Varitank",
+  "desc_en": "An all-purpose six-wheeled tank used by Gorenger, normally stored inside the Varidreen. Its special-alloy body withstands any attack. It can also extend its arms and spin its claws to burrow underground."
+ },
+ {
+  "en": "Varidreen",
+  "desc_en": "A new fighter that appeared to replace the Variblune after it self-destructed. It has weapons and performance beyond the Variblune and carries the Varikikyun, Varitank, Star Machines and more inside. It is mainly piloted by Aorenger."
+ },
+ {
+  "en": "Baribari",
+  "desc_en": ""
+ },
+ {
+  "en": "Variblune",
+  "desc_en": "A large fighter exclusive to Gorenger, designed and developed by EAGLE's science team. Piloted by Aorenger, it can fly at 1,200 km/h. It carries the Gorenger Machines inside."
+ },
+ {
+  "en": "Alien Baltan",
+  "desc_en": "Space ninjas who lost their home planet Baltan to nuclear tests and wander the universe with some 2.2 billion of their kin. They can create copies of themselves, teleport, stop human movement, and fire weird rays that destroy buildings. Their weakness is Specium, an energy found on Mars. Height 50 m, weight 15,000 t. In the game, the weird ray can also attack S-size units, making them a tough foe."
+ },
+ {
+  "en": "Alien Baltan II",
+  "desc_en": "Space ninjas who invaded Earth again leading a great army. A Spellgen reflector on the chest repels the Specium Ray. They invade Earth many more times after this. Height 50 m, weight 15,000 t. In the game, the weird ray can also attack S-size units, making them a tough foe."
+ },
+ {
+  "en": "Hunter Killer",
+  "desc_en": ""
+ },
+ {
+  "en": "Branch Chief Higashi",
+  "desc_en": "Head of the Japan branch of the International Secret Police Organization, the Unicorn Agency, code-named U1. He rarely leaves headquarters, but always led Unicorn with sound judgment. He often gives strong support in the field to agents such as U3 Minami and U7 Kusama, and is a dependable presence."
+ },
+ {
+  "en": "Bijinder",
+  "desc_en": "Mari transforms with the call \"Change Bijinder\" and appears from within a flower garden. Her special attacks are the Bijinder Laser, fired from her chest, and the bowgun. She is weak against cold."
+ },
+ {
+  "en": "Bijinder (Shadow)",
+  "desc_en": "Bijinder's shadow, given physical form for just three minutes by the shadow-making machine of the Shadow Shadow Plan. Its personality is the opposite of the original's, with an evil heart, and it has twice the power."
+ },
+ {
+  "en": "Big Shadow",
+  "desc_en": "The ruler of the secret crime organization Shadow. He plots world conquest using a robot army called the Shadow Assassination Squad. A large organization, it even has a base on the Moon."
+ },
+ {
+  "en": "Alien Pitt",
+  "desc_en": ""
+ },
+ {
+  "en": "Volcano Mask General Magman",
+  "desc_en": "The Black Cross Army's third executive, summoned from Mount Hekla in Iceland. When angry, he erupts and launches volcanic bombs from his head. He commands the Eruption Army."
+ },
+ {
+  "en": "Satoru Hinata",
+  "desc_en": "A clinical test subject of \"Vol\", the unknown cells Dr. Hinata collected at Nojimazaki. 22 years old. Dr. Hinata's eldest son and the Bio heroine's older brother. He was more or less forced into being a test subject by his father, who dreamed of coexistence with new cells that would carry the next generation. Clinical test subject No. 5."
+ },
+ {
+  "en": "Dr. Hinata",
+  "desc_en": "A biophysicist who recognized Number Ten, which appeared at the outer edge of the solar system, as a life form, and was driven out of the TDF of the time for reporting it. He named the new type of cells collected at Nojimazaki \"Vol\" and tried to control them artificially as cells that bring immortality. He is the Bio heroine's real father. He died in the fire at the laboratory three years ago."
+ },
+ {
+  "en": "Hirata",
+  "desc_en": ""
+ },
+ {
+  "en": "Alien Vira",
+  "desc_en": "To destroy the TDF's ultra-long-range radar, it controlled Dr. Yushima, creator of the Yushima Diode, to carry out sabotage. Space shrimp-people with technology advanced enough to stop time. They fire destruction rays from their eyes and blow yellow gas from their mouths. Height 1.8-40 m, weight 100 kg-10,000 t."
+ },
+ {
+  "en": "Hien",
+  "desc_en": "A pollution-monitoring and removal robot developed in Japan. It was stolen by the Iron Mask Party and remodeled into an invasion robot. It can absorb any beam or gas and carries six-tube missile launchers in its abdomen."
+ },
+ {
+  "en": "Hiru-Chameleon",
+  "desc_en": "The form General Black transformed into. He uses camouflage to vanish and toy with enemies. He can also bring back revived monsters using human blood."
+ },
+ {
+  "en": "Bilgamo",
+  "desc_en": ""
+ },
+ {
+  "en": "Hiroshi",
+  "desc_en": "Akira's older brother and Professor Gill's eldest son. Half of the Giant Devil blueprints were hidden on his back, and he continues life on the run from Shadow's pursuers with his caretaker Misao."
+ },
+ {
+  "en": "Akane Hirota",
+  "desc_en": ""
+ },
+ {
+  "en": "Fightlow",
+  "desc_en": "Madou's low-level combatants. Armed with daggers and spears, they carry out the Demon Beasts' operations. They act in groups."
+ },
+ {
+  "en": "Fadita",
+  "desc_en": "Fusion Steel Shell Proto-Zero: Fadita. A prototype Fusion Steel shell created in Naager for fusion tests with the human body. It is also the combat form of the Metal heroine. Since it was built solely to support Lucifard, the combat-specialized Type D, it originally had no weapons, but it later gained a repair function as Lucifard's dedicated support equipment, and the Destroyer Blast, a mechanism that attacks by reversing the flow of that energy."
+ },
+ {
+  "en": "Phantom Soldier",
+  "desc_en": ""
+ },
+ {
+  "en": "Akiko Fuji",
+  "desc_en": ""
+ },
+ {
+  "en": "Black King",
+  "desc_en": ""
+ },
+ {
+  "en": "General Black",
+  "desc_en": "A chief executive of Gel-Shocker. From Russia, he is credited with uniting the Geldam Clan and Shocker. He excels at creating monsters by combining living creatures, and his abilities are said to equal a Rider's. He transforms into Hiru-Chameleon."
+ },
+ {
+  "en": "Alien Black",
+  "desc_en": "Freezing aliens who came from Planet Black to invade Earth and tried to kidnap young men and women for labor. They control the snow-woman kaiju Snowgon and have a forward base on Saturn. Height 2.1 m, weight 99 kg."
+ },
+ {
+  "en": "Furuhashi",
+  "desc_en": ""
+ },
+ {
+  "en": "Blue Hawk",
+  "desc_en": "Shaider's super-dimensional machine. It can break into the Fushigi World and run at 790 km/h. In 1/100 of a second it can transform into a Mach 3 flight mode."
+ },
+ {
+  "en": "Brain",
+  "desc_en": ""
+ },
+ {
+  "en": "Professor Gill",
+  "desc_en": ""
+ },
+ {
+  "en": "Chap Soldier",
+  "desc_en": ""
+ },
+ {
+  "en": "Peggy Matsuyama",
+  "desc_en": "The survivor of EAGLE's Hokkaido branch, which was wiped out by Jade Mask. A bomb expert and a master of kicks. She transforms into Momorenger."
+ },
+ {
+  "en": "Commander Hessler",
+  "desc_en": ""
+ },
+ {
+  "en": "Alien Pedan",
+  "desc_en": ""
+ },
+ {
+  "en": "Bemstar",
+  "desc_en": "A giant space kaiju that flew in from the Crab Nebula. It ate the MAT Station, and the pentagonal mouth on its belly absorbs even Ultraman's Specium Ray. It fires destruction rays from the horn on its head. Height 46 m, weight 61,000 t."
+ },
+ {
+  "en": "Bemular",
+  "desc_en": "foe."
+ },
+ {
+  "en": "Bell Billy",
+  "desc_en": ""
+ },
+ {
+  "en": "Bell Helen",
+  "desc_en": "A descendant of the destroyed Planet Iga. While traveling between planets, she was attacked by Madou and her parents were killed. Burning for revenge ever since, she hunts for Madou. An expert marksman and Bell Billy's older sister. Her younger brother Billy was killed by General Guiler when he tried to take revenge."
+ },
+ {
+  "en": "Voicer",
+  "desc_en": "A former Space Sheriff. Father of Gavan, a.k.a. Retsu Ichijouji; his wife is Tamiko Ichijouji, an Earthling. He holds the key to the super weapon Hoshino Space Cannon, and after his comrade Hunter Killer betrayed him, he was held by Makuu and relentlessly tortured."
+ },
+ {
+  "en": "Boiler Desper",
+  "desc_en": "Its weapon is a heat shower that melts even rock. The claws on its left hand are Fire Claws, which it drives into enemies to burn them to death."
+ },
+ {
+  "en": "Pointer",
+  "desc_en": "A special amphibious vehicle exclusive to the Ultra Garrison. It can generate a barrier and launch missile attacks, and has superb defensive and combat performance. Top speed 365 km/h. In the game it can carry two people besides the driver and is equipped with an anti-L laser cannon."
+ },
+ {
+  "en": "Staff Officer Bogard",
+  "desc_en": "A staff officer of the TDF Joint Operations Headquarters, posted at the Far East Base. One of the five top leaders. He was dispatched from the Washington branch, the largest after the Far East Base."
+ },
+ {
+  "en": "Bosgun",
+  "desc_en": ""
+ },
+ {
+  "en": "Takeshi Hongo",
+  "desc_en": "A genius with an IQ of 600 who researched biochemistry at Jonan University, and an all-round athlete too. Kidnapped by the evil secret organization Shocker, he was remodeled but escaped before his brain was altered, and became a warrior of justice. He stakes his life on the fight against Shocker."
+ },
+ {
+  "en": "Mara",
+  "desc_en": "A female monster born from the silver ray emitted from Shadow Moon's right hand. She always attends behind Shadow Moon. Her red claws on both hands are her trademark."
+ },
+ {
+  "en": "Dr. Maeno",
+  "desc_en": "A female scientist and the leading authority on space biology. With Dr. Segawa she worked on developing the planet-attack super weapon \"R1\", but in the first observation, which took six months, she found no life on Planet Gyeron and chose that planet as R1's testing ground. She later joins the TDF science group, making the \"Active Armor S\" and \"Active Armor L\" available for development in the game."
+ },
+ {
+  "en": "Demon King Psycho",
+  "desc_en": "Leader of the psychic crime group Madou. From Genmu Castle in the Genmu World, a demonic space where matter sucked into a black hole decomposes into atoms and erupts back out, he plots to rule the whole universe, and intimidates even his subordinates with his psychic powers. Psycholer exists as his alter ego, sharing his life."
+ },
+ {
+  "en": "Masaru",
+  "desc_en": "Dr. Komyoji's second son and Mitsuko's younger brother. He continues the journey with his sister in search of the missing Dr. Komyoji. Seeing with a child's eyes, he treats the android Jiro most naturally of all, and noticed Mitsuko's feelings for Jiro early on."
+ },
+ {
+  "en": "Mackjaber",
+  "desc_en": "The enhanced transformation of the Acrobatter that happens when RX turns into Bio Rider. Top speed 700 km/h, and it can operate underwater too. It boasts a 75 m jump."
+ },
+ {
+  "en": "MAT Arrow 1",
+  "desc_en": "MAT's jet fighter-attacker. It launches from the undersea base and can take off and land vertically with VTOL. Its main weapons are missiles and cannons. Crew of 2, length 15 m, top speed Mach 5. In the game it can carry one person besides the pilot."
+ },
+ {
+  "en": "MAT Arrow 2",
+  "desc_en": "MAT's dedicated single-seat small jet fighter. Its circular wing gives it tight turning and high mobility. Length 14 m, top speed Mach 3.8. In the game it can carry one person besides the pilot."
+ },
+ {
+  "en": "MAT Jeep",
+  "desc_en": "MAT's dedicated modified jeep. Armed with bazookas and more, it forms the core of the ground forces."
+ },
+ {
+  "en": "MAT Gyro",
+  "desc_en": "MAT's dedicated ducted-fan multipurpose craft. It can carry the MAT Jeep and other vehicles slung beneath it. Crew of 2, length 13 m, top speed Mach 1. In the game it can carry one person besides the pilot."
+ },
+ {
+  "en": "MAT Vehicle",
+  "desc_en": "MAT's dedicated special investigation vehicle. It attacks kaiju with a rocket launcher mounted on top. Later Ken Sakata fitted it with a stabilizer, increasing its mobility. In the game it can carry two people besides the driver."
+ },
+ {
+  "en": "Mari Matsubara",
+  "desc_en": "The only woman among the SSI secret agents. She usually works as a photographer for a news agency, using an infrared camera to track enemy movements. She is also good at driving the special support vehicle Iron Hawk."
+ },
+ {
+  "en": "Manaka",
+  "desc_en": "A UCMA unit member. Excels in Accuracy."
+ },
+ {
+  "en": "Staff Officer Manabe",
+  "desc_en": "Staff officer at the TDF Far East Base, who also commands the Ultra Garrison. A veteran staff officer who worked at the Washington base until two years ago."
+ },
+ {
+  "en": "Mari",
+  "desc_en": "A female android built by Shadow to defeat 01. A special bomb was built into her body, and the third button on her clothes was the switch. Later Ichiro fitted her with a Conscience Circuit, and she became a warrior of justice."
+ },
+ {
+  "en": "Marine",
+  "desc_en": "Commander Kom's secretary. Taking over from Mimi, in the original show she later becomes Gavan's partner and is posted to Earth. Her marksmanship is top-notch."
+ },
+ {
+  "en": "Marie Hanamura",
+  "desc_en": ""
+ },
+ {
+  "en": "Maribaron",
+  "desc_en": ""
+ },
+ {
+  "en": "Mummy Man",
+  "desc_en": ""
+ },
+ {
+  "en": "Dr. Mikami",
+  "desc_en": "He cooperated with SSI and completed Red Baron's new weapon, the \"Space Wings\". With it, Red Baron gained a new special weapon and the ability to travel in outer space."
+ },
+ {
+  "en": "Miclas",
+  "desc_en": "One of the three Capsule Monsters owned by Dan Moroboshi. From the Buffalo Planet. It prides itself on great strength, but is weak against electricity."
+ },
+ {
+  "en": "Missile Gecko",
+  "desc_en": ""
+ },
+ {
+  "en": "Misao",
+  "desc_en": "Hiroshi's caretaker, a woman who shakes off Shadow's pursuers with him and continues life on the run. Rieko, Akira's caretaker, was an android, but whether Misao was too is unknown."
+ },
+ {
+  "en": "Mister Gold",
+  "desc_en": "BF's top alien executive. A golden knight clad in armor of space steel."
+ },
+ {
+  "en": "Midorenger",
+  "desc_en": "One of the five warriors of the International Secret Defense Organization EAGLE's Japan branch. Kenji Asuka transforms into him. His weapons include the Midomeran, New Midomeran and Mido Puncher. He also toys with enemies through swift movement."
+ },
+ {
+  "en": "Kotaro Minami",
+  "desc_en": "A second-year student in the humanities department of Tosei University. Born on the day of a solar eclipse, he was kidnapped by the dark society Gorgom along with his best friend Nobuhiko Akizuki and remodeled, but escaped before his brain was altered and fights for justice. He carries the King Stone, the Stone of the Sun, inside his body."
+ },
+ {
+  "en": "Saburo Minami",
+  "desc_en": "A boy who happened to be present at One-Seven's start-up, removed its electromagnetic filter and became able to share his heart with it. He communicates through a helmet given to him by One-Seven. His parents and sister were killed by a Brain robot."
+ },
+ {
+  "en": "Juro Minami",
+  "desc_en": "must."
+ },
+ {
+  "en": "Takeshi Minami",
+  "desc_en": ""
+ },
+ {
+  "en": "Kaori Minoshima",
+  "desc_en": "A 20-year-old friend of Satoru Hinata, said to have been dating Tatsuya. She often came and went at the Hinata Laboratory with Tatsuya Todo. A carrier of Vol cells, she transforms into the EATER Valkyria. She had been missing since the fire at the laboratory three years ago. Clinical test subject No. 9."
+ },
+ {
+  "en": "Assistant Minoshima",
+  "desc_en": ""
+ },
+ {
+  "en": "Mimi",
+  "desc_en": ""
+ },
+ {
+  "en": "Miracler",
+  "desc_en": "The lowest-ranking soldiers of the Fushigi World Fuuma. They obey any order and fight with a weapon that fuses a spear and an axe. They can also disguise themselves skillfully as humans."
+ },
+ {
+  "en": "Muramatsu",
+  "desc_en": "A veteran who took office when the Science Patrol's Japan branch was founded. Sturdy and sincere, with excellent judgment and decisiveness. Strict about work, but also a good leader, much trusted by his subordinates. His real name is Toshio Muramatsu."
+ },
+ {
+  "en": "Metal Hero (Male)",
+  "desc_en": ""
+ },
+ {
+  "en": "Metal Heroine (Female)",
+  "desc_en": ""
+ },
+ {
+  "en": "Alien Mefilas",
+  "desc_en": "destruction ray can also attack S-size units, making it a tough foe."
+ },
+ {
+  "en": "Moto-Sharian",
+  "desc_en": "Sharivan's combat machine. Armed with the Moto-Sharian Laser, it can break into the Genmu World and races at 700 km/h. It launches from the Grand Birth."
+ },
+ {
+  "en": "Momorenger",
+  "desc_en": "One of the five warriors of the International Secret Defense Organization EAGLE's Japan branch. Peggy Matsuyama transforms into her. She reads opponents' hearts with the Heart Mirror and throws the Momo Card like a shuriken."
+ },
+ {
+  "en": "Dan Moroboshi",
+  "desc_en": "The temporary earthly form of Fixed-star Observer No. 340, Ultraseven. It is modeled on Jiro Satsuma, a brave young man who tried to save a friend in a climbing accident without regard for his own life. He posed as a drifter, but his achievements were recognized and he became an Ultra Garrison member. In the game he can transform at Morale 105 or higher."
+ },
+ {
+  "en": "Baseball Mask",
+  "desc_en": ""
+ },
+ {
+  "en": "Isamu Yazaki",
+  "desc_en": "A lonely boy who was a little bad at making friends, until he happened to meet Brain's robot One-Eight and shared his heart with it. One-Eight's actions were normally controlled by its Satan Circuit, but it opened its heart to him alone."
+ },
+ {
+  "en": "Dr. Yazawa",
+  "desc_en": ""
+ },
+ {
+  "en": "Staff Officer Yanagawa",
+  "desc_en": "Staff officer at the TDF Far East Base. One of the five top leaders."
+ },
+ {
+  "en": "Yanagiya",
+  "desc_en": "A UCMA unit member. Only recently assigned. Has lots of room to grow."
+ },
+ {
+  "en": "Director Yamaoka",
+  "desc_en": ""
+ },
+ {
+  "en": "Fusion Steel",
+  "desc_en": "boasts fearsome performance as a weapon. However, information transfer after fusion is said to have limits, and to make this fusion complete, mediation by the Vol, which are archaebacterial cells, is said to be necessary."
+ },
+ {
+  "en": "Joji Yuki",
+  "desc_en": ""
+ },
+ {
+  "en": "Dr. Yushima",
+  "desc_en": ""
+ },
+ {
+  "en": "Anne Yuri",
+  "desc_en": "The only woman in the Ultra Garrison, she also serves on the staff of the Defense Force's Medical Center. Granddaughter of Dr. Genzaburo Yuri, an authority on space navigation. She has faint feelings of love for Dan. In the game she has repair skills."
+ },
+ {
+  "en": "Dr. Genzaburo Yuri",
+  "desc_en": "Grandfather of Ultra Garrison member Anne. An authority on space navigation, he later joins the TDF science group and is active as a scientist. His joining makes the \"Reload Magazine S\" and \"EN Repair Kit S\" available for development."
+ },
+ {
+  "en": "Marshal Armor",
+  "desc_en": ""
+ },
+ {
+  "en": "Raijingo",
+  "desc_en": "Inazuman's dedicated vehicle, with a dog's brain built in. It flies at Mach 3 and fights enemy fighters with rockets and its bite. It is also an all-purpose combat craft that can dive underwater and underground. In the game it can carry up to two units besides Inazuman."
+ },
+ {
+  "en": "Riderman",
+  "desc_en": "Joji Yuki transforms by donning a reinforced suit. His right arm is mechanized and fits various attachments such as the Power Arm and Rope Arm. His machine is the Riderman Machine."
+ },
+ {
+  "en": "Riderman Machine",
+  "desc_en": "Riderman's dedicated machine, converted from an ordinary motorcycle. The mask, reinforced suit and attachments are stored under the seat. Nuclear-powered, it can reach a top speed of 250 km/h."
+ },
+ {
+  "en": "Rieko",
+  "desc_en": "Akira's caretaker, a woman who shakes off Shadow's pursuers with him and continues life on the run. She was actually an android built by Gill."
+ },
+ {
+  "en": "Rita",
+  "desc_en": ""
+ },
+ {
+  "en": "Lily",
+  "desc_en": ""
+ },
+ {
+  "en": "Lucifard",
+  "desc_en": "and has a specification that pushes its solo combat ability to the extreme. Its weapons include the Twin Linear Gun and Maser Bits."
+ },
+ {
+  "en": "Raider",
+  "desc_en": ""
+ },
+ {
+  "en": "Red King",
+  "desc_en": ""
+ },
+ {
+  "en": "Red Baron",
+  "desc_en": "A super robot that robotics engineer Kenichiro Kurenai spent four years developing. It is piloted by his younger brother Ken Kurenai. It boasts an output of 10,000 horsepower, and its special attack is the Electrigger, a 100-million-volt high-voltage current released from its head. It was later powered up with the Space Wings and the Drill Arrow."
+ },
+ {
+  "en": "Red Baron Space Wings",
+  "desc_en": "Red Baron's flight form fitted with the Space Wings designed by Dr. Mikami. Red Baron can fly on its own, but equipping the Space Wings let it sortie into space as well."
+ },
+ {
+  "en": "Roller Robot",
+  "desc_en": "A Brain Party invasion robot. It causes landslides with the Megaton Roller at its front and fires destruction rays from the horn on its head. It killed young Saburo's family."
+ },
+ {
+  "en": "Roboizer",
+  "desc_en": "The enhanced transformation of the Acrobatter that happens when RX turns into Robo Rider. Top speed 800 km/h. It can fire rockets from its rear. It has a sturdy body."
+ },
+ {
+  "en": "Robo Rider",
+  "desc_en": ""
+ },
+ {
+  "en": "Washi Beast",
+  "desc_en": "It confuses enemies by firing phantom rays from its eyes. It can also fly and swoops down to attack enemies."
+ },
+ {
+  "en": "Goro Watari",
+  "desc_en": ""
+ },
+ {
+  "en": "Shinobu Watari",
+  "desc_en": "Goro Watari's mother, separated from him 15 years ago and missing ever since. Goro himself confirmed it was her through a matching rose pendant and a rose-shaped birthmark. Because she had mutant potential, Banba forcibly remodeled her, and she transforms into Bara Banbara. But she had not lost her mother's heart."
+ },
+ {
+  "en": "Waruder",
+  "desc_en": ""
+ },
+ {
+  "en": "Waruder (Shadow)",
+  "desc_en": ""
+ },
+ {
+  "en": "One-Eight",
+  "desc_en": "A robot made by Brain as One-Seven's younger brother. Because it has a built-in Satan Circuit, it obeys only Brain's orders. But after opening its heart a little to young Yazaki, it gradually awakens to a sense of justice."
+ },
+ {
+  "en": "-----",
+  "desc_en": ""
+ },
+ {
+  "en": "Original",
+  "desc_en": ""
+ },
+ {
+  "en": "Modern Weapons",
+  "desc_en": ""
+ },
+ {
+  "en": "Ultraman",
+  "desc_en": ""
+ },
+ {
+  "en": "Ultraseven",
+  "desc_en": ""
+ },
+ {
+  "en": "Ultraman Jack",
+  "desc_en": ""
+ },
+ {
+  "en": "Giant Robo",
+  "desc_en": ""
+ },
+ {
+  "en": "Kamen Rider",
+  "desc_en": ""
+ },
+ {
+  "en": "Kamen Rider V3",
+  "desc_en": ""
+ },
+ {
+  "en": "Kamen Rider BLACK",
+  "desc_en": ""
+ },
+ {
+  "en": "Kamen Rider BLACK RX",
+  "desc_en": ""
+ },
+ {
+  "en": "Himitsu Sentai Gorenger",
+  "desc_en": ""
+ },
+ {
+  "en": "Android Kikaider",
+  "desc_en": ""
+ },
+ {
+  "en": "Android Kikaider 01",
+  "desc_en": ""
+ },
+ {
+  "en": "Inazuman",
+  "desc_en": ""
+ },
+ {
+  "en": "Inazuman Flash",
+  "desc_en": ""
+ },
+ {
+  "en": "Daitetsujin One-Seven",
+  "desc_en": ""
+ },
+ {
+  "en": "Space Sheriff Gavan",
+  "desc_en": ""
+ },
+ {
+  "en": "Space Sheriff Sharivan",
+  "desc_en": ""
+ },
+ {
+  "en": "Space Sheriff Shaider",
+  "desc_en": ""
+ },
+ {
+  "en": "Red Baron",
+  "desc_en": ""
+ },
+ {
+  "en": "TDF",
+  "desc_en": ""
+ }
+]

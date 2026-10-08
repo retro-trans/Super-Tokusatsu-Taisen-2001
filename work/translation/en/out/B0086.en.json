@@ -1,0 +1,388 @@
+{
+ "batch": "B0086",
+ "rows": [
+  {
+   "uid": "U06818",
+   "en": "Once Gorgom has its eye on you, there's no escaping! Gorgom is a band of devils!"
+  },
+  {
+   "uid": "U06819",
+   "en": "And you sold us… to that band of devils!"
+  },
+  {
+   "uid": "U06820",
+   "en": "Obeying Gorgom is the only way to survive, Kotaro!<p>In the world to come, only those chosen by Gorgom will be allowed to live! Mankind will be culled!<p>Kotaro, you and Nobuhiko at least… become Gorgom's Century Kings and survive!"
+  },
+  {
+   "uid": "U06821",
+   "en": "I refuse! I'll never obey them!<p>Look at this body of mine, Dad. They modified me, I'm not a normal human anymore. How can something like this be allowed!?<p>Those bastards… they're trying to steal humanity's freedom!"
+  },
+  {
+   "uid": "U06822",
+   "en": "Kotaro!!"
+  },
+  {
+   "uid": "U06823",
+   "en": "Guaaaah!"
+  },
+  {
+   "uid": "U06824",
+   "en": "…!?"
+  },
+  {
+   "uid": "U06825",
+   "en": "Waaaaagh!"
+  },
+  {
+   "uid": "U06826",
+   "en": "Dad!!"
+  },
+  {
+   "uid": "U06827",
+   "en": "Kyoko… Ugh… Take care of… Nobuhiko…"
+  },
+  {
+   "uid": "U06828",
+   "en": "Daaaaad!!"
+  },
+  {
+   "uid": "U06829",
+   "en": "Guh…!!"
+  },
+  {
+   "uid": "U06830",
+   "en": "I am Gorgom's Century King, Black Sun… No… I am Kamen Riderrr… BLAAACK!"
+  },
+  {
+   "uid": "U06831",
+   "en": "Is everyone safe?"
+  },
+  {
+   "uid": "U06832",
+   "en": "Yeah, we're fine…"
+  },
+  {
+   "uid": "U06833",
+   "en": "Good to hear…<p>By the way, who are you two?"
+  },
+  {
+   "uid": "U06834",
+   "en": "I'm Raita Narukami… I do research on lightning here at the Narukami Lightning Laboratory."
+  },
+  {
+   "uid": "U06835",
+   "en": "But you're still a kid… Isn't that a little too hard for you?"
+  },
+  {
+   "uid": "U06836",
+   "en": "Not at all. Raita is a genius child with an IQ of 250. His brain is built differently from yours."
+  },
+  {
+   "uid": "U06837",
+   "en": "Tch… Yeah, yeah, I guess I'm all muscle, right up into my head!"
+  },
+  {
+   "uid": "U06838",
+   "en": "And you are?"
+  },
+  {
+   "uid": "U06839",
+   "en": "I'm Hikaru Inazuma… Raita's assistant."
+  },
+  {
+   "uid": "U06840",
+   "en": "She may be my assistant… but she holds lots of doctorates."
+  },
+  {
+   "uid": "U06841",
+   "en": "Whoa… That's how women should be from now on! Totally different from a certain somebody."
+  },
+  {
+   "uid": "U06842",
+   "en": "And what's that supposed to mean!?"
+  },
+  {
+   "uid": "U06843",
+   "en": "Research on lightning? What sort of research?"
+  },
+  {
+   "uid": "U06844",
+   "en": "To put it simply, research into converting the electric current of lightning into energy."
+  },
+  {
+   "uid": "U06845",
+   "en": "Why would you do that?"
+  },
+  {
+   "uid": "U06846",
+   "en": "As you know, lightning is electricity drawn together by plus and minus."
+  },
+  {
+   "uid": "U06847",
+   "en": "Plus and minus, huh…<p>Magnets are made of plus and minus too, aren't they? And batteries and such, too…"
+  },
+  {
+   "uid": "U06848",
+   "en": "You're quite sharp… aren't you?<p>Exactly… We've been gathering the lightning's energy using lightning rods that exploit that property."
+  },
+  {
+   "uid": "U06849",
+   "en": "(Something's off…? Genius or not, a little kid doing research like this…<p>All right, I'll have Commander Kom look into it…)"
+  },
+  {
+   "uid": "U06850",
+   "en": "How is the Beast Aliens' ultrasonic whistle coming along?"
+  },
+  {
+   "uid": "U06851",
+   "en": "Sir…<p>We are working together with DARK's Professor Gill, and development is currently proceeding at full speed."
+  },
+  {
+   "uid": "U06852",
+   "en": "Hurry the development of the ultrasonic whistle! We will make a bloody sacrifice of those Space Sheriffs."
+  },
+  {
+   "uid": "U06853",
+   "en": "Fortunately, Fuuma's Commander Hessler is said to have obtained Ozuma!<p>With the Kyurians' esper powers, the ultrasonic whistle is as good as complete…"
+  },
+  {
+   "uid": "U06854",
+   "en": "Very good… I look forward to good news."
+  },
+  {
+   "uid": "U06855",
+   "en": "Is it around here, [HERO4]?"
+  },
+  {
+   "uid": "U06856",
+   "en": "Yes…<p>According to the command satellite's survey data, there was another high energy reading, though only for an instant…"
+  },
+  {
+   "uid": "U06857",
+   "en": "Isn't it just another mutant or something?"
+  },
+  {
+   "uid": "U06858",
+   "en": "No…<p>It's a higher energy reading than with Hongo or Hayato… or even Shiro."
+  },
+  {
+   "uid": "U06859",
+   "en": "…I think."
+  },
+  {
+   "uid": "U06860",
+   "en": "\"You think\"? Did you really sense power that strong?"
+  },
+  {
+   "uid": "U06861",
+   "en": "Yeah. To be honest, it's bad news! I mean, it's the strongest I've ever sensed…"
+  },
+  {
+   "uid": "U06862",
+   "en": "A cyborg…<p>So… that black one is one too!?"
+  },
+  {
+   "uid": "U06863",
+   "en": "That one's a cyborg too…?"
+  },
+  {
+   "uid": "U06864",
+   "en": "Nuooooh!!"
+  },
+  {
+   "uid": "U06865",
+   "en": "Sharivan, about that boy you asked us to investigate, Raita Narukami… It seems he's a refugee from Planet Lake."
+  },
+  {
+   "uid": "U06866",
+   "en": "Planet Lake?"
+  },
+  {
+   "uid": "U06867",
+   "en": "It's another 15 light-years beyond Planet Bird."
+  },
+  {
+   "uid": "U06868",
+   "en": "So that boy came all the way from such a distant planet, then?"
+  },
+  {
+   "uid": "U06869",
+   "en": "And we believe that boy may be Ben, the son of Dr. Barnes…<p>Dr. Barnes was a nuclear physicist on Planet Lake. He was developing the Radiation Clean System to protect life from radioactive contamination.<p>And… Madou set its sights on that system!"
+  },
+  {
+   "uid": "U06870",
+   "en": "Madou did…!?"
+  },
+  {
+   "uid": "U06871",
+   "en": "Naturally, Dr. Barnes refused.<p>Makuu attacked Planet Lake to seize the system by force. Sensing he was in danger, Dr. Barnes fled to Earth with his son, Ben!<p>The name Raita Narukami is an alias to hide his identity…"
+  },
+  {
+   "uid": "U06872",
+   "en": "Then the lightning research too?"
+  },
+  {
+   "uid": "U06873",
+   "en": "Most likely it's for camouflage.<p>Sharivan! Protect Dr. Barnes and his son Ben! Madou's evil clutches are reaching for them…<p>I've sent Gavan to protect Dr. Barnes! Join up with him…"
+  },
+  {
+   "uid": "U06874",
+   "en": "Yes, sir!"
+  },
+  {
+   "uid": "U06875",
+   "en": "Who's there?"
+  },
+  {
+   "uid": "U06876",
+   "en": "Space Sheriff Gavan."
+  },
+  {
+   "uid": "U06877",
+   "en": "Gavan?"
+  },
+  {
+   "uid": "U06878",
+   "en": "Makuu is after you! You're in danger if you stay like this."
+  },
+  {
+   "uid": "U06879",
+   "en": "Ugh, stay away!"
+  },
+  {
+   "uid": "U06880",
+   "en": "We're on your side! We came to protect you and your son…"
+  },
+  {
+   "uid": "U06881",
+   "en": "Commander Kom told me to join up with you…"
+  },
+  {
+   "uid": "U06882",
+   "en": "I see…<p>Dr. Barnes, come with us…!?"
+  },
+  {
+   "uid": "U06883",
+   "en": "…………"
+  },
+  {
+   "uid": "U06884",
+   "en": "What is this…!?"
+  },
+  {
+   "uid": "U06885",
+   "en": "It was set up so the computer would respond to a human voice!"
+  },
+  {
+   "uid": "U06886",
+   "en": "He was already dead…!?"
+  },
+  {
+   "uid": "U06887",
+   "en": "…!?<p>These are the blueprints for the Radiation Clean System! After Dr. Barnes died, his son Ben must have taken over the research! And completed it!"
+  },
+  {
+   "uid": "U06888",
+   "en": "That's Raita, then!<p>So he was the son of a nuclear physicist from Planet Lake… That's why, even though he's only 11, he could do research like that…"
+  },
+  {
+   "uid": "U06889",
+   "en": "This is bad!<p>If Madou learns of this, they'll go after Raita!!"
+  },
+  {
+   "uid": "U06890",
+   "en": "Ha ha ha… So Dr. Barnes was dead! No wonder we couldn't find him!"
+  },
+  {
+   "uid": "U06891",
+   "en": "Madou will take the son, Ben! As for you, you can rot right here! Eliminate them!! Attack!"
+  },
+  {
+   "uid": "U06892",
+   "en": "Captain! I heard from Commander Kom! We'll help too."
+  },
+  {
+   "uid": "U06893",
+   "en": "Right, I'm counting on you!<p>Johchaku!!"
+  },
+  {
+   "uid": "U06894",
+   "en": "Sekisha!!"
+  },
+  {
+   "uid": "U06895",
+   "en": "Ha ha ha… Damn you Space Sheriffs! Feel the power of Ozuma!!"
+  },
+  {
+   "uid": "U06896",
+   "en": "…………"
+  },
+  {
+   "uid": "U06897",
+   "en": "Ha ha ha! I did it! Damn you Space Sheriffs! This is your grave!<p>Subjugate!! Ozuma, finish them off!!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U06827: 杏子 is Kotaro's (adopted) sister Kyoko Akizuki; not in glossary.",
+   "U06830: [ja] rendered \"Kamen Riderrr… BLAAACK!\" (stretched form of glossary \"Kamen Rider BLACK\").",
+   "U06862/U06863: 改造人間 rendered \"cyborg\" in dialogue (in line with サイボーグ elsewhere); could be \"modified human\".",
+   "U06856: 指揮衛星 rendered \"command satellite\"; may be a glyph error (監視衛星 surveillance satellite?).",
+   "U06858: [ja] from [HERO4] rendered with honorifics dropped.",
+   "U06865: レイク星 rendered \"Planet Lake\" (katakana loanword reading); could be \"Planet Reik\".",
+   "U06892: Dai Sawamura calls Gavan 隊長, rendered \"Captain\".",
+   "U06897: Hessler's cry 征伐 rendered \"Subjugate!!\" (Fuuma battle cry)."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Kyoko",
+    "why": "not in glossary (Kyoko Akizuki)"
+   },
+   {
+    "en": "Narukami Lightning Laboratory",
+    "why": "not in glossary"
+   },
+   {
+    "en": "ultrasonic whistle",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Beast Aliens",
+    "why": "from glossary 獣星人ダブルマン = Beast Alien Doubleman"
+   },
+   {
+    "en": "Planet Lake",
+    "why": "not in glossary"
+   },
+   {
+    "en": "command satellite",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U06821",
+    "likely": "普通"
+   },
+   {
+    "uid": "U06836",
+    "likely": "天才児"
+   },
+   {
+    "uid": "U06837",
+    "likely": "筋肉"
+   },
+   {
+    "uid": "U06851",
+    "likely": "現在"
+   },
+   {
+    "uid": "U06879",
+    "likely": "寄るな"
+   }
+  ]
+ }
+}

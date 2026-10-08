@@ -1,0 +1,487 @@
+{
+ "batch": "B0158",
+ "prev": "B0157",
+ "next": "B0159",
+ "rows": [
+  {
+   "uid": "U12581",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12582",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U12583",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U12584",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U12585",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U12586",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12587",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U12588",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U12589",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U12590",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12591",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U12592",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U12593",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12594",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U12595",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12596",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U12597",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U12598",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12599",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12600",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12601",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12602",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U12603",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U12604",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12605",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U12606",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U12607",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U12608",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U12609",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12610",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U12611",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12612",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U12613",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U12614",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U12615",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U12616",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U12617",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U12618",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U12619",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12620",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U12621",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12622",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U12623",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U12624",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U12625",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U12626",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U12627",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12628",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12629",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U12630",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12631",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12632",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12633",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U12634",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U12635",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U12636",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U12637",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U12638",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U12639",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zoffy"
+  },
+  {
+   "uid": "U12640",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraseven"
+  },
+  {
+   "uid": "U12641",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zoffy"
+  },
+  {
+   "uid": "U12642",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraseven"
+  },
+  {
+   "uid": "U12643",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraseven"
+  },
+  {
+   "uid": "U12644",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zoffy"
+  },
+  {
+   "uid": "U12645",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zoffy"
+  },
+  {
+   "uid": "U12646",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraseven"
+  },
+  {
+   "uid": "U12647",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zoffy"
+  },
+  {
+   "uid": "U12648",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U12649",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12650",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U12651",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U12652",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12653",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U12654",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U12655",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U12656",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U12657",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U12658",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U12659",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U12660",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  }
+ ]
+}

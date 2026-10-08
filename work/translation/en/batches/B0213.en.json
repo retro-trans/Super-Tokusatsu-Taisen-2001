@@ -1,0 +1,487 @@
+{
+ "batch": "B0213",
+ "prev": "B0212",
+ "next": "B0214",
+ "rows": [
+  {
+   "uid": "U16986",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U16987",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U16988",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U16989",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U16990",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U16991",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U16992",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U16993",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U16994",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U16995",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U16996",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U16997",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U16998",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U16999",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17000",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17001",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17002",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17003",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17004",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17005",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17006",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17007",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17008",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U17009",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U17010",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U17011",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U17012",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U17013",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U17014",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U17015",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U17016",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U17017",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U17018",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U17019",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U17020",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U17021",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U17022",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U17023",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U17024",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U17025",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U17026",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U17027",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U17028",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U17029",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U17030",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U17031",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman"
+  },
+  {
+   "uid": "U17032",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17033",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17034",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17035",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17036",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Inazuman Flash"
+  },
+  {
+   "uid": "U17037",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U17038",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U17039",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U17040",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U17041",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U17042",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U17043",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U17044",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U17045",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U17046",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U17047",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U17048",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U17049",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U17050",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U17051",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U17052",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U17053",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sigcon Jet"
+  },
+  {
+   "uid": "U17054",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sigcon Jet"
+  },
+  {
+   "uid": "U17055",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sigcon Jet"
+  },
+  {
+   "uid": "U17056",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sigcon Jet"
+  },
+  {
+   "uid": "U17057",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sigcon Jet"
+  },
+  {
+   "uid": "U17058",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17059",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17060",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17061",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17062",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17063",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17064",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17065",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  }
+ ]
+}

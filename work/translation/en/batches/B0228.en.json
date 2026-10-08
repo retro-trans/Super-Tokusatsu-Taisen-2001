@@ -1,0 +1,487 @@
+{
+ "batch": "B0228",
+ "prev": "B0227",
+ "next": "B0229",
+ "rows": [
+  {
+   "uid": "U18186",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U18187",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U18188",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U18189",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U18190",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U18191",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U18192",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U18193",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U18194",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U18195",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18196",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18197",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18198",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18199",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18200",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18201",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18202",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18203",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18204",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18205",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18206",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U18207",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Flame Fighter"
+  },
+  {
+   "uid": "U18208",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Flame Fighter"
+  },
+  {
+   "uid": "U18209",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Flame Fighter"
+  },
+  {
+   "uid": "U18210",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Flame Fighter"
+  },
+  {
+   "uid": "U18211",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Flame Fighter"
+  },
+  {
+   "uid": "U18212",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Flame Fighter"
+  },
+  {
+   "uid": "U18213",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Flame Fighter"
+  },
+  {
+   "uid": "U18214",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Flame Fighter"
+  },
+  {
+   "uid": "U18215",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Flame Fighter"
+  },
+  {
+   "uid": "U18216",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U18217",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U18218",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U18219",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U18220",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U18221",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U18222",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U18223",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U18224",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U18225",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U18226",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U18227",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U18228",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U18229",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U18230",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U18231",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U18232",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18233",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18234",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18235",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18236",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18237",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18238",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18239",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18240",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18241",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18242",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18243",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18244",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18245",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18246",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18247",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18248",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U18249",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gel-Shocker Combatant"
+  },
+  {
+   "uid": "U18250",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gel-Shocker Combatant"
+  },
+  {
+   "uid": "U18251",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gel-Shocker Combatant"
+  },
+  {
+   "uid": "U18252",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Destron Combatant"
+  },
+  {
+   "uid": "U18253",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Destron Combatant"
+  },
+  {
+   "uid": "U18254",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Destron Combatant"
+  },
+  {
+   "uid": "U18255",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Destron Combatant"
+  },
+  {
+   "uid": "U18256",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chap Soldier"
+  },
+  {
+   "uid": "U18257",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chap Soldier"
+  },
+  {
+   "uid": "U18258",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chap Soldier"
+  },
+  {
+   "uid": "U18259",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chap Soldier"
+  },
+  {
+   "uid": "U18260",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Spider Man"
+  },
+  {
+   "uid": "U18261",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Spider Man"
+  },
+  {
+   "uid": "U18262",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Spider Man"
+  },
+  {
+   "uid": "U18263",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bat Man"
+  },
+  {
+   "uid": "U18264",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bat Man"
+  },
+  {
+   "uid": "U18265",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bat Man"
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0026",
+ "prev": "B0025",
+ "next": "B0027",
+ "rows": [
+  {
+   "uid": "U02008",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02009",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02010",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U02011",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02012",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U02013",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02014",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U02015",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U02016",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U02017",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U02018",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Juro Minami"
+  },
+  {
+   "uid": "U02019",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U02020",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U02021",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U02022",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02023",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02024",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02025",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02026",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02027",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02028",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02029",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02030",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02031",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02032",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02033",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02034",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02035",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U02036",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02037",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02038",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U02039",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02040",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02041",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02042",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02043",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02044",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02045",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U02046",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U02047",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U02048",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U02049",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02050",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U02051",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02052",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U02053",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02054",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U02055",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02056",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U02057",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02058",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U02059",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02060",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U02061",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U02062",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02063",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U02064",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02065",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02066",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02067",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02068",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02069",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02070",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02071",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02072",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02073",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02074",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02075",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02076",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02077",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02078",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02079",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02080",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U02081",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U02082",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U02083",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02084",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02085",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02086",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02087",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0210",
+ "prev": "B0209",
+ "next": "B0211",
+ "rows": [
+  {
+   "uid": "U16746",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16747",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U16748",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U16749",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U16750",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U16751",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U16752",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U16753",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U16754",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U16755",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U16756",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U16757",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U16758",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U16759",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U16760",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U16761",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U16762",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U16763",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U16764",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U16765",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U16766",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U16767",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U16768",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U16769",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U16770",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U16771",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U16772",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U16773",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16774",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16775",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16776",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16777",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16778",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16779",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16780",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16781",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16782",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16783",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16784",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16785",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16786",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16787",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16788",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16789",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16790",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16791",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16792",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gavan"
+  },
+  {
+   "uid": "U16793",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U16794",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U16795",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U16796",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U16797",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U16798",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U16799",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U16800",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U16801",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16802",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16803",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16804",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16805",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16806",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16807",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16808",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16809",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16810",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16811",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16812",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16813",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16814",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16815",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16816",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16817",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16818",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sharivan"
+  },
+  {
+   "uid": "U16819",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lily"
+  },
+  {
+   "uid": "U16820",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lily"
+  },
+  {
+   "uid": "U16821",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lily"
+  },
+  {
+   "uid": "U16822",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lily"
+  },
+  {
+   "uid": "U16823",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lily"
+  },
+  {
+   "uid": "U16824",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lily"
+  },
+  {
+   "uid": "U16825",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lily"
+  }
+ ]
+}

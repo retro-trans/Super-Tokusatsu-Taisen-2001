@@ -1,0 +1,487 @@
+{
+ "batch": "B0096",
+ "prev": "B0095",
+ "next": "B0097",
+ "rows": [
+  {
+   "uid": "U07619",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07620",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07621",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07622",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07623",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07624",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07625",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07626",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07627",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07628",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07629",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07630",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07631",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07632",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07633",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07634",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07635",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07636",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07637",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07638",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07639",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07640",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07641",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07642",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07643",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07644",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07645",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07646",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07647",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U07648",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U07649",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07650",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U07651",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07652",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U07653",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07654",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U07655",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07656",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U07657",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U07658",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U07659",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U07660",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U07661",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07662",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07663",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07664",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07665",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07666",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07667",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07668",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07669",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U07670",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07671",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tactician Raider"
+  },
+  {
+   "uid": "U07672",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07673",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07674",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07675",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07676",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Sharivan"
+  },
+  {
+   "uid": "U07677",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07678",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07679",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07680",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07681",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07682",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07683",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07684",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07685",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bell Helen"
+  },
+  {
+   "uid": "U07686",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U07687",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U07688",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07689",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07690",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07691",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07692",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07693",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07694",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U07695",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07696",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U07697",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07698",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  }
+ ]
+}

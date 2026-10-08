@@ -1,0 +1,436 @@
+{
+ "batch": "B0137",
+ "rows": [
+  {
+   "uid": "U10901",
+   "en": "What!?"
+  },
+  {
+   "uid": "U10902",
+   "en": "Hoi! They've broken into the archive room!"
+  },
+  {
+   "uid": "U10903",
+   "en": "Hoi! They're closing in on the powder magazine!"
+  },
+  {
+   "uid": "U10904",
+   "en": "Blast it, there's no choice! Jettison the archive room and escape!"
+  },
+  {
+   "uid": "U10905",
+   "en": "Damn… The Navaron cut loose this archive room and got away!"
+  },
+  {
+   "uid": "U10906",
+   "en": "…!?<p>What's this!?"
+  },
+  {
+   "uid": "U10907",
+   "en": "It's the Navaron's blueprints!"
+  },
+  {
+   "uid": "U10908",
+   "en": "No good… Going by these blueprints, I can't even tell where the command room is."
+  },
+  {
+   "uid": "U10909",
+   "en": "Looks like every part of it can be detached however they like, huh?"
+  },
+  {
+   "uid": "U10910",
+   "en": "So no matter how much we attack it, we can't deal it a decisive blow?"
+  },
+  {
+   "uid": "U10911",
+   "en": "Somehow… it looks like nothin' but a rough draft of a blueprint, eh?"
+  },
+  {
+   "uid": "U10912",
+   "en": "Too bad…<p>I thought this would let us finally take down the Navaron!"
+  },
+  {
+   "uid": "U10913",
+   "en": "It's too early to give up! This may be a concealed design…"
+  },
+  {
+   "uid": "U10914",
+   "en": "A concealed design?"
+  },
+  {
+   "uid": "U10915",
+   "en": "That's right! The key parts are hidden in advance, so it's safe even if someone spies on it."
+  },
+  {
+   "uid": "U10916",
+   "en": "Kaijo… what if we hold it over a fire? Reckon somethin'll show up?"
+  },
+  {
+   "uid": "U10917",
+   "en": "Oh… It might come out with a surprisingly simple trick! Peggy!"
+  },
+  {
+   "uid": "U10918",
+   "en": "Okay!"
+  },
+  {
+   "uid": "U10919",
+   "en": "Well?"
+  },
+  {
+   "uid": "U10920",
+   "en": "Nothing…"
+  },
+  {
+   "uid": "U10921",
+   "en": "Don't give up! There must be some way…"
+  },
+  {
+   "uid": "U10922",
+   "en": "Nngh… Volcano Mask, you have lost!"
+  },
+  {
+   "uid": "U10923",
+   "en": "Your Excellency! Give me one more chance! This time, I swear…"
+  },
+  {
+   "uid": "U10924",
+   "en": "Now that the blueprints are in enemy hands… the Navaron has lost its value as a fortress! You have lost!"
+  },
+  {
+   "uid": "U10925",
+   "en": "Your Excellency…! Please wait, please wait!<p>Those blueprints have a special trick built into them! A quick look shouldn't reveal the Navaron's secrets…<p>Your Excellency…!"
+  },
+  {
+   "uid": "U10926",
+   "en": "Everyone, listen well! We now challenge the Gorenger to a decisive battle!<p>There will be no retreat! We advance until we win! Understood?"
+  },
+  {
+   "uid": "U10927",
+   "en": "Hoiii!"
+  },
+  {
+   "uid": "U10928",
+   "en": "Right… Navaron, charge!"
+  },
+  {
+   "uid": "U10929",
+   "en": "The Navaron is advancing while destroying the EAGLE branches in each district!<p>They've decided to go all out before we can decode the blueprints, haven't they?"
+  },
+  {
+   "uid": "U10930",
+   "en": "Commander… At this rate, EAGLE will be wiped out!<p>Let us sortie the Varidreen…"
+  },
+  {
+   "uid": "U10931",
+   "en": "No… It has a barrier against attacks from the air."
+  },
+  {
+   "uid": "U10932",
+   "en": "What about the Varitank? From underground again…"
+  },
+  {
+   "uid": "U10933",
+   "en": "The enemy's not stupid… Do you think the same trick will work twice?"
+  },
+  {
+   "uid": "U10934",
+   "en": "Then… you're telling us to just sit tight like this?"
+  },
+  {
+   "uid": "U10935",
+   "en": "What we must do is decode those blueprints as quickly as possible!"
+  },
+  {
+   "uid": "U10936",
+   "en": "Fiiire! Fire away! Lost your nerve, Gorenger? Fire! Destroooy!"
+  },
+  {
+   "uid": "U10937",
+   "en": "Following EAGLE Branch 25, the 26th Kanto Branch has also been destroyed…"
+  },
+  {
+   "uid": "U10938",
+   "en": "Damn that Volcano Mask…"
+  },
+  {
+   "uid": "U10939",
+   "en": "Commander… The TDF Security Squad has gone out to intercept!"
+  },
+  {
+   "uid": "U10940",
+   "en": "Mm… I hope they can buy us some time…<p>All right… run it through the decoder one more time!"
+  },
+  {
+   "uid": "U10941",
+   "en": "So that's the mobile fortress Navaron?"
+  },
+  {
+   "uid": "U10942",
+   "en": "Listen up! Don't even think about destroying that mobile fortress!<p>It's enough for us if we can keep the damage from its attacks to a minimum!<p>At present… we have no idea at all how to destroy that mobile fortress!<p>But… this is EAGLE, the International Defense Organization we're talking about! They're sure to solve the blueprint's riddle and find a way to beat it!<p>Hold out until then! Understood? All units, commence attack!"
+  },
+  {
+   "uid": "U10943",
+   "en": "What's wrong? Isn't it any good!? Today's curry?<p>Maybe it really does need to sit overnight…"
+  },
+  {
+   "uid": "U10944",
+   "en": "It's this blueprint…"
+  },
+  {
+   "uid": "U10945",
+   "en": "A blueprint?"
+  },
+  {
+   "uid": "U10946",
+   "en": "I just can't figure it out… the riddle of this blueprint!"
+  },
+  {
+   "uid": "U10947",
+   "en": "It looks like an ordinary blueprint… Is there some kind of trick to it?"
+  },
+  {
+   "uid": "U10948",
+   "en": "If even EAGLE's decoder can't make anything of it… then we're stumped, huh?<p>There we go… [HERO4], you take yours black, right?"
+  },
+  {
+   "uid": "U10949",
+   "en": "Ah, thank you…"
+  },
+  {
+   "uid": "U10950",
+   "en": "Kyah!"
+  },
+  {
+   "uid": "U10951",
+   "en": "Are you all right!? Did you burn yourself!?"
+  },
+  {
+   "uid": "U10952",
+   "en": "Yes! I'm an organic droid, after all…<p>But I'm so sorry! Spilling the coffee like that…"
+  },
+  {
+   "uid": "U10953",
+   "en": "…!?<p>What's this…!?"
+  },
+  {
+   "uid": "U10954",
+   "en": "It kinda looks like a doodle… Is it really a blueprint?"
+  },
+  {
+   "uid": "U10955",
+   "en": "If even EAGLE's decoder can't make anything of it… then we're stumped, huh?<p>There we go… [HERO4], just milk for you, right?"
+  },
+  {
+   "uid": "U10956",
+   "en": "Yeah, thanks…"
+  },
+  {
+   "uid": "U10957",
+   "en": "Whoa, close one… It almost left a stain!<p>Sorry! I spilled the coffee… What a waste, huh?"
+  },
+  {
+   "uid": "U10958",
+   "en": "Commander… We ran it through the decoder, but there was no reaction…"
+  },
+  {
+   "uid": "U10959",
+   "en": "I see… So it was just an ordinary blueprint after all?"
+  },
+  {
+   "uid": "U10960",
+   "en": "Ngh… Why won't you come out, Gorenger!?<p>Very well… If you won't come out, I'll come to you!<p>Navaron, begin submerging!"
+  },
+  {
+   "uid": "U10961",
+   "en": "The Navaron has gone underground!"
+  },
+  {
+   "uid": "U10962",
+   "en": "Commander! The Navaron intends to search out this base from underground!"
+  },
+  {
+   "uid": "U10963",
+   "en": "…………"
+  },
+  {
+   "uid": "U10964",
+   "en": "It's showin'!"
+  },
+  {
+   "uid": "U10965",
+   "en": "What is it, Dai? Did you see a ghost or something, at a time like this?"
+  },
+  {
+   "uid": "U10966",
+   "en": "The blueprint! When I poured coffee on it, it showed up!"
+  },
+  {
+   "uid": "U10967",
+   "en": "What!? Coffee made it show up?"
+  },
+  {
+   "uid": "U10968",
+   "en": "The command room, the power room… and this is the weapons depot."
+  },
+  {
+   "uid": "U10969",
+   "en": "If we blow up these three rooms at the same time, we can take down the Navaron!"
+  },
+  {
+   "uid": "U10970",
+   "en": "But, Commander… even the Varitank can't blow up three places at once."
+  },
+  {
+   "uid": "U10971",
+   "en": "We'll use the three Star Machines! The machines can find their target rooms and smash their way in!"
+  },
+  {
+   "uid": "U10972",
+   "en": "Kaijo, let's do it!"
+  },
+  {
+   "uid": "U10973",
+   "en": "Commander, we'll do it!"
+  },
+  {
+   "uid": "U10974",
+   "en": "But… the Navaron is underground! How will we get the machines to it?"
+  },
+  {
+   "uid": "U10975",
+   "en": "We lure it up to the surface… Ki and Momo, sortie in the Varitank!"
+  },
+  {
+   "uid": "U10976",
+   "en": "We're going underground!"
+  },
+  {
+   "uid": "U10977",
+   "en": "You got it!"
+  },
+  {
+   "uid": "U10978",
+   "en": "Gyro Screw, switch on!"
+  },
+  {
+   "uid": "U10979",
+   "en": "Ah, it's the Varitank! It's coming at us underground!"
+  },
+  {
+   "uid": "U10980",
+   "en": "We surface once, jump over the Varitank and dive again! Then we attack it from behind."
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U10911/U10916/U10944/U10946/U10964/U10966: Daita Oiwa's Kyushu dialect rendered as folksy casual speech.",
+   "U10915: 汰せて read as 伏せて \"hidden\".",
+   "U10947-U10957: two [HERO4] variants (polite and casual); the coffee spill reveals the hidden blueprint. U10950 and U10953 are narration-kind continuations.",
+   "U10952: 官機ドロイド unclear; read as 有機ドロイド \"organic droid\" (she isn't burned). Please verify.",
+   "U10956/U10957: lines end without a closing bracket in the Japanese.",
+   "U10975: キとモモ = Kirenger and Momorenger, kept as the nicknames \"Ki and Momo\"."
+  ],
+  "omissions_kept": [
+   "U10963: Edogawa's silence kept."
+  ],
+  "new_names": [
+   {
+    "en": "[HERO4]",
+    "why": "speaker placeholder, speaker_en null"
+   },
+   {
+    "en": "Star Machine",
+    "why": "Gorenger vehicles, not in glossary"
+   },
+   {
+    "en": "EAGLE",
+    "why": "Gorenger's organization (glossary note \"EAGLE commander\")"
+   },
+   {
+    "en": "EAGLE, the International Defense Organization",
+    "why": "not in glossary"
+   },
+   {
+    "en": "mobile fortress Navaron",
+    "why": "glossary Navaron"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U10909",
+    "likely": "自由自在"
+   },
+   {
+    "uid": "U10911",
+    "likely": "下書き"
+   },
+   {
+    "uid": "U10912",
+    "likely": "残念"
+   },
+   {
+    "uid": "U10915",
+    "likely": "重要"
+   },
+   {
+    "uid": "U10915",
+    "likely": "伏せて"
+   },
+   {
+    "uid": "U10917",
+    "likely": "案外"
+   },
+   {
+    "uid": "U10923",
+    "likely": "閣下"
+   },
+   {
+    "uid": "U10925",
+    "likely": "閣下"
+   },
+   {
+    "uid": "U10924",
+    "likely": "失った"
+   },
+   {
+    "uid": "U10937",
+    "likely": "続き"
+   },
+   {
+    "uid": "U10939",
+    "likely": "迎撃"
+   },
+   {
+    "uid": "U10942",
+    "likely": "現在"
+   },
+   {
+    "uid": "U10942",
+    "likely": "開始"
+   },
+   {
+    "uid": "U10960",
+    "likely": "開始"
+   },
+   {
+    "uid": "U10947",
+    "likely": "普通"
+   },
+   {
+    "uid": "U10952",
+    "likely": "有機ドロイド (guess)"
+   },
+   {
+    "uid": "U10954",
+    "likely": "落書き"
+   },
+   {
+    "uid": "U10965",
+    "likely": "幽霊"
+   }
+  ]
+ }
+}

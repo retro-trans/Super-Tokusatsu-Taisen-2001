@@ -1,0 +1,487 @@
+{
+ "batch": "B0030",
+ "prev": "B0029",
+ "next": "B0031",
+ "rows": [
+  {
+   "uid": "U02330",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U02331",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02332",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U02333",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U02334",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U02335",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02336",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U02337",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U02338",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02339",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02340",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02341",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02342",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02343",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02344",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02345",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02346",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02347",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02348",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02349",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02350",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Shirakawa"
+  },
+  {
+   "uid": "U02351",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Shibata"
+  },
+  {
+   "uid": "U02352",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Shirakawa"
+  },
+  {
+   "uid": "U02353",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Shibata"
+  },
+  {
+   "uid": "U02354",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Shirakawa"
+  },
+  {
+   "uid": "U02355",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Shibata"
+  },
+  {
+   "uid": "U02356",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Shirakawa"
+  },
+  {
+   "uid": "U02357",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Shibata"
+  },
+  {
+   "uid": "U02358",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Shirakawa"
+  },
+  {
+   "uid": "U02359",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Shibata"
+  },
+  {
+   "uid": "U02360",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Shirakawa"
+  },
+  {
+   "uid": "U02361",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Shibata"
+  },
+  {
+   "uid": "U02362",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Shirakawa"
+  },
+  {
+   "uid": "U02363",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02364",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02365",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U02366",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U02367",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U02368",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02369",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02370",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02371",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U02372",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marine"
+  },
+  {
+   "uid": "U02373",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U02374",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02375",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02376",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U02377",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02378",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02379",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U02380",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02381",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02382",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02383",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02384",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02385",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02386",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02387",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02388",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U02389",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02390",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U02391",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02392",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U02393",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02394",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U02395",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02396",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U02397",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02398",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U02399",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02400",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U02401",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02402",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02403",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02404",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U02405",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02406",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U02407",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U02408",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02409",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voice of Den Iga"
+  }
+ ]
+}

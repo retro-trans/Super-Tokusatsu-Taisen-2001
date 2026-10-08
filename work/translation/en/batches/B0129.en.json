@@ -1,0 +1,487 @@
+{
+ "batch": "B0129",
+ "prev": "B0128",
+ "next": "B0130",
+ "rows": [
+  {
+   "uid": "U10259",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U10260",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U10261",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U10262",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U10263",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U10264",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U10265",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U10266",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U10267",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U10268",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U10269",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U10270",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U10271",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U10272",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U10273",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U10274",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U10275",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U10276",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U10277",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U10278",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U10279",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U10280",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U10281",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U10282",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U10283",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U10284",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U10285",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10286",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10287",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10288",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U10289",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U10290",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U10291",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U10292",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U10293",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U10294",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U10295",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U10296",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U10297",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U10298",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U10299",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U10300",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U10301",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U10302",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U10303",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chie Sahara"
+  },
+  {
+   "uid": "U10304",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U10305",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10306",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10307",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10308",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10309",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U10310",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U10311",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U10312",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10313",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10314",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10315",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10316",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10317",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10318",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10319",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U10320",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U10321",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U10322",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U10323",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U10324",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hunter Killer"
+  },
+  {
+   "uid": "U10325",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U10326",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10327",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10328",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10329",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10330",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10331",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10332",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10333",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10334",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10335",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10336",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U10337",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U10338",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  }
+ ]
+}

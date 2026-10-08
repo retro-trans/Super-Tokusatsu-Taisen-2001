@@ -1,0 +1,487 @@
+{
+ "batch": "B0035",
+ "prev": "B0034",
+ "next": "B0036",
+ "rows": [
+  {
+   "uid": "U02730",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02731",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02732",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02733",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02734",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02735",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02736",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02737",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U02738",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02739",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02740",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U02741",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02742",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02743",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U02744",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U02745",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U02746",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02747",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02748",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02749",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02750",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02751",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02752",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02753",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02754",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Monster"
+  },
+  {
+   "uid": "U02755",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02756",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02757",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Monster"
+  },
+  {
+   "uid": "U02758",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ganikomol"
+  },
+  {
+   "uid": "U02759",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02760",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02761",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02762",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02763",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02764",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02765",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02766",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02767",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02768",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02769",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02770",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02771",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02772",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02773",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02774",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02775",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U02776",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U02777",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U02778",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U02779",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02780",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U02781",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker Combatant"
+  },
+  {
+   "uid": "U02782",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02783",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's New Monster"
+  },
+  {
+   "uid": "U02784",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U02785",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02786",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ika-Devil"
+  },
+  {
+   "uid": "U02787",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02788",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ika-Devil"
+  },
+  {
+   "uid": "U02789",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U02790",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02791",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ambassador Hell"
+  },
+  {
+   "uid": "U02792",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02793",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02794",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02795",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02796",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02797",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02798",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02799",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02800",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02801",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02802",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02803",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02804",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02805",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02806",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02807",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U02808",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U02809",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  }
+ ]
+}

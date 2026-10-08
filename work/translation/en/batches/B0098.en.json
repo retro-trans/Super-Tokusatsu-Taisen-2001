@@ -1,0 +1,487 @@
+{
+ "batch": "B0098",
+ "prev": "B0097",
+ "next": "B0099",
+ "rows": [
+  {
+   "uid": "U07779",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U07780",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U07781",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U07782",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U07783",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07784",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U07785",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07786",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07787",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U07788",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U07789",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U07790",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U07791",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U07792",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U07793",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U07794",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07795",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07796",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07797",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07798",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07799",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07800",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07801",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07802",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07803",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U07804",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07805",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07806",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07807",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07808",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07809",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07810",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U07811",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07812",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07813",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07814",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07815",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U07816",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07817",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U07818",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U07819",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07820",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07821",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07822",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07823",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07824",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07825",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07826",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07827",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07828",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U07829",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U07830",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U07831",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07832",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07833",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07834",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07835",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07836",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07837",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07838",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07839",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U07840",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Guillotine"
+  },
+  {
+   "uid": "U07841",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Monster Doctor Gelma"
+  },
+  {
+   "uid": "U07842",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U07843",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Monster Doctor Gelma"
+  },
+  {
+   "uid": "U07844",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U07845",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07846",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U07847",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07848",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U07849",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07850",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marie Hanamura"
+  },
+  {
+   "uid": "U07851",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07852",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U07853",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U07854",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U07855",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Delivery Man"
+  },
+  {
+   "uid": "U07856",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U07857",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U07858",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  }
+ ]
+}

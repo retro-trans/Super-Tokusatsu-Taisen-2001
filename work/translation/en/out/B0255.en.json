@@ -1,0 +1,398 @@
+{
+ "batch": "B0255",
+ "rows": [
+  {
+   "uid": "U20374",
+   "en": "{direct}M.Punch{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Megaton Punch{P}"
+  },
+  {
+   "uid": "U20375",
+   "en": "{ranged}Rock.{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Rockets{bullet}"
+  },
+  {
+   "uid": "U20376",
+   "en": "{ranged}L.Beam{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Laser Beam{beam}"
+  },
+  {
+   "uid": "U20377",
+   "en": "{ranged}Flam.{S}{fire}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Flamethrower{S}{fire}"
+  },
+  {
+   "uid": "U20378",
+   "en": "{ranged}Cross Fire{fire}"
+  },
+  {
+   "uid": "U20379",
+   "en": "{ranged}Tranquilizer{L}{bullet}★"
+  },
+  {
+   "uid": "U20380",
+   "en": "{ranged}Barrage{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Nike Missile Barrage{bullet}"
+  },
+  {
+   "uid": "U20381",
+   "en": "{ranged}M.Punch{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Missile Punch{bullet}"
+  },
+  {
+   "uid": "U20382",
+   "en": "{ranged}Gravi.",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Graviton"
+  },
+  {
+   "uid": "U20383",
+   "en": "{ranged}F.Barr.{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Full Barrage{bullet}"
+  },
+  {
+   "uid": "U20384",
+   "en": "{direct}B.Break{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Baron Break{P}"
+  },
+  {
+   "uid": "U20385",
+   "en": "{ranged}B.Punch",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Baron Punch"
+  },
+  {
+   "uid": "U20386",
+   "en": "{ranged}Missile{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Baron Missile{bullet}"
+  },
+  {
+   "uid": "U20387",
+   "en": "{ranged}Arrow{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Drill Arrow{bullet}"
+  },
+  {
+   "uid": "U20388",
+   "en": "{ranged}R.Marker",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Rainbow Marker"
+  },
+  {
+   "uid": "U20389",
+   "en": "{ranged}Missile{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Arm Missile{bullet}"
+  },
+  {
+   "uid": "U20390",
+   "en": "{ranged}Electrigg.{elec}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Electrigger{elec}"
+  },
+  {
+   "uid": "U20391",
+   "en": "{direct}Whip{P}"
+  },
+  {
+   "uid": "U20392",
+   "en": "{direct}R.Punch{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Rider Punch{P}"
+  },
+  {
+   "uid": "U20393",
+   "en": "{direct}R.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Rider Kick{P}"
+  },
+  {
+   "uid": "U20394",
+   "en": "{direct}R.L.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Rider Lightning Kick{P}"
+  },
+  {
+   "uid": "U20395",
+   "en": "{direct}R.R.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Rider Reverse Kick{P}"
+  },
+  {
+   "uid": "U20396",
+   "en": "{direct}R.M.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Rider Moonsault Kick{P}"
+  },
+  {
+   "uid": "U20397",
+   "en": "{direct}R.G.Swing{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Rider Giant Swing{P}"
+  },
+  {
+   "uid": "U20398",
+   "en": "{direct}V3 Punch{P}"
+  },
+  {
+   "uid": "U20399",
+   "en": "{direct}Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}V3 Kick{P}"
+  },
+  {
+   "uid": "U20400",
+   "en": "{direct}V.T.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}V3 Tailspin Kick{P}"
+  },
+  {
+   "uid": "U20401",
+   "en": "{direct}V.R.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}V3 Reverse Kick{P}"
+  },
+  {
+   "uid": "U20402",
+   "en": "{ranged}Typhoon",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Reverse Typhoon"
+  },
+  {
+   "uid": "U20403",
+   "en": "{direct}P.Arm{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Power Arm{P}"
+  },
+  {
+   "uid": "U20404",
+   "en": "{ranged}R.Arm",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Rope Arm"
+  },
+  {
+   "uid": "U20405",
+   "en": "{direct}D.Arm{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Drill Arm{P}"
+  },
+  {
+   "uid": "U20406",
+   "en": "{ranged}King Stone Flash"
+  },
+  {
+   "uid": "U20407",
+   "en": "{direct}Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}RX Kick{P}"
+  },
+  {
+   "uid": "U20408",
+   "en": "{direct}R.Crash{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Revol Crash{P}"
+  },
+  {
+   "uid": "U20409",
+   "en": "{ranged}H.Shot{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Hard Shot{bullet}"
+  },
+  {
+   "uid": "U20410",
+   "en": "{direct}Attack{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Bio Attack{P}"
+  },
+  {
+   "uid": "U20411",
+   "en": "{direct}S.Cutter{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Spark Cutter{P}"
+  },
+  {
+   "uid": "U20412",
+   "en": "{direct}D.R.Kick{M}{AP}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Double Rider Kick{M}{AP}"
+  },
+  {
+   "uid": "U20413",
+   "en": "{direct}C.Cutter{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Cyclone Cutter{P}"
+  },
+  {
+   "uid": "U20414",
+   "en": "{direct}D.Smash{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Dynamic Smash{P}"
+  },
+  {
+   "uid": "U20415",
+   "en": "{direct}Acrob. Burn{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Acrobat Burn{P}"
+  },
+  {
+   "uid": "U20416",
+   "en": "{ranged}Rocket Launcher{bullet}"
+  },
+  {
+   "uid": "U20417",
+   "en": "{ranged}S.Gun{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Super Gun{beam}★"
+  },
+  {
+   "uid": "U20418",
+   "en": "{ranged}Gun{L}{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Super Gun{L}{beam}★"
+  },
+  {
+   "uid": "U20419",
+   "en": "{ranged}Spid.{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Spider{beam}★"
+  },
+  {
+   "uid": "U20420",
+   "en": "{ranged}Spider{L}{beam}★"
+  },
+  {
+   "uid": "U20421",
+   "en": "{ranged}M.133{L}{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Mars 133{L}{beam}★"
+  },
+  {
+   "uid": "U20422",
+   "en": "{ranged}Bomb{L}{bullet}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Pencil Bomb{L}{bullet}★"
+  },
+  {
+   "uid": "U20423",
+   "en": "{ranged}U.Gun{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Ultra Gun{beam}★"
+  },
+  {
+   "uid": "U20424",
+   "en": "{ranged}Gun{L}{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Ultra Gun{L}{beam}★"
+  },
+  {
+   "uid": "U20425",
+   "en": "{ranged}Vertic. Shotgu.{L}{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Vertical Shotgun{L}{beam}★"
+  },
+  {
+   "uid": "U20426",
+   "en": "{ranged}R.R.Bomb{L}{bullet}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Ryton R30 Bomb{L}{bullet}★"
+  },
+  {
+   "uid": "U20427",
+   "en": "{ranged}M.Shoot{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}MAT Shoot{beam}★"
+  },
+  {
+   "uid": "U20428",
+   "en": "{ranged}Shoot{L}{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}MAT Shoot{L}{beam}★"
+  },
+  {
+   "uid": "U20429",
+   "en": "{ranged}L.Gun SP-70{L}{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Laser Gun SP-70{L}{beam}★"
+  },
+  {
+   "uid": "U20430",
+   "en": "{ranged}S.L.Gun{L}{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Space Laser Gun{L}{beam}★"
+  },
+  {
+   "uid": "U20431",
+   "en": "{ranged}U.Attack Ray{fire}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Ultra Attack Ray{fire}"
+  },
+  {
+   "uid": "U20432",
+   "en": "{ranged}Slash Ray{beam}"
+  },
+  {
+   "uid": "U20433",
+   "en": "{direct}U.Mist Slash{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Ultra Mist Slash{P}"
+  },
+  {
+   "uid": "U20434",
+   "en": "{direct}A.B.Slam{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Aerial Body Slam{P}"
+  },
+  {
+   "uid": "U20435",
+   "en": "{ranged}E.Slugger",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Eye Slugger"
+  },
+  {
+   "uid": "U20436",
+   "en": "{ranged}E.Ray{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Emerium Ray{beam}"
+  },
+  {
+   "uid": "U20437",
+   "en": "{ranged}H.Shot{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Handy Shot{beam}"
+  },
+  {
+   "uid": "U20438",
+   "en": "{ranged}W.Shot{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Wide Shot{beam}"
+  },
+  {
+   "uid": "U20439",
+   "en": "{ranged}M.Ray{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}M87 Ray{beam}"
+  },
+  {
+   "uid": "U20440",
+   "en": "{ranged}Beam{beam}"
+  },
+  {
+   "uid": "U20441",
+   "en": "{direct}Horn{P}"
+  },
+  {
+   "uid": "U20442",
+   "en": "{ranged}Laser{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Laser Cannon{beam}"
+  },
+  {
+   "uid": "U20443",
+   "en": "{ranged}Freeze Shell{water}"
+  },
+  {
+   "uid": "U20444",
+   "en": "{ranged}Ray Gun{L}{beam}★"
+  },
+  {
+   "uid": "U20445",
+   "en": "{direct}Dropped Bombs{P}{bullet}"
+  },
+  {
+   "uid": "U20446",
+   "en": "{ranged}Launcher{L}{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Rocket Launcher{L}{bullet}"
+  },
+  {
+   "uid": "U20447",
+   "en": "{ranged}Autocannon{bullet}"
+  },
+  {
+   "uid": "U20448",
+   "en": "{ranged}Scalpel"
+  },
+  {
+   "uid": "U20449",
+   "en": "{ranged}Acid Needle★"
+  },
+  {
+   "uid": "U20450",
+   "en": "{ranged}A.Mist{M}{AP}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Acid Mist{M}{AP}"
+  },
+  {
+   "uid": "U20451",
+   "en": "{direct}P.Web{P}{elec}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Plasma Web{P}{elec}"
+  },
+  {
+   "uid": "U20452",
+   "en": "{ranged}Lucifer Rod"
+  },
+  {
+   "uid": "U20453",
+   "en": "{ranged}C.G.Shell",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Compressed Graviton Shell"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "Weapon/name menu rows taken from the glossary and abbreviated where check_batch.py (which counts icon tags at 8px against a text-only budget) required it; shortened rows carry a note with the preferred full name"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": []
+ }
+}

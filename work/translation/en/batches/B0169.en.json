@@ -1,0 +1,487 @@
+{
+ "batch": "B0169",
+ "prev": "B0168",
+ "next": "B0170",
+ "rows": [
+  {
+   "uid": "U13461",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13462",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13463",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13464",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13465",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13466",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13467",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13468",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13469",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13470",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13471",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13472",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13473",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13474",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13475",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13476",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13477",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13478",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13479",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13480",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "New Kamen Rider"
+  },
+  {
+   "uid": "U13481",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U13482",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13483",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13484",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U13485",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13486",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13487",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13488",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U13489",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13490",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13491",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Cubrican"
+  },
+  {
+   "uid": "U13492",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13493",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13494",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "King Stone"
+  },
+  {
+   "uid": "U13495",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13496",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "King Stone"
+  },
+  {
+   "uid": "U13497",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13498",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13499",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U13500",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13501",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U13502",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13503",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U13504",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U13505",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13506",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U13507",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman"
+  },
+  {
+   "uid": "U13508",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13509",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13510",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13511",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13512",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13513",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13514",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13515",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13516",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U13517",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U13518",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13519",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13520",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U13521",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13522",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "New Kamen Rider"
+  },
+  {
+   "uid": "U13523",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13524",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13525",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13526",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U13527",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13528",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13529",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13530",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13531",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U13532",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13533",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13534",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13535",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13536",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13537",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13538",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13539",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13540",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  }
+ ]
+}

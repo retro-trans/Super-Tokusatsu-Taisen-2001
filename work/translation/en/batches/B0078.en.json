@@ -1,0 +1,487 @@
+{
+ "batch": "B0078",
+ "prev": "B0077",
+ "next": "B0079",
+ "rows": [
+  {
+   "uid": "U06177",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06178",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06179",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U06180",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06181",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06182",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U06183",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U06184",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U06185",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U06186",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U06187",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U06188",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U06189",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U06190",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U06191",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro Sakata"
+  },
+  {
+   "uid": "U06192",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Sakata"
+  },
+  {
+   "uid": "U06193",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U06194",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Sakata"
+  },
+  {
+   "uid": "U06195",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U06196",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Sakata"
+  },
+  {
+   "uid": "U06197",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro Sakata"
+  },
+  {
+   "uid": "U06198",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06199",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06200",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06201",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06202",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U06203",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U06204",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U06205",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U06206",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U06207",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06208",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06209",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06210",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06211",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06212",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06213",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06214",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06215",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U06216",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06217",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06218",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06219",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06220",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06221",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06222",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06223",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman Under Attack"
+  },
+  {
+   "uid": "U06224",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06225",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06226",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06227",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman Who Was Attacked"
+  },
+  {
+   "uid": "U06228",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06229",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U06230",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06231",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06232",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06233",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06234",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman Who Was Attacked"
+  },
+  {
+   "uid": "U06235",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06236",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06237",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06238",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06239",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06240",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06241",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06242",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06243",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06244",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman Who Was Attacked"
+  },
+  {
+   "uid": "U06245",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U06246",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06247",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U06248",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06249",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U06250",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06251",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06252",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06253",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06254",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman Who Was Attacked"
+  },
+  {
+   "uid": "U06255",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06256",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  }
+ ]
+}

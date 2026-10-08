@@ -1,0 +1,487 @@
+{
+ "batch": "B0152",
+ "prev": "B0151",
+ "next": "B0153",
+ "rows": [
+  {
+   "uid": "U12101",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12102",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12103",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12104",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12105",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12106",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12107",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12108",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12109",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12110",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Cyborg Warrior"
+  },
+  {
+   "uid": "U12111",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12112",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Cyborg Warrior"
+  },
+  {
+   "uid": "U12113",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12114",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U12115",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12116",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12117",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12118",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U12119",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12120",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U12121",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U12122",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U12123",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U12124",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U12125",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12126",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12127",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12128",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12129",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U12130",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12131",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12132",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U12133",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U12134",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U12135",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U12136",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12137",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12138",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12139",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12140",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12141",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rumi Arai"
+  },
+  {
+   "uid": "U12142",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12143",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chizuko Arai"
+  },
+  {
+   "uid": "U12144",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper City Citizen"
+  },
+  {
+   "uid": "U12145",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U12146",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper City Citizen"
+  },
+  {
+   "uid": "U12147",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U12148",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper City Citizen"
+  },
+  {
+   "uid": "U12149",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U12150",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12151",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chizuko Arai"
+  },
+  {
+   "uid": "U12152",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12153",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12154",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12155",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12156",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12157",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U12158",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12159",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12160",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12161",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U12162",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12163",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12164",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12165",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U12166",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12167",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12168",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12169",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12170",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sadesper"
+  },
+  {
+   "uid": "U12171",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U12172",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U12173",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U12174",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U12175",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12176",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U12177",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U12178",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12179",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U12180",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  }
+ ]
+}

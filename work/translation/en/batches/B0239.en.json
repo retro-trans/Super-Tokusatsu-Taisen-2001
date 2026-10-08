@@ -1,0 +1,487 @@
+{
+ "batch": "B0239",
+ "prev": "B0238",
+ "next": "B0240",
+ "rows": [
+  {
+   "uid": "U19075",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fake Ultraman"
+  },
+  {
+   "uid": "U19076",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jamila"
+  },
+  {
+   "uid": "U19077",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jamila"
+  },
+  {
+   "uid": "U19078",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jamila"
+  },
+  {
+   "uid": "U19079",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jamila"
+  },
+  {
+   "uid": "U19080",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jamila"
+  },
+  {
+   "uid": "U19081",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jamila"
+  },
+  {
+   "uid": "U19082",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jamila"
+  },
+  {
+   "uid": "U19083",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jamila"
+  },
+  {
+   "uid": "U19084",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Woo"
+  },
+  {
+   "uid": "U19085",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Woo"
+  },
+  {
+   "uid": "U19086",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Woo"
+  },
+  {
+   "uid": "U19087",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Woo"
+  },
+  {
+   "uid": "U19088",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Woo"
+  },
+  {
+   "uid": "U19089",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Woo"
+  },
+  {
+   "uid": "U19090",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Woo"
+  },
+  {
+   "uid": "U19091",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Woo"
+  },
+  {
+   "uid": "U19092",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Woo"
+  },
+  {
+   "uid": "U19093",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Mefilas"
+  },
+  {
+   "uid": "U19094",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Mefilas"
+  },
+  {
+   "uid": "U19095",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Mefilas"
+  },
+  {
+   "uid": "U19096",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Mefilas"
+  },
+  {
+   "uid": "U19097",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Mefilas"
+  },
+  {
+   "uid": "U19098",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Mefilas"
+  },
+  {
+   "uid": "U19099",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Mefilas"
+  },
+  {
+   "uid": "U19100",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Mefilas"
+  },
+  {
+   "uid": "U19101",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Mefilas"
+  },
+  {
+   "uid": "U19102",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zetton"
+  },
+  {
+   "uid": "U19103",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zetton"
+  },
+  {
+   "uid": "U19104",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zetton"
+  },
+  {
+   "uid": "U19105",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zetton"
+  },
+  {
+   "uid": "U19106",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zetton"
+  },
+  {
+   "uid": "U19107",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zetton"
+  },
+  {
+   "uid": "U19108",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zetton"
+  },
+  {
+   "uid": "U19109",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zetton"
+  },
+  {
+   "uid": "U19110",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zetton"
+  },
+  {
+   "uid": "U19111",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Anne Yuri"
+  },
+  {
+   "uid": "U19112",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Anne Yuri"
+  },
+  {
+   "uid": "U19113",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Anne Yuri"
+  },
+  {
+   "uid": "U19114",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Anne Yuri"
+  },
+  {
+   "uid": "U19115",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Anne Yuri"
+  },
+  {
+   "uid": "U19116",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Anne Yuri"
+  },
+  {
+   "uid": "U19117",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Anne Yuri"
+  },
+  {
+   "uid": "U19118",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Anne Yuri"
+  },
+  {
+   "uid": "U19119",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Anne Yuri"
+  },
+  {
+   "uid": "U19120",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Annie"
+  },
+  {
+   "uid": "U19121",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Annie"
+  },
+  {
+   "uid": "U19122",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Annie"
+  },
+  {
+   "uid": "U19123",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Annie"
+  },
+  {
+   "uid": "U19124",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Annie"
+  },
+  {
+   "uid": "U19125",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Annie"
+  },
+  {
+   "uid": "U19126",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Annie"
+  },
+  {
+   "uid": "U19127",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Annie"
+  },
+  {
+   "uid": "U19128",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Giant Annie"
+  },
+  {
+   "uid": "U19129",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Eleking"
+  },
+  {
+   "uid": "U19130",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Eleking"
+  },
+  {
+   "uid": "U19131",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Eleking"
+  },
+  {
+   "uid": "U19132",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Eleking"
+  },
+  {
+   "uid": "U19133",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Eleking"
+  },
+  {
+   "uid": "U19134",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Eleking"
+  },
+  {
+   "uid": "U19135",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Eleking"
+  },
+  {
+   "uid": "U19136",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Vira"
+  },
+  {
+   "uid": "U19137",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Vira"
+  },
+  {
+   "uid": "U19138",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Vira"
+  },
+  {
+   "uid": "U19139",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Vira"
+  },
+  {
+   "uid": "U19140",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Vira"
+  },
+  {
+   "uid": "U19141",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Vira"
+  },
+  {
+   "uid": "U19142",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Vira"
+  },
+  {
+   "uid": "U19143",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Vira"
+  },
+  {
+   "uid": "U19144",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Alien Vira"
+  },
+  {
+   "uid": "U19145",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Rocks"
+  },
+  {
+   "uid": "U19146",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Rocks"
+  },
+  {
+   "uid": "U19147",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Rocks"
+  },
+  {
+   "uid": "U19148",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Rocks"
+  },
+  {
+   "uid": "U19149",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Rocks"
+  },
+  {
+   "uid": "U19150",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Rocks"
+  },
+  {
+   "uid": "U19151",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Rocks"
+  },
+  {
+   "uid": "U19152",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Rocks"
+  },
+  {
+   "uid": "U19153",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Rocks"
+  },
+  {
+   "uid": "U19154",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "King Joe"
+  }
+ ]
+}

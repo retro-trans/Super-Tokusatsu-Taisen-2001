@@ -1,0 +1,487 @@
+{
+ "batch": "B0065",
+ "prev": "B0064",
+ "next": "B0066",
+ "rows": [
+  {
+   "uid": "U05133",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05134",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05135",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U05136",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U05137",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Baron Fang"
+  },
+  {
+   "uid": "U05138",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archbishop Wing"
+  },
+  {
+   "uid": "U05139",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05140",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U05141",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05142",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U05143",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archbishop Wing"
+  },
+  {
+   "uid": "U05144",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Baron Fang"
+  },
+  {
+   "uid": "U05145",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05146",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U05147",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05148",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U05149",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05150",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U05151",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05152",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U05153",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05154",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Florist"
+  },
+  {
+   "uid": "U05155",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U05156",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Florist"
+  },
+  {
+   "uid": "U05157",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U05158",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Florist"
+  },
+  {
+   "uid": "U05159",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U05160",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05161",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Florist"
+  },
+  {
+   "uid": "U05162",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05163",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Florist"
+  },
+  {
+   "uid": "U05164",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05165",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U05166",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist A"
+  },
+  {
+   "uid": "U05167",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05168",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist B"
+  },
+  {
+   "uid": "U05169",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05170",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist B"
+  },
+  {
+   "uid": "U05171",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05172",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist A"
+  },
+  {
+   "uid": "U05173",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05174",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist B"
+  },
+  {
+   "uid": "U05175",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05176",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist A"
+  },
+  {
+   "uid": "U05177",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist B"
+  },
+  {
+   "uid": "U05178",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05179",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist A"
+  },
+  {
+   "uid": "U05180",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05181",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Combatant"
+  },
+  {
+   "uid": "U05182",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05183",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05184",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Combatant"
+  },
+  {
+   "uid": "U05185",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05186",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist B"
+  },
+  {
+   "uid": "U05187",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05188",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05189",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05190",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist A"
+  },
+  {
+   "uid": "U05191",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05192",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05193",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05194",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05195",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05196",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Combatant"
+  },
+  {
+   "uid": "U05197",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist A"
+  },
+  {
+   "uid": "U05198",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05199",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05200",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05201",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05202",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05203",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Combatant"
+  },
+  {
+   "uid": "U05204",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05205",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05206",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05207",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05208",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05209",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05210",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05211",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist A"
+  },
+  {
+   "uid": "U05212",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  }
+ ]
+}

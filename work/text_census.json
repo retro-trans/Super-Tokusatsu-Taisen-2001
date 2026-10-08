@@ -1,0 +1,62 @@
+[
+ {
+  "source": "Stage scripts (STAGE.DAT x90)",
+  "strings": 25854,
+  "unique_strings": 17050,
+  "dialogue_lines": 16458,
+  "chars": 657726,
+  "speaker_chars": 72998,
+  "unique_chars": 499578,
+  "page_breaks": 5465
+ },
+ {
+  "source": "Battle quotes (BATTLE.DAT #540)",
+  "strings": 828,
+  "unique_strings": 808,
+  "dialogue_lines": 0,
+  "chars": 33742,
+  "speaker_chars": 0,
+  "unique_chars": 33260,
+  "page_breaks": 0
+ },
+ {
+  "source": "Database: names/units/weapons/help (MAPMAIN #2)",
+  "strings": 1445,
+  "unique_strings": 1445,
+  "dialogue_lines": 80,
+  "chars": 9928,
+  "speaker_chars": 312,
+  "unique_chars": 9928,
+  "page_breaks": 0
+ },
+ {
+  "source": "Sound-test titles (MAPMAIN #27)",
+  "strings": 135,
+  "unique_strings": 135,
+  "dialogue_lines": 0,
+  "chars": 1395,
+  "speaker_chars": 0,
+  "unique_chars": 1395,
+  "page_breaks": 0
+ },
+ {
+  "source": "Executable menus (SLPS_028.63)",
+  "strings": 106,
+  "unique_strings": 101,
+  "dialogue_lines": 0,
+  "chars": 496,
+  "speaker_chars": 0,
+  "unique_chars": 491,
+  "page_breaks": 0
+ },
+ {
+  "strings": 28368,
+  "unique_strings": 19539,
+  "dialogue_lines": 16538,
+  "chars": 703287,
+  "speaker_chars": 73310,
+  "unique_chars": 544652,
+  "page_breaks": 5465,
+  "source": "TOTAL"
+ }
+]

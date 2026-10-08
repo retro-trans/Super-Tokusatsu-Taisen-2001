@@ -1,0 +1,347 @@
+{
+ "batch": "B0235",
+ "rows": [
+  {
+   "uid": "U18746",
+   "en": "Please hit!"
+  },
+  {
+   "uid": "U18747",
+   "en": "Please hit… Missiles, fire!"
+  },
+  {
+   "uid": "U18748",
+   "en": "Hit!"
+  },
+  {
+   "uid": "U18749",
+   "en": "Hayata: That won't hit me!"
+  },
+  {
+   "uid": "U18750",
+   "en": "Hayata: …All right, dodged it!"
+  },
+  {
+   "uid": "U18751",
+   "en": "Hayata: It's not a serious wound!"
+  },
+  {
+   "uid": "U18752",
+   "en": "Hayata: Hm! At this rate…"
+  },
+  {
+   "uid": "U18753",
+   "en": "Hayata: Ngh!? You got me good!"
+  },
+  {
+   "uid": "U18754",
+   "en": "Hayata: Damn it! Is this as far as I go…!"
+  },
+  {
+   "uid": "U18755",
+   "en": "Hayata: Here I go!"
+  },
+  {
+   "uid": "U18756",
+   "en": "Hayata: Don't move!"
+  },
+  {
+   "uid": "U18757",
+   "en": "Hayata: Hit!"
+  },
+  {
+   "uid": "U18758",
+   "en": "Captain Kiriyama: What?"
+  },
+  {
+   "uid": "U18759",
+   "en": "Captain Kiriyama: Hm, evade!"
+  },
+  {
+   "uid": "U18760",
+   "en": "Captain Kiriyama: Ngh, I'm fine with this much!"
+  },
+  {
+   "uid": "U18761",
+   "en": "Captain Kiriyama: Gugh!? Not bad!?"
+  },
+  {
+   "uid": "U18762",
+   "en": "Captain Kiriyama: The Magma Riser won't hold out any more than this!"
+  },
+  {
+   "uid": "U18763",
+   "en": "Captain Kiriyama: …………What!?"
+  },
+  {
+   "uid": "U18764",
+   "en": "Captain Kiriyama: Take this!"
+  },
+  {
+   "uid": "U18765",
+   "en": "Furuhashi: Is that all?"
+  },
+  {
+   "uid": "U18766",
+   "en": "Furuhashi: Whoa! That was dangerous!"
+  },
+  {
+   "uid": "U18767",
+   "en": "Furuhashi: Don't underestimate this Magma Riser!"
+  },
+  {
+   "uid": "U18768",
+   "en": "Furuhashi: Not yet! Bring it on!"
+  },
+  {
+   "uid": "U18769",
+   "en": "Furuhashi: D-Did I get too carried away!?"
+  },
+  {
+   "uid": "U18770",
+   "en": "Furuhashi: Daaamn it! They got me!!"
+  },
+  {
+   "uid": "U18771",
+   "en": "Furuhashi: Take this!"
+  },
+  {
+   "uid": "U18772",
+   "en": "Amagi: What? Were you aiming?"
+  },
+  {
+   "uid": "U18773",
+   "en": "Amagi: Look out!"
+  },
+  {
+   "uid": "U18774",
+   "en": "Amagi: Whoa!!"
+  },
+  {
+   "uid": "U18775",
+   "en": "Amagi: Th-They got me!"
+  },
+  {
+   "uid": "U18776",
+   "en": "Amagi: W-Wait a min…!"
+  },
+  {
+   "uid": "U18777",
+   "en": "Amagi: E-Eject!!"
+  },
+  {
+   "uid": "U18778",
+   "en": "Amagi: Take this!"
+  },
+  {
+   "uid": "U18779",
+   "en": "Soga: Easy, easy!"
+  },
+  {
+   "uid": "U18780",
+   "en": "Soga: Look out!"
+  },
+  {
+   "uid": "U18781",
+   "en": "Soga: Whoa! You'll pay for that!!"
+  },
+  {
+   "uid": "U18782",
+   "en": "Soga: Damn it, they got me!"
+  },
+  {
+   "uid": "U18783",
+   "en": "Soga: Uwaaah!!"
+  },
+  {
+   "uid": "U18784",
+   "en": "Soga: Damn it, eject!!"
+  },
+  {
+   "uid": "U18785",
+   "en": "Soga: Take this!"
+  },
+  {
+   "uid": "U18786",
+   "en": "Anne Yuri: Don't make fun of me!"
+  },
+  {
+   "uid": "U18787",
+   "en": "Anne Yuri: Are you aiming at the Magma Riser?"
+  },
+  {
+   "uid": "U18788",
+   "en": "Anne Yuri: I-It wasn't as bad as I thought!"
+  },
+  {
+   "uid": "U18789",
+   "en": "Anne Yuri: Kyaah!!"
+  },
+  {
+   "uid": "U18790",
+   "en": "Anne Yuri: N-No!!"
+  },
+  {
+   "uid": "U18791",
+   "en": "Anne Yuri: …H-Help me…!!"
+  },
+  {
+   "uid": "U18792",
+   "en": "Anne Yuri: Hit!"
+  },
+  {
+   "uid": "U18793",
+   "en": "Dan Moroboshi: Where are you aiming?"
+  },
+  {
+   "uid": "U18794",
+   "en": "Dan Moroboshi: Hm! Like that'll hit me!!"
+  },
+  {
+   "uid": "U18795",
+   "en": "Dan Moroboshi: It'll take more than this to beat the Magma Riser!!"
+  },
+  {
+   "uid": "U18796",
+   "en": "Dan Moroboshi: Agh!"
+  },
+  {
+   "uid": "U18797",
+   "en": "Dan Moroboshi: D-Damn!! That one really hurt!"
+  },
+  {
+   "uid": "U18798",
+   "en": "Dan Moroboshi: A-And I can't even transform…!!"
+  },
+  {
+   "uid": "U18799",
+   "en": "Dan Moroboshi: Hit!"
+  },
+  {
+   "uid": "U18800",
+   "en": "The aircraft won't hold out any more than this!"
+  },
+  {
+   "uid": "U18801",
+   "en": "Fire!"
+  },
+  {
+   "uid": "U18802",
+   "en": "Fire!"
+  },
+  {
+   "uid": "U18803",
+   "en": "Don't underestimate the Ultra Hawk!"
+  },
+  {
+   "uid": "U18804",
+   "en": "Hit!"
+  },
+  {
+   "uid": "U18805",
+   "en": "Are you aiming at me?"
+  },
+  {
+   "uid": "U18806",
+   "en": "Fire!"
+  },
+  {
+   "uid": "U18807",
+   "en": "Don't underestimate Alpha!"
+  },
+  {
+   "uid": "U18808",
+   "en": "Are you aiming at Alpha?"
+  },
+  {
+   "uid": "U18809",
+   "en": "Don't underestimate Beta!"
+  },
+  {
+   "uid": "U18810",
+   "en": "Are you aiming at Beta?"
+  },
+  {
+   "uid": "U18811",
+   "en": "Fire!"
+  },
+  {
+   "uid": "U18812",
+   "en": "Don't underestimate Gamma!"
+  },
+  {
+   "uid": "U18813",
+   "en": "Take this!"
+  },
+  {
+   "uid": "U18814",
+   "en": "Are you aiming at Gamma?"
+  },
+  {
+   "uid": "U18815",
+   "en": "Hit!"
+  },
+  {
+   "uid": "U18816",
+   "en": "Hit!"
+  },
+  {
+   "uid": "U18817",
+   "en": "Don't underestimate Hawk 2!"
+  },
+  {
+   "uid": "U18818",
+   "en": "Are you aiming at Hawk 2?"
+  },
+  {
+   "uid": "U18819",
+   "en": "Captain Kiriyama: The aircraft won't hold out any more than this!"
+  },
+  {
+   "uid": "U18820",
+   "en": "Captain Kiriyama: Fire!"
+  },
+  {
+   "uid": "U18821",
+   "en": "Furuhashi: Don't underestimate the Hydranger!"
+  },
+  {
+   "uid": "U18822",
+   "en": "Anne Yuri: Are you aiming at the Hydranger?"
+  },
+  {
+   "uid": "U18823",
+   "en": "Dan Moroboshi: It'll take more than this to beat me!!"
+  },
+  {
+   "uid": "U18824",
+   "en": "Furuhashi: Don't underestimate the Station Hawk!"
+  },
+  {
+   "uid": "U18825",
+   "en": "Anne Yuri: Are you aiming at the Station Hawk?"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U18762-U18795: マグマ read as the Ultra Garrison tank Magma Riser (マグマライザー); not in glossary",
+   "U18821: ハイドランジャー 'Hydranger' not in glossary",
+   "U18807-U18814: α号/β号/γ号 = glossary Alpha/Beta/Gamma (Ultra Hawk 1 sections)",
+   "Name-in-text quote rows rendered 'Name: line'"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Magma Riser",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Hydranger",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": []
+ }
+}

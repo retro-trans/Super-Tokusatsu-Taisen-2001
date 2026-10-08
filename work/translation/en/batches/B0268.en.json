@@ -1,0 +1,565 @@
+{
+ "batch": "B0268",
+ "prev": "B0267",
+ "next": null,
+ "rows": [
+  {
+   "uid": "U21474",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A genius inventing maniac who developed most of the Science Patrol's weapons, such as the kaiju translator, the Mars 133 and the QX Gun. He is also the Science Patrol's joker. His real name is Mitsuhiro Ide."
+  },
+  {
+   "uid": "U21475",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A former officer of SIDO's System Information Division. The Metal hero's older sister, she designed almost the entire main architecture of the NAAGER. Fifteen years ago she set out with her father, SIDO Director Kiichi Sakomizu, on the NAAGER to investigate Number Ten, and has been missing ever since."
+  },
+  {
+   "uid": "U21476",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A robot cyborg built to fight Kikaider, and Kikaider's younger brother. He transforms into Hakaider. He carries the Hakai Sword, which cuts androids apart."
+  },
+  {
+   "uid": "U21477",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A space engineer who had gone missing. In the game he left Earth 15 years ago as a member of the NAAGER staff and went missing along with the NAAGER. While drifting through space he gained psychic powers."
+  },
+  {
+   "uid": "U21478",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A super robot developed by BF to invade Earth. But by chance, young Daisaku Kusama imprinted his voice on Robo's electronic brain at start-up, and it became a robot of justice. It smashes enemies with the Megaton Punch and missiles. Height 30 m, it flies at Mach 17."
+  },
+  {
+   "uid": "U21479",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Shadow's first executive. His weapons are his sword and the destruction rays from his eyes. He also has the ability to transform into a human."
+  },
+  {
+   "uid": "U21480",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21481",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A super life form that rules the Fushigi World Fuuma and plots to rule the whole universe. It lays Fushigi Beast eggs from its mouth. 12,000 years ago its head was cut off by the hero Shaider, and it had been secretly building a mechanical body."
+  },
+  {
+   "uid": "U21482",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "He runs the Tachibana Racing Club and is also the master of the snack bar \"Amigo\". He knows about Shocker and understands the situation of Riders such as Hongo and Ichimonji. He also helped develop the \"New Cyclone\". In the game, the Amigo becomes the heroes' hangout."
+  },
+  {
+   "uid": "U21483",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "He was taken into the Brain Party together with Captain Gomez. He supports Gomez as his trusty right hand. A master of knife throwing and disguise."
+  },
+  {
+   "uid": "U21484",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A member of the Earth Defense Force Science Center and a researcher of new high-performance explosives. Working with Dr. Anderson, he actually produced the special anti-robot round \"Ryton R30\". When the doctor joins the TDF science group, mass-production models of the \"AH-1S\" and \"F-15J Kai\" become available for development in the game."
+  },
+  {
+   "uid": "U21485",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21486",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "The Desper Army's vanguard: Phantom Soldiers who resented Emperor Banba, scouted and re-enhanced by the Desper Army. They attack shouting \"Dee!\"."
+  },
+  {
+   "uid": "U21487",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21488",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21489",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21490",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21491",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "The first invasion robot built by the Iron Mask Party. Carrying Mecha Robos inside, it stole robots from each country exhibited at the International Robot Expo. Its weapons are the object-stopping ray from its face and the drill on its right hand."
+  },
+  {
+   "uid": "U21492",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21493",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21494",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21495",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21496",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "An authority on rocket engineering. The Science Center where he worked was attacked by the Alien Baltan. He later joins the TDF science group. His joining improves the \"Type 90 Tank\" and the \"F-2 Support Fighter\" and makes them mass-producible."
+  },
+  {
+   "uid": "U21497",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A robot superhuman built by the Alien Salome to look exactly like Ultraseven. Its weapons and techniques are almost equal to the real Seven's, but its abilities are slightly inferior. Height 40 m, weight 35,000 t."
+  },
+  {
+   "uid": "U21498",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A clinical test subject of \"Vol\", the unknown cells Dr. Hinata collected at Nojimazaki. The real daughter of Dr. Hinata, who was driven out of the old TDF over the Vol cells affair. 16 years old. Her hobby is black magic. She has an i-mode-style cell phone and is apparently good at making ringtones. Measurements unknown. Clinical test subject No. 3."
+  },
+  {
+   "uid": "U21499",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Professor Hustler"
+  },
+  {
+   "uid": "U21500",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "It controls people by scattering glasses with built-in special sensory devices. It excels at sword attacks and can also fire poison needles from the tip of its sword. It is ruthless enough not to tolerate its subordinates' failures."
+  },
+  {
+   "uid": "U21501",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21502",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A super-dimensional combat mothership that is also Shaider's base. It flies faster than light and can transform into the Shooting Formation, which fires the Big Magnum, and the Battle Formation, a robot form."
+  },
+  {
+   "uid": "U21503",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21504",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "V3's machine, designed by the Double Riders. Nuclear-powered with a top speed of 600 km/h, it can fly through the air with rocket boosters. It can also be summoned by V3's telepathy."
+  },
+  {
+   "uid": "U21505",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21506",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A new fighter that appeared to replace the Variblune after it self-destructed. It has weapons and performance beyond the Variblune and carries the Varikikyun, Varitank, Star Machines and more inside. It is mainly piloted by Aorenger."
+  },
+  {
+   "uid": "U21507",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Space ninjas who invaded Earth again leading a great army. A Spellgen reflector on the chest repels the Specium Ray. They invade Earth many more times after this. Height 50 m, weight 15,000 t. In the game, the weird ray can also attack S-size units, making them a tough foe."
+  },
+  {
+   "uid": "U21508",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "The ruler of the secret crime organization Shadow. He plots world conquest using a robot army called the Shadow Assassination Squad. A large organization, it even has a base on the Moon."
+  },
+  {
+   "uid": "U21509",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U21510",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A clinical test subject of \"Vol\", the unknown cells Dr. Hinata collected at Nojimazaki. 22 years old. Dr. Hinata's eldest son and the Bio heroine's older brother. He was more or less forced into being a test subject by his father, who dreamed of coexistence with new cells that would carry the next generation. Clinical test subject No. 5."
+  },
+  {
+   "uid": "U21511",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A biophysicist who recognized Number Ten, which appeared at the outer edge of the solar system, as a life form, and was driven out of the TDF of the time for reporting it. He named the new type of cells collected at Nojimazaki \"Vol\" and tried to control them artificially as cells that bring immortality. He is the Bio heroine's real father. He died in the fire at the laboratory three"
+  },
+  {
+   "uid": "U21512",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "The form General Black transformed into. He uses camouflage to vanish and toy with enemies. He can also bring back revived monsters using human blood."
+  },
+  {
+   "uid": "U21513",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Akira's older brother and Professor Gill's eldest son. Half of the Giant Devil blueprints were hidden on his back, and he continues life on the run from Shadow's pursuers with his caretaker Misao."
+  },
+  {
+   "uid": "U21514",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Fusion Steel Shell Proto-Zero: Fadita. A prototype Fusion Steel shell created in Naager for fusion tests with the human body. It is also the combat form of the Metal heroine. Since it was built solely to support Lucifard, the combat-specialized Type D, it originally had no weapons, but it later gained a repair function as Lucifard's dedicated support equipment, and the Destroyer Blast, a mechanism that attacks by reversing"
+  },
+  {
+   "uid": "U21515",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21516",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21517",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Freezing aliens who came from Planet Black to invade Earth and tried to kidnap young men and women for labor. They control the snow-woman kaiju Snowgon and have a forward base on Saturn. Height 2.1 m, weight 99 kg."
+  },
+  {
+   "uid": "U21518",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Shaider's super-dimensional machine. It can break into the Fushigi World and run at 790 km/h. In 1/100 of a second it can transform into a Mach 3 flight mode."
+  },
+  {
+   "uid": "U21519",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21520",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21521",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "The survivor of EAGLE's Hokkaido branch, which was wiped out by Jade Mask. A bomb expert and a master of kicks. She transforms into Momorenger."
+  },
+  {
+   "uid": "U21522",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21523",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A giant space kaiju that flew in from the Crab Nebula. It ate the MAT Station, and the pentagonal mouth on its belly absorbs even Ultraman's Specium Ray. It fires destruction rays from the horn on its head. Height 46 m, weight 61,000 t."
+  },
+  {
+   "uid": "U21524",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21525",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A staff officer of the TDF Joint Operations Headquarters, posted at the Far East Base. One of the five top leaders. He was dispatched from the Washington branch, the largest after the Far East Base."
+  },
+  {
+   "uid": "U21526",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Bosgun"
+  },
+  {
+   "uid": "U21527",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21528",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Commander Kom's secretary. Taking over from Mimi, in the original show she later becomes Gavan's partner and is posted to Earth. Her marksmanship is top-notch."
+  },
+  {
+   "uid": "U21529",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21530",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21531",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "One of the three Capsule Monsters owned by Dan Moroboshi. From the Buffalo Planet. It prides itself on great strength, but is weak against electricity."
+  },
+  {
+   "uid": "U21532",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A boy who happened to be present at One-Seven's start-up, removed its electromagnetic filter and became able to share his heart with it. He communicates through a helmet given to him by One-Seven. His parents and sister were killed by a Brain robot."
+  },
+  {
+   "uid": "U21533",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21534",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A 20-year-old friend of Satoru Hinata, said to have been dating Tatsuya. She often came and went at the Hinata Laboratory with Tatsuya Todo. A carrier of Vol cells, she transforms into the EATER Valkyria. She had been missing since the fire at the laboratory three years ago. Clinical test subject No. 9."
+  },
+  {
+   "uid": "U21535",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21536",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Mimi"
+  },
+  {
+   "uid": "U21537",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21538",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A veteran who took office when the Science Patrol's Japan branch was founded. Sturdy and sincere, with excellent judgment and decisiveness. Strict about work, but also a good leader, much trusted by his subordinates. His real name is Toshio Muramatsu."
+  },
+  {
+   "uid": "U21539",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21540",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21541",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21542",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "The temporary earthly form of Fixed-star Observer No. 340, Ultraseven. It is modeled on Jiro Satsuma, a brave young man who tried to save a friend in a climbing accident without regard for his own life. He posed as a drifter, but his achievements were recognized and he became an Ultra Garrison member. In the game he can transform at Morale 105 or higher."
+  },
+  {
+   "uid": "U21543",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A lonely boy who was a little bad at making friends, until he happened to meet Brain's robot One-Eight and shared his heart with it. One-Eight's actions were normally controlled by its Satan Circuit, but it opened its heart to him alone."
+  },
+  {
+   "uid": "U21544",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "A UCMA unit member. Only recently assigned. Has lots of room to grow."
+  },
+  {
+   "uid": "U21545",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21546",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21547",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21548",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21549",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Grandfather of Ultra Garrison member Anne. An authority on space navigation, he later joins the TDF science group and is active as a scientist. His joining makes the \"Reload Magazine S\" and \"EN Repair Kit S\" available for development."
+  },
+  {
+   "uid": "U21550",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Akira's caretaker, a woman who shakes off Shadow's pursuers with him and continues life on the run. She was actually an android built by Gill."
+  },
+  {
+   "uid": "U21551",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21552",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21553",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21554",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  },
+  {
+   "uid": "U21555",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "The enhanced transformation of the Acrobatter that happens when RX turns into Robo Rider. Top speed 800 km/h. It can fire rockets from its rear. It has a sturdy body."
+  },
+  {
+   "uid": "U21556",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "It confuses enemies by firing phantom rays from its eyes. It can also fly and swoops down to attack enemies."
+  },
+  {
+   "uid": "U21557",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null,
+   "entry_name_en": "Goro Watari's mother, separated from him 15 years ago and missing ever since. Goro himself confirmed it was her through a matching rose pendant and a rose-shaped birthmark. Because she had mutant potential, Banba forcibly remodeled her, and she transforms into Bara Banbara. But she had not lost her mother's heart."
+  },
+  {
+   "uid": "U21558",
+   "kind": "encyclopedia",
+   "src": "encyc",
+   "speaker_en": null
+  }
+ ]
+}

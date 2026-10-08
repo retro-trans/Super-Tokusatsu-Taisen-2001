@@ -1,0 +1,417 @@
+{
+ "batch": "B0127",
+ "rows": [
+  {
+   "uid": "U10099",
+   "en": "Mari! Why are you running away?"
+  },
+  {
+   "uid": "U10100",
+   "en": "Please… don't follow me any further."
+  },
+  {
+   "uid": "U10101",
+   "en": "Why? Do you think I'm some kind of stalker?"
+  },
+  {
+   "uid": "U10102",
+   "en": "No… I'm simply not someone who can return your love."
+  },
+  {
+   "uid": "U10103",
+   "en": "Don't be ridiculous!<p>Whatever old-fashioned ideas you bring up, I still…<p>I love you!"
+  },
+  {
+   "uid": "U10104",
+   "en": "Taki… Can you still love me, even like this?<p>Change, Bijinder!"
+  },
+  {
+   "uid": "U10105",
+   "en": "You're…!?"
+  },
+  {
+   "uid": "U10106",
+   "en": "Goodbye! Taaah!"
+  },
+  {
+   "uid": "U10107",
+   "en": "…!?<p>Mari!<p>Bijindeeer!"
+  },
+  {
+   "uid": "U10108",
+   "en": "Nuoooh… That I, of all people, should…!"
+  },
+  {
+   "uid": "U10109",
+   "en": "Ngh, damn it…!?"
+  },
+  {
+   "uid": "U10110",
+   "en": "Ngh… He's… good…!"
+  },
+  {
+   "uid": "U10111",
+   "en": "Defeat all Shadowmen!"
+  },
+  {
+   "uid": "U10112",
+   "en": "Defeat Waruder…!"
+  },
+  {
+   "uid": "U10113",
+   "en": "Defeat Waruder (Shadow) and Bijinder (Shadow)!"
+  },
+  {
+   "uid": "U10114",
+   "en": "Defeat the Giant Devil, Shadow Knight, Bijinder (Shadow) and all Shadowmen!"
+  },
+  {
+   "uid": "U10115",
+   "en": "Defeat the Giant Devil, Waruder, Waruder (Shadow), Bijinder (Shadow), all Shadowmen and the Gigants!"
+  },
+  {
+   "uid": "U10116",
+   "en": "Mari is defeated"
+  },
+  {
+   "uid": "U10117",
+   "en": "Waruder is defeated"
+  },
+  {
+   "uid": "U10118",
+   "en": "Mister Brain!<p>Now that Gomez is dead… surely you can leave all operations to me…!"
+  },
+  {
+   "uid": "U10119",
+   "en": "I'm afraid not, Hustler… You remain robot commander, as before."
+  },
+  {
+   "uid": "U10120",
+   "en": "Mister Brain! Are you really going to leave the Brain Party's operations to this whippersnapper?"
+  },
+  {
+   "uid": "U10121",
+   "en": "Field command of the Brain Party will be taken by Apfaron of the Naager."
+  },
+  {
+   "uid": "U10122",
+   "en": "Mister Brain, you have my thanks."
+  },
+  {
+   "uid": "U10123",
+   "en": "By the way, Hustler… Have you grasped the outline of Project B?"
+  },
+  {
+   "uid": "U10124",
+   "en": "I'll report…<p>With Doctor Sahara at the center, they intend to build a new computer, never learning their lesson."
+  },
+  {
+   "uid": "U10125",
+   "en": "Foolish humans…"
+  },
+  {
+   "uid": "U10126",
+   "en": "Oh yes, Mister Brain! How's that thing of ours coming along?"
+  },
+  {
+   "uid": "U10127",
+   "en": "Its completion is near…"
+  },
+  {
+   "uid": "U10128",
+   "en": "Hahaha… I'd love to see the finished product as soon as possible!"
+  },
+  {
+   "uid": "U10129",
+   "en": "Well, everyone… We've arrived at our destination!"
+  },
+  {
+   "uid": "U10130",
+   "en": "So this is the Susono Campground?"
+  },
+  {
+   "uid": "U10131",
+   "en": "Sorry about this… dragging you all along for my sake."
+  },
+  {
+   "uid": "U10132",
+   "en": "Not at all! This is summer camp, after all, so we have to make lots of fun memories…"
+  },
+  {
+   "uid": "U10133",
+   "en": "[HERO4], just so you know, you're not the one making memories here.<p>We're here as Saburo's bodyguards."
+  },
+  {
+   "uid": "U10134",
+   "en": "Huh…? But Mr. Tachibana said that at summer camp, playing is learning…"
+  },
+  {
+   "uid": "U10135",
+   "en": "That's Mr. Tachibana for you… He says the nicest things!"
+  },
+  {
+   "uid": "U10136",
+   "en": "[HERO4]… You took this job planning to play from the start, didn't you?"
+  },
+  {
+   "uid": "U10137",
+   "en": "Well then, Ms. Kitakura… good luck with your mission!"
+  },
+  {
+   "uid": "U10138",
+   "en": "Heh heh… It'll be fine!<p>Mission or not, all I have to do is escort a liaison officer from overseas…<p>If I finish early, maybe I'll join you, Saburo, and the others."
+  },
+  {
+   "uid": "U10139",
+   "en": "Now even you're saying that, Ms. Kitakura…"
+  },
+  {
+   "uid": "U10140",
+   "en": "It's nothing to be sorry about. This is summer camp, after all, so we have to make lots of fun memories…"
+  },
+  {
+   "uid": "U10141",
+   "en": "[HERO4], let me make sure we're clear: you're not the one making memories here.<p>We're Saburo's bodyguards! We can't go joining in on all the fun, okay?"
+  },
+  {
+   "uid": "U10142",
+   "en": "Yeah… I know! But a little bit is fine, right?"
+  },
+  {
+   "uid": "U10143",
+   "en": "Come on, you two! The campground's over there, over there!"
+  },
+  {
+   "uid": "U10144",
+   "en": "Yazaki…<p>No spacing out! Take this firewood over to Saburo! I'll go gather some more…"
+  },
+  {
+   "uid": "U10145",
+   "en": "…………"
+  },
+  {
+   "uid": "U10146",
+   "en": "Hey, Yazaki! Hurry up, the fire's going out."
+  },
+  {
+   "uid": "U10147",
+   "en": "If you're in such a hurry, come get it yourself!"
+  },
+  {
+   "uid": "U10148",
+   "en": "Yazaki…"
+  },
+  {
+   "uid": "U10149",
+   "en": "The blueprints for this part arrive today from the Caribbean Branch…"
+  },
+  {
+   "uid": "U10150",
+   "en": "And with that… Project B will be complete, right?<p>The Caribbean Branch reported that it left on schedule."
+  },
+  {
+   "uid": "U10151",
+   "en": "Mm… Chief Kitakura should be arriving at the site about now, shouldn't she?"
+  },
+  {
+   "uid": "U10152",
+   "en": "Saburo and the others must be having fun at the campground right about now."
+  },
+  {
+   "uid": "U10153",
+   "en": "Yes… Rumi must be enjoying herself too."
+  },
+  {
+   "uid": "U10154",
+   "en": "…!?<p>Unidentified object, 60 kilometers north-northwest!"
+  },
+  {
+   "uid": "U10155",
+   "en": "What!? An unidentified object?<p>That direction… is close to Chief Kitakura's route. Contact her, just to be safe."
+  },
+  {
+   "uid": "U10156",
+   "en": "Yes, sir…<p>Chief Kitakura… Chief Kitakura, please respond!"
+  },
+  {
+   "uid": "U10157",
+   "en": "Yes, Security Squad here…"
+  },
+  {
+   "uid": "U10158",
+   "en": "Chief Kitakura! We've detected an unidentified object ahead of the Security Squad."
+  },
+  {
+   "uid": "U10159",
+   "en": "An unidentified object!?<p>The fog is so thick I can't see a thing."
+  },
+  {
+   "uid": "U10160",
+   "en": "Be careful, it's approaching you!"
+  },
+  {
+   "uid": "U10161",
+   "en": "…!?<p>Something's coming closer! What on earth is that sound!?"
+  },
+  {
+   "uid": "U10162",
+   "en": "Can you see anything!?"
+  },
+  {
+   "uid": "U10163",
+   "en": "I can't see anything… Only huge footsteps…?"
+  },
+  {
+   "uid": "U10164",
+   "en": "Footsteps…?"
+  },
+  {
+   "uid": "U10165",
+   "en": "One-Seven…!?"
+  },
+  {
+   "uid": "U10166",
+   "en": "Chief Kitakura, what happened!? What's going on?"
+  },
+  {
+   "uid": "U10167",
+   "en": "There's no answer…"
+  },
+  {
+   "uid": "U10168",
+   "en": "Something's happened to the Security Squad!"
+  },
+  {
+   "uid": "U10169",
+   "en": "Send help at once…"
+  },
+  {
+   "uid": "U10170",
+   "en": "I wonder what's up with Yazaki? He's acting a little weird."
+  },
+  {
+   "uid": "U10171",
+   "en": "A week ago… his mother went out shopping and never came back, they say…"
+  },
+  {
+   "uid": "U10172",
+   "en": "She's missing?"
+  },
+  {
+   "uid": "U10173",
+   "en": "I see… Yazaki lived alone with his mom, didn't he?<p>And now his mom's missing… I know exactly how Yazaki feels."
+  },
+  {
+   "uid": "U10174",
+   "en": "Shut up, you idiot! Spare me your lousy sympathy!<p>Pitying me won't bring my mom back…"
+  },
+  {
+   "uid": "U10175",
+   "en": "Mom, you idiot! Where did you go, leaving me all alone!?"
+  },
+  {
+   "uid": "U10176",
+   "en": "…!?<p>Waaaaah…!?"
+  },
+  {
+   "uid": "U10177",
+   "en": "…!?<p>Time to show what a bodyguard can do!"
+  },
+  {
+   "uid": "U10178",
+   "en": "Everyone, get inside the tents! Come on, hurry…"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U10104: \"Change, Bijinder!\" kept as the show's transformation call.",
+   "U10108-U10110: defeat reactions; U10110 Ichiro's \"でき…る…\" read as acknowledging an opponent's skill (\"He's… good…\"); opponent assumed to be Waruder.",
+   "U10116: source has \"…?\" after the defeat condition; dropped to keep the standard form.",
+   "U10120/U10251: 舌造 read as 若造 \"whippersnapper\".",
+   "U10123: B計両 read as B計画 \"Project B\".",
+   "U10132/U10140: 林間学校 rendered \"summer camp\" (school outing camp).",
+   "U10140: [HERO4]'s \"悪いことなんてないよ\" answers Saburo's \"なんだか悪いな\" (U10131) in the other route; \"It's nothing to be sorry about\".",
+   "U10171: Rumi tells the bodyguards about Yazaki's mother; \"they say\" for んですって.",
+   "U10174-U10176: Yazaki's speech continues over two narration-kind rows; kept split."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "[HERO2]",
+    "why": "speaker placeholder, speaker_en null"
+   },
+   {
+    "en": "[HERO4]",
+    "why": "speaker placeholder, speaker_en null"
+   },
+   {
+    "en": "Susono Campground",
+    "why": "place, not in glossary"
+   },
+   {
+    "en": "Project B",
+    "why": "plan name, not in glossary"
+   },
+   {
+    "en": "Caribbean Branch",
+    "why": "place, not in glossary"
+   },
+   {
+    "en": "Brain Party",
+    "why": "from glossary entry Brain Party Pilot"
+   },
+   {
+    "en": "Mister Brain",
+    "why": "how Hustler addresses Brain, not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U10102",
+    "likely": "応えられる"
+   },
+   {
+    "uid": "U10111",
+    "likely": "全て"
+   },
+   {
+    "uid": "U10114",
+    "likely": "全て"
+   },
+   {
+    "uid": "U10115",
+    "likely": "全て"
+   },
+   {
+    "uid": "U10119",
+    "likely": "残念"
+   },
+   {
+    "uid": "U10120",
+    "likely": "若造"
+   },
+   {
+    "uid": "U10123",
+    "likely": "B計画"
+   },
+   {
+    "uid": "U10150",
+    "likely": "B計画"
+   },
+   {
+    "uid": "U10155",
+    "likely": "念のため"
+   },
+   {
+    "uid": "U10156",
+    "likely": "応答"
+   },
+   {
+    "uid": "U10167",
+    "likely": "返答"
+   }
+  ]
+ }
+}

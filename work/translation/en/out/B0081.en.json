@@ -1,0 +1,400 @@
+{
+ "batch": "B0081",
+ "rows": [
+  {
+   "uid": "U06417",
+   "en": "All right, understood! I'll be right there!"
+  },
+  {
+   "uid": "U06418",
+   "en": "There he is!<p>Hold it, you're not getting away! Hyaaaah…"
+  },
+  {
+   "uid": "U06419",
+   "en": "Arashi! What are you doing?<p>Dr. Iwamoto!?<p>…!?"
+  },
+  {
+   "uid": "U06420",
+   "en": "…………"
+  },
+  {
+   "uid": "U06422",
+   "en": "Look out!"
+  },
+  {
+   "uid": "U06423",
+   "en": "…………"
+  },
+  {
+   "uid": "U06424",
+   "en": "What is this!? An alien had already infiltrated HQ?"
+  },
+  {
+   "uid": "U06425",
+   "en": "He disguised himself as Dr. Iwamoto… and smashed up the communicators and the power room!"
+  },
+  {
+   "uid": "U06426",
+   "en": "Cap! With its dying breath, the alien said something like \"Zetton\", didn't it?"
+  },
+  {
+   "uid": "U06427",
+   "en": "Mm…"
+  },
+  {
+   "uid": "U06428",
+   "en": "What could it mean?"
+  },
+  {
+   "uid": "U06429",
+   "en": "…!?<p>What the hell is that!?"
+  },
+  {
+   "uid": "U06430",
+   "en": "…………"
+  },
+  {
+   "uid": "U06431",
+   "en": "Don't let it advance! HQ is our lifeline!!"
+  },
+  {
+   "uid": "U06432",
+   "en": "(No good! Everyone's watching… I can't transform here.)"
+  },
+  {
+   "uid": "U06433",
+   "en": "[HERO2]… Shouldn't we tell Captain Muramatsu to call off the attack…?"
+  },
+  {
+   "uid": "U06434",
+   "en": "If the song's right… something terrible will happen? But listen… Look at that. Can there be anything more terrible than this?<p>If we leave it alone, Tokyo will be wiped out! Quit your griping… All right, let's go!!"
+  },
+  {
+   "uid": "U06435",
+   "en": "Y-yes…"
+  },
+  {
+   "uid": "U06436",
+   "en": "[HERO2]… We'd better call off the attack. Let's tell Captain Muramatsu that too…"
+  },
+  {
+   "uid": "U06437",
+   "en": "If the song's right… something terrible will happen? But listen… Look at that. Do you think there's anything more terrible than this?<p>If we leave it alone, Tokyo will be wiped out! Quit your griping… Come on, let's go!!"
+  },
+  {
+   "uid": "U06438",
+   "en": "But…"
+  },
+  {
+   "uid": "U06439",
+   "en": "Uuugh…<p>Iwamoto to Captain Muramatsu… Iwamoto to Captain Muramatsu…"
+  },
+  {
+   "uid": "U06440",
+   "en": "This is Muramatsu…"
+  },
+  {
+   "uid": "U06441",
+   "en": "It's me, Iwamoto! I need rescue!"
+  },
+  {
+   "uid": "U06442",
+   "en": "Dr. Iwamoto, where are you?"
+  },
+  {
+   "uid": "U06443",
+   "en": "Inside HQ…"
+  },
+  {
+   "uid": "U06444",
+   "en": "What…!?<p>Arashi, Ide, Fuji, take care of the Doctor! The rest of us will do what we can with the Mars."
+  },
+  {
+   "uid": "U06445",
+   "en": "Cap!!<p>Damn… We can't even scratch it! All right…!"
+  },
+  {
+   "uid": "U06446",
+   "en": "Dah…"
+  },
+  {
+   "uid": "U06447",
+   "en": "Ah… Ultraman!"
+  },
+  {
+   "uid": "U06448",
+   "en": "Ultraman, you can do it!"
+  },
+  {
+   "uid": "U06449",
+   "en": "…………<p>Thank you, [VAR6]!!"
+  },
+  {
+   "uid": "U06450",
+   "en": "Ultraman's body drains rapidly on Earth! When his energy runs low, the Color Timer on his chest begins to sound!<p>Stand up, Ultraman!!"
+  },
+  {
+   "uid": "U06451",
+   "en": "Ultraman, you can't die! Stand up! Get up!!<p>Ultraman! If you die… what will become of Earth? Ultramaaan!!"
+  },
+  {
+   "uid": "U06452",
+   "en": "Ultraman…"
+  },
+  {
+   "uid": "U06453",
+   "en": "Hang in there!"
+  },
+  {
+   "uid": "U06454",
+   "en": "Get up!"
+  },
+  {
+   "uid": "U06455",
+   "en": "Damn it…"
+  },
+  {
+   "uid": "U06456",
+   "en": "Ah, wait!<p>This is the new weapon we just finished at the Science Center yesterday, the <c2>Pencil Bomb</c>! Give it a try."
+  },
+  {
+   "uid": "U06457",
+   "en": "Yes, sir! Thank you very much!"
+  },
+  {
+   "uid": "U06458",
+   "en": "Ide, take care of the Doctor! Let's go!"
+  },
+  {
+   "uid": "U06459",
+   "en": "All right, let's go!"
+  },
+  {
+   "uid": "U06460",
+   "en": "We did it!"
+  },
+  {
+   "uid": "U06461",
+   "en": "We did it, didn't we? Victory is ours!"
+  },
+  {
+   "uid": "U06462",
+   "en": "Not yet… We have to put out the fire at HQ first!"
+  },
+  {
+   "uid": "U06463",
+   "en": "Mr. Muramatsu… Is HQ all right?"
+  },
+  {
+   "uid": "U06464",
+   "en": "Oh, [HERO4] and [HERO2]… You were worried and came to check on us, didn't you? But HQ is safe!"
+  },
+  {
+   "uid": "U06465",
+   "en": "That's a relief, isn't it?"
+  },
+  {
+   "uid": "U06466",
+   "en": "Caaap… Is HQ okay?"
+  },
+  {
+   "uid": "U06467",
+   "en": "Oh, [HERO4] and [HERO2]… You were worried and came to check on us, didn't you? But HQ is safe!"
+  },
+  {
+   "uid": "U06468",
+   "en": "That's great, isn't it, Cap!"
+  },
+  {
+   "uid": "U06469",
+   "en": "But Ultraman…"
+  },
+  {
+   "uid": "U06470",
+   "en": "Captain Muramatsu! Look at that…"
+  },
+  {
+   "uid": "U06471",
+   "en": "Ultraman?"
+  },
+  {
+   "uid": "U06472",
+   "en": "Two Ultramen?"
+  },
+  {
+   "uid": "U06473",
+   "en": "No… That must be a messenger from the Land of Light."
+  },
+  {
+   "uid": "U06474",
+   "en": "No… It looks like a messenger from the Land of Light."
+  },
+  {
+   "uid": "U06475",
+   "en": "Ultraman, open your eyes! I am Zoffy, captain of the Space Garrison of Nebula M78.<p>Come, let us return to the Land of Light together… Ultraman!"
+  },
+  {
+   "uid": "U06476",
+   "en": "Zoffy… My body is not mine alone.<p>If I go back… an Earthling will die."
+  },
+  {
+   "uid": "U06477",
+   "en": "Ultraman…<p>You have already done more than enough for Earth! The people of Earth will forgive you."
+  },
+  {
+   "uid": "U06478",
+   "en": "Hayata is a fine human being… I cannot sacrifice him! I will remain on Earth…"
+  },
+  {
+   "uid": "U06479",
+   "en": "Peace on Earth is only worth something if humans seize it with their own hands! You must not stay on Earth forever!"
+  },
+  {
+   "uid": "U06480",
+   "en": "Zoffy! In that case… I wish to give my life to Hayata and leave Earth."
+  },
+  {
+   "uid": "U06481",
+   "en": "Are you prepared to die?"
+  },
+  {
+   "uid": "U06482",
+   "en": "I don't mind… I have already lived for 20,000 years. The lives of Earthlings are terribly short!<p>Besides… Hayata is still young! I cannot sacrifice him."
+  },
+  {
+   "uid": "U06483",
+   "en": "Ultraman… Have you grown so fond of the people of Earth?<p>Very well… I carry two lives. I shall give one of them to Hayata!"
+  },
+  {
+   "uid": "U06484",
+   "en": "Thank you, Zoffy…"
+  },
+  {
+   "uid": "U06485",
+   "en": "Then… I shall separate your body from Hayata's!"
+  },
+  {
+   "uid": "U06486",
+   "en": "What a strange red sphere…"
+  },
+  {
+   "uid": "U06487",
+   "en": "His comrade came to take him home…"
+  },
+  {
+   "uid": "U06488",
+   "en": "So that means… Ultraman is…?"
+  },
+  {
+   "uid": "U06489",
+   "en": "He'll never appear before us again."
+  },
+  {
+   "uid": "U06490",
+   "en": "We'll defend the peace of Earth with our own hands, the hands of the Science Patrol!"
+  },
+  {
+   "uid": "U06491",
+   "en": "Ultraman! Goodbye…"
+  },
+  {
+   "uid": "U06492",
+   "en": "Hayata! Where have you been? Ultraman is leaving Earth!"
+  },
+  {
+   "uid": "U06493",
+   "en": "Cap! That's it! That red sphere! I collided with it at Ryugamori…<p>Collided with it… and what's been happening to me ever since?"
+  },
+  {
+   "uid": "U06494",
+   "en": "Who knows? What have you been doing, I wonder?"
+  },
+  {
+   "uid": "U06495",
+   "en": "Huh? I don't know… You're you, Hayata."
+  },
+  {
+   "uid": "U06496",
+   "en": "Waaaagh…"
+  },
+  {
+   "uid": "U06497",
+   "en": "Damn! We've been hit!!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U06420: source row has no closing bracket; U06421 is not in this batch.",
+   "U06425: alien referred to as \"He\" (it was disguised as Dr. Iwamoto); U06426 uses \"the alien\"/\"its\".",
+   "U06432: 『』 inner monologue rendered as a thought in ( ).",
+   "U06449: Hideki Go thanking [VAR6] looks out of place in this Science Patrol scene (likely a shared/variant line); translated literally.",
+   "U06463: ムラマツさん from [HERO4] rendered \"Mr. Muramatsu\".",
+   "U06444: マルス rendered \"the Mars\" (Mars 133 in the glossary); short form kept.",
+   "U06487: 仲間 referred to as \"His comrade\" (Zoffy, male).",
+   "U06494/U06495: [HERO4] replies to Hayata's rhetorical question; read as teasing evasion."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Nebula M78",
+    "why": "not in glossary"
+   },
+   {
+    "en": "captain of the Space Garrison",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Land of Light",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Ryugamori",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Color Timer",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U06450",
+    "likely": "胸"
+   },
+   {
+    "uid": "U06473",
+    "likely": "使い"
+   },
+   {
+    "uid": "U06474",
+    "likely": "使い"
+   },
+   {
+    "uid": "U06478",
+    "likely": "犠牲"
+   },
+   {
+    "uid": "U06482",
+    "likely": "犠牲"
+   },
+   {
+    "uid": "U06479",
+    "likely": "価値"
+   },
+   {
+    "uid": "U06480",
+    "likely": "ゾフィ"
+   },
+   {
+    "uid": "U06487",
+    "likely": "迎え"
+   },
+   {
+    "uid": "U06493",
+    "likely": "衝突"
+   }
+  ]
+ }
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0045",
+ "prev": "B0044",
+ "next": "B0046",
+ "rows": [
+  {
+   "uid": "U03531",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03532",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03533",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Locomotive Monster"
+  },
+  {
+   "uid": "U03534",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Boyish Man"
+  },
+  {
+   "uid": "U03535",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dignified Man"
+  },
+  {
+   "uid": "U03536",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Man with a Kyushu Accent"
+  },
+  {
+   "uid": "U03537",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Smug Man"
+  },
+  {
+   "uid": "U03538",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Earnest-Looking Woman"
+  },
+  {
+   "uid": "U03539",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dignified Man"
+  },
+  {
+   "uid": "U03540",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Boyish Man"
+  },
+  {
+   "uid": "U03541",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Smug Man"
+  },
+  {
+   "uid": "U03542",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U03543",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03544",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03545",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03546",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03547",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03548",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03549",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03550",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03551",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03552",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03553",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03554",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03555",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03556",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03557",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03558",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03559",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03560",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03561",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Boyish Man"
+  },
+  {
+   "uid": "U03562",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Earnest-Looking Woman"
+  },
+  {
+   "uid": "U03563",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dignified Man"
+  },
+  {
+   "uid": "U03564",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U03565",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U03566",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03567",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03568",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U03569",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03570",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03571",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U03572",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03573",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U03574",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dignified Man"
+  },
+  {
+   "uid": "U03575",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Smug Man"
+  },
+  {
+   "uid": "U03576",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U03577",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U03578",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenji Asuka"
+  },
+  {
+   "uid": "U03579",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U03580",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U03581",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U03582",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U03583",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U03584",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Momorenger"
+  },
+  {
+   "uid": "U03585",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U03586",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U03587",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gorenger"
+  },
+  {
+   "uid": "U03588",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03589",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U03590",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03591",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U03592",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U03593",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U03594",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U03595",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U03596",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U03597",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U03598",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U03599",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U03600",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03601",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03602",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U03603",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03604",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenji Asuka"
+  },
+  {
+   "uid": "U03605",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U03606",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U03607",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03608",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03609",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03610",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

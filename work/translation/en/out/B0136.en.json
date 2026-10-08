@@ -1,0 +1,443 @@
+{
+ "batch": "B0136",
+ "rows": [
+  {
+   "uid": "U10821",
+   "en": "You betrayed me, Alien Pedan!"
+  },
+  {
+   "uid": "U10822",
+   "en": "Ultra Garrison, sortie!"
+  },
+  {
+   "uid": "U10823",
+   "en": "Give me a lab coat!"
+  },
+  {
+   "uid": "U10824",
+   "en": "Dr. Dorothy Anderson!"
+  },
+  {
+   "uid": "U10825",
+   "en": "The special metal the Alien Pedan use should be destructible with bullets made using <c2>Ryton R30</c>!<p>Dr. Tsuchida… let's begin!"
+  },
+  {
+   "uid": "U10826",
+   "en": "Yes…"
+  },
+  {
+   "uid": "U10827",
+   "en": "This is our only round! If you miss, it's all over."
+  },
+  {
+   "uid": "U10828",
+   "en": "Frankly, this round's effectiveness is still an unknown quantity! Fire it from as close as you possibly can!<p>If this operation succeeds… <c2>Ryton R30</c> will go into mass production. Good luck."
+  },
+  {
+   "uid": "U10829",
+   "en": "Understood!"
+  },
+  {
+   "uid": "U10830",
+   "en": "Damn… I-I blew it!"
+  },
+  {
+   "uid": "U10831",
+   "en": "We did it!"
+  },
+  {
+   "uid": "U10832",
+   "en": "Did we get it…?"
+  },
+  {
+   "uid": "U10833",
+   "en": "Yes… I'm truly glad."
+  },
+  {
+   "uid": "U10834",
+   "en": "Mm…<p>But… we'll be busy from here on. The TDF Science Group's work is no picnic."
+  },
+  {
+   "uid": "U10835",
+   "en": "Yes… Let's do our best, for the sake of peace."
+  },
+  {
+   "uid": "U10836",
+   "en": "I'm counting on you both…"
+  },
+  {
+   "uid": "U10837",
+   "en": "This is it, isn't it, [HERO4]… The war between the Naager and humanity is about to begin."
+  },
+  {
+   "uid": "U10838",
+   "en": "Are you really all right with this? Fighting the Naager means you'll truly be fighting your father…"
+  },
+  {
+   "uid": "U10839",
+   "en": "From today on, I no longer think of my old man as my father!<p>My father is already gone from this world! And so am I…<p>The ones alive now are Steel Emperor Zephas and the Black Knight Lucifard! And my mission is to defeat him!<p>And… and once that's over…"
+  },
+  {
+   "uid": "U10840",
+   "en": "…Once it's over?"
+  },
+  {
+   "uid": "U10841",
+   "en": "With your own hands, I want you to…<p>I want you to kill me!"
+  },
+  {
+   "uid": "U10842",
+   "en": "…Understood! I'll kill you, [HERO2]! With my own hands…<p>So until then, please don't die! Not until the day we defeat Steel Emperor Zephas…"
+  },
+  {
+   "uid": "U10843",
+   "en": "Thank you, [HERO4]…"
+  },
+  {
+   "uid": "U10844",
+   "en": "But really, what's going on? Coming up to Tokyo out of the blue like this…"
+  },
+  {
+   "uid": "U10845",
+   "en": "Mm… The truth is, I saw it. That ship…"
+  },
+  {
+   "uid": "U10846",
+   "en": "Saw it…? Where? Where did you see it? That footage…"
+  },
+  {
+   "uid": "U10847",
+   "en": "At the TDF, of course…<p>My son… was a member of the TDF's Science Group, you see."
+  },
+  {
+   "uid": "U10848",
+   "en": "Eh…"
+  },
+  {
+   "uid": "U10849",
+   "en": "It's all ancient history now…<p>More importantly, [HERO2]… please take care of that girl! She has no one left but you now…"
+  },
+  {
+   "uid": "U10850",
+   "en": "Uh, sure…"
+  },
+  {
+   "uid": "U10851",
+   "en": "I don't mind being hated… but I'd ask you not to hate my son. Not her father, who loved that girl more than anyone…"
+  },
+  {
+   "uid": "U10852",
+   "en": "Oh… looks like the bus is here."
+  },
+  {
+   "uid": "U10853",
+   "en": "Well then, take care of yourself! You're not an ordinary person, after all… Upsy-daisy…"
+  },
+  {
+   "uid": "U10854",
+   "en": "At last, the Earth Defense Conference began. The top item on the agenda, of course, was the Space Fortress Naager, steadily drawing closer to Earth even now."
+  },
+  {
+   "uid": "U10855",
+   "en": "At this stage, the TDF officially designated the Naager a hypothetical enemy. The scientific staff stayed on at the center and began searching for some means against the Naager…"
+  },
+  {
+   "uid": "U10856",
+   "en": "U7… Come with me to the hangar."
+  },
+  {
+   "uid": "U10857",
+   "en": "The hangar?<p>But… Robo isn't there anymore! That hangar is full of memories…"
+  },
+  {
+   "uid": "U10858",
+   "en": "Never mind that… Just come, quickly!"
+  },
+  {
+   "uid": "U10859",
+   "en": "Ah…"
+  },
+  {
+   "uid": "U10860",
+   "en": "Well? U7…"
+  },
+  {
+   "uid": "U10861",
+   "en": "Branch Chief! What on earth is this!?"
+  },
+  {
+   "uid": "U10862",
+   "en": "Mm…<p>It's a good thing we gave the great power, the Republic of Merca, our analysis data on Giant Robo…<p>Who'd have thought it would come in handy like this…"
+  },
+  {
+   "uid": "U10863",
+   "en": "But who did it? Who repaired Robo?"
+  },
+  {
+   "uid": "U10864",
+   "en": "Dr. Sahara…<p>I thought that if anyone could, it would be Dr. Sahara, the man who created Brain… And the result is a great success!"
+  },
+  {
+   "uid": "U10865",
+   "en": "Dr. Sahara…?<p>Robo… I'll never make a mistake like that again! You'll forgive me, won't you? Robo…"
+  },
+  {
+   "uid": "U10866",
+   "en": "Escort Dr. D. Anderson to the International Science Center!"
+  },
+  {
+   "uid": "U10867",
+   "en": "Defeat all Brain Robots!"
+  },
+  {
+   "uid": "U10868",
+   "en": "Defeat all Brain Robots and Kelbaan!"
+  },
+  {
+   "uid": "U10869",
+   "en": "Defeat all Brain Robots, Kelbaan and Iron Mask Party robots!"
+  },
+  {
+   "uid": "U10870",
+   "en": "Defeat all Brain Robots, Kelbaan and Iron Mask Party robots! Also, defeat the super robot with Ultraseven!"
+  },
+  {
+   "uid": "U10871",
+   "en": "Defeat all Brain Robots, Iron Mask Party robots, Kelbaan and the super robot!"
+  },
+  {
+   "uid": "U10872",
+   "en": "Defeat the Space Robot King Joe!"
+  },
+  {
+   "uid": "U10873",
+   "en": "Furuhashi is defeated"
+  },
+  {
+   "uid": "U10874",
+   "en": "<c3>Tsuyoshi Kaijo</c>'s Morale went <c1>DOWN</c>!"
+  },
+  {
+   "uid": "U10875",
+   "en": "<c3>Akira Shinmei</c>'s Morale went <c2>UP</c>!"
+  },
+  {
+   "uid": "U10876",
+   "en": "<c3>Akira Shinmei</c>'s Morale went <c1>DOWN</c>!"
+  },
+  {
+   "uid": "U10877",
+   "en": "<c3>Kenji Asuka</c>'s Morale went <c1>DOWN</c>!"
+  },
+  {
+   "uid": "U10878",
+   "en": "<c3>Daita Oiwa</c>'s Morale went <c1>DOWN</c>!"
+  },
+  {
+   "uid": "U10879",
+   "en": "<c3>Peggy Matsuyama</c>'s Morale went <c2>UP</c>!"
+  },
+  {
+   "uid": "U10880",
+   "en": "To wipe out the Gorenger and EAGLE Base, Volcano Mask General Magman launched \"Operation Roller\" with the mobile fortress Navaron!"
+  },
+  {
+   "uid": "U10881",
+   "en": "Blast it! Advance! Destroy! Leave not a single tree standing! Let not a single human live!"
+  },
+  {
+   "uid": "U10882",
+   "en": "It's the Varidreen!"
+  },
+  {
+   "uid": "U10883",
+   "en": "So they've come…<p>Right, today I'll show them what for! Send out the Kelbaan!"
+  },
+  {
+   "uid": "U10884",
+   "en": "…!?<p>That's the Naager bunch, isn't it?<p>Curse you, Kelbaan! Let's give 'em a taste of this!"
+  },
+  {
+   "uid": "U10885",
+   "en": "Ha haaa, how d'ya like that!<p>…Hm!? Shinmei, it's the Navaron!"
+  },
+  {
+   "uid": "U10886",
+   "en": "Dive! Fire Sky Lock!"
+  },
+  {
+   "uid": "U10887",
+   "en": "…!? They've installed a barrier!?"
+  },
+  {
+   "uid": "U10888",
+   "en": "Heh heh heh… I'm not afraid of the Varidreen!"
+  },
+  {
+   "uid": "U10889",
+   "en": "Like moths to the flame! Fire Road!"
+  },
+  {
+   "uid": "U10890",
+   "en": "How does it feel, burning to death slowly? Hahaha…"
+  },
+  {
+   "uid": "U10891",
+   "en": "Aka and the others are in danger! Let's go, Dai!"
+  },
+  {
+   "uid": "U10892",
+   "en": "You bet! Varitank, move out!"
+  },
+  {
+   "uid": "U10893",
+   "en": "Fire extinguisher, switch on!"
+  },
+  {
+   "uid": "U10894",
+   "en": "The fire's out!? Thank you!"
+  },
+  {
+   "uid": "U10895",
+   "en": "The Navaron has a barrier! We'll get close and attack from underground!"
+  },
+  {
+   "uid": "U10896",
+   "en": "Nngh… Open fire! Crush the Varitank!"
+  },
+  {
+   "uid": "U10897",
+   "en": "Gyro Screw, switch on!"
+  },
+  {
+   "uid": "U10898",
+   "en": "Oh, blast! They've escaped underground!"
+  },
+  {
+   "uid": "U10899",
+   "en": "Hoiiii! Hoiiii!"
+  },
+  {
+   "uid": "U10900",
+   "en": "This is terrible! The Varitank is counterattacking!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U10825/U10828: ライトンR－30 rendered \"Ryton R30\" to match the glossary Ryton R30 Bomb.",
+   "U10827: speaker is Kiriyama handing the round to Furuhashi (the shooter, per U10829-U10831).",
+   "U10836: Kiriyama's よろしくお願いします to the two scientists, \"I'm counting on you both\".",
+   "U10839: \"him\" = Steel Emperor Zephas.",
+   "U10844-U10853: [HERO2] speaking with Seijiro; あの子 = [HERO4] (Seijiro's granddaughter, female); \"that footage\" in U10846 is the ship image shown at the TDF.",
+   "U10853: 皆通 read as 普通 \"You're not an ordinary person\"; U10852-U10853 are narration-kind continuations of Seijiro's speech.",
+   "U10874-U10879: system messages formatted like B0001 (\"Morale went UP/DOWN\"); 『』 around UP/DOWN dropped.",
+   "U10885/U10891: Daita's 新命どん and Akira's 大ちゃん rendered \"Shinmei\" and \"Dai\"; Daita's dialect softened to casual speech.",
+   "U10891: アカ = Akarenger (Tsuyoshi Kaijo), kept as the team nickname \"Aka\"."
+  ],
+  "omissions_kept": [
+   "U10848/U10850: [HERO2]'s bare reactions kept."
+  ],
+  "new_names": [
+   {
+    "en": "[HERO2]",
+    "why": "speaker placeholder, speaker_en null"
+   },
+   {
+    "en": "[HERO4]",
+    "why": "speaker placeholder, speaker_en null"
+   },
+   {
+    "en": "Republic of Merca",
+    "why": "Giant Robo country, not in glossary"
+   },
+   {
+    "en": "Operation Roller",
+    "why": "not in glossary"
+   },
+   {
+    "en": "EAGLE Base",
+    "why": "Gorenger HQ, not in glossary"
+   },
+   {
+    "en": "mobile fortress Navaron",
+    "why": "from glossary Navaron"
+   },
+   {
+    "en": "Gyro Screw",
+    "why": "Varitank device, not in glossary"
+   },
+   {
+    "en": "super robot",
+    "why": "generic term for King Joe here"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U10825",
+    "likely": "始めましょう"
+   },
+   {
+    "uid": "U10825",
+    "likely": "土田博士"
+   },
+   {
+    "uid": "U10828",
+    "likely": "成功"
+   },
+   {
+    "uid": "U10837",
+    "likely": "始まる"
+   },
+   {
+    "uid": "U10851",
+    "likely": "憎まれても"
+   },
+   {
+    "uid": "U10851",
+    "likely": "憎まないで"
+   },
+   {
+    "uid": "U10853",
+    "likely": "普通"
+   },
+   {
+    "uid": "U10854",
+    "likely": "開始"
+   },
+   {
+    "uid": "U10854",
+    "likely": "現在"
+   },
+   {
+    "uid": "U10855",
+    "likely": "模索し始めた"
+   },
+   {
+    "uid": "U10862",
+    "likely": "解析"
+   },
+   {
+    "uid": "U10864",
+    "likely": "大成功"
+   },
+   {
+    "uid": "U10865",
+    "likely": "失敗"
+   },
+   {
+    "uid": "U10867",
+    "likely": "全て"
+   },
+   {
+    "uid": "U10868",
+    "likely": "全て"
+   },
+   {
+    "uid": "U10880",
+    "likely": "開始"
+   }
+  ]
+ }
+}

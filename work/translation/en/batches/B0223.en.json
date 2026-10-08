@@ -1,0 +1,487 @@
+{
+ "batch": "B0223",
+ "prev": "B0222",
+ "next": "B0224",
+ "rows": [
+  {
+   "uid": "U17786",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17787",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17788",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17789",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17790",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17791",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17792",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17793",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17794",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17795",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17796",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17797",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17798",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17799",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17800",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17801",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17802",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17803",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17804",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17805",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17806",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17807",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17808",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Monster"
+  },
+  {
+   "uid": "U17809",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Monster"
+  },
+  {
+   "uid": "U17810",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Monster"
+  },
+  {
+   "uid": "U17811",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Monster"
+  },
+  {
+   "uid": "U17812",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Monster"
+  },
+  {
+   "uid": "U17813",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Monster"
+  },
+  {
+   "uid": "U17814",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Monster"
+  },
+  {
+   "uid": "U17815",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Monster"
+  },
+  {
+   "uid": "U17816",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miki"
+  },
+  {
+   "uid": "U17817",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miki"
+  },
+  {
+   "uid": "U17818",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miki"
+  },
+  {
+   "uid": "U17819",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miki"
+  },
+  {
+   "uid": "U17820",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miki"
+  },
+  {
+   "uid": "U17821",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miki"
+  },
+  {
+   "uid": "U17822",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miki"
+  },
+  {
+   "uid": "U17823",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miki"
+  },
+  {
+   "uid": "U17824",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miki"
+  },
+  {
+   "uid": "U17825",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miki"
+  },
+  {
+   "uid": "U17826",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Silva"
+  },
+  {
+   "uid": "U17827",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Silva"
+  },
+  {
+   "uid": "U17828",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Silva"
+  },
+  {
+   "uid": "U17829",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Silva"
+  },
+  {
+   "uid": "U17830",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Silva"
+  },
+  {
+   "uid": "U17831",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Silva"
+  },
+  {
+   "uid": "U17832",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Silva"
+  },
+  {
+   "uid": "U17833",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crusher"
+  },
+  {
+   "uid": "U17834",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crusher"
+  },
+  {
+   "uid": "U17835",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crusher"
+  },
+  {
+   "uid": "U17836",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crusher"
+  },
+  {
+   "uid": "U17837",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U17838",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U17839",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U17840",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U17841",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U17842",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U17843",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U17844",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doubleman"
+  },
+  {
+   "uid": "U17845",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shako Monster"
+  },
+  {
+   "uid": "U17846",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sai Doubler"
+  },
+  {
+   "uid": "U17847",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sai Doubler"
+  },
+  {
+   "uid": "U17848",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sai Doubler"
+  },
+  {
+   "uid": "U17849",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sai Doubler"
+  },
+  {
+   "uid": "U17850",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sai Doubler"
+  },
+  {
+   "uid": "U17851",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sai Doubler"
+  },
+  {
+   "uid": "U17852",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sai Doubler"
+  },
+  {
+   "uid": "U17853",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kama Doubler"
+  },
+  {
+   "uid": "U17854",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kama Doubler"
+  },
+  {
+   "uid": "U17855",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kama Doubler"
+  },
+  {
+   "uid": "U17856",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kama Doubler"
+  },
+  {
+   "uid": "U17857",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kama Doubler"
+  },
+  {
+   "uid": "U17858",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Buffalo Doubler"
+  },
+  {
+   "uid": "U17859",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Buffalo Doubler"
+  },
+  {
+   "uid": "U17860",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Buffalo Doubler"
+  },
+  {
+   "uid": "U17861",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Buffalo Doubler"
+  },
+  {
+   "uid": "U17862",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Buffalo Doubler"
+  },
+  {
+   "uid": "U17863",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Buffalo Doubler"
+  },
+  {
+   "uid": "U17864",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U17865",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  }
+ ]
+}

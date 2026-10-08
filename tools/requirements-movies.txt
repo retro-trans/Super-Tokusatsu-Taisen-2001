@@ -1,0 +1,7 @@
+# Tested with 64-bit Python 3.12 on Windows / NVIDIA RTX 3070 Ti.
+faster-whisper==1.2.1
+ctranslate2==4.8.2
+av==16.1.0
+pillow==12.3.0
+nvidia-cublas-cu12==12.9.2.10
+nvidia-cudnn-cu12==9.27.0.42

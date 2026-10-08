@@ -1,0 +1,30 @@
+# Raw copyrighted sources, Japanese ASR/scripts, downloaded model weights.
+/work/source/
+/work/script/ja/
+# Local review exports and test binaries.
+/work/output/
+# Translation working JSON can contain Japanese. Only stripped copies belong in git.
+/work/translation/**/*.json
+!/work/translation/**/*.en.json
+# Project-local runtimes and generated Python caches.
+/tools/movie_env/
+/tools/jpsxdec/
+/incoming/jpsxdec*.zip
+/debug*.log
+/index.log
+/replace.log
+__pycache__/
+*.pyc
+# Game images and game data (never publish: you need your own copy of the game)
+*.bin
+*.cue
+*.iso
+*.chd
+*.tim
+/incoming/
+/work/translation/en/graphics/
+/work/ui/graphics/
+/work/ui/movies/
+/work/font/*.png
+/*.log
+/work/glossary/library.json

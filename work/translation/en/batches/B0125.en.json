@@ -1,0 +1,487 @@
+{
+ "batch": "B0125",
+ "prev": "B0124",
+ "next": "B0126",
+ "rows": [
+  {
+   "uid": "U09939",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U09940",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09941",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U09942",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09943",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09944",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U09945",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09946",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09947",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U09948",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09949",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09950",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09951",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09952",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09953",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09954",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09955",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09956",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09957",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U09958",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U09959",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U09960",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U09961",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09962",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U09963",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09964",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U09965",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U09966",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U09967",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U09968",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09969",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U09970",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U09971",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U09972",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09973",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09974",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09975",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U09976",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09977",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U09978",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09979",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U09980",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09981",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09982",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09983",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U09984",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U09985",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09986",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira"
+  },
+  {
+   "uid": "U09987",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09988",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09989",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira"
+  },
+  {
+   "uid": "U09990",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09991",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira"
+  },
+  {
+   "uid": "U09992",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U09993",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U09994",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U09995",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U09996",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U09997",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09998",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U09999",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U10000",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U10001",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U10002",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U10003",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U10004",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U10005",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira"
+  },
+  {
+   "uid": "U10006",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U10007",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U10008",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira"
+  },
+  {
+   "uid": "U10009",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rieko"
+  },
+  {
+   "uid": "U10010",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U10011",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U10012",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U10013",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiroshi"
+  },
+  {
+   "uid": "U10014",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U10015",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Giant Devil"
+  },
+  {
+   "uid": "U10016",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U10017",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Giant Devil"
+  },
+  {
+   "uid": "U10018",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  }
+ ]
+}

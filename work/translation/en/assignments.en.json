@@ -1,0 +1,38 @@
+[
+ {
+  "agent": 1,
+  "first": "B0002",
+  "last": "B0036",
+  "batches": 35
+ },
+ {
+  "agent": 2,
+  "first": "B0037",
+  "last": "B0078",
+  "batches": 42
+ },
+ {
+  "agent": 3,
+  "first": "B0079",
+  "last": "B0120",
+  "batches": 42
+ },
+ {
+  "agent": 4,
+  "first": "B0121",
+  "last": "B0160",
+  "batches": 40
+ },
+ {
+  "agent": 5,
+  "first": "B0161",
+  "last": "B0198",
+  "batches": 38
+ },
+ {
+  "agent": 6,
+  "first": "B0199",
+  "last": "B0267",
+  "batches": 69
+ }
+]

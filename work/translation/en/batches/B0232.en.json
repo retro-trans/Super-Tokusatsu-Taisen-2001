@@ -1,0 +1,487 @@
+{
+ "batch": "B0232",
+ "prev": "B0231",
+ "next": "B0233",
+ "rows": [
+  {
+   "uid": "U18506",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U18507",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U18508",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U18509",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U18510",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U18511",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U18512",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U18513",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U18514",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U18515",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U18516",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18517",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18518",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18519",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18520",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18521",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18522",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18523",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18524",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18525",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18526",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18527",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18528",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18529",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18530",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18531",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18532",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18533",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18534",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18535",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18536",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Defense Officer"
+  },
+  {
+   "uid": "U18537",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Defense Officer"
+  },
+  {
+   "uid": "U18538",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Defense Officer"
+  },
+  {
+   "uid": "U18539",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18540",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18541",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U18542",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ushio"
+  },
+  {
+   "uid": "U18543",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U18544",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U18545",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U18546",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Hirata"
+  },
+  {
+   "uid": "U18547",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Hirata"
+  },
+  {
+   "uid": "U18548",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U18549",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U18550",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Yanagiya"
+  },
+  {
+   "uid": "U18551",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Yanagiya"
+  },
+  {
+   "uid": "U18552",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18553",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18554",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18555",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18556",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18557",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18558",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18559",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18560",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18561",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18562",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18563",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18564",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18565",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18566",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Defense Officer"
+  },
+  {
+   "uid": "U18567",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18568",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Defense Officer"
+  },
+  {
+   "uid": "U18569",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Defense Officer"
+  },
+  {
+   "uid": "U18570",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Defense Officer"
+  },
+  {
+   "uid": "U18571",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U18572",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Manaka"
+  },
+  {
+   "uid": "U18573",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Amamoto"
+  },
+  {
+   "uid": "U18574",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Ando"
+  },
+  {
+   "uid": "U18575",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U18576",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Katsube"
+  },
+  {
+   "uid": "U18577",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Officer Omura"
+  },
+  {
+   "uid": "U18578",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U18579",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Defense Officer"
+  },
+  {
+   "uid": "U18580",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U18581",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U18582",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U18583",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U18584",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U18585",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  }
+ ]
+}

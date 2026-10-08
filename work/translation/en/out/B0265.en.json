@@ -1,0 +1,377 @@
+{
+ "batch": "B0265",
+ "rows": [
+  {
+   "uid": "U21213",
+   "en": "Invested",
+   "note": "Shortened to fit the checker budget; preferred: Funds Invested"
+  },
+  {
+   "uid": "U21214",
+   "en": "Can Develop",
+   "note": "Shortened to fit the checker budget; preferred: Developable Items"
+  },
+  {
+   "uid": "U21215",
+   "en": "Current R&D",
+   "note": "Shortened to fit the checker budget; preferred: Current R&D Items"
+  },
+  {
+   "uid": "U21216",
+   "en": "Made",
+   "note": "Shortened to fit the checker budget; preferred: Produced"
+  },
+  {
+   "uid": "U21217",
+   "en": " In Stock"
+  },
+  {
+   "uid": "U21218",
+   "en": "Save?",
+   "note": "Shortened to fit the checker budget; preferred: Save the game?"
+  },
+  {
+   "uid": "U21219",
+   "en": "Chain Blast"
+  },
+  {
+   "uid": "U21220",
+   "en": "Debu.",
+   "note": "Shortened to fit the checker budget; preferred: Debug"
+  },
+  {
+   "uid": "U21221",
+   "en": "Units"
+  },
+  {
+   "uid": "U21222",
+   "en": "Landmar.",
+   "note": "Shortened to fit the checker budget; preferred: Landmark"
+  },
+  {
+   "uid": "U21223",
+   "en": "<c3>Movies</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Henshin Movie</c>"
+  },
+  {
+   "uid": "U21224",
+   "en": "Units yet to act:",
+   "note": "Shortened to fit the checker budget; preferred: There are units that have not acted"
+  },
+  {
+   "uid": "U21225",
+   "en": " left.",
+   "note": "Shortened to fit the checker budget; preferred:  remaining."
+  },
+  {
+   "uid": "U21226",
+   "en": "End this phase? Is that OK?"
+  },
+  {
+   "uid": "U21227",
+   "en": "<c3>Units</c>"
+  },
+  {
+   "uid": "U21229",
+   "en": "Lv.",
+   "note": "Shortened to fit the checker budget; preferred: Level"
+  },
+  {
+   "uid": "U21230",
+   "en": "Morale"
+  },
+  {
+   "uid": "U21231",
+   "en": "Default",
+   "note": "Shortened to fit the checker budget; preferred: Default View"
+  },
+  {
+   "uid": "U21232",
+   "en": "Failed",
+   "note": "Shortened to fit the checker budget; preferred: Mission Failed"
+  },
+  {
+   "uid": "U21233",
+   "en": "Retry"
+  },
+  {
+   "uid": "U21234",
+   "en": "Title"
+  },
+  {
+   "uid": "U21235",
+   "en": "<c3>Unit List</c>"
+  },
+  {
+   "uid": "U21236",
+   "en": "<c3>Related</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Related Units</c>"
+  },
+  {
+   "uid": "U21237",
+   "en": "<c3>Members</c>"
+  },
+  {
+   "uid": "U21238",
+   "en": "<c3>Stats</c>"
+  },
+  {
+   "uid": "U21239",
+   "en": "<c3>Arms</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Weapons</c>"
+  },
+  {
+   "uid": "U21240",
+   "en": "No Scrap",
+   "note": "Shortened to fit the checker budget; preferred: Can't Scrap"
+  },
+  {
+   "uid": "U21241",
+   "en": "Scrap OK",
+   "note": "Shortened to fit the checker budget; preferred: Can Scrap"
+  },
+  {
+   "uid": "U21242",
+   "en": "Stats Up",
+   "note": "Shortened to fit the checker budget; preferred: Upgrade Stats"
+  },
+  {
+   "uid": "U21243",
+   "en": "Arms Up",
+   "note": "Shortened to fit the checker budget; preferred: Upgrade Weapons"
+  },
+  {
+   "uid": "U21244",
+   "en": "Scrap"
+  },
+  {
+   "uid": "U21246",
+   "en": "Scrap it. OK?",
+   "note": "Shortened to fit the checker budget; preferred: It will be scrapped. Is that OK?"
+  },
+  {
+   "uid": "U21247",
+   "en": "Hero.",
+   "note": "Shortened to fit the checker budget; preferred: Heroes"
+  },
+  {
+   "uid": "U21248",
+   "en": "Support",
+   "note": "Shortened to fit the checker budget; preferred: Support Units"
+  },
+  {
+   "uid": "U21251",
+   "en": "    Science Patrol"
+  },
+  {
+   "uid": "U21252",
+   "en": "    Ultra Garrison"
+  },
+  {
+   "uid": "U21254",
+   "en": "This unit is deployed.",
+   "note": "Shortened to fit the checker budget; preferred: This unit has already sortied."
+  },
+  {
+   "uid": "U21255",
+   "en": "This unit is wrecked.",
+   "note": "Shortened to fit the checker budget; preferred: This unit is badly damaged."
+  },
+  {
+   "uid": "U21256",
+   "en": "Unit under repair.",
+   "note": "Shortened to fit the checker budget; preferred: This unit is under maintenance."
+  },
+  {
+   "uid": "U21257",
+   "en": "You Are a Flash",
+   "note": "Shortened to fit the checker budget; preferred: You Are a Flash ~Thunderbolt"
+  },
+  {
+   "uid": "U21258",
+   "en": "Prologue"
+  },
+  {
+   "uid": "U21259",
+   "en": "S.Tokusatsu Taisen 2001",
+   "note": "Shortened to fit the checker budget; preferred: Super Tokusatsu Taisen 2001"
+  },
+  {
+   "uid": "U21260",
+   "en": "Amigo Team Theme"
+  },
+  {
+   "uid": "U21261",
+   "en": "Security Theme",
+   "note": "Shortened to fit the checker budget; preferred: Security Squad Theme"
+  },
+  {
+   "uid": "U21262",
+   "en": "Evil Will"
+  },
+  {
+   "uid": "U21265",
+   "en": "Comrades"
+  },
+  {
+   "uid": "U21266",
+   "en": "Agent Taki",
+   "note": "Shortened to fit the checker budget; preferred: Agent Kazuya Taki"
+  },
+  {
+   "uid": "U21267",
+   "en": "Memories"
+  },
+  {
+   "uid": "U21269",
+   "en": "Sorrow"
+  },
+  {
+   "uid": "U21270",
+   "en": "After the Battle"
+  },
+  {
+   "uid": "U21271",
+   "en": "Lucifard's Theme"
+  },
+  {
+   "uid": "U21272",
+   "en": "Black Fusion Steel",
+   "note": "Shortened to fit the checker budget; preferred: Jet-Black Fusion Steel"
+  },
+  {
+   "uid": "U21273",
+   "en": "Vortex's Theme"
+  },
+  {
+   "uid": "U21274",
+   "en": "Pursuit Theme",
+   "note": "Shortened to fit the checker budget; preferred: Pursuit & Investigation Theme"
+  },
+  {
+   "uid": "U21275",
+   "en": "Makuu Attacks",
+   "note": "Shortened to fit the checker budget; preferred: Makuu's Attack"
+  },
+  {
+   "uid": "U21276",
+   "en": "Other-Dimension Battle",
+   "note": "Shortened to fit the checker budget; preferred: Great Battle in Another Dimension"
+  },
+  {
+   "uid": "U21277",
+   "en": "Fushigi Song"
+  },
+  {
+   "uid": "U21278",
+   "en": "Blue Flash"
+  },
+  {
+   "uid": "U21279",
+   "en": "Go Go Kikaider"
+  },
+  {
+   "uid": "U21280",
+   "en": "Devil's Flute"
+  },
+  {
+   "uid": "U21281",
+   "en": "Jiro's Guitar"
+  },
+  {
+   "uid": "U21282",
+   "en": "Enter Kikaider 01",
+   "note": "Shortened to fit the checker budget; preferred: Kikaider 01 Appears"
+  },
+  {
+   "uid": "U21283",
+   "en": "Fight, Inazuman"
+  },
+  {
+   "uid": "U21284",
+   "en": "Flash! Inazuman"
+  },
+  {
+   "uid": "U21285",
+   "en": "Oh!! One-Seven",
+   "note": "Shortened to fit the checker budget; preferred: Oh!! Daitetsujin One-Seven"
+  },
+  {
+   "uid": "U21286",
+   "en": "Fog Flute",
+   "note": "Shortened to fit the checker budget; preferred: Flute in the Fog"
+  },
+  {
+   "uid": "U21287",
+   "en": "Let's Go!! Rider Kick"
+  },
+  {
+   "uid": "U21288",
+   "en": "Fight! Kamen Rider V3"
+  },
+  {
+   "uid": "U21289",
+   "en": "Dark Flute",
+   "note": "Shortened to fit the checker budget; preferred: Flute in the Dark"
+  },
+  {
+   "uid": "U21290",
+   "en": "Song of Ultraman"
+  },
+  {
+   "uid": "U21291",
+   "en": "Science Patrol Theme"
+  },
+  {
+   "uid": "U21292",
+   "en": "Song of Ultraseven"
+  },
+  {
+   "uid": "U21293",
+   "en": "Ultra Garrison"
+  },
+  {
+   "uid": "U21294",
+   "en": "M.Theme",
+   "note": "Shortened to fit the checker budget; preferred: MAT Theme"
+  },
+  {
+   "uid": "U21295",
+   "en": "Ultraman Theme 1"
+  },
+  {
+   "uid": "U21296",
+   "en": "Kaiju vs. Ultraman"
+  },
+  {
+   "uid": "U21297",
+   "en": "Hakaider's Song"
+  },
+  {
+   "uid": "U21298",
+   "en": "Saburo's Theme"
+  },
+  {
+   "uid": "U21299",
+   "en": "Ringtone"
+  },
+  {
+   "uid": "U21300",
+   "en": "Steel Emperor Zephas"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U21257-U21300: music titles (kind=music) of the shows' theme songs and BGM, translated literally rather than matched to official English titles; most exceed the tight budgets",
+   "U21219: 誘爆 rendered 'Chain Blast' (induced explosion setting)",
+   "U21224-U21226: 'There are N units that have not acted. End this phase?' split across rows around a number",
+   "U21237: 隊員所属 rendered 'Members'",
+   "U21257: 君は閃光～サンダーボルト rendered 'You Are a Flash ~Thunderbolt'"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": []
+ }
+}

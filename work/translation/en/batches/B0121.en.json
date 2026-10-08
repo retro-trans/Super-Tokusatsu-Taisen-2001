@@ -1,0 +1,487 @@
+{
+ "batch": "B0121",
+ "prev": "B0120",
+ "next": "B0122",
+ "rows": [
+  {
+   "uid": "U09619",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U09620",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U09621",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09622",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09623",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09624",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U09625",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voice on the Phone"
+  },
+  {
+   "uid": "U09626",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U09627",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voice on the Phone"
+  },
+  {
+   "uid": "U09628",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U09629",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voice on the Phone"
+  },
+  {
+   "uid": "U09630",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U09631",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voice on the Phone"
+  },
+  {
+   "uid": "U09632",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U09633",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voice on the Phone"
+  },
+  {
+   "uid": "U09634",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U09635",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voice on the Phone"
+  },
+  {
+   "uid": "U09636",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U09637",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09638",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09639",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09640",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09641",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09642",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09643",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09644",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09645",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09646",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09647",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09648",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09649",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09650",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09651",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09652",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09653",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09654",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09655",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09656",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09657",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09658",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09659",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U09660",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09661",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09662",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09663",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09664",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09665",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09666",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U09667",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Communications Officer Ueno"
+  },
+  {
+   "uid": "U09668",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U09669",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09670",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09671",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Man"
+  },
+  {
+   "uid": "U09672",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09673",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Man"
+  },
+  {
+   "uid": "U09674",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09675",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Beauty"
+  },
+  {
+   "uid": "U09676",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09677",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U09678",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09679",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Anne Yuri"
+  },
+  {
+   "uid": "U09680",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09681",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09682",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U09683",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09684",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09685",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U09686",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Amagi"
+  },
+  {
+   "uid": "U09687",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09688",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U09689",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  },
+  {
+   "uid": "U09690",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09691",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09692",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09693",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U09694",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U09695",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09696",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Furuhashi"
+  },
+  {
+   "uid": "U09697",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soga"
+  },
+  {
+   "uid": "U09698",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kiriyama"
+  }
+ ]
+}

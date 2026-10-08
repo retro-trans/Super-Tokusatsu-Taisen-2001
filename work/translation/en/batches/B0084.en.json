@@ -1,0 +1,487 @@
+{
+ "batch": "B0084",
+ "prev": "B0083",
+ "next": "B0085",
+ "rows": [
+  {
+   "uid": "U06658",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06659",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U06660",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U06661",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U06662",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06663",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U06664",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U06665",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06666",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06667",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U06668",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06669",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06670",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U06671",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06672",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U06673",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06674",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06675",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gorenger"
+  },
+  {
+   "uid": "U06676",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06677",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U06678",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U06679",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06680",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06681",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06682",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U06683",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06684",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06685",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06686",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U06687",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06688",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Momorenger"
+  },
+  {
+   "uid": "U06689",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U06690",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Momorenger"
+  },
+  {
+   "uid": "U06691",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06692",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U06693",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06694",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U06695",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06696",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U06697",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06698",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U06699",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U06700",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06701",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U06702",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U06703",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06704",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U06705",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06706",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U06707",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U06708",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06709",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U06710",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U06711",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U06712",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U06713",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U06714",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U06715",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U06716",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U06717",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06718",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U06719",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U06720",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U06721",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U06722",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06723",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06724",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06725",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U06726",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06727",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06728",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06729",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06730",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06731",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06732",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06733",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06734",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06735",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06736",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06737",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0221",
+ "prev": "B0220",
+ "next": "B0222",
+ "rows": [
+  {
+   "uid": "U17626",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volfeed"
+  },
+  {
+   "uid": "U17627",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volfeed"
+  },
+  {
+   "uid": "U17628",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volfeed"
+  },
+  {
+   "uid": "U17629",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volfeed"
+  },
+  {
+   "uid": "U17630",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volfeed"
+  },
+  {
+   "uid": "U17631",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volfeed"
+  },
+  {
+   "uid": "U17632",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volfeed"
+  },
+  {
+   "uid": "U17633",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volfeed"
+  },
+  {
+   "uid": "U17634",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volfeed"
+  },
+  {
+   "uid": "U17635",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17636",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17637",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17638",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17639",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17640",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17641",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17642",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17643",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17644",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17645",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17646",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U17647",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17648",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17649",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17650",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17651",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17652",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17653",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17654",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17655",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17656",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17657",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17658",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17659",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Valkyria"
+  },
+  {
+   "uid": "U17660",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet Fury"
+  },
+  {
+   "uid": "U17661",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet Fury"
+  },
+  {
+   "uid": "U17662",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet Fury"
+  },
+  {
+   "uid": "U17663",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet Fury"
+  },
+  {
+   "uid": "U17664",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet Fury"
+  },
+  {
+   "uid": "U17665",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet Fury"
+  },
+  {
+   "uid": "U17666",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet Fury"
+  },
+  {
+   "uid": "U17667",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet Fury"
+  },
+  {
+   "uid": "U17668",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet Fury"
+  },
+  {
+   "uid": "U17669",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zolder"
+  },
+  {
+   "uid": "U17670",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zolder"
+  },
+  {
+   "uid": "U17671",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zolder"
+  },
+  {
+   "uid": "U17672",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zolder"
+  },
+  {
+   "uid": "U17673",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zolder"
+  },
+  {
+   "uid": "U17674",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zolder"
+  },
+  {
+   "uid": "U17675",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zolder"
+  },
+  {
+   "uid": "U17676",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Ninja Corps"
+  },
+  {
+   "uid": "U17677",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Ninja Corps"
+  },
+  {
+   "uid": "U17678",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Ninja Corps"
+  },
+  {
+   "uid": "U17679",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Ninja Corps"
+  },
+  {
+   "uid": "U17680",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Ninja Corps"
+  },
+  {
+   "uid": "U17681",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Ninja Corps"
+  },
+  {
+   "uid": "U17682",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Ninja Corps"
+  },
+  {
+   "uid": "U17683",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Ninja Corps"
+  },
+  {
+   "uid": "U17684",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U17685",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U17686",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U17687",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U17688",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U17689",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U17690",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U17691",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U17692",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U17693",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Locomotive Mask"
+  },
+  {
+   "uid": "U17694",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U17695",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U17696",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U17697",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U17698",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U17699",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U17700",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U17701",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U17702",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U17703",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U17704",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U17705",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baseball Mask"
+  }
+ ]
+}

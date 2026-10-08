@@ -1,0 +1,487 @@
+{
+ "batch": "B0126",
+ "prev": "B0125",
+ "next": "B0127",
+ "rows": [
+  {
+   "uid": "U10019",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10020",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U10021",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U10022",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U10023",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U10024",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U10025",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10026",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10027",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U10028",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10029",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U10030",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U10031",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U10032",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U10033",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10034",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U10035",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10036",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U10037",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10038",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U10039",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U10040",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U10041",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U10042",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U10043",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10044",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10045",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U10046",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Giant Devil"
+  },
+  {
+   "uid": "U10047",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U10048",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10049",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U10050",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10051",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U10052",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10053",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U10054",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U10055",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadowman"
+  },
+  {
+   "uid": "U10056",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadowman"
+  },
+  {
+   "uid": "U10057",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U10058",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U10059",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10060",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U10061",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10062",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U10063",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10064",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U10065",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U10066",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider 01"
+  },
+  {
+   "uid": "U10067",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U10068",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U10069",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider 01"
+  },
+  {
+   "uid": "U10070",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U10071",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U10072",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U10073",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U10074",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider 01"
+  },
+  {
+   "uid": "U10075",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U10076",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rieko"
+  },
+  {
+   "uid": "U10077",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U10078",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rieko"
+  },
+  {
+   "uid": "U10079",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira"
+  },
+  {
+   "uid": "U10080",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiroshi"
+  },
+  {
+   "uid": "U10081",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rieko"
+  },
+  {
+   "uid": "U10082",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U10083",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rieko"
+  },
+  {
+   "uid": "U10084",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U10085",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rieko"
+  },
+  {
+   "uid": "U10086",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U10087",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira"
+  },
+  {
+   "uid": "U10088",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U10089",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U10090",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U10091",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U10092",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U10093",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U10094",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U10095",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U10096",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U10097",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U10098",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  }
+ ]
+}

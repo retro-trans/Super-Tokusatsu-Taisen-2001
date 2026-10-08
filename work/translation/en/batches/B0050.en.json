@@ -1,0 +1,487 @@
+{
+ "batch": "B0050",
+ "prev": "B0049",
+ "next": "B0051",
+ "rows": [
+  {
+   "uid": "U03931",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03932",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03933",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03934",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03935",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03936",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03937",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03938",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03939",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Collapsed Woman"
+  },
+  {
+   "uid": "U03940",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03941",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Collapsed Woman"
+  },
+  {
+   "uid": "U03942",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03943",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Collapsed Woman"
+  },
+  {
+   "uid": "U03944",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03945",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Collapsed Woman"
+  },
+  {
+   "uid": "U03946",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03947",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Collapsed Woman"
+  },
+  {
+   "uid": "U03948",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03949",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03950",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Taeko Araki"
+  },
+  {
+   "uid": "U03951",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03952",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Taeko Araki"
+  },
+  {
+   "uid": "U03953",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03954",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Taeko Araki"
+  },
+  {
+   "uid": "U03955",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U03956",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03957",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03958",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03959",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03960",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03961",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U03962",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03963",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rose Monster"
+  },
+  {
+   "uid": "U03964",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03965",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03966",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U03967",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03968",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03969",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U03970",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03971",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Araki"
+  },
+  {
+   "uid": "U03972",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voice on the Phone"
+  },
+  {
+   "uid": "U03973",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Araki"
+  },
+  {
+   "uid": "U03974",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Asst. Prof. Yokoegawa"
+  },
+  {
+   "uid": "U03975",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Araki"
+  },
+  {
+   "uid": "U03977",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Asst. Prof. Yokoegawa"
+  },
+  {
+   "uid": "U03978",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Araki"
+  },
+  {
+   "uid": "U03979",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rose Monster"
+  },
+  {
+   "uid": "U03980",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Araki"
+  },
+  {
+   "uid": "U03981",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03982",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U03983",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03984",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U03985",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03986",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U03987",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03988",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U03989",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03990",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U03991",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03992",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U03993",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03994",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U03995",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U03996",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U03997",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U03998",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U03999",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04000",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04001",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04002",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U04003",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04004",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Asst. Prof. Yokoegawa"
+  },
+  {
+   "uid": "U04005",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Araki"
+  },
+  {
+   "uid": "U04006",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04007",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04008",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Asst. Prof. Yokoegawa"
+  },
+  {
+   "uid": "U04009",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U04010",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04011",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Asst. Prof. Yokoegawa"
+  }
+ ]
+}

@@ -1,0 +1,2278 @@
+{
+  "language": "en",
+  "version": "0.3.4",
+  "font": "GenEiLateGo_v2.ttc, face 1 (SIL OFL 1.1)",
+  "notes": [
+    "Card 102 visually confirmed as duplicate of 78 (database row 1330); row 1351 has no card in this inventory.",
+    "Cards 72, 97 and 99 visually confirmed; 99 duplicates 52.",
+    "Long episode names are expanded from their abbreviated database labels where space permits.",
+    "Encyclopedia tabs retain Japanese-reading groups; romanized syllables do not imply English alphabetical order.",
+    "Original title logo retained. Artwork name logos, battle strip, placeholder portraits and copyright remain for later work."
+  ],
+  "targets": [
+    {
+      "archive": "EVENT",
+      "entry": 52,
+      "kind": "episode",
+      "en": "The Man Who Fell to Earth",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1305,
+      "uid": "U21105"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 53,
+      "kind": "episode",
+      "en": "Twisted Life",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1306,
+      "uid": "U21106"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 54,
+      "kind": "episode",
+      "en": "Shocker's Plot",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1307,
+      "uid": "U21107"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 55,
+      "kind": "episode",
+      "en": "The Other Rider",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1308,
+      "uid": "U21108"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 56,
+      "kind": "episode",
+      "en": "New Humans",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1309,
+      "uid": "U21109"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 57,
+      "kind": "episode",
+      "en": "The Boy and the Robot",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1310,
+      "uid": "U21110"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 58,
+      "kind": "episode",
+      "en": "Onslaught! Shocker Japan",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1311,
+      "uid": "U21111"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 59,
+      "kind": "episode",
+      "en": "Chase! Space Sheriff Gavan",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1312,
+      "uid": "U21112"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 60,
+      "kind": "episode",
+      "en": "Evil Scholar",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1313,
+      "uid": "U21113"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 61,
+      "kind": "episode",
+      "en": "Battle Princess",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1314,
+      "uid": "U21114"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 62,
+      "kind": "episode",
+      "en": "Android",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1315,
+      "uid": "U21115"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 63,
+      "kind": "episode",
+      "en": "A Three-Way Battle",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1316,
+      "uid": "U21116"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 64,
+      "kind": "episode",
+      "en": "Hell's Messenger",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1317,
+      "uid": "U21117"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 65,
+      "kind": "episode",
+      "en": "Mech Anguish",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1318,
+      "uid": "U21118"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 66,
+      "kind": "episode",
+      "en": "Brothers' Bond",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1319,
+      "uid": "U21119"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 67,
+      "kind": "episode",
+      "en": "EATER",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1320,
+      "uid": "U21120"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 68,
+      "kind": "episode",
+      "en": "Father",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1321,
+      "uid": "U21121"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 69,
+      "kind": "episode",
+      "en": "Operation Double Rider",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1322,
+      "uid": "U21122"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 70,
+      "kind": "episode",
+      "en": "Geldam Clan",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1323,
+      "uid": "U21123"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 71,
+      "kind": "episode",
+      "en": "Genmu",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1324,
+      "uid": "U21124"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 72,
+      "kind": "episode",
+      "en": "The Fushigi World",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "mapping": "extra card; visually confirmed 2026-10-08"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 73,
+      "kind": "episode",
+      "en": "Ultra Operation No. 1",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1325,
+      "uid": "U21125"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 74,
+      "kind": "episode",
+      "en": "Five Stars Unite",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1326,
+      "uid": "U21126"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 75,
+      "kind": "episode",
+      "en": "Brain Gone Wild",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1327,
+      "uid": "U21127"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 76,
+      "kind": "episode",
+      "en": "Giants Roar",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1328,
+      "uid": "U21128"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 77,
+      "kind": "episode",
+      "en": "Mother's Memory",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1329,
+      "uid": "U21129"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 78,
+      "kind": "episode",
+      "en": "Superalloy Baronium",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1330,
+      "uid": "U21130"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 79,
+      "kind": "episode",
+      "en": "His Name Is V3!",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1331,
+      "uid": "U21131"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 80,
+      "kind": "episode",
+      "en": "Angel? Devil? Bijinder!",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1332,
+      "uid": "U21132"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 81,
+      "kind": "episode",
+      "en": "Shoot the Invader",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1333,
+      "uid": "U21133"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 82,
+      "kind": "episode",
+      "en": "False Giant",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1334,
+      "uid": "U21134"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 83,
+      "kind": "episode",
+      "en": "Revenge Demon",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1335,
+      "uid": "U21135"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 84,
+      "kind": "episode",
+      "en": "Zeber's New Power",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1336,
+      "uid": "U21136"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 85,
+      "kind": "episode",
+      "en": "Revenge Banner",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1337,
+      "uid": "U21137"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 86,
+      "kind": "episode",
+      "en": "Three Years Ago",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1338,
+      "uid": "U21138"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 87,
+      "kind": "episode",
+      "en": "Distortion Field",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1339,
+      "uid": "U21139"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 88,
+      "kind": "episode",
+      "en": "Monsters Attack",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1340,
+      "uid": "U21140"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 89,
+      "kind": "episode",
+      "en": "Geisel's Challenge",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1341,
+      "uid": "U21141"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 90,
+      "kind": "episode",
+      "en": "Farewell, Ultraman",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1342,
+      "uid": "U21142"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 91,
+      "kind": "episode",
+      "en": "Farewell, Variblune",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1343,
+      "uid": "U21143"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 92,
+      "kind": "episode",
+      "en": "Century King Black Sun",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1344,
+      "uid": "U21144"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 93,
+      "kind": "episode",
+      "en": "Garrison's 7th Man",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1345,
+      "uid": "U21145"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 94,
+      "kind": "episode",
+      "en": "Mummy's Cry",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1346,
+      "uid": "U21146"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 95,
+      "kind": "episode",
+      "en": "Caged Bird",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1347,
+      "uid": "U21147"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 96,
+      "kind": "episode",
+      "en": "Lament",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1348,
+      "uid": "U21148"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 97,
+      "kind": "episode",
+      "en": "A New Warrior, Jun, Appears",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "mapping": "extra card; visually confirmed 2026-10-08"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 98,
+      "kind": "episode",
+      "en": "Heart's Voice, Reach You",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1350,
+      "uid": "U21150"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 99,
+      "kind": "episode",
+      "en": "The Man Who Fell to Earth",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1305,
+      "uid": "U21105"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 100,
+      "kind": "episode",
+      "en": "Prelude to Darkness",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1352,
+      "uid": "U21152"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 101,
+      "kind": "episode",
+      "en": "Swordsaint Returns",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1353,
+      "uid": "U21153"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 102,
+      "kind": "episode",
+      "en": "Superalloy Baronium",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1330,
+      "uid": "U21130"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 103,
+      "kind": "episode",
+      "en": "Super Weapon R1",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1355,
+      "uid": "U21155"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 104,
+      "kind": "episode",
+      "en": "The Phoenix Flies",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1354,
+      "uid": "U21154"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 105,
+      "kind": "episode",
+      "en": "Leave It to Annie",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1356,
+      "uid": "U21156"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 106,
+      "kind": "episode",
+      "en": "Fated Prince",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1357,
+      "uid": "U21157"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 107,
+      "kind": "episode",
+      "en": "Far East Base SOS",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1358,
+      "uid": "U21158"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 108,
+      "kind": "episode",
+      "en": "Steel Emperor Strikes",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1359,
+      "uid": "U21159"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 109,
+      "kind": "episode",
+      "en": "Name: One-Eight",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1360,
+      "uid": "U21160"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 110,
+      "kind": "episode",
+      "en": "Reunion",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1361,
+      "uid": "U21161"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 111,
+      "kind": "episode",
+      "en": "Defense Council",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1363,
+      "uid": "U21163"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 112,
+      "kind": "episode",
+      "en": "Twilight Duel",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1362,
+      "uid": "U21162"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 113,
+      "kind": "episode",
+      "en": "Black Cross",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1364,
+      "uid": "U21164"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 114,
+      "kind": "episode",
+      "en": "Sea Battle",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1365,
+      "uid": "U21165"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 115,
+      "kind": "episode",
+      "en": "Forbidden Word",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1366,
+      "uid": "U21166"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 116,
+      "kind": "episode",
+      "en": "Conscience Circuit",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1367,
+      "uid": "U21167"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 117,
+      "kind": "episode",
+      "en": "Creation King's End",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1368,
+      "uid": "U21168"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 118,
+      "kind": "episode",
+      "en": "Glorious Rider 4",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1369,
+      "uid": "U21169"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 119,
+      "kind": "episode",
+      "en": "Fall of Desper City",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1370,
+      "uid": "U21170"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 120,
+      "kind": "episode",
+      "en": "Sekisha, Johchaku, Shoketsu",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1371,
+      "uid": "U21171"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 121,
+      "kind": "episode",
+      "en": "Waruder Dies at Dawn",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1372,
+      "uid": "U21172"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 122,
+      "kind": "episode",
+      "en": "Ultra Star Shines (Part 2)",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1373,
+      "uid": "U21173"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 123,
+      "kind": "episode",
+      "en": "Miracle King Stone",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1374,
+      "uid": "U21174"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 124,
+      "kind": "episode",
+      "en": "Arrow into Space",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1375,
+      "uid": "U21175"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 125,
+      "kind": "episode",
+      "en": "Phantom Snow Peak",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1376,
+      "uid": "U21176"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 126,
+      "kind": "episode",
+      "en": "With Love, Starry Sky",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1377,
+      "uid": "U21177"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 127,
+      "kind": "episode",
+      "en": "RX Awakens",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1378,
+      "uid": "U21178"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 128,
+      "kind": "episode",
+      "en": "Princess Rages",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1379,
+      "uid": "U21179"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 129,
+      "kind": "episode",
+      "en": "Entrusted Hopes",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1388,
+      "uid": "U21188"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 130,
+      "kind": "episode",
+      "en": "Farewell, Brother",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1381,
+      "uid": "U21181"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 131,
+      "kind": "episode",
+      "en": "Red Victory",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1382,
+      "uid": "U21182"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 132,
+      "kind": "episode",
+      "en": "Star of Woe",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1383,
+      "uid": "U21183"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 133,
+      "kind": "episode",
+      "en": "Lost in the Night Canal",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1384,
+      "uid": "U21184"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 134,
+      "kind": "episode",
+      "en": "Kill Seven (Part 2)",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1385,
+      "uid": "U21185"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 135,
+      "kind": "episode",
+      "en": "Kill Seven (Part 1)",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1386,
+      "uid": "U21186"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 136,
+      "kind": "episode",
+      "en": "Ultra Star Shines (Part 1)",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1387,
+      "uid": "U21187"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 137,
+      "kind": "episode",
+      "en": "Eternal Rider",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1349,
+      "uid": "U21149"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 138,
+      "kind": "episode",
+      "en": "Last Wish",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1380,
+      "uid": "U21180"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 139,
+      "kind": "episode",
+      "en": "Holy Night",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1389,
+      "uid": "U21189"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 140,
+      "kind": "episode",
+      "en": "Final Mission",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1390,
+      "uid": "U21190"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 141,
+      "kind": "episode",
+      "en": "Tomorrow",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          270,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1391,
+      "uid": "U21191"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 45,
+      "kind": "disclaimer",
+      "regions": [
+        [
+          24,
+          98,
+          296,
+          152
+        ]
+      ],
+      "labels": [
+        {
+          "rect": [
+            24,
+            98,
+            296,
+            116
+          ],
+          "en": "This story is a work of fiction.",
+          "size": 16
+        },
+        {
+          "rect": [
+            24,
+            116,
+            296,
+            134
+          ],
+          "en": "It has no connection to any real",
+          "size": 16
+        },
+        {
+          "rect": [
+            24,
+            134,
+            296,
+            152
+          ],
+          "en": "people or organizations.",
+          "size": 16
+        }
+      ]
+    },
+    {
+      "archive": "EVENT",
+      "entry": 174,
+      "kind": "narration",
+      "regions": [
+        [
+          8,
+          110,
+          312,
+          135
+        ]
+      ],
+      "labels": [
+        {
+          "rect": [
+            8,
+            110,
+            312,
+            135
+          ],
+          "en": "And nearly twelve years had passed...",
+          "size": 16
+        }
+      ]
+    },
+    {
+      "archive": "MAPMAIN",
+      "entry": 22,
+      "kind": "title_menu",
+      "regions": [
+        [
+          0,
+          208,
+          164,
+          228
+        ]
+      ],
+      "en": "ENCYCLOPEDIA"
+    },
+    {
+      "archive": "MAPMAIN",
+      "entry": 23,
+      "block": 1,
+      "kind": "title_menu",
+      "regions": [
+        [
+          0,
+          208,
+          164,
+          228
+        ]
+      ],
+      "en": "ENCYCLOPEDIA"
+    },
+    {
+      "archive": "MAPMAIN",
+      "entry": 26,
+      "block": 0,
+      "kind": "options",
+      "regions": [
+        [
+          13,
+          25,
+          78,
+          53
+        ],
+        [
+          13,
+          65,
+          78,
+          93
+        ],
+        [
+          13,
+          105,
+          78,
+          133
+        ],
+        [
+          44,
+          207,
+          278,
+          226
+        ]
+      ],
+      "labels": [
+        {
+          "rect": [
+            13,
+            25,
+            78,
+            53
+          ],
+          "en": "MUSIC",
+          "size": 17,
+          "bold": 1,
+          "background": [
+            24,
+            70,
+            48
+          ],
+          "color": [
+            230,
+            255,
+            0
+          ]
+        },
+        {
+          "rect": [
+            13,
+            65,
+            78,
+            93
+          ],
+          "en": "DEMO",
+          "size": 17,
+          "bold": 1,
+          "background": [
+            24,
+            70,
+            48
+          ],
+          "color": [
+            230,
+            255,
+            0
+          ]
+        },
+        {
+          "rect": [
+            13,
+            105,
+            78,
+            133
+          ],
+          "en": "BATTLE",
+          "size": 16,
+          "bold": 1,
+          "background": [
+            24,
+            70,
+            48
+          ],
+          "color": [
+            230,
+            255,
+            0
+          ]
+        },
+        {
+          "rect": [
+            44,
+            207,
+            278,
+            226
+          ],
+          "en": "Circle: OK / Play   Square: Stop",
+          "size": 15,
+          "background": [
+            0,
+            0,
+            0
+          ],
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "archive": "BATTLE",
+      "entry": 535,
+      "kind": "encyclopedia_index",
+      "regions": [
+        [
+          112,
+          15,
+          198,
+          34
+        ],
+        [
+          46,
+          35,
+          266,
+          52
+        ]
+      ],
+      "tabs": [
+        "A",
+        "KA",
+        "SA",
+        "TA",
+        "NA",
+        "HA",
+        "MA",
+        "YA",
+        "RA",
+        "WA"
+      ]
+    },
+    {
+      "archive": "BATTLE",
+      "entry": 536,
+      "kind": "encyclopedia_entry",
+      "regions": [
+        [
+          22,
+          42,
+          108,
+          59
+        ]
+      ],
+      "en": "Appears in"
+    },
+    {
+      "archive": "BATTLE",
+      "entry": 537,
+      "kind": "encyclopedia_tab_font",
+      "regions": [
+        [
+          0,
+          0,
+          160,
+          16
+        ]
+      ],
+      "tabs": [
+        "A",
+        "KA",
+        "SA",
+        "TA",
+        "NA",
+        "HA",
+        "MA",
+        "YA",
+        "RA",
+        "WA"
+      ]
+    }
+  ]
+}

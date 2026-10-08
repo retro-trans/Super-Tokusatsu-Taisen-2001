@@ -1,0 +1,487 @@
+{
+ "batch": "B0118",
+ "prev": "B0117",
+ "next": "B0119",
+ "rows": [
+  {
+   "uid": "U09379",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Shaider"
+  },
+  {
+   "uid": "U09380",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U09381",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie Disguised as a Teacher"
+  },
+  {
+   "uid": "U09382",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U09383",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie Disguised as a Teacher"
+  },
+  {
+   "uid": "U09384",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U09385",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U09386",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U09387",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09388",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U09389",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U09390",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U09391",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U09392",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U09393",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hanpei Hattori"
+  },
+  {
+   "uid": "U09394",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U09395",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Beast Alien Doubleman"
+  },
+  {
+   "uid": "U09396",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09397",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U09398",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U09399",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U09400",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U09401",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U09402",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U09403",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U09404",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U09405",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U09406",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U09407",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Miracler Soldier"
+  },
+  {
+   "uid": "U09408",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U09409",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U09410",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Shaider"
+  },
+  {
+   "uid": "U09411",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U09412",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U09413",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Beast Alien Doubleman"
+  },
+  {
+   "uid": "U09414",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09415",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U09416",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09417",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09418",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09419",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U09420",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U09421",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Masaru"
+  },
+  {
+   "uid": "U09422",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U09423",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09424",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U09425",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U09426",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09427",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09428",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09429",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Annie"
+  },
+  {
+   "uid": "U09430",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U09431",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09432",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09433",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09434",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09435",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09436",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09437",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09438",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09439",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U09440",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Bishium"
+  },
+  {
+   "uid": "U09441",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09442",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U09443",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Baraom"
+  },
+  {
+   "uid": "U09444",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09445",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U09446",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09447",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09448",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U09449",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09450",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U09451",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09452",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09453",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09454",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09455",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Creation King"
+  },
+  {
+   "uid": "U09456",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U09457",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09458",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

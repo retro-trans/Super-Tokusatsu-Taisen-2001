@@ -1,0 +1,487 @@
+{
+ "batch": "B0063",
+ "prev": "B0062",
+ "next": "B0064",
+ "rows": [
+  {
+   "uid": "U04973",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U04974",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U04975",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U04976",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U04977",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U04978",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U04979",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenji Asuka"
+  },
+  {
+   "uid": "U04980",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U04981",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Gonpachi Edogawa"
+  },
+  {
+   "uid": "U04982",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U04983",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U04984",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ball-Headed Monster"
+  },
+  {
+   "uid": "U04985",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U04986",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ball-Headed Monster"
+  },
+  {
+   "uid": "U04987",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U04988",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U04989",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U04990",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U04991",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U04992",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04993",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Baseball Mask"
+  },
+  {
+   "uid": "U04994",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U04995",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U04996",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U04997",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Namikawa"
+  },
+  {
+   "uid": "U04998",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Yanagawa"
+  },
+  {
+   "uid": "U04999",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief of Staff Takenaka"
+  },
+  {
+   "uid": "U05000",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Yamaoka"
+  },
+  {
+   "uid": "U05001",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05002",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U05003",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05004",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U05005",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U05006",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U05007",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05008",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U05009",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U05010",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U05011",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U05012",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U05013",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "BF Chief"
+  },
+  {
+   "uid": "U05014",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mister Gold"
+  },
+  {
+   "uid": "U05015",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U05016",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U05017",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U05018",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U05019",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U05020",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U05021",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U05022",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U05023",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U05024",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U05025",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayata"
+  },
+  {
+   "uid": "U05026",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Alien Zarab"
+  },
+  {
+   "uid": "U05027",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U05028",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05029",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U05030",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05031",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U05032",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U05033",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U05034",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U05035",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U05036",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U05037",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U05038",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U05039",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05040",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05041",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05042",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05043",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05044",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05045",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05046",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05047",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05048",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U05049",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kid"
+  },
+  {
+   "uid": "U05050",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "BF Chief"
+  },
+  {
+   "uid": "U05051",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Kusama"
+  },
+  {
+   "uid": "U05052",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  }
+ ]
+}

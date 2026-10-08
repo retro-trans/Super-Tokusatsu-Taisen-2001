@@ -1,0 +1,487 @@
+{
+ "batch": "B0236",
+ "prev": "B0235",
+ "next": "B0237",
+ "rows": [
+  {
+   "uid": "U18826",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U18827",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U18828",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U18829",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U18830",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U18831",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U18832",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U18833",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U18834",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U18835",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U18836",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U18837",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U18838",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U18839",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U18840",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U18841",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U18842",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan"
+  },
+  {
+   "uid": "U18843",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan"
+  },
+  {
+   "uid": "U18844",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan"
+  },
+  {
+   "uid": "U18845",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan"
+  },
+  {
+   "uid": "U18846",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan"
+  },
+  {
+   "uid": "U18847",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan"
+  },
+  {
+   "uid": "U18848",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan"
+  },
+  {
+   "uid": "U18849",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan"
+  },
+  {
+   "uid": "U18850",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U18851",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U18852",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U18853",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U18854",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U18855",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Navaron"
+  },
+  {
+   "uid": "U18856",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U18857",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U18858",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U18859",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Navaron"
+  },
+  {
+   "uid": "U18860",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Castle"
+  },
+  {
+   "uid": "U18861",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Castle"
+  },
+  {
+   "uid": "U18862",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Castle"
+  },
+  {
+   "uid": "U18863",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Castle"
+  },
+  {
+   "uid": "U18864",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Castle"
+  },
+  {
+   "uid": "U18865",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Castle"
+  },
+  {
+   "uid": "U18866",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Castle"
+  },
+  {
+   "uid": "U18867",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Castle"
+  },
+  {
+   "uid": "U18868",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Castle"
+  },
+  {
+   "uid": "U18869",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Castle"
+  },
+  {
+   "uid": "U18870",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gomez"
+  },
+  {
+   "uid": "U18871",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gomez"
+  },
+  {
+   "uid": "U18872",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gomez"
+  },
+  {
+   "uid": "U18873",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gomez"
+  },
+  {
+   "uid": "U18874",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gomez"
+  },
+  {
+   "uid": "U18875",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gomez"
+  },
+  {
+   "uid": "U18876",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gomez"
+  },
+  {
+   "uid": "U18877",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gomez"
+  },
+  {
+   "uid": "U18878",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gomez"
+  },
+  {
+   "uid": "U18879",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U18880",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gomez"
+  },
+  {
+   "uid": "U18881",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U18882",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan 2"
+  },
+  {
+   "uid": "U18883",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan 2"
+  },
+  {
+   "uid": "U18884",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan 2"
+  },
+  {
+   "uid": "U18885",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan 2"
+  },
+  {
+   "uid": "U18886",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan 2"
+  },
+  {
+   "uid": "U18887",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan 2"
+  },
+  {
+   "uid": "U18888",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan 2"
+  },
+  {
+   "uid": "U18889",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kelbaan 2"
+  },
+  {
+   "uid": "U18898",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Electronic Brain"
+  },
+  {
+   "uid": "U18899",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Electronic Brain"
+  },
+  {
+   "uid": "U18900",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Calamity"
+  },
+  {
+   "uid": "U18901",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Calamity"
+  },
+  {
+   "uid": "U18902",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Calamity"
+  },
+  {
+   "uid": "U18903",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Calamity"
+  },
+  {
+   "uid": "U18904",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Calamity"
+  },
+  {
+   "uid": "U18905",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Calamity"
+  },
+  {
+   "uid": "U18906",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Calamity"
+  },
+  {
+   "uid": "U18907",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Calamity"
+  },
+  {
+   "uid": "U18908",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sparky"
+  },
+  {
+   "uid": "U18909",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sparky"
+  },
+  {
+   "uid": "U18910",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sparky"
+  },
+  {
+   "uid": "U18911",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sparky"
+  },
+  {
+   "uid": "U18912",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sparky"
+  },
+  {
+   "uid": "U18913",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sparky"
+  }
+ ]
+}

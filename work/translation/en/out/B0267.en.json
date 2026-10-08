@@ -1,0 +1,178 @@
+{
+ "batch": "B0267",
+ "rows": [
+  {
+   "uid": "U21383",
+   "en": "Slot 2"
+  },
+  {
+   "uid": "U21384",
+   "en": "Searching for Tokusatsu Taisen 2000 saves.",
+   "note": "Shortened to fit the checker budget; preferred: Searching for Super Tokusatsu Taisen 2000 save data."
+  },
+  {
+   "uid": "U21385",
+   "en": "Units yet to act:",
+   "note": "Shortened to fit the checker budget; preferred: There are units that have not acted"
+  },
+  {
+   "uid": "U21386",
+   "en": " left.",
+   "note": "Shortened to fit the checker budget; preferred:  remaining."
+  },
+  {
+   "uid": "U21387",
+   "en": "End this phase? Is that OK?"
+  },
+  {
+   "uid": "U21388",
+   "en": " Yes"
+  },
+  {
+   "uid": "U21389",
+   "en": " No"
+  },
+  {
+   "uid": "U21390",
+   "en": " Landmark"
+  },
+  {
+   "uid": "U21392",
+   "en": " Turns"
+  },
+  {
+   "uid": "U21393",
+   "en": " Cash",
+   "note": "Shortened to fit the checker budget; preferred:  Funds"
+  },
+  {
+   "uid": "U21394",
+   "en": " Mat.",
+   "note": "Shortened to fit the checker budget; preferred:  Materials"
+  },
+  {
+   "uid": "U21395",
+   "en": " Units"
+  },
+  {
+   "uid": "U21396",
+   "en": " R&D"
+  },
+  {
+   "uid": "U21397",
+   "en": " Scientist",
+   "note": "Shortened to fit the checker budget; preferred:  Assign Scientist"
+  },
+  {
+   "uid": "U21398",
+   "en": " Transfer"
+  },
+  {
+   "uid": "U21399",
+   "en": " Parts",
+   "note": "Shortened to fit the checker budget; preferred:  Upgrade Parts"
+  },
+  {
+   "uid": "U21400",
+   "en": " Effects"
+  },
+  {
+   "uid": "U21401",
+   "en": "O: Normal",
+   "note": "Shortened to fit the checker budget; preferred: O Button: Normal"
+  },
+  {
+   "uid": "U21402",
+   "en": "Square: Simple",
+   "note": "Shortened to fit the checker budget; preferred: Square Button: Simple"
+  },
+  {
+   "uid": "U21403",
+   "en": "Counter",
+   "note": "Shortened to fit the checker budget; preferred: Counterattack"
+  },
+  {
+   "uid": "U21404",
+   "en": " Wpn",
+   "note": "Shortened to fit the checker budget; preferred:  Weapon"
+  },
+  {
+   "uid": "U21405",
+   "en": " Eva.",
+   "note": "Shortened to fit the checker budget; preferred:  Evade"
+  },
+  {
+   "uid": "U21406",
+   "en": " Def.",
+   "note": "Shortened to fit the checker budget; preferred:  Defend"
+  },
+  {
+   "uid": "U21407",
+   "en": " Acc.",
+   "note": "Shortened to fit the checker budget; preferred:  Accuracy"
+  },
+  {
+   "uid": "U21417",
+   "en": "Saved."
+  },
+  {
+   "uid": "U21418",
+   "en": "No Memory Card.",
+   "note": "Shortened to fit the checker budget; preferred: No Memory Card is inserted."
+  },
+  {
+   "uid": "U21419",
+   "en": " An error occurred."
+  },
+  {
+   "uid": "U21420",
+   "en": " Not formatted."
+  },
+  {
+   "uid": "U21421",
+   "en": "Tokusatsu 2000 file exists.",
+   "note": "Shortened to fit the checker budget; preferred: A Tokusatsu 2000 file already exists."
+  },
+  {
+   "uid": "U21422",
+   "en": " Too few free blocks.",
+   "note": "Shortened to fit the checker budget; preferred:  Not enough free blocks."
+  }
+ ],
+ "report": {
+  "rows_in_slice": 30,
+  "rows_examined": 30,
+  "uncertain": [
+   "U21384/U21421: references to the predecessor 'Super Tokusatsu Taisen 2000' save data",
+   "U21385-U21387: second copy of the 'units have not acted / end phase' message with OCR damage (的了 = 終了); split around a number",
+   "U21403: 反撃開終 read as 反撃開始 'Counterattack'",
+   "U21402: □ not in the font; written 'Square'",
+   "U21422: 縮き read as 空き 'free blocks'",
+   "Leading spaces from the source kept on rows that have them"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": [
+   {
+    "uid": "U21385",
+    "likely": "行動終了"
+   },
+   {
+    "uid": "U21387",
+    "likely": "終了"
+   },
+   {
+    "uid": "U21403",
+    "likely": "反撃開始"
+   },
+   {
+    "uid": "U21418",
+    "likely": "差さって"
+   },
+   {
+    "uid": "U21422",
+    "likely": "空き"
+   }
+  ]
+ }
+}

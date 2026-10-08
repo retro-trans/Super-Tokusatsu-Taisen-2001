@@ -1,0 +1,429 @@
+{
+ "batch": "B0102",
+ "rows": [
+  {
+   "uid": "U08099",
+   "en": "Genmu World"
+  },
+  {
+   "uid": "U08100",
+   "en": "Fushigi World"
+  },
+  {
+   "uid": "U08101",
+   "en": "Third Button (Ichiro)"
+  },
+  {
+   "uid": "U08102",
+   "en": "Giant Devil"
+  },
+  {
+   "uid": "U08103",
+   "en": "Foot of Mt. Fuji"
+  },
+  {
+   "uid": "U08104",
+   "en": "SSI HQ"
+  },
+  {
+   "uid": "U08105",
+   "en": "Jupiter Space"
+  },
+  {
+   "uid": "U08106",
+   "en": "One-Seven and Brain"
+  },
+  {
+   "uid": "U08107",
+   "en": "Destron HQ"
+  },
+  {
+   "uid": "U08108",
+   "en": "School Pool"
+  },
+  {
+   "uid": "U08109",
+   "en": "Classroom"
+  },
+  {
+   "uid": "U08110",
+   "en": "Generic: Base Corridor"
+  },
+  {
+   "uid": "U08111",
+   "en": "Generic: Enemy Spaceship"
+  },
+  {
+   "uid": "U08112",
+   "en": "Blue Sky"
+  },
+  {
+   "uid": "U08113",
+   "en": "Akira's Blueprints"
+  },
+  {
+   "uid": "U08114",
+   "en": "Navaron Fortress"
+  },
+  {
+   "uid": "U08115",
+   "en": "Wasteland"
+  },
+  {
+   "uid": "U08116",
+   "en": "Unicorn Japan Branch"
+  },
+  {
+   "uid": "U08117",
+   "en": "Hakaider Brain Surgery Chart"
+  },
+  {
+   "uid": "U08118",
+   "en": "Fake Ultraseven"
+  },
+  {
+   "uid": "U08119",
+   "en": "Farewell"
+  },
+  {
+   "uid": "U08120",
+   "en": "Sunset"
+  },
+  {
+   "uid": "U08121",
+   "en": "Sakata's Factory"
+  },
+  {
+   "uid": "U08122",
+   "en": "Ultraman and Zoffy"
+  },
+  {
+   "uid": "U08123",
+   "en": "Red Cocoon (Kaikou)"
+  },
+  {
+   "uid": "U08124",
+   "en": "Fantasy Space"
+  },
+  {
+   "uid": "U08125",
+   "en": "Snowy Mountain"
+  },
+  {
+   "uid": "U08126",
+   "en": "One-Eight"
+  },
+  {
+   "uid": "U08127",
+   "en": "Pool"
+  },
+  {
+   "uid": "U08128",
+   "en": "Lake"
+  },
+  {
+   "uid": "U08129",
+   "en": "Steel Emperor Zephas's Throne (Metal)"
+  },
+  {
+   "uid": "U08130",
+   "en": "Steel Emperor Zephas's Throne (Bio)"
+  },
+  {
+   "uid": "U08131",
+   "en": "Inside the Naager: Control Panel"
+  },
+  {
+   "uid": "U08132",
+   "en": "Inside the Naager"
+  },
+  {
+   "uid": "U08133",
+   "en": "Inside the Naager: Control Panel (Destroyed)"
+  },
+  {
+   "uid": "U08134",
+   "en": "Harbor"
+  },
+  {
+   "uid": "U08135",
+   "en": "Third Button (Waruder)"
+  },
+  {
+   "uid": "U08136",
+   "en": "Bah! How is the Giant Devil Project coming along?"
+  },
+  {
+   "uid": "U08137",
+   "en": "Sir!<p>With the cooperation of the Iron Mask Party and Shadow, it is proceeding smoothly!"
+  },
+  {
+   "uid": "U08138",
+   "en": "Heh heh heh… I see, then all is well!<p>…!?"
+  },
+  {
+   "uid": "U08139",
+   "en": "Wh-what's going on!?"
+  },
+  {
+   "uid": "U08140",
+   "en": "Professor Gill! From now on, I'll be doing as I please!"
+  },
+  {
+   "uid": "U08141",
+   "en": "Wh-what did you say!? Hakaider?"
+  },
+  {
+   "uid": "U08142",
+   "en": "Quit your yelling!!<p>I'm the one who will kill Kikaider! Don't you get in my way!! Understood?"
+  },
+  {
+   "uid": "U08143",
+   "en": "Curse you! Hakaider!!"
+  },
+  {
+   "uid": "U08144",
+   "en": "Heh heh heh… You seem troubled, Professor Gill…"
+  },
+  {
+   "uid": "U08145",
+   "en": "Apfaron, is it…?"
+  },
+  {
+   "uid": "U08146",
+   "en": "Installing the Devil Circuit went well enough, it seems…<p>But the loss of control was not part of your calculations, was it?"
+  },
+  {
+   "uid": "U08147",
+   "en": "Mind your own business, Apfaron! Once the Giant Devil is complete, I'll have no need for Hakaider!"
+  },
+  {
+   "uid": "U08148",
+   "en": "Quite right… But can you really trust Shadow?"
+  },
+  {
+   "uid": "U08149",
+   "en": "…!?<p>What do you mean? Shadow is working with me on this Giant Devil Project…"
+  },
+  {
+   "uid": "U08150",
+   "en": "Heh heh heh… It seems you haven't heard?<p>Rumor has it that Shadow's leader, Big Shadow, has hired a top-class killer… the android Waruder…"
+  },
+  {
+   "uid": "U08151",
+   "en": "W-Waruder!?<p>Surely not… that assassin?"
+  },
+  {
+   "uid": "U08152",
+   "en": "Why would Big Shadow hire Waruder? An android who specializes in assassination, no less…<p>Professor Gill… surely you understand the reason by now?"
+  },
+  {
+   "uid": "U08153",
+   "en": "…!?<p>Could it be? Big Shadow means to assassinate me and take over my DARK!?"
+  },
+  {
+   "uid": "U08154",
+   "en": "Heh heh heh… As expected of Professor Gill!<p>Big Shadow intends to take the Giant Devil into his own hands as well."
+  },
+  {
+   "uid": "U08155",
+   "en": "Grr, Big Shadow… I won't let this stand!!"
+  },
+  {
+   "uid": "U08156",
+   "en": "Allow me… to take on that task."
+  },
+  {
+   "uid": "U08157",
+   "en": "Heh heh heh… You seem troubled, Professor Gill…"
+  },
+  {
+   "uid": "U08158",
+   "en": "Atefarina, is it…?"
+  },
+  {
+   "uid": "U08159",
+   "en": "Installing the Devil Circuit went well enough, it seems…<p>But the loss of control was not part of your calculations, was it?"
+  },
+  {
+   "uid": "U08160",
+   "en": "What!? Who are you?"
+  },
+  {
+   "uid": "U08161",
+   "en": "Well, well…<p>I haven't introduced myself yet, have I? Like Atefarina here, I am an envoy from the battle-fleet nation Naager… My name is Apfaron."
+  },
+  {
+   "uid": "U08162",
+   "en": "Apfaron?<p>Hmph… Then let me tell you something, Apfaron…<p>Once the Giant Devil is complete, my DARK will have no need for Hakaider!"
+  },
+  {
+   "uid": "U08163",
+   "en": "Allow me… to take on that task…"
+  },
+  {
+   "uid": "U08164",
+   "en": "Atefarina the Battle Princess: \"Please, do leave it to us…\""
+  },
+  {
+   "uid": "U08165",
+   "en": "Installing the Devil Circuit went well enough, it seems…<p>But the loss of control was not part of your calculations, was it?"
+  },
+  {
+   "uid": "U08166",
+   "en": "Mind your own business, Atefarina! Once the Giant Devil is complete, I'll have no need for Hakaider!"
+  },
+  {
+   "uid": "U08167",
+   "en": "Quite right… But can you really trust Shadow?"
+  },
+  {
+   "uid": "U08168",
+   "en": "Heh heh heh… It seems you haven't heard?<p>Rumor has it that Shadow's leader, Big Shadow, has hired a top-class killer… the android Waruder…"
+  },
+  {
+   "uid": "U08169",
+   "en": "Surely, yes! But why? Why would Big Shadow hire Waruder? An android who specializes in assassination, no less…<p>Professor Gill… surely you understand the answer by now?"
+  },
+  {
+   "uid": "U08170",
+   "en": "…!?<p>Big Shadow means to assassinate me and take over my DARK!?"
+  },
+  {
+   "uid": "U08171",
+   "en": "Heh heh heh… As expected of Professor Gill!<p>Big Shadow intends to take the Giant Devil into his own hands as well."
+  },
+  {
+   "uid": "U08172",
+   "en": "Allow me… to take on that task."
+  },
+  {
+   "uid": "U08173",
+   "en": "Meanwhile… the Kikaider brothers, Ichiro and Jiro, had been summoned by Bijinder, alias Mari…"
+  },
+  {
+   "uid": "U08174",
+   "en": "Ichiro…"
+  },
+  {
+   "uid": "U08175",
+   "en": "Mm… I wonder what's up with Mari? Calling us out to a place like this…"
+  },
+  {
+   "uid": "U08176",
+   "en": "Still… to think that Mari was Bijinder… That organization, Shadow, is a frightening bunch!"
+  },
+  {
+   "uid": "U08177",
+   "en": "But… I've given Mari a Conscience Circuit, incomplete as it is!<p>Besides… she's no longer a member of Shadow! At least, that's what I believe!"
+  },
+  {
+   "uid": "U08178",
+   "en": "It's true… the Conscience Circuit you gave her may be incomplete…<p>But…<p>I'm controlling my own incomplete Conscience Circuit like this, by my own will! I'm sure Mari can too…"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U08099-U08135: debug-stage CG labels; 殻 stands in for unreadable kanji (see glyph_suspects).",
+   "U08103: 殻士の殻野 read as 富士の裾野 (\"Foot of Mt. Fuji\").",
+   "U08108/U08109: 殻殻のプール read as 学校のプール; 教殻 as 教室. (B0101 U08043 殻殻 may also be 学校, \"School\".)",
+   "U08120: 殻日 read as 夕日 (\"Sunset\"); could be 朝日.",
+   "U08123: 赤い殻（カイコウ） unclear; guessed 赤い繭 (\"Red Cocoon\").",
+   "U08164: narration-kind row carries the speaker name inline (闘姫・アテファリナ/「…」); rendered as \"Atefarina the Battle Princess: \\\"…\\\"\".",
+   "U08169: そのまさかです rendered \"Surely, yes!\" answering Gill's 'Surely not…'; awkward, could be \"It's exactly that!\".",
+   "U08174: イチロー兄さん rendered \"Ichiro\" (Jiro to his elder brother); \"big brother\" dropped.",
+   "U08177: マリさん referred to as \"she\"."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Third Button",
+    "why": "CG label"
+   },
+   {
+    "en": "Devil Circuit",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Conscience Circuit",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Giant Devil Project",
+    "why": "from glossary ジャイアントデビル"
+   },
+   {
+    "en": "Hakaider Brain Surgery Chart",
+    "why": "CG label"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U08103",
+    "likely": "富士の裾野"
+   },
+   {
+    "uid": "U08108",
+    "likely": "学校"
+   },
+   {
+    "uid": "U08109",
+    "likely": "教室"
+   },
+   {
+    "uid": "U08120",
+    "likely": "夕日"
+   },
+   {
+    "uid": "U08123",
+    "likely": "赤い繭?"
+   },
+   {
+    "uid": "U08129",
+    "likely": "玉座"
+   },
+   {
+    "uid": "U08130",
+    "likely": "玉座"
+   },
+   {
+    "uid": "U08133",
+    "likely": "破壊"
+   },
+   {
+    "uid": "U08136",
+    "likely": "計画"
+   },
+   {
+    "uid": "U08149",
+    "likely": "計画"
+   },
+   {
+    "uid": "U08144",
+    "likely": "お困り"
+   },
+   {
+    "uid": "U08157",
+    "likely": "お困り"
+   },
+   {
+    "uid": "U08154",
+    "likely": "さすが"
+   },
+   {
+    "uid": "U08171",
+    "likely": "さすが"
+   },
+   {
+    "uid": "U08161",
+    "likely": "自己"
+   },
+   {
+    "uid": "U08169",
+    "likely": "答え"
+   }
+  ]
+ }
+}

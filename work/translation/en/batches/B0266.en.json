@@ -1,0 +1,567 @@
+{
+ "batch": "B0266",
+ "prev": "B0265",
+ "next": "B0267",
+ "rows": [
+  {
+   "uid": "U21301",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U21303",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 24
+  },
+  {
+   "uid": "U21304",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 80
+  },
+  {
+   "uid": "U21306",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 96
+  },
+  {
+   "uid": "U21307",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 96
+  },
+  {
+   "uid": "U21308",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U21309",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 152
+  },
+  {
+   "uid": "U21310",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 152
+  },
+  {
+   "uid": "U21311",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 120
+  },
+  {
+   "uid": "U21312",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 112
+  },
+  {
+   "uid": "U21313",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 128
+  },
+  {
+   "uid": "U21314",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 168
+  },
+  {
+   "uid": "U21315",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 72
+  },
+  {
+   "uid": "U21316",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 112
+  },
+  {
+   "uid": "U21317",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 128
+  },
+  {
+   "uid": "U21318",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 80
+  },
+  {
+   "uid": "U21319",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 120
+  },
+  {
+   "uid": "U21320",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 136
+  },
+  {
+   "uid": "U21321",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 80
+  },
+  {
+   "uid": "U21322",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 120
+  },
+  {
+   "uid": "U21323",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 160
+  },
+  {
+   "uid": "U21324",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 112
+  },
+  {
+   "uid": "U21325",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 88
+  },
+  {
+   "uid": "U21326",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 160
+  },
+  {
+   "uid": "U21327",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 80
+  },
+  {
+   "uid": "U21328",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 104
+  },
+  {
+   "uid": "U21329",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 88
+  },
+  {
+   "uid": "U21330",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 96
+  },
+  {
+   "uid": "U21331",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 132
+  },
+  {
+   "uid": "U21332",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 128
+  },
+  {
+   "uid": "U21333",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 80
+  },
+  {
+   "uid": "U21334",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 80
+  },
+  {
+   "uid": "U21335",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 88
+  },
+  {
+   "uid": "U21336",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 136
+  },
+  {
+   "uid": "U21337",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 124
+  },
+  {
+   "uid": "U21338",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 116
+  },
+  {
+   "uid": "U21339",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 136
+  },
+  {
+   "uid": "U21340",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 148
+  },
+  {
+   "uid": "U21341",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 168
+  },
+  {
+   "uid": "U21342",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 116
+  },
+  {
+   "uid": "U21343",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 136
+  },
+  {
+   "uid": "U21344",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 148
+  },
+  {
+   "uid": "U21345",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 132
+  },
+  {
+   "uid": "U21346",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 96
+  },
+  {
+   "uid": "U21347",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 112
+  },
+  {
+   "uid": "U21348",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 128
+  },
+  {
+   "uid": "U21349",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 88
+  },
+  {
+   "uid": "U21350",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 136
+  },
+  {
+   "uid": "U21351",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 160
+  },
+  {
+   "uid": "U21352",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 168
+  },
+  {
+   "uid": "U21353",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 184
+  },
+  {
+   "uid": "U21354",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 64
+  },
+  {
+   "uid": "U21355",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 168
+  },
+  {
+   "uid": "U21356",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 92
+  },
+  {
+   "uid": "U21357",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 104
+  },
+  {
+   "uid": "U21358",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 124
+  },
+  {
+   "uid": "U21359",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 124
+  },
+  {
+   "uid": "U21360",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 96
+  },
+  {
+   "uid": "U21361",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 96
+  },
+  {
+   "uid": "U21362",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 144
+  },
+  {
+   "uid": "U21363",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 124
+  },
+  {
+   "uid": "U21364",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 124
+  },
+  {
+   "uid": "U21365",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 96
+  },
+  {
+   "uid": "U21366",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 96
+  },
+  {
+   "uid": "U21367",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 96
+  },
+  {
+   "uid": "U21368",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 136
+  },
+  {
+   "uid": "U21369",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 96
+  },
+  {
+   "uid": "U21370",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 80
+  },
+  {
+   "uid": "U21371",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 100
+  },
+  {
+   "uid": "U21372",
+   "kind": "music",
+   "src": "music",
+   "speaker_en": null,
+   "budget_px": 112
+  },
+  {
+   "uid": "U21373",
+   "kind": "menu",
+   "src": "exe",
+   "speaker_en": null,
+   "budget_px": 32
+  },
+  {
+   "uid": "U21374",
+   "kind": "menu",
+   "src": "exe",
+   "speaker_en": null,
+   "budget_px": 56
+  },
+  {
+   "uid": "U21375",
+   "kind": "menu",
+   "src": "exe",
+   "speaker_en": null,
+   "budget_px": 44
+  },
+  {
+   "uid": "U21376",
+   "kind": "menu",
+   "src": "exe",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U21377",
+   "kind": "menu",
+   "src": "exe",
+   "speaker_en": null,
+   "budget_px": 40
+  },
+  {
+   "uid": "U21378",
+   "kind": "menu",
+   "src": "exe",
+   "speaker_en": null,
+   "budget_px": 32
+  },
+  {
+   "uid": "U21379",
+   "kind": "menu",
+   "src": "exe",
+   "speaker_en": null,
+   "budget_px": 48
+  },
+  {
+   "uid": "U21380",
+   "kind": "menu",
+   "src": "exe",
+   "speaker_en": null,
+   "budget_px": 56
+  },
+  {
+   "uid": "U21381",
+   "kind": "menu",
+   "src": "exe",
+   "speaker_en": null,
+   "budget_px": 64
+  },
+  {
+   "uid": "U21382",
+   "kind": "menu",
+   "src": "exe",
+   "speaker_en": null,
+   "budget_px": 40
+  }
+ ]
+}

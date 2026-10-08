@@ -1,0 +1,487 @@
+{
+ "batch": "B0123",
+ "prev": "B0122",
+ "next": "B0124",
+ "rows": [
+  {
+   "uid": "U09779",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09780",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09781",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09782",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09783",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09784",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09785",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09786",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U09787",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U09788",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09789",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09790",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09791",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09792",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09793",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09794",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09795",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09796",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09797",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09798",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09799",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09800",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09801",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09802",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09803",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09804",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09805",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Scientist"
+  },
+  {
+   "uid": "U09806",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09807",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U09808",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U09809",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09810",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Scientist"
+  },
+  {
+   "uid": "U09811",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09812",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09813",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Cyborg Warrior"
+  },
+  {
+   "uid": "U09814",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U09815",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U09816",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09817",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Cyborg Warrior"
+  },
+  {
+   "uid": "U09818",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U09819",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U09820",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09821",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U09822",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U09823",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09824",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Scientist"
+  },
+  {
+   "uid": "U09825",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09826",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09827",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Scientist"
+  },
+  {
+   "uid": "U09828",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09829",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Scientist"
+  },
+  {
+   "uid": "U09830",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U09831",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09832",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09833",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U09834",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U09835",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09836",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09837",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09838",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09839",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U09840",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U09841",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09842",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U09843",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09844",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U09845",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09846",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U09847",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09848",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U09849",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09850",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09851",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U09852",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09853",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U09854",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U09855",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U09856",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U09857",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U09858",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  }
+ ]
+}

@@ -1,0 +1,383 @@
+{
+ "batch": "B0075",
+ "rows": [
+  {
+   "uid": "U05937",
+   "en": "I see… So they'll handle that kaiju?"
+  },
+  {
+   "uid": "U05938",
+   "en": "Let's look for Jimmy Kitahara!"
+  },
+  {
+   "uid": "U05939",
+   "en": "Kaiju sighted! Commencing attack!"
+  },
+  {
+   "uid": "U05940",
+   "en": "Right, take it carefully!"
+  },
+  {
+   "uid": "U05941",
+   "en": "I'll take it down in one shot!<p> All right, firing X Shell!"
+  },
+  {
+   "uid": "U05942",
+   "en": "Wait! Stick to the plan! Fire once we've gotten closer!!"
+  },
+  {
+   "uid": "U05943",
+   "en": "Fine…"
+  },
+  {
+   "uid": "U05944",
+   "en": "Damn…"
+  },
+  {
+   "uid": "U05945",
+   "en": "Don't fire yet! Get closer first!!"
+  },
+  {
+   "uid": "U05946",
+   "en": "What's one or two kaiju! I can attack just fine from here! Firing X Shell!!"
+  },
+  {
+   "uid": "U05947",
+   "en": "…!?"
+  },
+  {
+   "uid": "U05948",
+   "en": "Minami, Go… Did it work?"
+  },
+  {
+   "uid": "U05949",
+   "en": "It hit, but the X Shell's a dud!"
+  },
+  {
+   "uid": "U05950",
+   "en": "What!? What about the kaiju?"
+  },
+  {
+   "uid": "U05951",
+   "en": "It's nowhere to be seen!! It seems to have fled to the sea floor."
+  },
+  {
+   "uid": "U05952",
+   "en": "The kaiju must still be somewhere around there! We'll think of something… For now, return to base!"
+  },
+  {
+   "uid": "U05953",
+   "en": "Yes, sir…"
+  },
+  {
+   "uid": "U05954",
+   "en": "That's ridiculous!? The X Shell didn't explode? It checked out perfectly yesterday!"
+  },
+  {
+   "uid": "U05955",
+   "en": "Kishida! Don't get so worked up…<p> Go, can you think of anything that might have caused the dud?"
+  },
+  {
+   "uid": "U05956",
+   "en": "I have no idea…"
+  },
+  {
+   "uid": "U05957",
+   "en": "I see…"
+  },
+  {
+   "uid": "U05958",
+   "en": "Captain! It's ready!"
+  },
+  {
+   "uid": "U05959",
+   "en": "Good…"
+  },
+  {
+   "uid": "U05960",
+   "en": "What is it?"
+  },
+  {
+   "uid": "U05961",
+   "en": "It's MAT Arrow 1's black box. It recorded the situation at that time. We might learn something!<p> Start it up!"
+  },
+  {
+   "uid": "U05962",
+   "en": "All checks on Arrow 1's firing system come up perfect. No abnormalities found!"
+  },
+  {
+   "uid": "U05963",
+   "en": "Wait… What's this record?"
+  },
+  {
+   "uid": "U05964",
+   "en": "…!?"
+  },
+  {
+   "uid": "U05965",
+   "en": "What the…!?<p> He pressed the timer, not the X Shell firing button! The X Shell isn't a dud!"
+  },
+  {
+   "uid": "U05966",
+   "en": "No… I made a mistake…?"
+  },
+  {
+   "uid": "U05967",
+   "en": "Either way, that kaiju's going to blow up in 10 hours!"
+  },
+  {
+   "uid": "U05968",
+   "en": "Lucky you, Go… In 10 hours, that thing's taking the express to heaven!"
+  },
+  {
+   "uid": "U05969",
+   "en": "Don't talk nonsense! Think things through carefully! What if the kaiju comes out into the city?"
+  },
+  {
+   "uid": "U05970",
+   "en": "Two or three buildings would be blown away, easy… Go, how do you plan to clean up this mess?"
+  },
+  {
+   "uid": "U05971",
+   "en": "I'm sorry…"
+  },
+  {
+   "uid": "U05972",
+   "en": "I don't think an apology settles this… Responsibility is responsibility!"
+  },
+  {
+   "uid": "U05973",
+   "en": "I was riding with him!<p> It was me… Go fired because I told him to! It's my fault he hit the wrong button too!"
+  },
+  {
+   "uid": "U05974",
+   "en": "But…"
+  },
+  {
+   "uid": "U05975",
+   "en": "You keep quiet!<p> Captain… it's all my mistake! Punish only me…"
+  },
+  {
+   "uid": "U05976",
+   "en": "That won't do…<p> As it happens, right after that, I listened to the black box's voice recorder!"
+  },
+  {
+   "uid": "U05977",
+   "en": "…!?"
+  },
+  {
+   "uid": "U05978",
+   "en": "When Mr. Sakata allowed you to join… to be honest, I was thanking the heavens. That's how much I wanted you!<p> But… it seems my judgment was mistaken.<p> You ignored the plan and acted on your own! Accordingly, I'm ordering you confined to your home for three days!"
+  },
+  {
+   "uid": "U05979",
+   "en": "Captain…<p> Go was rattled on his first sortie! Isn't that a mistake anyone could make?"
+  },
+  {
+   "uid": "U05980",
+   "en": "What Go did wasn't a mistake! It was selfish arrogance!<p> That carelessness led him to disobey orders and let the kaiju get away… He wasn't taking it seriously enough!"
+  },
+  {
+   "uid": "U05981",
+   "en": "The Captain has made his decision… Go just needs to obey it!"
+  },
+  {
+   "uid": "U05982",
+   "en": "………"
+  },
+  {
+   "uid": "U05983",
+   "en": "Go!"
+  },
+  {
+   "uid": "U05984",
+   "en": "Leave him be!"
+  },
+  {
+   "uid": "U05985",
+   "en": "But, Captain!"
+  },
+  {
+   "uid": "U05986",
+   "en": "Captain! Another kaiju has appeared!"
+  },
+  {
+   "uid": "U05987",
+   "en": "…!?<p> Captain, it's not the kaiju from before! It's two other kaiju!"
+  },
+  {
+   "uid": "U05988",
+   "en": "What!?<p> Right… Don't let them get any closer to the city! Officer Oka! Issue an emergency evacuation advisory to local residents!"
+  },
+  {
+   "uid": "U05989",
+   "en": "Yes, sir!"
+  },
+  {
+   "uid": "U05990",
+   "en": "I've got it!<p> Jimmy Kitahara is a mutant who was exposed to huge amounts of cosmic rays! He can break his body down into atoms and make himself invisible!<p> The reason they're after him… is to study how that works!"
+  },
+  {
+   "uid": "U05991",
+   "en": "The kaiju have started attacking the city!!"
+  },
+  {
+   "uid": "U05992",
+   "en": "Right, I'll hit them with an X Shell!!"
+  },
+  {
+   "uid": "U05993",
+   "en": "Wait!?<p> The X Shell's too powerful! The residents might not have finished evacuating yet!"
+  },
+  {
+   "uid": "U05994",
+   "en": "Then are you saying we should let the kaiju get away, like Go did!?<p> From what I can see, there's nobody… And besides, an evacuation advisory has been issued! There can't be anyone here!"
+  },
+  {
+   "uid": "U05995",
+   "en": "No, but… on the ground, the UCMA Special Unit is fighting the space crime organizations!<p> The X Shell is still too…<p> …!?<p> Go!!"
+  },
+  {
+   "uid": "U05996",
+   "en": "Stop the attack!<p> I saw a little girl! The residents haven't completely finished evacuating yet!"
+  },
+  {
+   "uid": "U05997",
+   "en": "You're supposed to be confined at home… Why are you here!?<p> A girl!? Don't lie!! There's nobody anywhere! You're in the way of the attack! Move!"
+  },
+  {
+   "uid": "U05998",
+   "en": "I won't move!<p> Until I've rescued that girl safely, I'm not leaving this spot! She's still somewhere near here…"
+  },
+  {
+   "uid": "U05999",
+   "en": "Uwaaagh…"
+  },
+  {
+   "uid": "U06000",
+   "en": "Go!?<p> Damn… The kaiju have vanished too!"
+  },
+  {
+   "uid": "U06001",
+   "en": "Go has it in for me! Ever since the X Shell firing blunder… he's been waiting for a chance to get back at me!"
+  },
+  {
+   "uid": "U06002",
+   "en": "That's not true! I really did see a girl."
+  },
+  {
+   "uid": "U06003",
+   "en": "I believe Go!<p> Sure… it's a shame the kaiju got away, but I think what Go did was right, too."
+  },
+  {
+   "uid": "U06004",
+   "en": "You can't gloss over this with pretty words like that!<p> Go neglected his duty as a MAT member out of personal resentment toward me!<p> Captain, if things like today happen on the front line, we won't be able to carry out our missions promptly in the future!"
+  },
+  {
+   "uid": "U06005",
+   "en": "Hey, Kishida! You don't have to go that far…"
+  },
+  {
+   "uid": "U06006",
+   "en": "No… And besides, Go is supposed to be confined! It's better to settle this clearly!"
+  },
+  {
+   "uid": "U06007",
+   "en": "I don't mind being punished!<p> But I think Officer Kishida's decision to use the X Shell there was wrong, and I'm still sure I saw a girl who didn't evacuate in time."
+  },
+  {
+   "uid": "U06008",
+   "en": "Why, you…"
+  },
+  {
+   "uid": "U06009",
+   "en": "Kishida!<p> Go, today you…"
+  },
+  {
+   "uid": "U06010",
+   "en": "…!?<p> Director Yamaoka!!"
+  },
+  {
+   "uid": "U06011",
+   "en": "What's going on? I hear you've let the kaiju escape twice? How can you call yourself MAT's captain?"
+  },
+  {
+   "uid": "U06012",
+   "en": "Director! Captain Kato is the finest captain MAT could have, a man worthy of respect!<p> Please take back what you just said to insult him!"
+  },
+  {
+   "uid": "U06013",
+   "en": "How dare you take that attitude with the Director!"
+  },
+  {
+   "uid": "U06014",
+   "en": "Director!"
+  },
+  {
+   "uid": "U06015",
+   "en": "Minami! That's enough…"
+  },
+  {
+   "uid": "U06016",
+   "en": "But…"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U05937: じゃあ、あの怪獣を？ read as 'So they'll handle that kaiju?' (Den reacting to MAT's arrival).",
+   "U05978: 自宅謹慎 rendered 'confined to your home'.",
+   "U05980: 緊張が足りん rendered 'He wasn't taking it seriously enough'.",
+   "U05995: Minami's line trails off ('The X Shell is still too…')."
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": [
+   {
+    "uid": "U05939",
+    "likely": "開始"
+   },
+   {
+    "uid": "U05940",
+    "likely": "慎重"
+   },
+   {
+    "uid": "U05954",
+    "likely": "完璧"
+   },
+   {
+    "uid": "U05961",
+    "likely": "始めて"
+   },
+   {
+    "uid": "U05962",
+    "likely": "関係 / 完璧"
+   },
+   {
+    "uid": "U05969",
+    "likely": "慎重"
+   },
+   {
+    "uid": "U05970",
+    "likely": "始末"
+   },
+   {
+    "uid": "U05981",
+    "likely": "決断"
+   },
+   {
+    "uid": "U05991",
+    "likely": "始めました"
+   },
+   {
+    "uid": "U06003",
+    "likely": "残念"
+   },
+   {
+    "uid": "U06013",
+    "likely": "態度"
+   }
+  ]
+ }
+}

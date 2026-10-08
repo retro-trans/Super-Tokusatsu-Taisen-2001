@@ -1,0 +1,487 @@
+{
+ "batch": "B0207",
+ "prev": "B0206",
+ "next": "B0208",
+ "rows": [
+  {
+   "uid": "U16506",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U16507",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U16508",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U16509",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U16510",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U16511",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U16512",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U16513",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U16514",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U16515",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U16516",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U16517",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U16518",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16519",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16520",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16521",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16522",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16523",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16524",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16525",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16526",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16527",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16528",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16529",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16530",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U16531",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U16532",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U16533",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U16534",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U16535",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U16536",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U16537",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U16538",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U16539",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16540",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16541",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16542",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16543",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16544",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16545",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16546",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16547",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16548",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16549",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16550",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16551",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16552",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16553",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16554",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16555",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U16556",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U16557",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U16558",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U16559",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U16560",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U16561",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U16562",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U16563",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U16564",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16565",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16566",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16567",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16568",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16569",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16570",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16571",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16572",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16573",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16574",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16575",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16576",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16577",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16578",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16579",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U16580",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U16581",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U16582",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U16583",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U16584",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U16585",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Peggy Matsuyama"
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0029",
+ "prev": "B0028",
+ "next": "B0030",
+ "rows": [
+  {
+   "uid": "U02248",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02249",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Old Man's Voice"
+  },
+  {
+   "uid": "U02250",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02251",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U02252",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02253",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U02254",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02255",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02257",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02258",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02259",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U02260",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02261",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02262",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02263",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U02264",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U02265",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U02266",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02267",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U02268",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02269",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U02270",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02271",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U02272",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02273",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U02274",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02275",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02276",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02277",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02278",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U02279",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U02280",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U02281",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02282",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U02283",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02284",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U02285",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02286",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U02287",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02288",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02289",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U02290",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02291",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U02292",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U02293",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02294",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo"
+  },
+  {
+   "uid": "U02295",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tatsuya Todo's EATER"
+  },
+  {
+   "uid": "U02296",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02297",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U02298",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U02299",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02300",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02301",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U02302",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02303",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U02304",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U02305",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U02306",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02307",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U02308",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02309",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U02310",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U02311",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02312",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U02313",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U02314",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Voice"
+  },
+  {
+   "uid": "U02315",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U02316",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U02317",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U02318",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U02319",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U02320",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volhazard"
+  },
+  {
+   "uid": "U02321",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02322",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U02323",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02324",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U02325",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02326",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U02328",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U02329",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  }
+ ]
+}

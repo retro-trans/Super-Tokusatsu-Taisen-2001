@@ -1,0 +1,57 @@
+{
+ "_doc": "Global term fixes applied to every translation at insertion (old -> new). 're:' prefix = regex.",
+ "pairs": [
+  [
+   "Roaring Steel",
+   "Fusion Steel"
+  ],
+  [
+   "roaring steel",
+   "fusion steel"
+  ],
+  [
+   "re:\\bHien\\b",
+   "Hiryu"
+  ],
+  [
+   "re:\\bKano\\b",
+   "Kanou"
+  ],
+  [
+   "re:\\bMagmalizer\\b",
+   "Magma Riser"
+  ],
+  [
+   "re:\\bGelderm\\b",
+   "Geldam"
+  ],
+  [
+   "re:\\bM78 Nebula\\b",
+   "Nebula M78"
+  ],
+  [
+   "re:\\bMakai Castle\\b",
+   "Demon Castle"
+  ],
+  [
+   "re:\\bHell Valley\\b",
+   "Jigokudani"
+  ],
+  [
+   "re:\\bCaptain Salah\\b",
+   "Captain Saller"
+  ],
+  [
+   "re:\\bthe Unicorn(?! Agency)\\b",
+   "the Unicorn Agency"
+  ],
+  [
+   "re:\\bMorale\\b",
+   "Will"
+  ],
+  [
+   "re:\\bIi{2,}h\\b",
+   "Eeee"
+  ]
+ ]
+}

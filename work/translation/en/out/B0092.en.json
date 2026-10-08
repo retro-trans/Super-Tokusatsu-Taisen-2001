@@ -1,0 +1,458 @@
+{
+ "batch": "B0092",
+ "rows": [
+  {
+   "uid": "U07298",
+   "en": "All right… We'll support Hayata from the ground!<p>Hayata! Don't push yourself until we get there! Understood?"
+  },
+  {
+   "uid": "U07299",
+   "en": "Roger!<p>So this is the dragon that was drawn in that mural?"
+  },
+  {
+   "uid": "U07300",
+   "en": "Cut open Goro Watari's head and implant this device in it!<p>It works as a remote control. Push this button, and Goro Watari's brain will be under our control at will!<p>Goro Watari… You will become a member of the Desper Army!"
+  },
+  {
+   "uid": "U07301",
+   "en": "Kuh…"
+  },
+  {
+   "uid": "U07302",
+   "en": "Inform me as soon as the surgery is finished! I'm going outside to dispose of the maggots!"
+  },
+  {
+   "uid": "U07303",
+   "en": "Struggling is useless! You can't use your psychic powers!<p>Goro Watari… To transform into Sanagiman and then [VAR6], you need more psychic energy…<p>But… right now, you don't have that energy! Begin the surgery!"
+  },
+  {
+   "uid": "U07304",
+   "en": "(Damn… What do I do? What can I do…)"
+  },
+  {
+   "uid": "U07305",
+   "en": "Ha ha ha… Give up! It's too late!! Goro Watari's modification surgery has begun!"
+  },
+  {
+   "uid": "U07306",
+   "en": "No way…!?"
+  },
+  {
+   "uid": "U07307",
+   "en": "No way…!?"
+  },
+  {
+   "uid": "U07308",
+   "en": "It's no lie!<p>Goro Watari will become a Desper Soldier! Our comrade… a warrior who fights to destroy mankind."
+  },
+  {
+   "uid": "U07309",
+   "en": "Nonsense!? Goro Watari, [VAR6], is a champion of justice!"
+  },
+  {
+   "uid": "U07310",
+   "en": "That's a lie! I don't believe it! Goro is a champion of justice!"
+  },
+  {
+   "uid": "U07311",
+   "en": "That's a lie! I don't believe it! Goro is a champion of justice!"
+  },
+  {
+   "uid": "U07312",
+   "en": "Ha ha ha… That is for Goro Watari to decide! You'll see soon enough! Let's go!"
+  },
+  {
+   "uid": "U07313",
+   "en": "([HERO4]… I need your help! Please…)"
+  },
+  {
+   "uid": "U07314",
+   "en": "(…!?<p>Goro? Is that you, Goro? No way? Huh… where are you?)"
+  },
+  {
+   "uid": "U07315",
+   "en": "(…!?<p>Goro? Is that you, Goro? No way? Huh… where are you?)"
+  },
+  {
+   "uid": "U07316",
+   "en": "(Sorry… I didn't mean to startle you…<p>Anyway, right now we're talking by telepathy.)"
+  },
+  {
+   "uid": "U07317",
+   "en": "(What…!? But I don't have that kind of power…)"
+  },
+  {
+   "uid": "U07318",
+   "en": "(What…!? But I don't have that kind of power…)"
+  },
+  {
+   "uid": "U07319",
+   "en": "(…You do! You just haven't noticed it.<p>Your mysterious power, [HERO4], is similar to my psychic powers… With it, I might be able to get the power I need to transform…)"
+  },
+  {
+   "uid": "U07320",
+   "en": "(What should I do?)"
+  },
+  {
+   "uid": "U07321",
+   "en": "(What should I do?)"
+  },
+  {
+   "uid": "U07322",
+   "en": "(Concentrate your will on me! The stronger, the better!<p>Keep concentrating until I've built up the energy I need to transform! There isn't much time left!)"
+  },
+  {
+   "uid": "U07323",
+   "en": "(Got it, I'll try!)"
+  },
+  {
+   "uid": "U07324",
+   "en": "(Got it, I'll try!)"
+  },
+  {
+   "uid": "U07325",
+   "en": "…!?<p>[HERO4]! What are you doing at a time like this! Hey, [HERO4]!"
+  },
+  {
+   "uid": "U07326",
+   "en": "…!?<p>[HERO4]! What are you doing at a time like this! Hey, [HERO4]!"
+  },
+  {
+   "uid": "U07327",
+   "en": "All right! Covering fire! Get as close as you can and aim for its eyes."
+  },
+  {
+   "uid": "U07328",
+   "en": "All right! Covering fire!<p>Ultraman took care of the kaiju, but the Desper Army and Kelbaan's forces are still left! Use the new weapon! Understood?"
+  },
+  {
+   "uid": "U07329",
+   "en": "Warrior of freedom, [VAR6]!!"
+  },
+  {
+   "uid": "U07330",
+   "en": "Thank you, [HERO4]! Thanks to you, I was able to transform!"
+  },
+  {
+   "uid": "U07331",
+   "en": "She was concentrating for my sake. I never knew [HERO4]'s power was this great…<p>Thank you so much!!"
+  },
+  {
+   "uid": "U07332",
+   "en": "What… happened to me?"
+  },
+  {
+   "uid": "U07333",
+   "en": "What… happened to me?"
+  },
+  {
+   "uid": "U07334",
+   "en": "I didn't do anything… But I was a help. I guess I'm not so bad after all, huh?"
+  },
+  {
+   "uid": "U07335",
+   "en": "I didn't do anything… But I was a help. I guess I'm not so bad after all, huh?"
+  },
+  {
+   "uid": "U07336",
+   "en": "Desper Army… I won't forgive you!!"
+  },
+  {
+   "uid": "U07337",
+   "en": "Did the surgery fail!? Curse you, [VAR6]!! Attack!!"
+  },
+  {
+   "uid": "U07338",
+   "en": "Grr… You'll pay for this!! Udesper will not die! I will not die!"
+  },
+  {
+   "uid": "U07339",
+   "en": "So in the end the kaiju died too…"
+  },
+  {
+   "uid": "U07340",
+   "en": "I'm sorry it came to this.<p>But… if we'd let it live, the damage would only have kept piling up…"
+  },
+  {
+   "uid": "U07341",
+   "en": "It's a pity we couldn't unravel the secret of its 7,000-year life…<p>But it seems certain that the mummy and the kaiju had some mysterious connection…"
+  },
+  {
+   "uid": "U07342",
+   "en": "If only we hadn't dug them up, and let them sleep on for a hundred or two hundred years…"
+  },
+  {
+   "uid": "U07343",
+   "en": "If only we'd known from the start it would turn out like this… We did a cruel thing."
+  },
+  {
+   "uid": "U07344",
+   "en": "Be that as it may…<p>Dr. Iwamoto, I hear you'll be joining the TDF science group?"
+  },
+  {
+   "uid": "U07345",
+   "en": "Mm…<p>I thought there might be something I could help with too… I look forward to working with you from now on."
+  },
+  {
+   "uid": "U07346",
+   "en": "The mummy and the kaiju who woke from a 7,000-year sleep… Their connection was never unraveled, but the sight of the kaiju that appeared to protect the mummy and died was a pitiful one."
+  },
+  {
+   "uid": "U07347",
+   "en": "In history… there are pages that must not be opened. Perhaps the Science Patrol confirmed that truth firsthand…"
+  },
+  {
+   "uid": "U07348",
+   "en": "That's weird? That guy… is he really not Ultraman?"
+  },
+  {
+   "uid": "U07349",
+   "en": "Capture the Mummy Man!"
+  },
+  {
+   "uid": "U07350",
+   "en": "Defeat the Mummy Man and the Desper Soldiers!"
+  },
+  {
+   "uid": "U07351",
+   "en": "Defeat Mummy Kaiju Dodongo and all Desper Soldiers!"
+  },
+  {
+   "uid": "U07352",
+   "en": "Defeat Mummy Kaiju Dodongo, Udesper and all Desper Soldiers!"
+  },
+  {
+   "uid": "U07353",
+   "en": "Defeat Mummy Kaiju Dodongo, Kelbaan's forces, Gigant, Udesper and all Desper Soldiers!"
+  },
+  {
+   "uid": "U07354",
+   "en": "Defeat Kelbaan's forces, Gigant and the entire Desper Army!"
+  },
+  {
+   "uid": "U07355",
+   "en": "Chief Kitakura is defeated, or the Mummy Man is killed"
+  },
+  {
+   "uid": "U07356",
+   "en": "Chief Kitakura or [HERO4] is defeated, or the Mummy Man is killed"
+  },
+  {
+   "uid": "U07357",
+   "en": "Chief Kitakura or [HERO4] is defeated"
+  },
+  {
+   "uid": "U07358",
+   "en": "Over Oshima… a jumbo airliner was attacked and crashed! An hour later, the control tower's communication records revealed that the incident was the work of a flying battleship."
+  },
+  {
+   "uid": "U07359",
+   "en": "Furthermore, the TDF, the Red Muffler Squad and other organizations gathered and sorted the information, and determined that the battleship was a Brain Party robot…"
+  },
+  {
+   "uid": "U07360",
+   "en": "Mister Brain! The Battleship Robot test was a great success!"
+  },
+  {
+   "uid": "U07361",
+   "en": "A natural outcome…"
+  },
+  {
+   "uid": "U07362",
+   "en": "With that Battleship Robot, we can bomb and destroy every city in Japan!<p>Heh heh heh… Let's attack right away, Mister Brain!"
+  },
+  {
+   "uid": "U07363",
+   "en": "Hustler… Before that, there is still the second test."
+  },
+  {
+   "uid": "U07364",
+   "en": "A second test?<p>I haven't heard anything about that!"
+  },
+  {
+   "uid": "U07365",
+   "en": "There's no need for you to hear of it! I am the one who decides… Hustler!"
+  },
+  {
+   "uid": "U07366",
+   "en": "Hmph… What kind of test is it, Mister Brain?"
+  },
+  {
+   "uid": "U07367",
+   "en": "A battle between a human and One-Seven's computer! That pilot's reflexes are outstanding!"
+  },
+  {
+   "uid": "U07368",
+   "en": "Hmm… And with that, can we beat One-Seven, Mister Brain?"
+  },
+  {
+   "uid": "U07369",
+   "en": "That is what the test is for, Hustler… We will launch a surprise attack on the TDF's First Combat Air Base! The Security Unit is on patrol there."
+  },
+  {
+   "uid": "U07370",
+   "en": "I see… If we hit the Security Unit, Saburo Minami will come out! Which means One-Seven too…<p>Ha ha ha… Just what I'd expect from the great Mister Brain, eh?"
+  },
+  {
+   "uid": "U07371",
+   "en": "The Battleship Robot's course will be controlled by his helmet."
+  },
+  {
+   "uid": "U07372",
+   "en": "You there! I'll control the Battleship Robot through that helmet!<p>You go and give One-Seven a thrashing!"
+  },
+  {
+   "uid": "U07373",
+   "en": "Sir!"
+  },
+  {
+   "uid": "U07374",
+   "en": "Professor Hustler…"
+  },
+  {
+   "uid": "U07375",
+   "en": "…!?<p>Who are you people?"
+  },
+  {
+   "uid": "U07376",
+   "en": "I invited them!"
+  },
+  {
+   "uid": "U07377",
+   "en": "We are of the battle-fleet nation Naager, purveyors of strategic weapons."
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U07303: 変転 is Inazuman's own word for transforming; rendered \"transform\" (not a glyph error).",
+   "U07307 etc.: Velvet/Vortex speak the same lines as [HERO4]/[HERO2] (presumably default or alternate hero names); translated identically.",
+   "U07313-U07324: 『』 telepathic speech rendered in ( ) like thoughts.",
+   "U07319: [HERO4]ちゃん rendered as bare [HERO4].",
+   "U07331: [VAR6] refers to [HERO4] as \"She\" (heroine, established female).",
+   "U07338: ウデスパーは死なん! 死なんのだ! — second sentence rendered \"I will not die!\" (Udesper speaking of himself in third person).",
+   "U07350: ミイラ味各 read as ミイラ人間 (Mummy Man); could be ミイラ怪獣.",
+   "U07353/U07354: ケルバーン in lists rendered \"Kelbaan's forces\".",
+   "U07363/U07365/U07369: ハスラー君 rendered \"Hustler\" (Brain's condescending address).",
+   "U07370/U07372: ワンセンブン typo for ワンセブン, rendered One-Seven."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Red Muffler Squad",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Brain Party",
+    "why": "from glossary ブレイン党操縦士"
+   },
+   {
+    "en": "Mummy Kaiju Dodongo",
+    "why": "title not in glossary"
+   },
+   {
+    "en": "First Combat Air Base",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U07299",
+    "likely": "壁画"
+   },
+   {
+    "uid": "U07300",
+    "likely": "埋め込んで"
+   },
+   {
+    "uid": "U07302",
+    "likely": "始末"
+   },
+   {
+    "uid": "U07328",
+    "likely": "始末"
+   },
+   {
+    "uid": "U07303",
+    "likely": "開始"
+   },
+   {
+    "uid": "U07305",
+    "likely": "始まった"
+   },
+   {
+    "uid": "U07322",
+    "likely": "念じて"
+   },
+   {
+    "uid": "U07337",
+    "likely": "失敗"
+   },
+   {
+    "uid": "U07340",
+    "likely": "重なる"
+   },
+   {
+    "uid": "U07341",
+    "likely": "残念"
+   },
+   {
+    "uid": "U07341",
+    "likely": "関係"
+   },
+   {
+    "uid": "U07346",
+    "likely": "関係"
+   },
+   {
+    "uid": "U07349",
+    "likely": "捕獲"
+   },
+   {
+    "uid": "U07350",
+    "likely": "ミイラ人間"
+   },
+   {
+    "uid": "U07350",
+    "likely": "兵士"
+   },
+   {
+    "uid": "U07351",
+    "likely": "怪獣"
+   },
+   {
+    "uid": "U07351",
+    "likely": "全て"
+   },
+   {
+    "uid": "U07358",
+    "likely": "墜落"
+   },
+   {
+    "uid": "U07358",
+    "likely": "管制塔"
+   },
+   {
+    "uid": "U07359",
+    "likely": "始め"
+   },
+   {
+    "uid": "U07360",
+    "likely": "大成功"
+   },
+   {
+    "uid": "U07369",
+    "likely": "奇襲"
+   },
+   {
+    "uid": "U07376",
+    "likely": "招いた"
+   },
+   {
+    "uid": "U07377",
+    "likely": "取り扱う"
+   }
+  ]
+ }
+}

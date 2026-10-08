@@ -1,0 +1,487 @@
+{
+ "batch": "B0138",
+ "prev": "B0137",
+ "next": "B0139",
+ "rows": [
+  {
+   "uid": "U10981",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U10982",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U10983",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U10984",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U10985",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U10986",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U10987",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U10988",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akira Shinmei"
+  },
+  {
+   "uid": "U10989",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenji Asuka"
+  },
+  {
+   "uid": "U10990",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U10991",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U10992",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U10993",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aorenger"
+  },
+  {
+   "uid": "U10994",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Midorenger"
+  },
+  {
+   "uid": "U10995",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U10996",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U10997",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U10998",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U10999",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U11000",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U11001",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akarenger"
+  },
+  {
+   "uid": "U11002",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U11003",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zolder Soldier"
+  },
+  {
+   "uid": "U11004",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11005",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U11006",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11007",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11008",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kirenger"
+  },
+  {
+   "uid": "U11009",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U11010",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U11011",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U11012",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Golden Mask Great General"
+  },
+  {
+   "uid": "U11013",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U11014",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Golden Mask Great General"
+  },
+  {
+   "uid": "U11015",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U11016",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U11017",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11018",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11019",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsuyoshi Kaijo"
+  },
+  {
+   "uid": "U11020",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenji Asuka"
+  },
+  {
+   "uid": "U11021",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daita Oiwa"
+  },
+  {
+   "uid": "U11022",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U11023",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11024",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11025",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11026",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11027",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask Party Member"
+  },
+  {
+   "uid": "U11028",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U11029",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Iron Mask Party Member"
+  },
+  {
+   "uid": "U11030",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U11031",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U11032",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U11033",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11034",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U11035",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11036",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U11037",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U11038",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U11039",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U11040",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U11041",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U11042",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U11043",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U11044",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U11045",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U11046",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11047",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U11048",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U11049",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11050",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11051",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U11052",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U11053",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U11054",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U11055",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U11056",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U11057",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U11058",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U11059",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U11060",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

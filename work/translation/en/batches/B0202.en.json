@@ -1,0 +1,487 @@
+{
+ "batch": "B0202",
+ "prev": "B0201",
+ "next": "B0203",
+ "rows": [
+  {
+   "uid": "U16104",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U16105",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U16106",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16107",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16108",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16109",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16110",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16111",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16112",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16113",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16114",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16115",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16116",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16117",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16118",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16119",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16120",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16121",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16122",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16123",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16124",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16125",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16126",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16127",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16128",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet Reverse"
+  },
+  {
+   "uid": "U16129",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16130",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16131",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet Reverse"
+  },
+  {
+   "uid": "U16132",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16133",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet Reverse"
+  },
+  {
+   "uid": "U16134",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16135",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16136",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16137",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Steel Emperor Zephas"
+  },
+  {
+   "uid": "U16138",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16139",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U16140",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16141",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U16142",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U16143",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16144",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16145",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zephas"
+  },
+  {
+   "uid": "U16146",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16147",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16148",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U16149",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U16150",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U16151",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16152",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U16153",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16154",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16155",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16156",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraseven"
+  },
+  {
+   "uid": "U16157",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16158",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16159",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zephas Core"
+  },
+  {
+   "uid": "U16160",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16161",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U16162",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16163",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet Reverse"
+  },
+  {
+   "uid": "U16164",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16165",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U16166",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet Reverse"
+  },
+  {
+   "uid": "U16167",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U16168",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16169",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U16170",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U16171",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16172",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U16173",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet Reverse"
+  },
+  {
+   "uid": "U16174",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U16175",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet Reverse"
+  },
+  {
+   "uid": "U16176",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U16177",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Satoru Hinata"
+  },
+  {
+   "uid": "U16178",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16179",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16180",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16181",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16182",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16183",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  }
+ ]
+}

@@ -1,0 +1,402 @@
+{
+ "batch": "B0260",
+ "rows": [
+  {
+   "uid": "U20782",
+   "en": "Robotics"
+  },
+  {
+   "uid": "U20783",
+   "en": "Photo.",
+   "note": "Shortened to fit the checker budget; preferred: Photochemistry"
+  },
+  {
+   "uid": "U20784",
+   "en": "M.Eng.",
+   "note": "Shortened to fit the checker budget; preferred: Mechanical Eng."
+  },
+  {
+   "uid": "U20785",
+   "en": "Dynamics",
+   "note": "Shortened to fit the checker budget; preferred: Control Dynamics"
+  },
+  {
+   "uid": "U20786",
+   "en": "Rocketry",
+   "note": "Shortened to fit the checker budget; preferred: Rocket Eng."
+  },
+  {
+   "uid": "U20787",
+   "en": "Func. Alloys",
+   "note": "Shortened to fit the checker budget; preferred: Functional Alloys"
+  },
+  {
+   "uid": "U20788",
+   "en": "Archa.",
+   "note": "Shortened to fit the checker budget; preferred: Archaeology"
+  },
+  {
+   "uid": "U20789",
+   "en": "C.Mech.",
+   "note": "Shortened to fit the checker budget; preferred: Computational Mech."
+  },
+  {
+   "uid": "U20790",
+   "en": "Space Bio.",
+   "note": "Shortened to fit the checker budget; preferred: Space Biology"
+  },
+  {
+   "uid": "U20791",
+   "en": "W.Engi.",
+   "note": "Shortened to fit the checker budget; preferred: Wave Engineering"
+  },
+  {
+   "uid": "U20792",
+   "en": "Electr.",
+   "note": "Shortened to fit the checker budget; preferred: Electronics"
+  },
+  {
+   "uid": "U20793",
+   "en": "Adv. Processing",
+   "note": "Shortened to fit the checker budget; preferred: Advanced Processing"
+  },
+  {
+   "uid": "U20794",
+   "en": "O.R.Chem.",
+   "note": "Shortened to fit the checker budget; preferred: Organic Reaction Chem."
+  },
+  {
+   "uid": "U20795",
+   "en": "Organ. Synth.",
+   "note": "Shortened to fit the checker budget; preferred: Organic Synthesis"
+  },
+  {
+   "uid": "U20796",
+   "en": "Geom.",
+   "note": "Shortened to fit the checker budget; preferred: Geometry"
+  },
+  {
+   "uid": "U20797",
+   "en": "A.Physics",
+   "note": "Shortened to fit the checker budget; preferred: Applied Physics"
+  },
+  {
+   "uid": "U20798",
+   "en": "Biofu. Chem.",
+   "note": "Shortened to fit the checker budget; preferred: Biofunctional Chem."
+  },
+  {
+   "uid": "U20799",
+   "en": "Make",
+   "note": "Shortened to fit the checker budget; preferred: Produce"
+  },
+  {
+   "uid": "U20800",
+   "en": "<c3>I.Prod.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>In Production</c>"
+  },
+  {
+   "uid": "U20801",
+   "en": "Make: Mecha",
+   "note": "Shortened to fit the checker budget; preferred: Produce: Support Mecha"
+  },
+  {
+   "uid": "U20802",
+   "en": "Make: Parts",
+   "note": "Shortened to fit the checker budget; preferred: Produce: Upgrade Parts"
+  },
+  {
+   "uid": "U20803",
+   "en": "Stop",
+   "note": "Shortened to fit the checker budget; preferred: Stop Production"
+  },
+  {
+   "uid": "U20804",
+   "en": "Stop production.",
+   "note": "Shortened to fit the checker budget; preferred: Production will be stopped."
+  },
+  {
+   "uid": "U20805",
+   "en": "Transf.",
+   "note": "Shortened to fit the checker budget; preferred: Transfer"
+  },
+  {
+   "uid": "U20806",
+   "en": "Turns",
+   "note": "Shortened to fit the checker budget; preferred: Turns needed"
+  },
+  {
+   "uid": "U20807",
+   "en": "developed.",
+   "note": "Shortened to fit the checker budget; preferred: was developed."
+  },
+  {
+   "uid": "U20808",
+   "en": "produced.",
+   "note": "Shortened to fit the checker budget; preferred: was produced."
+  },
+  {
+   "uid": "U20809",
+   "en": "Riv.",
+   "note": "Shortened to fit the checker budget; preferred: River"
+  },
+  {
+   "uid": "U20810",
+   "en": "Lake"
+  },
+  {
+   "uid": "U20811",
+   "en": "Sea"
+  },
+  {
+   "uid": "U20812",
+   "en": "Beach"
+  },
+  {
+   "uid": "U20813",
+   "en": "Shore"
+  },
+  {
+   "uid": "U20814",
+   "en": "Shoal",
+   "note": "Shortened to fit the checker budget; preferred: Shallows"
+  },
+  {
+   "uid": "U20815",
+   "en": "Space",
+   "note": "Shortened to fit the checker budget; preferred: Outer Space"
+  },
+  {
+   "uid": "U20816",
+   "en": "Rock",
+   "note": "Shortened to fit the checker budget; preferred: Meteor"
+  },
+  {
+   "uid": "U20817",
+   "en": "Castle",
+   "note": "Shortened to fit the checker budget; preferred: Genmu Castle"
+  },
+  {
+   "uid": "U20818",
+   "en": "Moon"
+  },
+  {
+   "uid": "U20819",
+   "en": "Eart.",
+   "note": "Shortened to fit the checker budget; preferred: Earth"
+  },
+  {
+   "uid": "U20820",
+   "en": "Reef",
+   "note": "Shortened to fit the checker budget; preferred: Asteroid Reef"
+  },
+  {
+   "uid": "U20821",
+   "en": "Plai.",
+   "note": "Shortened to fit the checker budget; preferred: Plains"
+  },
+  {
+   "uid": "U20822",
+   "en": "Snow",
+   "note": "Shortened to fit the checker budget; preferred: Snowfield"
+  },
+  {
+   "uid": "U20823",
+   "en": "Waste",
+   "note": "Shortened to fit the checker budget; preferred: Wasteland"
+  },
+  {
+   "uid": "U20824",
+   "en": "Road"
+  },
+  {
+   "uid": "U20825",
+   "en": "Sand"
+  },
+  {
+   "uid": "U20826",
+   "en": "Woods"
+  },
+  {
+   "uid": "U20827",
+   "en": "Forest"
+  },
+  {
+   "uid": "U20828",
+   "en": "Naager",
+   "note": "Shortened to fit the checker budget; preferred: Inside the Naager"
+  },
+  {
+   "uid": "U20829",
+   "en": "I.Base",
+   "note": "Shortened to fit the checker budget; preferred: Inside Base"
+  },
+  {
+   "uid": "U20830",
+   "en": "Rocks",
+   "note": "Shortened to fit the checker budget; preferred: Crag"
+  },
+  {
+   "uid": "U20831",
+   "en": "Brid.",
+   "note": "Shortened to fit the checker budget; preferred: Bridge"
+  },
+  {
+   "uid": "U20832",
+   "en": "Crev.",
+   "note": "Shortened to fit the checker budget; preferred: Crevasse"
+  },
+  {
+   "uid": "U20833",
+   "en": "Bldg",
+   "note": "Shortened to fit the checker budget; preferred: Building"
+  },
+  {
+   "uid": "U20834",
+   "en": "Ruins",
+   "note": "Shortened to fit the checker budget; preferred: Wreckage"
+  },
+  {
+   "uid": "U20835",
+   "en": "Tower",
+   "note": "Shortened to fit the checker budget; preferred: Skyscraper"
+  },
+  {
+   "uid": "U20836",
+   "en": "Sky"
+  },
+  {
+   "uid": "U20837",
+   "en": "Fush. Dime.",
+   "note": "Shortened to fit the checker budget; preferred: Fushigi Dimension"
+  },
+  {
+   "uid": "U20838",
+   "en": "Lab",
+   "note": "Shortened to fit the checker budget; preferred: Laboratory"
+  },
+  {
+   "uid": "U20839",
+   "en": "Factory"
+  },
+  {
+   "uid": "U20840",
+   "en": "Plant",
+   "note": "Shortened to fit the checker budget; preferred: Power Plant"
+  },
+  {
+   "uid": "U20841",
+   "en": "Door",
+   "note": "Shortened to fit the checker budget; preferred: Mystery Door"
+  },
+  {
+   "uid": "U20842",
+   "en": "<L/R>"
+  },
+  {
+   "uid": "U20843",
+   "en": "<c3>Stats</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Base Stats</c>"
+  },
+  {
+   "uid": "U20844",
+   "en": "<c3>Unit Stats</c>"
+  },
+  {
+   "uid": "U20845",
+   "en": "<c3>Funds</c>"
+  },
+  {
+   "uid": "U20846",
+   "en": "<c3>Mat.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Materials</c>"
+  },
+  {
+   "uid": "U20847",
+   "en": "<c3>Lv.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Level</c>"
+  },
+  {
+   "uid": "U20850",
+   "en": "<c3>Eva.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Evasion</c>"
+  },
+  {
+   "uid": "U20851",
+   "en": "<c3>Acc.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Accuracy</c>"
+  },
+  {
+   "uid": "U20852",
+   "en": "<c3>Move</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Movement</c>"
+  },
+  {
+   "uid": "U20853",
+   "en": "<c3>Mob.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Mobility</c>"
+  },
+  {
+   "uid": "U20854",
+   "en": "<c3>Armor</c>"
+  },
+  {
+   "uid": "U20855",
+   "en": "<c3>Terr.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Terrain</c>"
+  },
+  {
+   "uid": "U20856",
+   "en": "L"
+  },
+  {
+   "uid": "U20857",
+   "en": "S"
+  },
+  {
+   "uid": "U20858",
+   "en": "K"
+  },
+  {
+   "uid": "U20859",
+   "en": "G"
+  },
+  {
+   "uid": "U20860",
+   "en": "F"
+  },
+  {
+   "uid": "U20865",
+   "en": "Intermission"
+  },
+  {
+   "uid": "U20866",
+   "en": "M.Card",
+   "note": "Shortened to fit the checker budget; preferred: Memory Card"
+  },
+  {
+   "uid": "U20867",
+   "en": "Abilities",
+   "note": "Shortened to fit the checker budget; preferred: Scientist Abilities"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U20782-U20798: scientists' fields of expertise; long ones abbreviated (Eng. = Engineering, Chem. = Chemistry)",
+   "U20809-U20841: terrain names; one-kanji terrains have a 12px budget, so many single English words still exceed the checker limit",
+   "U20856-U20860: one-letter terrain-type codes 陸/宇/魔/幻/不 rendered L (Land), S (Space), K (Kaima World), G (Genmu World), F (Fushigi World) - guessed from context",
+   "U20807/U20808: suffixes after an item name ('[item] was developed.')",
+   "U20813: 岸迅 read as 岸辺 'Shore'"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": [
+   {
+    "uid": "U20813",
+    "likely": "岸辺"
+   }
+  ]
+ }
+}

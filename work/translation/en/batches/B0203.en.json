@@ -1,0 +1,487 @@
+{
+ "batch": "B0203",
+ "prev": "B0202",
+ "next": "B0204",
+ "rows": [
+  {
+   "uid": "U16184",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16185",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16186",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16188",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16189",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16190",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16191",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16192",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16193",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16194",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16195",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16196",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16197",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16198",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16199",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16200",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16201",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16202",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16203",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16204",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16205",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16206",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U16207",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16208",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16209",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16210",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16211",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16212",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16213",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16215",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16216",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16217",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16218",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16219",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16220",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16221",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16222",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16223",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16224",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16225",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16226",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U16227",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16228",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16229",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16230",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16231",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16232",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16233",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16234",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16235",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16236",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16237",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16238",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16239",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16240",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16241",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16242",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16243",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16244",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16245",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16246",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16247",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16248",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U16249",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16250",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16251",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16252",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16253",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16254",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16255",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16256",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U16257",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U16258",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U16259",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U16260",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U16261",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U16262",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U16263",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U16264",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U16265",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Velvet"
+  }
+ ]
+}

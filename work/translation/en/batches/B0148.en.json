@@ -1,0 +1,487 @@
+{
+ "batch": "B0148",
+ "prev": "B0147",
+ "next": "B0149",
+ "rows": [
+  {
+   "uid": "U11781",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11782",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11783",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11784",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U11785",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U11786",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11787",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U11788",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U11789",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U11790",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U11791",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U11792",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11793",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U11794",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U11795",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11796",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U11797",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U11798",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U11799",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11800",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U11801",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U11802",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U11803",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U11804",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U11805",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U11806",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U11807",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U11808",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U11809",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U11810",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U11811",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U11812",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U11813",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U11814",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U11815",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Golden Wolf"
+  },
+  {
+   "uid": "U11816",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U11817",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ika-Devil"
+  },
+  {
+   "uid": "U11818",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U11819",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U11820",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U11821",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U11822",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U11823",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Garagaranda"
+  },
+  {
+   "uid": "U11824",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U11825",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiru-Chameleon"
+  },
+  {
+   "uid": "U11826",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U11827",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U11828",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Golden Wolf"
+  },
+  {
+   "uid": "U11829",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ika-Devil"
+  },
+  {
+   "uid": "U11830",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Garagaranda"
+  },
+  {
+   "uid": "U11831",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiru-Chameleon"
+  },
+  {
+   "uid": "U11832",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11833",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U11834",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11835",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U11836",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Creation King"
+  },
+  {
+   "uid": "U11837",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11838",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Creation King"
+  },
+  {
+   "uid": "U11839",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11840",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Creation King"
+  },
+  {
+   "uid": "U11841",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11842",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11843",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Creation King"
+  },
+  {
+   "uid": "U11844",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11845",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Creation King"
+  },
+  {
+   "uid": "U11846",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11847",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Creation King"
+  },
+  {
+   "uid": "U11848",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11849",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U11850",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U11851",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U11852",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11853",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11854",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U11855",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U11856",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U11857",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U11858",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U11859",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U11860",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  }
+ ]
+}

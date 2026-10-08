@@ -1,0 +1,487 @@
+{
+ "batch": "B0052",
+ "prev": "B0051",
+ "next": "B0053",
+ "rows": [
+  {
+   "uid": "U04092",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shinobu Watari"
+  },
+  {
+   "uid": "U04093",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U04094",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04095",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04096",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04097",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U04098",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04099",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04100",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04101",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04102",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shinobu Watari"
+  },
+  {
+   "uid": "U04103",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04104",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shinobu Watari"
+  },
+  {
+   "uid": "U04105",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04106",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04107",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04108",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04109",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04110",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04111",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shinobu Watari"
+  },
+  {
+   "uid": "U04112",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04113",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04114",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04115",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U04116",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04117",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U04118",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04119",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U04120",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U04121",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04122",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04123",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U04124",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04125",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U04126",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04127",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U04128",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04129",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U04130",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04132",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04133",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U04134",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04135",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U04136",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04137",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U04138",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04139",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U04140",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04141",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U04142",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04143",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U04144",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Velvet"
+  },
+  {
+   "uid": "U04145",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04146",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U04147",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04148",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04149",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shinobu Watari"
+  },
+  {
+   "uid": "U04150",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04151",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shinobu Watari"
+  },
+  {
+   "uid": "U04152",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04153",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04154",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U04155",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04156",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U04157",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04158",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shinobu Watari"
+  },
+  {
+   "uid": "U04159",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04160",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04161",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shinobu Watari"
+  },
+  {
+   "uid": "U04162",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04163",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U04164",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U04165",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U04166",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Gill"
+  },
+  {
+   "uid": "U04167",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U04168",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04169",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04170",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U04171",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U04172",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

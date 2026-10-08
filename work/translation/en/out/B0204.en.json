@@ -1,0 +1,336 @@
+{
+ "batch": "B0204",
+ "rows": [
+  {
+   "uid": "U16266",
+   "en": "Don't dodge!"
+  },
+  {
+   "uid": "U16267",
+   "en": "Please! Just hit…!"
+  },
+  {
+   "uid": "U16268",
+   "en": "It's Velsaucer!"
+  },
+  {
+   "uid": "U16269",
+   "en": "Vol… lend me your power…!"
+  },
+  {
+   "uid": "U16270",
+   "en": "Velvet Circle!"
+  },
+  {
+   "uid": "U16271",
+   "en": "I'm fine!"
+  },
+  {
+   "uid": "U16272",
+   "en": "Emergency evasion!"
+  },
+  {
+   "uid": "U16273",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16274",
+   "en": "I've been hit!?"
+  },
+  {
+   "uid": "U16275",
+   "en": "The aircraft won't hold!?"
+  },
+  {
+   "uid": "U16276",
+   "en": "It's no good! Ejecting!!"
+  },
+  {
+   "uid": "U16277",
+   "en": "How about this!"
+  },
+  {
+   "uid": "U16278",
+   "en": "Emergency barrier deployment!!"
+  },
+  {
+   "uid": "U16279",
+   "en": "Fire!"
+  },
+  {
+   "uid": "U16280",
+   "en": "How about this!"
+  },
+  {
+   "uid": "U16281",
+   "en": "Target confirmed! Fire!!"
+  },
+  {
+   "uid": "U16282",
+   "en": "Did you really call that an attack?"
+  },
+  {
+   "uid": "U16283",
+   "en": "Whew, that was close!"
+  },
+  {
+   "uid": "U16284",
+   "en": "That was nothing."
+  },
+  {
+   "uid": "U16285",
+   "en": "Hey! That hurt!"
+  },
+  {
+   "uid": "U16286",
+   "en": "At this rate, I'm going to be shot down!"
+  },
+  {
+   "uid": "U16287",
+   "en": "I guess my luck ran out…"
+  },
+  {
+   "uid": "U16288",
+   "en": "How about this, then?"
+  },
+  {
+   "uid": "U16289",
+   "en": "Emergency barrier deployment!!"
+  },
+  {
+   "uid": "U16290",
+   "en": "…!"
+  },
+  {
+   "uid": "U16291",
+   "en": "Fire!"
+  },
+  {
+   "uid": "U16292",
+   "en": "Target confirmed! Fire!!"
+  },
+  {
+   "uid": "U16293",
+   "en": "No problem! I've got this!"
+  },
+  {
+   "uid": "U16294",
+   "en": "Whoa! That was close…!"
+  },
+  {
+   "uid": "U16295",
+   "en": "This is nothing! I'm not done yet…"
+  },
+  {
+   "uid": "U16296",
+   "en": "The enemy's pretty good, huh?"
+  },
+  {
+   "uid": "U16297",
+   "en": "At this rate, it'll interfere with the mission."
+  },
+  {
+   "uid": "U16298",
+   "en": "Is this the end!? Ejecting!!"
+  },
+  {
+   "uid": "U16299",
+   "en": "Eat this!"
+  },
+  {
+   "uid": "U16300",
+   "en": "Emergency barrier deployment!!"
+  },
+  {
+   "uid": "U16301",
+   "en": "…!"
+  },
+  {
+   "uid": "U16302",
+   "en": "Drop dead!"
+  },
+  {
+   "uid": "U16303",
+   "en": "Target locked! Fire!!"
+  },
+  {
+   "uid": "U16304",
+   "en": "Easy."
+  },
+  {
+   "uid": "U16305",
+   "en": "Whoa, that was close… Gotta be careful!"
+  },
+  {
+   "uid": "U16306",
+   "en": "It'll take more than this to shoot me down."
+  },
+  {
+   "uid": "U16307",
+   "en": "Checking damage status… I can still fight."
+  },
+  {
+   "uid": "U16308",
+   "en": "Hang in there, machine!"
+  },
+  {
+   "uid": "U16309",
+   "en": "I'm hit! Ejecting!"
+  },
+  {
+   "uid": "U16310",
+   "en": "Take this!"
+  },
+  {
+   "uid": "U16311",
+   "en": "Emergency barrier deployment!!"
+  },
+  {
+   "uid": "U16312",
+   "en": "…!"
+  },
+  {
+   "uid": "U16313",
+   "en": "Target confirmed, fire!!"
+  },
+  {
+   "uid": "U16314",
+   "en": "Give it up already!!"
+  },
+  {
+   "uid": "U16315",
+   "en": "All right!!"
+  },
+  {
+   "uid": "U16316",
+   "en": "Did I manage to dodge it!?"
+  },
+  {
+   "uid": "U16317",
+   "en": "I can still keep going!"
+  },
+  {
+   "uid": "U16318",
+   "en": "Hit!? I can still fight with this much!"
+  },
+  {
+   "uid": "U16319",
+   "en": "Ugh! Am I at my limit already!?"
+  },
+  {
+   "uid": "U16320",
+   "en": "Has my luck run out!?"
+  },
+  {
+   "uid": "U16321",
+   "en": "I'll finish this for sure!"
+  },
+  {
+   "uid": "U16322",
+   "en": "Get out of my sight!"
+  },
+  {
+   "uid": "U16323",
+   "en": "Emergency barrier deployment!!"
+  },
+  {
+   "uid": "U16324",
+   "en": "…!"
+  },
+  {
+   "uid": "U16325",
+   "en": "Target confirmed! Fire!!"
+  },
+  {
+   "uid": "U16326",
+   "en": "I'm okay!"
+  },
+  {
+   "uid": "U16327",
+   "en": "…It didn't hit?!"
+  },
+  {
+   "uid": "U16328",
+   "en": "An attack like this won't shoot me down."
+  },
+  {
+   "uid": "U16329",
+   "en": "Ngh! I've been hit."
+  },
+  {
+   "uid": "U16330",
+   "en": "If the aircraft holds out, I can still fight!"
+  },
+  {
+   "uid": "U16331",
+   "en": "It's no good! Ejecting!!"
+  },
+  {
+   "uid": "U16332",
+   "en": "How about this!"
+  },
+  {
+   "uid": "U16333",
+   "en": "Emergency barrier deployment!!"
+  },
+  {
+   "uid": "U16334",
+   "en": "…!"
+  },
+  {
+   "uid": "U16335",
+   "en": "Target confirmed, fire!"
+  },
+  {
+   "uid": "U16336",
+   "en": "Fire!!"
+  },
+  {
+   "uid": "U16337",
+   "en": "No damage to the aircraft."
+  },
+  {
+   "uid": "U16338",
+   "en": "Emergency evasion!"
+  },
+  {
+   "uid": "U16339",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16340",
+   "en": "I've been hit!?"
+  },
+  {
+   "uid": "U16341",
+   "en": "Will the aircraft hold!?"
+  },
+  {
+   "uid": "U16342",
+   "en": "Is this it! Ejecting!!"
+  },
+  {
+   "uid": "U16343",
+   "en": "Target confirmed!"
+  },
+  {
+   "uid": "U16344",
+   "en": "Emergency barrier deployment!!"
+  },
+  {
+   "uid": "U16345",
+   "en": "…!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U16277: no speaker on this quote row (defense officer generic set); translated as is",
+   "U16270: ヴェルヴェット、サークル rendered 'Velvet Circle!' (attack name not in glossary as written)"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": []
+ }
+}

@@ -1,0 +1,404 @@
+{
+ "batch": "B0261",
+ "rows": [
+  {
+   "uid": "U20868",
+   "en": "Upgrade",
+   "note": "Shortened to fit the checker budget; preferred: Unit Upgrade"
+  },
+  {
+   "uid": "U20869",
+   "en": "Weapon Upgrade",
+   "note": "Shortened to fit the checker budget; preferred: Weapon/Attack Upgrade"
+  },
+  {
+   "uid": "U20870",
+   "en": "Unit Stats"
+  },
+  {
+   "uid": "U20871",
+   "en": "Stats",
+   "note": "Shortened to fit the checker budget; preferred: Base Stats"
+  },
+  {
+   "uid": "U20872",
+   "en": "Continued",
+   "note": "Shortened to fit the checker budget; preferred: To Be Continued"
+  },
+  {
+   "uid": "U20873",
+   "en": "<c3>Turns</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Total Turns</c>"
+  },
+  {
+   "uid": "U20874",
+   "en": "Restores unit's HP, EN, ammo.",
+   "note": "Shortened to fit the checker budget; preferred: Restores the unit's HP, EN and ammo."
+  },
+  {
+   "uid": "U20875",
+   "en": "To repair this unit,"
+  },
+  {
+   "uid": "U20876",
+   "en": "O: OK",
+   "note": "Shortened to fit the checker budget; preferred: O: Confirm"
+  },
+  {
+   "uid": "U20877",
+   "en": "X: Exit"
+  },
+  {
+   "uid": "U20878",
+   "en": "This combination OK?",
+   "note": "Shortened to fit the checker budget; preferred: Is this combination OK?"
+  },
+  {
+   "uid": "U20880",
+   "en": "<c3>Equipped</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Equipped Parts</c>"
+  },
+  {
+   "uid": "U20881",
+   "en": "Select Part",
+   "note": "Shortened to fit the checker budget; preferred: Select Upgrade Part"
+  },
+  {
+   "uid": "U20882",
+   "en": "Remove"
+  },
+  {
+   "uid": "U20883",
+   "en": "Equip"
+  },
+  {
+   "uid": "U20884",
+   "en": "Equip (Own)",
+   "note": "Shortened to fit the checker budget; preferred: Equip (Owned)"
+  },
+  {
+   "uid": "U20885",
+   "en": "Upgrade which stat?",
+   "note": "Shortened to fit the checker budget; preferred: Which stat will you upgrade?"
+  },
+  {
+   "uid": "U20886",
+   "en": "<c3>(Max</c>  <c3>levels)</c>"
+  },
+  {
+   "uid": "U20887",
+   "en": "<c3>Funds</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Funds needed</c>"
+  },
+  {
+   "uid": "U20888",
+   "en": "<c3>Materials</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Materials needed</c>"
+  },
+  {
+   "uid": "U20889",
+   "en": "<c3>Weapon name",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Weapon/Attack name"
+  },
+  {
+   "uid": "U20890",
+   "en": "<c3>Attack</c>"
+  },
+  {
+   "uid": "U20891",
+   "en": "<c3>Rng</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Range</c>"
+  },
+  {
+   "uid": "U20892",
+   "en": "<c3>Ammo</c>"
+  },
+  {
+   "uid": "U20893",
+   "en": "<c3>Critical bonus</c>"
+  },
+  {
+   "uid": "U20894",
+   "en": "<c3>Morale</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Morale needed</c>"
+  },
+  {
+   "uid": "U20895",
+   "en": "<c3>EN cost</c>"
+  },
+  {
+   "uid": "U20900",
+   "en": "Sakomizu[VAR5]Takuma[VAR5][VAR5]Saki[VAR5]Kano[VAR5]Eiji[VAR5]Hinata[VAR5]Ran[VAR5]Counterattack"
+  },
+  {
+   "uid": "U20901",
+   "en": "Wpn",
+   "note": "Shortened to fit the checker budget; preferred: Weapon"
+  },
+  {
+   "uid": "U20902",
+   "en": "Eva.",
+   "note": "Shortened to fit the checker budget; preferred: Evade"
+  },
+  {
+   "uid": "U20903",
+   "en": "No ctr.",
+   "note": "Shortened to fit the checker budget; preferred: Cannot counter"
+  },
+  {
+   "uid": "U20904",
+   "en": "Effects"
+  },
+  {
+   "uid": "U20905",
+   "en": "O: Normal",
+   "note": "Shortened to fit the checker budget; preferred: O Button: Normal"
+  },
+  {
+   "uid": "U20906",
+   "en": "Sq.: Simple",
+   "note": "Shortened to fit the checker budget; preferred: □ Button: Simple"
+  },
+  {
+   "uid": "U20907",
+   "en": "<c3>Victory</c>"
+  },
+  {
+   "uid": "U20908",
+   "en": "<c3>Defeat</c>"
+  },
+  {
+   "uid": "U20909",
+   "en": "will pilot it."
+  },
+  {
+   "uid": "U20910",
+   "en": "Move"
+  },
+  {
+   "uid": "U20911",
+   "en": "Atk",
+   "note": "Shortened to fit the checker budget; preferred: Attack"
+  },
+  {
+   "uid": "U20912",
+   "en": "Wait"
+  },
+  {
+   "uid": "U20913",
+   "en": "Team",
+   "note": "Shortened to fit the checker budget; preferred: Combo Attack"
+  },
+  {
+   "uid": "U20914",
+   "en": "Morph",
+   "note": "Shortened to fit the checker budget; preferred: Transform"
+  },
+  {
+   "uid": "U20915",
+   "en": "Gnd",
+   "note": "Shortened to fit the checker budget; preferred: Ground"
+  },
+  {
+   "uid": "U20916",
+   "en": "Air"
+  },
+  {
+   "uid": "U20917",
+   "en": "Undgr",
+   "note": "Shortened to fit the checker budget; preferred: Underground"
+  },
+  {
+   "uid": "U20918",
+   "en": "Water",
+   "note": "Shortened to fit the checker budget; preferred: Underwater"
+  },
+  {
+   "uid": "U20919",
+   "en": "Split",
+   "note": "Shortened to fit the checker budget; preferred: Separate"
+  },
+  {
+   "uid": "U20920",
+   "en": "Join",
+   "note": "Shortened to fit the checker budget; preferred: Combine"
+  },
+  {
+   "uid": "U20921",
+   "en": "Exit",
+   "note": "Shortened to fit the checker budget; preferred: Leave Vehicle"
+  },
+  {
+   "uid": "U20922",
+   "en": "Load",
+   "note": "Shortened to fit the checker budget; preferred: Board"
+  },
+  {
+   "uid": "U20923",
+   "en": "Launch"
+  },
+  {
+   "uid": "U20924",
+   "en": "Rep.",
+   "note": "Shortened to fit the checker budget; preferred: Repair"
+  },
+  {
+   "uid": "U20925",
+   "en": "Chrg",
+   "note": "Shortened to fit the checker budget; preferred: Charge"
+  },
+  {
+   "uid": "U20926",
+   "en": "Upgrade it. Is that OK?"
+  },
+  {
+   "uid": "U20927",
+   "en": "Drop",
+   "note": "Shortened to fit the checker budget; preferred: Unload"
+  },
+  {
+   "uid": "U20928",
+   "en": "Select Units",
+   "note": "Shortened to fit the checker budget; preferred: Select Sortie Units"
+  },
+  {
+   "uid": "U20929",
+   "en": "<c3>Left:  </c>"
+  },
+  {
+   "uid": "U20930",
+   "en": "Map",
+   "note": "Shortened to fit the checker budget; preferred: Check Map"
+  },
+  {
+   "uid": "U20931",
+   "en": "Sortie",
+   "note": "Shortened to fit the checker budget; preferred: Confirm Sortie"
+  },
+  {
+   "uid": "U20932",
+   "en": "Select units to sortie.",
+   "note": "Shortened to fit the checker budget; preferred: Please select units to sortie."
+  },
+  {
+   "uid": "U20933",
+   "en": "Is this all right?"
+  },
+  {
+   "uid": "U20934",
+   "en": "Weapons",
+   "note": "Shortened to fit the checker budget; preferred: Weapons/Attacks"
+  },
+  {
+   "uid": "U20935",
+   "en": "<c3>Size</c>"
+  },
+  {
+   "uid": "U20937",
+   "en": "<c3>Morale</c>"
+  },
+  {
+   "uid": "U20938",
+   "en": "<c3>Trai.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Traits</c>"
+  },
+  {
+   "uid": "U20939",
+   "en": "<c3>Type</c>"
+  },
+  {
+   "uid": "U20940",
+   "en": "<c3>Parts</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Upgrade Parts</c>"
+  },
+  {
+   "uid": "U20941",
+   "en": "<c3>Grow</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Growth Type</c>"
+  },
+  {
+   "uid": "U20942",
+   "en": "{man}Grow {sword}Grow",
+   "note": "Shortened to fit the checker budget; preferred: {man}Growth {sword}Growth"
+  },
+  {
+   "uid": "U20943",
+   "en": "{man}Grow {sword}Upg.",
+   "note": "Shortened to fit the checker budget; preferred: {man}Growth {sword}Upgrade"
+  },
+  {
+   "uid": "U20944",
+   "en": "{man}Upg. {sword}Grow",
+   "note": "Shortened to fit the checker budget; preferred: {man}Upgrade {sword}Growth"
+  },
+  {
+   "uid": "U20945",
+   "en": "{man}Upg. {sword}Upg.",
+   "note": "Shortened to fit the checker budget; preferred: {man}Upgrade {sword}Upgrade"
+  },
+  {
+   "uid": "U20946",
+   "en": "HP/EN Rep.",
+   "note": "Shortened to fit the checker budget; preferred: HP/EN Repair"
+  },
+  {
+   "uid": "U20947",
+   "en": "Barrier",
+   "note": "Shortened to fit the checker budget; preferred: Barrier Device"
+  },
+  {
+   "uid": "U20948",
+   "en": "Morale+",
+   "note": "Shortened to fit the checker budget; preferred: Morale Boost"
+  },
+  {
+   "uid": "U20949",
+   "en": "HP Rep.",
+   "note": "Shortened to fit the checker budget; preferred: HP Repair"
+  },
+  {
+   "uid": "U20950",
+   "en": "Reload",
+   "note": "Shortened to fit the checker budget; preferred: Reload Ammo"
+  },
+  {
+   "uid": "U20951",
+   "en": "Move +1",
+   "note": "Shortened to fit the checker budget; preferred: Movement +1"
+  },
+  {
+   "uid": "U20952",
+   "en": "Rng+1",
+   "note": "Shortened to fit the checker budget; preferred: Range +1"
+  },
+  {
+   "uid": "U20953",
+   "en": "Armor +5"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U20900: default hero/heroine name data (Sakomizu Takuma, Saki; Kano Eiji, Hinata Ran) separated by [VAR5]; romanized, and 叶 read as Kano; the 7 [VAR5] placeholders alone exceed the checker budget, so this row cannot pass",
+   "U20906: □ (Square button) is not in the font; written as Square/Sq.",
+   "U20886: two colored fragments around a number ('(Max N levels)'); double space kept",
+   "U20909: suffix after a name ('[name] will pilot it.')",
+   "U20938: 特徹 read as 特徴 'Traits'",
+   "U20942-U20945: {man}/{sword} growth-type labels: 成長 'Growth', 改良 'Upgrade'"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Takuma/Saki Sakomizu, Eiji Kano/Ran Hinata",
+    "why": "default hero names, not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U20938",
+    "likely": "特徴"
+   }
+  ]
+ }
+}

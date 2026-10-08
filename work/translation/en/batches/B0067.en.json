@@ -1,0 +1,487 @@
+{
+ "batch": "B0067",
+ "prev": "B0066",
+ "next": "B0068",
+ "rows": [
+  {
+   "uid": "U05293",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05294",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U05295",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05296",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Scissors Jaguar"
+  },
+  {
+   "uid": "U05297",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Scissors Jaguar"
+  },
+  {
+   "uid": "U05298",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "TV-Fly"
+  },
+  {
+   "uid": "U05299",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "TV-Fly"
+  },
+  {
+   "uid": "U05300",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05301",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U05302",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05303",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U05304",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05305",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05306",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05307",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05308",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05309",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05310",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05311",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05312",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05313",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05314",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05315",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05316",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U05317",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05318",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05319",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05320",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U05321",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05322",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05323",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05324",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05325",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05326",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05327",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05328",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05329",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05330",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05331",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05332",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05333",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05334",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05335",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U05336",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05337",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U05338",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05339",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U05340",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05341",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U05342",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05343",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U05344",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05345",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05346",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Cyborg Warrior"
+  },
+  {
+   "uid": "U05347",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05348",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Cyborg Warrior"
+  },
+  {
+   "uid": "U05349",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05350",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Cyborg Warrior"
+  },
+  {
+   "uid": "U05351",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05352",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05353",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05354",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U05355",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Cyborg Warrior"
+  },
+  {
+   "uid": "U05356",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05357",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U05358",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05359",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Cyborg Warrior"
+  },
+  {
+   "uid": "U05360",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05361",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Cyborg Warrior"
+  },
+  {
+   "uid": "U05362",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05363",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05364",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05365",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05366",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05367",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05368",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05369",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05370",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05371",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Emperor Banba"
+  },
+  {
+   "uid": "U05372",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0170",
+ "prev": "B0169",
+ "next": "B0171",
+ "rows": [
+  {
+   "uid": "U13541",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U13542",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13543",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Jark"
+  },
+  {
+   "uid": "U13544",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Jark"
+  },
+  {
+   "uid": "U13545",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "His Majesty's Inspector"
+  },
+  {
+   "uid": "U13546",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Jark"
+  },
+  {
+   "uid": "U13547",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Dasmader"
+  },
+  {
+   "uid": "U13548",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Jark"
+  },
+  {
+   "uid": "U13549",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Dasmader"
+  },
+  {
+   "uid": "U13550",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13551",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Dasmader"
+  },
+  {
+   "uid": "U13552",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Jark"
+  },
+  {
+   "uid": "U13553",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Dasmader"
+  },
+  {
+   "uid": "U13554",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U13555",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13556",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13557",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13558",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13559",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13560",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13561",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13562",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13563",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13564",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13565",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13566",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13567",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13568",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13569",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13570",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13571",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U13572",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13573",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U13574",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U13575",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13576",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13577",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13578",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13579",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13580",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U13581",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U13582",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13583",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13584",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13585",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13586",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13587",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U13588",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13589",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13590",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13591",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13592",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13593",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13594",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK RX"
+  },
+  {
+   "uid": "U13595",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robo Rider"
+  },
+  {
+   "uid": "U13596",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13597",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U13598",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13599",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U13600",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dai Sawamura"
+  },
+  {
+   "uid": "U13601",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U13602",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13603",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U13604",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13605",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13606",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13607",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13608",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13609",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bio Rider"
+  },
+  {
+   "uid": "U13610",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Strongest Kaima Beastman Granzairus"
+  },
+  {
+   "uid": "U13611",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U13612",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Dasmader"
+  },
+  {
+   "uid": "U13613",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Jark"
+  },
+  {
+   "uid": "U13614",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Dasmader"
+  },
+  {
+   "uid": "U13615",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Jark"
+  },
+  {
+   "uid": "U13616",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13617",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Dasmader"
+  },
+  {
+   "uid": "U13618",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U13619",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U13620",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

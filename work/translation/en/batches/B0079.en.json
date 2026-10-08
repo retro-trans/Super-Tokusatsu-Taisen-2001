@@ -1,0 +1,487 @@
+{
+ "batch": "B0079",
+ "prev": "B0078",
+ "next": "B0080",
+ "rows": [
+  {
+   "uid": "U06257",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06258",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06259",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06260",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06261",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06262",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06263",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06264",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06265",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06266",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06267",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06268",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06269",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06270",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06271",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06272",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06273",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06274",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06275",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06276",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06277",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06278",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06279",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06280",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06281",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06282",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06283",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06284",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06285",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06286",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06287",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06288",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06289",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06290",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06291",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06292",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06293",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "No. 8001"
+  },
+  {
+   "uid": "U06294",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06295",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06296",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06297",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06298",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06299",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06300",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06301",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06302",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06303",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06304",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06305",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06306",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U06307",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U06308",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fuhrer Geisel"
+  },
+  {
+   "uid": "U06309",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06310",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06311",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Makoto Arai"
+  },
+  {
+   "uid": "U06312",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Goro Watari"
+  },
+  {
+   "uid": "U06313",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sanagiman"
+  },
+  {
+   "uid": "U06314",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06315",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06316",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06317",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06318",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U06319",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U06320",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U06321",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U06322",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U06323",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U06324",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U06325",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U06326",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Iwamoto"
+  },
+  {
+   "uid": "U06327",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U06328",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U06329",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U06330",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U06331",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U06332",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Muramatsu"
+  },
+  {
+   "uid": "U06333",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Akiko Fuji"
+  },
+  {
+   "uid": "U06334",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  },
+  {
+   "uid": "U06335",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ide"
+  },
+  {
+   "uid": "U06336",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Arashi"
+  }
+ ]
+}

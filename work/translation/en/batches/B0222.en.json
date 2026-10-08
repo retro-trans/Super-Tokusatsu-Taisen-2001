@@ -1,0 +1,487 @@
+{
+ "batch": "B0222",
+ "prev": "B0221",
+ "next": "B0223",
+ "rows": [
+  {
+   "uid": "U17706",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Diamond Mask"
+  },
+  {
+   "uid": "U17707",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Diamond Mask"
+  },
+  {
+   "uid": "U17708",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Diamond Mask"
+  },
+  {
+   "uid": "U17709",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Diamond Mask"
+  },
+  {
+   "uid": "U17710",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Diamond Mask"
+  },
+  {
+   "uid": "U17711",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Diamond Mask"
+  },
+  {
+   "uid": "U17712",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Diamond Mask"
+  },
+  {
+   "uid": "U17713",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Diamond Mask"
+  },
+  {
+   "uid": "U17714",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Diamond Mask"
+  },
+  {
+   "uid": "U17715",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17716",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17717",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17718",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17719",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17720",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17721",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17722",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17723",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17724",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17725",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17726",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Iron Mask General Temujin"
+  },
+  {
+   "uid": "U17727",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U17728",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U17729",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U17730",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U17731",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U17732",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U17733",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U17734",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U17735",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U17736",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U17737",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U17738",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U17739",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U17740",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U17741",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U17742",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U17743",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U17744",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U17745",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Black Cross Fuhrer"
+  },
+  {
+   "uid": "U17746",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U17747",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U17748",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U17749",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U17750",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U17751",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U17752",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U17753",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U17754",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U17755",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder (Shadow)"
+  },
+  {
+   "uid": "U17756",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U17757",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U17758",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U17759",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U17760",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U17761",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U17762",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U17763",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U17764",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U17765",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U17766",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U17767",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U17768",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gigant 2"
+  },
+  {
+   "uid": "U17769",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gigant 2"
+  },
+  {
+   "uid": "U17770",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gigant 2"
+  },
+  {
+   "uid": "U17771",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gigant 2"
+  },
+  {
+   "uid": "U17772",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gigant 2"
+  },
+  {
+   "uid": "U17773",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17774",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17775",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17776",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17777",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17778",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17779",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17780",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17781",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17782",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17783",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17784",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U17785",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  }
+ ]
+}

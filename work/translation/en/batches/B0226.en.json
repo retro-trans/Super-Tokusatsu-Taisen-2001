@@ -1,0 +1,487 @@
+{
+ "batch": "B0226",
+ "prev": "B0225",
+ "next": "B0227",
+ "rows": [
+  {
+   "uid": "U18026",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red-Face Turtle"
+  },
+  {
+   "uid": "U18027",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red-Face Turtle"
+  },
+  {
+   "uid": "U18028",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red-Face Turtle"
+  },
+  {
+   "uid": "U18029",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Red-Face Turtle"
+  },
+  {
+   "uid": "U18030",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hell Kappa"
+  },
+  {
+   "uid": "U18031",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hell Kappa"
+  },
+  {
+   "uid": "U18032",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hell Kappa"
+  },
+  {
+   "uid": "U18033",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hell Kappa"
+  },
+  {
+   "uid": "U18034",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hell Kappa"
+  },
+  {
+   "uid": "U18035",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hell Kappa"
+  },
+  {
+   "uid": "U18036",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hell Kappa"
+  },
+  {
+   "uid": "U18037",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hell Kappa"
+  },
+  {
+   "uid": "U18038",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hell Kappa"
+  },
+  {
+   "uid": "U18039",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U18040",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U18041",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U18042",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U18043",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U18044",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U18045",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U18046",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U18047",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U18048",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U18049",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U18050",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U18051",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U18052",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U18053",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U18054",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U18055",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U18056",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U18057",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U18058",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U18059",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U18060",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U18061",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U18062",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U18063",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U18064",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U18065",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Knight"
+  },
+  {
+   "uid": "U18066",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18067",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18068",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18069",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18070",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18071",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18072",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18073",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18074",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18075",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18076",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18077",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18078",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U18079",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U18080",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U18081",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U18082",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U18083",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U18084",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U18085",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U18086",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U18087",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U18088",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U18089",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U18090",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U18091",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U18092",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U18093",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U18094",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U18095",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U18096",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U18097",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U18098",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Phantom Soldier"
+  },
+  {
+   "uid": "U18099",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U18100",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U18101",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U18102",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U18103",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U18104",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U18105",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Desper Soldier"
+  }
+ ]
+}

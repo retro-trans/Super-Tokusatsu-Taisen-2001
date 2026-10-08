@@ -1,0 +1,408 @@
+{
+ "batch": "B0258",
+ "rows": [
+  {
+   "uid": "U20614",
+   "en": "Genm.",
+   "note": "Shortened to fit the checker budget; preferred: Genmu World"
+  },
+  {
+   "uid": "U20615",
+   "en": "F.World",
+   "note": "Shortened to fit the checker budget; preferred: Fushigi World"
+  },
+  {
+   "uid": "U20616",
+   "en": "Change whose name?"
+  },
+  {
+   "uid": "U20618",
+   "en": "Checking the Memory Card."
+  },
+  {
+   "uid": "U20619",
+   "en": "Don't remove controller or Memory Card.",
+   "note": "Shortened to fit the checker budget; preferred: Don't remove the controller or Memory Card."
+  },
+  {
+   "uid": "U20620",
+   "en": "Neither slot 1 nor slot 2"
+  },
+  {
+   "uid": "U20621",
+   "en": "has a Memory Card. Saving this game needs"
+  },
+  {
+   "uid": "U20622",
+   "en": "at least 2 free blocks."
+  },
+  {
+   "uid": "U20623",
+   "en": "The Memory Card in slot 1 is low on"
+  },
+  {
+   "uid": "U20624",
+   "en": "free space. Saving needs",
+   "note": "Shortened to fit the checker budget; preferred: free space. Saving this game needs"
+  },
+  {
+   "uid": "U20625",
+   "en": "The Memory Card in slot 2 is low on"
+  },
+  {
+   "uid": "U20626",
+   "en": "The Memory Cards in slots 1 and 2"
+  },
+  {
+   "uid": "U20627",
+   "en": "are low on free space."
+  },
+  {
+   "uid": "U20628",
+   "en": "Saving this game needs at least 2 free blocks."
+  },
+  {
+   "uid": "U20629",
+   "en": "(Enemy)",
+   "note": "Shortened to fit the checker budget; preferred: (Enemy reserved)"
+  },
+  {
+   "uid": "U20630",
+   "en": "Ship",
+   "note": "Shortened to fit the checker budget; preferred: Spaceship"
+  },
+  {
+   "uid": "U20631",
+   "en": "Drone",
+   "note": "Shortened to fit the checker budget; preferred: Drone Ship"
+  },
+  {
+   "uid": "U20633",
+   "en": "Lair",
+   "note": "Shortened to fit the checker budget; preferred: Hideout"
+  },
+  {
+   "uid": "U20634",
+   "en": "Radar"
+  },
+  {
+   "uid": "U20635",
+   "en": "Base"
+  },
+  {
+   "uid": "U20636",
+   "en": "Dome"
+  },
+  {
+   "uid": "U20637",
+   "en": "Wall"
+  },
+  {
+   "uid": "U20638",
+   "en": "Wreck",
+   "note": "Shortened to fit the checker budget; preferred: Wrecked Car"
+  },
+  {
+   "uid": "U20639",
+   "en": "Stone",
+   "note": "Shortened to fit the checker budget; preferred: Black Cross Stone"
+  },
+  {
+   "uid": "U20640",
+   "en": "Def.",
+   "note": "Shortened to fit the checker budget; preferred: Defense"
+  },
+  {
+   "uid": "U20641",
+   "en": "Acc.",
+   "note": "Shortened to fit the checker budget; preferred: Accuracy"
+  },
+  {
+   "uid": "U20642",
+   "en": "Lndmk 4",
+   "note": "Shortened to fit the checker budget; preferred: Landmark 4"
+  },
+  {
+   "uid": "U20643",
+   "en": "S.Base",
+   "note": "Shortened to fit the checker budget; preferred: Secret Base"
+  },
+  {
+   "uid": "U20644",
+   "en": "Expo Site"
+  },
+  {
+   "uid": "U20645",
+   "en": "Undergr.",
+   "note": "Shortened to fit the checker budget; preferred: Underground Facility"
+  },
+  {
+   "uid": "U20646",
+   "en": "G.QR3",
+   "note": "Shortened to fit the checker budget; preferred: Gamma QR3"
+  },
+  {
+   "uid": "U20647",
+   "en": "SP HQ",
+   "note": "Shortened to fit the checker budget; preferred: Science Patrol HQ"
+  },
+  {
+   "uid": "U20648",
+   "en": "Sewer",
+   "note": "Shortened to fit the checker budget; preferred: Sewer Outlet"
+  },
+  {
+   "uid": "U20649",
+   "en": "FE Base",
+   "note": "Shortened to fit the checker budget; preferred: Far East Base"
+  },
+  {
+   "uid": "U20650",
+   "en": "Park"
+  },
+  {
+   "uid": "U20651",
+   "en": "Sci.Center",
+   "note": "Shortened to fit the checker budget; preferred: Science Center"
+  },
+  {
+   "uid": "U20652",
+   "en": "E.Base",
+   "note": "Shortened to fit the checker budget; preferred: Enemy Base"
+  },
+  {
+   "uid": "U20653",
+   "en": "Pit",
+   "note": "Shortened to fit the checker budget; preferred: Man-Eating Pit"
+  },
+  {
+   "uid": "U20654",
+   "en": "Johchaku"
+  },
+  {
+   "uid": "U20655",
+   "en": "Henshin"
+  },
+  {
+   "uid": "U20656",
+   "en": "Sekisha"
+  },
+  {
+   "uid": "U20657",
+   "en": "Shoketsu"
+  },
+  {
+   "uid": "U20658",
+   "en": "Henten"
+  },
+  {
+   "uid": "U20659",
+   "en": "'s Mor.",
+   "note": "Shortened to fit the checker budget; preferred: 's Morale went"
+  },
+  {
+   "uid": "U20660",
+   "en": "<c1>DOWN</c>!"
+  },
+  {
+   "uid": "U20661",
+   "en": "R&D",
+   "note": "Shortened to fit the checker budget; preferred: Research & Development"
+  },
+  {
+   "uid": "U20662",
+   "en": "L/R"
+  },
+  {
+   "uid": "U20663",
+   "en": "Mecha",
+   "note": "Shortened to fit the checker budget; preferred: Support Mecha Name"
+  },
+  {
+   "uid": "U20664",
+   "en": "Part Name",
+   "note": "Shortened to fit the checker budget; preferred: Upgrade Part Name"
+  },
+  {
+   "uid": "U20665",
+   "en": "<c3>Dev.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>In Development</c>"
+  },
+  {
+   "uid": "U20666",
+   "en": "Dev: Mecha",
+   "note": "Shortened to fit the checker budget; preferred: Develop: Support Mecha"
+  },
+  {
+   "uid": "U20667",
+   "en": "Dev: Parts",
+   "note": "Shortened to fit the checker budget; preferred: Develop: Upgrade Parts"
+  },
+  {
+   "uid": "U20668",
+   "en": "Sci: Assign",
+   "note": "Shortened to fit the checker budget; preferred: Scientist: Assign"
+  },
+  {
+   "uid": "U20669",
+   "en": "Sci: Leave",
+   "note": "Shortened to fit the checker budget; preferred: Scientist: Withdraw"
+  },
+  {
+   "uid": "U20670",
+   "en": "Cancel",
+   "note": "Shortened to fit the checker budget; preferred: Cancel Development"
+  },
+  {
+   "uid": "U20671",
+   "en": "<c3>In Dev.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Item in Development</c>"
+  },
+  {
+   "uid": "U20672",
+   "en": "<c3>Mecha:",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Support Mecha:"
+  },
+  {
+   "uid": "U20673",
+   "en": "<c3>Parts:</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Upgrade Parts:</c>"
+  },
+  {
+   "uid": "U20674",
+   "en": "<c3>Turns left:</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Turns until completion:</c>"
+  },
+  {
+   "uid": "U20675",
+   "en": "Name",
+   "note": "Shortened to fit the checker budget; preferred: Scientist"
+  },
+  {
+   "uid": "U20676",
+   "en": "<c3>Assig.</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Assigned</c>"
+  },
+  {
+   "uid": "U20677",
+   "en": "<c3>List</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>To the list</c>"
+  },
+  {
+   "uid": "U20678",
+   "en": "<c3>Available</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Can be developed</c>"
+  },
+  {
+   "uid": "U20679",
+   "en": "<c3>New</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>New Weapons</c>"
+  },
+  {
+   "uid": "U20680",
+   "en": "<c3>From</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>From the list</c>"
+  },
+  {
+   "uid": "U20681",
+   "en": "<c3>Deleted</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Will be removed</c>"
+  },
+  {
+   "uid": "U20682",
+   "en": "<c3>Items</c>",
+   "note": "Shortened to fit the checker budget; preferred: <c3>Developed Items</c>"
+  },
+  {
+   "uid": "U20683",
+   "en": "Cancel R&D.",
+   "note": "Shortened to fit the checker budget; preferred: Development will be canceled."
+  },
+  {
+   "uid": "U20684",
+   "en": "Is that OK?"
+  },
+  {
+   "uid": "U20685",
+   "en": "Yes"
+  },
+  {
+   "uid": "U20686",
+   "en": "No"
+  },
+  {
+   "uid": "U20687",
+   "en": "AH-1S Heli",
+   "note": "Shortened to fit the checker budget; preferred: AH-1S Attack Heli"
+  },
+  {
+   "uid": "U20688",
+   "en": "Tenso",
+   "note": "Shortened to fit the checker budget; preferred: Special Fighter Tenso"
+  },
+  {
+   "uid": "U20695",
+   "en": "HP/EN Kit{S}",
+   "note": "Shortened to fit the checker budget; preferred: HP/EN Repair Kit{S}"
+  },
+  {
+   "uid": "U20696",
+   "en": "HP/EN Kit{L}",
+   "note": "Shortened to fit the checker budget; preferred: HP/EN Repair Kit{L}"
+  },
+  {
+   "uid": "U20697",
+   "en": "Barrier M.{S}",
+   "note": "Shortened to fit the checker budget; preferred: Barrier Machine{S}"
+  },
+  {
+   "uid": "U20698",
+   "en": "S.Tab",
+   "note": "Shortened to fit the checker budget; preferred: Soul Tab"
+  },
+  {
+   "uid": "U20699",
+   "en": "Soul Affector"
+  },
+  {
+   "uid": "U20700",
+   "en": "Zone Cancell.",
+   "note": "Shortened to fit the checker budget; preferred: Zone Canceller"
+  },
+  {
+   "uid": "U20701",
+   "en": "Barrier M.{L}",
+   "note": "Shortened to fit the checker budget; preferred: Barrier Machine{L}"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U20620-U20628: memory-card messages split across rows; English split at matching points (U20621/U20624 end mid-sentence and are completed by U20622)",
+   "U20654-U20658: transformation commands kept as the show calls (Johchaku/Henshin/Sekisha/Shoketsu/Henten); none fit 24px",
+   "U20659-U20660: '[name]'s Morale went DOWN!' pattern following B0001",
+   "U20638: 事故車西 read as 事故車両 'Wrecked Car'",
+   "U20653: 人噴い穴 read as 人喰い穴 'Man-Eating Pit'",
+   "U20677-U20681: fragments of a sentence built from parts ('will be added to / removed from the list of developable new weapons'); rendered as short labels",
+   "Menu budgets: kanji count 12px, kana 8px, icons are not included in budget_px but are counted by the checker; many rows abbreviated, each with a note naming the preferred text"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Soul Affector",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U20638",
+    "likely": "事故車両"
+   },
+   {
+    "uid": "U20653",
+    "likely": "人喰い穴"
+   }
+  ]
+ }
+}

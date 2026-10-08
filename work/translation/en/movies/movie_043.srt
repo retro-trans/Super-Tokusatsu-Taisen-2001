@@ -1,0 +1,7 @@
+1
+00:00:10,340 --> 00:00:12,100
+I am the Child of the Sun!
+
+2
+00:00:12,100 --> 00:00:14,800
+Kamen Rider BLACK RX!

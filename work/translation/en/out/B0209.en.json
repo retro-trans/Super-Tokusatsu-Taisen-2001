@@ -1,0 +1,391 @@
+{
+ "batch": "B0209",
+ "rows": [
+  {
+   "uid": "U16666",
+   "en": "Shiro Go: Here I go!!"
+  },
+  {
+   "uid": "U16667",
+   "en": "Red One: Come at me if you dare!"
+  },
+  {
+   "uid": "U16668",
+   "en": "Red One: Like that'll hit me!!"
+  },
+  {
+   "uid": "U16669",
+   "en": "Red One: You think an attack like this will beat me!?"
+  },
+  {
+   "uid": "U16670",
+   "en": "Red One: I-I won't lose!"
+  },
+  {
+   "uid": "U16671",
+   "en": "Red One: Damn it! At this rate I'll lose!?"
+  },
+  {
+   "uid": "U16672",
+   "en": "Red One: M-My Bio power…!?"
+  },
+  {
+   "uid": "U16673",
+   "en": "Red One: Taah!!"
+  },
+  {
+   "uid": "U16674",
+   "en": "Red One: Here I go!!"
+  },
+  {
+   "uid": "U16675",
+   "en": "Red One: I won't let you!!"
+  },
+  {
+   "uid": "U16676",
+   "en": "Red One: Red One, Diving Attack!!"
+  },
+  {
+   "uid": "U16677",
+   "en": "Red One: Red One, Bio Sword!!"
+  },
+  {
+   "uid": "U16678",
+   "en": "Red One: Red One, Fire Sword!!"
+  },
+  {
+   "uid": "U16679",
+   "en": "Red One: Red One, Spark Sword!!"
+  },
+  {
+   "uid": "U16680",
+   "en": "Shingo Takasugi: Look out!"
+  },
+  {
+   "uid": "U16681",
+   "en": "Shingo Takasugi: Th-That one was a little too close!"
+  },
+  {
+   "uid": "U16682",
+   "en": "Shingo Takasugi: I won't lose to something like this!"
+  },
+  {
+   "uid": "U16683",
+   "en": "Shingo Takasugi: Whoa, not bad!?"
+  },
+  {
+   "uid": "U16684",
+   "en": "Shingo Takasugi: Th-This is bad!?"
+  },
+  {
+   "uid": "U16685",
+   "en": "Shingo Takasugi: Damn it! Everyone, sorry!!"
+  },
+  {
+   "uid": "U16686",
+   "en": "Shingo Takasugi: Orryaah!!"
+  },
+  {
+   "uid": "U16687",
+   "en": "Shingo Takasugi: Taah!!"
+  },
+  {
+   "uid": "U16688",
+   "en": "Green Two: Look out!"
+  },
+  {
+   "uid": "U16689",
+   "en": "Green Two: Th-That one was a little too close!"
+  },
+  {
+   "uid": "U16690",
+   "en": "Green Two: I won't lose to something like this!"
+  },
+  {
+   "uid": "U16691",
+   "en": "Green Two: Whoa, not bad!?"
+  },
+  {
+   "uid": "U16692",
+   "en": "Green Two: Th-This is bad!?"
+  },
+  {
+   "uid": "U16693",
+   "en": "Green Two: Damn it! My Bio Suit's gonna come off!!"
+  },
+  {
+   "uid": "U16694",
+   "en": "Green Two: Orryaah!!"
+  },
+  {
+   "uid": "U16695",
+   "en": "Green Two: Taah!!"
+  },
+  {
+   "uid": "U16696",
+   "en": "Green Two: I won't let you!!"
+  },
+  {
+   "uid": "U16697",
+   "en": "Green Two: Green Two, Break Action!!"
+  },
+  {
+   "uid": "U16698",
+   "en": "Green Two: Green Two, Bio Sword!!"
+  },
+  {
+   "uid": "U16699",
+   "en": "Green Two: Green Boomerang!!"
+  },
+  {
+   "uid": "U16700",
+   "en": "Green Two: Green Two, Hurricane Sword!!"
+  },
+  {
+   "uid": "U16701",
+   "en": "Ryuta Nanbara: Like this'll hit me!"
+  },
+  {
+   "uid": "U16702",
+   "en": "Ryuta Nanbara: Whoa!"
+  },
+  {
+   "uid": "U16703",
+   "en": "Ryuta Nanbara: Come at me for real!"
+  },
+  {
+   "uid": "U16704",
+   "en": "Ryuta Nanbara: Ow!?"
+  },
+  {
+   "uid": "U16705",
+   "en": "Ryuta Nanbara: Uwaaah!"
+  },
+  {
+   "uid": "U16706",
+   "en": "Ryuta Nanbara: Th-They got me!!"
+  },
+  {
+   "uid": "U16707",
+   "en": "Ryuta Nanbara: Toryaaah!!"
+  },
+  {
+   "uid": "U16708",
+   "en": "Blue Three: Like this'll hit me!"
+  },
+  {
+   "uid": "U16709",
+   "en": "Blue Three: Whoa!"
+  },
+  {
+   "uid": "U16710",
+   "en": "Blue Three: Come at me for real!"
+  },
+  {
+   "uid": "U16711",
+   "en": "Blue Three: Ow!?"
+  },
+  {
+   "uid": "U16712",
+   "en": "Blue Three: Uwaaah!"
+  },
+  {
+   "uid": "U16713",
+   "en": "Blue Three: M-My Bio power's fading!!"
+  },
+  {
+   "uid": "U16714",
+   "en": "Blue Three: Toryaaah!!"
+  },
+  {
+   "uid": "U16715",
+   "en": "Blue Three: Haah!!"
+  },
+  {
+   "uid": "U16716",
+   "en": "Blue Three: Blue Three, Sky Diving!!"
+  },
+  {
+   "uid": "U16717",
+   "en": "Blue Three: Blue Three, Bio Sword!!"
+  },
+  {
+   "uid": "U16718",
+   "en": "Blue Three: Blue Three, Electro Sword!!"
+  },
+  {
+   "uid": "U16719",
+   "en": "Mika Koizumi: What, is that all?"
+  },
+  {
+   "uid": "U16720",
+   "en": "Mika Koizumi: Look out!"
+  },
+  {
+   "uid": "U16721",
+   "en": "Mika Koizumi: Ow! You'll pay for that!!"
+  },
+  {
+   "uid": "U16722",
+   "en": "Mika Koizumi: Kyah!? H-How dare you!!"
+  },
+  {
+   "uid": "U16723",
+   "en": "Mika Koizumi: Kyaah!"
+  },
+  {
+   "uid": "U16724",
+   "en": "Mika Koizumi: B-But I'm a chosen warrior…!?"
+  },
+  {
+   "uid": "U16725",
+   "en": "Mika Koizumi: Are you ready!?"
+  },
+  {
+   "uid": "U16726",
+   "en": "Mika Koizumi: Teryaah!!"
+  },
+  {
+   "uid": "U16727",
+   "en": "Yellow Four: What, is that all?"
+  },
+  {
+   "uid": "U16728",
+   "en": "Yellow Four: Look out!"
+  },
+  {
+   "uid": "U16729",
+   "en": "Yellow Four: Ow! You'll pay for that!!"
+  },
+  {
+   "uid": "U16730",
+   "en": "Yellow Four: Kyah!? H-How dare you!!"
+  },
+  {
+   "uid": "U16731",
+   "en": "Yellow Four: Kyaah!"
+  },
+  {
+   "uid": "U16732",
+   "en": "Yellow Four: B-But I'm a chosen warrior…!?"
+  },
+  {
+   "uid": "U16733",
+   "en": "Yellow Four: Are you ready!?"
+  },
+  {
+   "uid": "U16734",
+   "en": "Yellow Four: Teryaah!!"
+  },
+  {
+   "uid": "U16735",
+   "en": "Yellow Four: Don't underestimate me just because I'm a woman!!"
+  },
+  {
+   "uid": "U16736",
+   "en": "Yellow Four: Yellow Four, Bio Sword!!"
+  },
+  {
+   "uid": "U16737",
+   "en": "Yellow Four: Yellow Four, Thunder Sword!!"
+  },
+  {
+   "uid": "U16738",
+   "en": "Jun Yabuki: This much is no big deal!!"
+  },
+  {
+   "uid": "U16739",
+   "en": "Jun Yabuki: I'm an Olympic athlete, you know!"
+  },
+  {
+   "uid": "U16740",
+   "en": "Jun Yabuki: Kyah! You'll pay for that!!"
+  },
+  {
+   "uid": "U16741",
+   "en": "Jun Yabuki: Ngh, I can still go on!!"
+  },
+  {
+   "uid": "U16742",
+   "en": "Jun Yabuki: Th-This is bad!!"
+  },
+  {
+   "uid": "U16743",
+   "en": "Jun Yabuki: …At this rate, Mika's going to get mad at me!!"
+  },
+  {
+   "uid": "U16744",
+   "en": "Jun Yabuki: Okay, here I go!"
+  },
+  {
+   "uid": "U16745",
+   "en": "Jun Yabuki: I'll show you the skills of an Olympic athlete!!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U16659-U16746 (B0208-B0210): Bioman cast (Choudenshi Bioman) and attacks are not in the glossary; romanized/translated names listed in new_names",
+   "Name-in-text quote rows rendered 'Name: line'",
+   "U16745: オリンピック総の腕 - 総 probably a misread (選手); rendered 'skills of an Olympic athlete'"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Red One",
+    "why": "Bioman, not in glossary"
+   },
+   {
+    "en": "Shingo Takasugi",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Green Two",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Ryuta Nanbara",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Blue Three",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Mika Koizumi",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Yellow Four",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Jun Yabuki",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Bio Sword",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Diving Attack/Fire Sword/Spark Sword",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Break Action/Green Boomerang/Hurricane Sword",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Sky Diving/Electro Sword/Thunder Sword",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U16745",
+    "likely": "オリンピック選手"
+   }
+  ]
+ }
+}

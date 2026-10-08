@@ -1,0 +1,487 @@
+{
+ "batch": "B0107",
+ "prev": "B0106",
+ "next": "B0108",
+ "rows": [
+  {
+   "uid": "U08499",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08500",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08501",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08502",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08503",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08504",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08505",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08506",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08507",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08508",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08509",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08510",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08511",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U08512",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U08513",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U08514",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08515",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U08516",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U08517",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider BLACK"
+  },
+  {
+   "uid": "U08518",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08519",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08520",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08521",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08522",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08523",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08524",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08525",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08526",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08527",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08528",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08529",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U08530",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08531",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08532",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08533",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08534",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08535",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08536",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08537",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08538",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08539",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08540",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08541",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08542",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08543",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08544",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08545",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08546",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08547",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08548",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08549",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08550",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08551",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08552",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08553",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08554",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08555",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08556",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08557",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08558",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08559",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tetsuya Sakai"
+  },
+  {
+   "uid": "U08560",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U08561",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08562",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08563",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08564",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U08565",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tetsuya Sakai"
+  },
+  {
+   "uid": "U08566",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08567",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08568",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08569",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U08570",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08571",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08572",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08573",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08574",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08575",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08576",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08577",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08578",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tetsuya Sakai"
+  }
+ ]
+}

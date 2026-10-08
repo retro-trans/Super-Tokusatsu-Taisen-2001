@@ -1,0 +1,374 @@
+{
+ "batch": "B0256",
+ "rows": [
+  {
+   "uid": "U20454",
+   "en": "{direct}Luciferium Bullet"
+  },
+  {
+   "uid": "U20455",
+   "en": "{ranged}P.Vulcan{S}{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Plasma Vulcan{S}{bullet}"
+  },
+  {
+   "uid": "U20456",
+   "en": "{ranged}Plasm. Vulca.{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Plasma Vulcan{bullet}"
+  },
+  {
+   "uid": "U20457",
+   "en": "{ranged}Lucif. AP Shell{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Luciferium AP Shell{bullet}"
+  },
+  {
+   "uid": "U20458",
+   "en": "{direct}Volsplash{P}"
+  },
+  {
+   "uid": "U20459",
+   "en": "{ranged}Volcole.{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Volcoleda{beam}"
+  },
+  {
+   "uid": "U20460",
+   "en": "{ranged}Volcoleda Astral★"
+  },
+  {
+   "uid": "U20461",
+   "en": "{direct}Volripp.{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Volripper{P}"
+  },
+  {
+   "uid": "U20462",
+   "en": "{ranged}Volfla.{fire}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Volflame{fire}"
+  },
+  {
+   "uid": "U20463",
+   "en": "{direct}Volrip. Heaven{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Volripper Heaven{P}"
+  },
+  {
+   "uid": "U20464",
+   "en": "{ranged}V.Death Scythe{fire}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Volflame Death Scythe{fire}★"
+  },
+  {
+   "uid": "U20465",
+   "en": "{direct}Valjavelin{P}"
+  },
+  {
+   "uid": "U20466",
+   "en": "{ranged}Valstream"
+  },
+  {
+   "uid": "U20467",
+   "en": "{direct}Valja. Swall. Barra.{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Valjavelin: Swallow Barrage{P}"
+  },
+  {
+   "uid": "U20468",
+   "en": "{ranged}Valky. Skywa. Fang",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Valkyria: Skyward Fang"
+  },
+  {
+   "uid": "U20469",
+   "en": "{direct}Katana{P}"
+  },
+  {
+   "uid": "U20470",
+   "en": "{direct}Bat{P}{bullet}"
+  },
+  {
+   "uid": "U20471",
+   "en": "{ranged}Ball"
+  },
+  {
+   "uid": "U20472",
+   "en": "{direct}Sickle{P}"
+  },
+  {
+   "uid": "U20473",
+   "en": "{direct}Staff{P}"
+  },
+  {
+   "uid": "U20474",
+   "en": "{ranged}Staff{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Staff Missile{bullet}"
+  },
+  {
+   "uid": "U20475",
+   "en": "{ranged}Volcanic Bomb{fire}"
+  },
+  {
+   "uid": "U20476",
+   "en": "{ranged}Navaron Cannon{bullet}"
+  },
+  {
+   "uid": "U20477",
+   "en": "{ranged}F.Road{M}{AP}{fire}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Fire Road{M}{AP}{fire}"
+  },
+  {
+   "uid": "U20478",
+   "en": "{direct}Sword{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Black Cross Sword{P}"
+  },
+  {
+   "uid": "U20479",
+   "en": "{ranged}U.Ray{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Ultra Ray{beam}"
+  },
+  {
+   "uid": "U20480",
+   "en": "{ranged}U.Ray{S}{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Ultra Ray{S}{beam}"
+  },
+  {
+   "uid": "U20481",
+   "en": "{ranged}D.Light",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Danger Light"
+  },
+  {
+   "uid": "U20482",
+   "en": "{direct}Raijin{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Raijin Murasame{P}"
+  },
+  {
+   "uid": "U20483",
+   "en": "{direct}W.S.Return{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Waruder Swallow Return{P}"
+  },
+  {
+   "uid": "U20484",
+   "en": "{direct}Cane{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Sword Cane{P}"
+  },
+  {
+   "uid": "U20485",
+   "en": "{direct}A.Weight{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Anchor Weight{P}"
+  },
+  {
+   "uid": "U20486",
+   "en": "{ranged}Cannon{bullet}"
+  },
+  {
+   "uid": "U20487",
+   "en": "{ranged}Sunsh. Shoot{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Sunshine Shoot{bullet}"
+  },
+  {
+   "uid": "U20488",
+   "en": "{direct}Staff{P}{S}"
+  },
+  {
+   "uid": "U20489",
+   "en": "{ranged}Missiles{S}{bullet}"
+  },
+  {
+   "uid": "U20490",
+   "en": "{direct}Weight{P}{S}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Anchor Weight{P}{S}"
+  },
+  {
+   "uid": "U20491",
+   "en": "{ranged}Tornado{S}"
+  },
+  {
+   "uid": "U20492",
+   "en": "{direct}M.Roller{P}{S}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Megaton Roller{P}{S}"
+  },
+  {
+   "uid": "U20493",
+   "en": "{ranged}Heat Ray{S}{fire}★"
+  },
+  {
+   "uid": "U20494",
+   "en": "{direct}Kick{P}{S}"
+  },
+  {
+   "uid": "U20495",
+   "en": "{direct}Lucifer. Cutter",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Luciferium Cutter"
+  },
+  {
+   "uid": "U20496",
+   "en": "{direct}Knife{P}"
+  },
+  {
+   "uid": "U20497",
+   "en": "{ranged}Ray{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Weird Ray{beam}"
+  },
+  {
+   "uid": "U20498",
+   "en": "{direct}Sword{P}"
+  },
+  {
+   "uid": "U20499",
+   "en": "{direct}Chain Sickle{P}"
+  },
+  {
+   "uid": "U20500",
+   "en": "{direct}Spear{P}"
+  },
+  {
+   "uid": "U20501",
+   "en": "{ranged}Sorcery"
+  },
+  {
+   "uid": "U20502",
+   "en": "{direct}Dagger{P}"
+  },
+  {
+   "uid": "U20503",
+   "en": "{direct}Machete{P}"
+  },
+  {
+   "uid": "U20504",
+   "en": "{ranged}P.Ray{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Phantom Ray{beam}★"
+  },
+  {
+   "uid": "U20505",
+   "en": "{direct}Lightning Sword{P}{elec}"
+  },
+  {
+   "uid": "U20506",
+   "en": "{ranged}Lightning Strike{elec}"
+  },
+  {
+   "uid": "U20507",
+   "en": "{direct}Tongue{P}"
+  },
+  {
+   "uid": "U20508",
+   "en": "{ranged}Shock Tongue{elec}"
+  },
+  {
+   "uid": "U20509",
+   "en": "{ranged}Ray{beam}"
+  },
+  {
+   "uid": "U20510",
+   "en": "{direct}Shock Whip{P}{elec}"
+  },
+  {
+   "uid": "U20511",
+   "en": "{direct}Naginata{P}"
+  },
+  {
+   "uid": "U20512",
+   "en": "{direct}Stick{P}"
+  },
+  {
+   "uid": "U20513",
+   "en": "{ranged}M.Liner{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Musasabi Liner{bullet}"
+  },
+  {
+   "uid": "U20514",
+   "en": "{ranged}Head",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Head Launch"
+  },
+  {
+   "uid": "U20515",
+   "en": "{ranged}Red. Boom.",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Red-Face Boomerang"
+  },
+  {
+   "uid": "U20516",
+   "en": "{direct}Hakai Sword{P}"
+  },
+  {
+   "uid": "U20517",
+   "en": "{ranged}Hakai. Shot{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Hakaider Shot{bullet}"
+  },
+  {
+   "uid": "U20518",
+   "en": "{ranged}D.Ray{beam}★",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Destruction Ray{beam}★"
+  },
+  {
+   "uid": "U20519",
+   "en": "{direct}Iron{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Iron Claws{P}"
+  },
+  {
+   "uid": "U20520",
+   "en": "{ranged}Poison Gas★"
+  },
+  {
+   "uid": "U20521",
+   "en": "{ranged}Pillar{fire}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Fire Pillar{fire}"
+  },
+  {
+   "uid": "U20522",
+   "en": "{ranged}F.Quake",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Fissure Quake"
+  },
+  {
+   "uid": "U20523",
+   "en": "{ranged}Spikes★"
+  },
+  {
+   "uid": "U20524",
+   "en": "{ranged}Poison Pollen"
+  },
+  {
+   "uid": "U20525",
+   "en": "{direct}Claws{P}"
+  },
+  {
+   "uid": "U20526",
+   "en": "{direct}C.U.Drop{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Combined Udesper Drop{P}"
+  },
+  {
+   "uid": "U20527",
+   "en": "{ranged}Cros. Hurr.",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Cross Hurricane"
+  },
+  {
+   "uid": "U20528",
+   "en": "{ranged}F.Arrow{fire}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Fire Arrow{fire}"
+  },
+  {
+   "uid": "U20529",
+   "en": "{direct}Impale{P}"
+  },
+  {
+   "uid": "U20530",
+   "en": "{ranged}Tele.",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Telekinesis"
+  },
+  {
+   "uid": "U20531",
+   "en": "{ranged}Flame{fire}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Searing Flame{fire}"
+  },
+  {
+   "uid": "U20532",
+   "en": "{ranged}Arm Launch"
+  },
+  {
+   "uid": "U20533",
+   "en": "{ranged}Rockets{S}{bullet}"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "Weapon/name menu rows taken from the glossary and abbreviated where check_batch.py (which counts icon tags at 8px against a text-only budget) required it; shortened rows carry a note with the preferred full name"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": []
+ }
+}

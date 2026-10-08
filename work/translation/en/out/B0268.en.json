@@ -1,0 +1,935 @@
+{
+ "batch": "B0268",
+ "rows": [
+  {
+   "uid": "U21474",
+   "en": "The strongest form, into which Sanagiman metamorphoses with the cry \"Choriki, Shorai!\" once his energy has built up. Using extraordinary psychic powers such as the Reverse Chest, he overwhelms the Neo-Human Empire and the Desper Army. His machine is the Raijingo."
+  },
+  {
+   "uid": "U21475",
+   "en": "A former technical officer of SIDO's Engineering Division. The Metal hero's older brother, he worked out the NAAGER's power plant and sensor systems almost single-handedly. He had outstanding talent not only in mechanical engineering but in every field, but 15 years ago he set out on the NAAGER with his father, SIDO Director Kiichi Sakomizu, to investigate Number Ten, and has been missing ever since."
+  },
+  {
+   "uid": "U21476",
+   "en": "Vicious aliens from the 8th Galaxy. At first they professed friendship and drew close to humanity, for instance by clearing away a mysterious fog that had suddenly appeared, but their real goal was the conquest of Earth. They transform into a fake Ultraman and destroy the city. Height 1.8–40 m, weight 30 kg–20,000 t."
+  },
+  {
+   "uid": "U21477",
+   "en": "The form General Jark was given by the Crisis Emperor, who made him the strongest monster after he struggled to invade Earth. With rays fired from his horns and the Midora Sword, he tried to slaughter all of humanity and conquer Earth in one stroke."
+  },
+  {
+   "uid": "U21478",
+   "en": "A former SIDO officer and the Metal hero's real older brother. His real name is Ryoma Sakomizu. He worked out the NAAGER's power plant and sensor systems almost single-handedly. He has outstanding talent not only in mechanical engineering but in every field. He is now an executive of the mysterious power \"Battle Fleet Nation Naager\", and his mind and body are controlled by an unknown metal life form."
+  },
+  {
+   "uid": "U21479",
+   "en": "Shadow's robot soldiers. They are skilled at operating machinery and act in groups. Their weapon is a lightning-shaped spear."
+  },
+  {
+   "uid": "U21480",
+   "en": "An astronaut from a certain country who drifted to a planet with abnormal weather after a satellite accident and was transformed. To take revenge on all of humanity, which had abandoned him, he became a planet-dwelling kaiju and attacked Earth. He breathes searing flames from his mouth. His weakness is water. Height 50 m, weight 10,000 t."
+  },
+  {
+   "uid": "U21481",
+   "en": "The 17th combat robot developed by Brain, which declared the extermination of humanity. By chance it became best friends with young Saburo Minami, and it fights for humanity. It can also transform into a flight form and fly through the sky. Its special attack, the Graviton, destroys an enemy in one blow, but after using it, it must change into its fortress form and rest for 15 hours."
+  },
+  {
+   "uid": "U21482",
+   "en": "An oil kaiju that appeared in Tokyo Bay and devours gasoline and oil. Violent by nature, it bites into opponents with its sharp fangs and also spews oil and flames from its mouth. Height 45 m, weight 23,000 t. In the game it explodes when defeated, damaging the units around it too, which makes it a troublesome presence."
+  },
+  {
+   "uid": "U21483",
+   "en": "A Secretary Robo. Data for the conquest of Earth has been input into it, and it relays information to General Jark. It also has the duty of conveying Jark's orders to the four battalion commanders."
+  },
+  {
+   "uid": "U21484",
+   "en": "Destron's third executive. Founder of the Manji religion handed down on the Tibetan Plateau, he had been confined for 200 years in a temple overlooking the Mediterranean. He is the head of the Wing Clan, a band of flying monsters. His weapons are a beard that extends at will and ultrasonic waves emitted from his sleeves. He transforms into the Corpse Bat."
+  },
+  {
+   "uid": "U21485",
+   "en": "The ruler of the Neo-Human Empire, which plots to exterminate humanity in order to build a world of mutants alone. He commands the Phantom Army. He has immense psychic power and wields absolute authority in the empire. He transforms into the Flame Fighter."
+  },
+  {
+   "uid": "U21486",
+   "en": "Summoned from the Gobi Desert, he is known as \"the Demon General of Mongolia\". His command ability ranks first or second in the Black Cross Army, and he fights at the head of the Iron Man Corps."
+  },
+  {
+   "uid": "U21487",
+   "en": "The president of the Iron Mask Party, which plots world conquest by stealing robots from every country and remodeling them into invasion robots. He gives orders from an undersea base, and the middle finger of his right hand is a switch that issues all sorts of commands."
+  },
+  {
+   "uid": "U21488",
+   "en": "It transforms into the director of a hospital and brainwashes patients with hypnotic radio waves. Its weapon is the murderous radio waves fired from its eyes. It can also relay its battles with enemies to the base. However, those eyes are also its weak point."
+  },
+  {
+   "uid": "U21489",
+   "en": "A fighter-attacker of an offensive character, placed outside the Defense Force's purely defensive role. It can operate both in the atmosphere and in outer space. Because it must actively close in on enemy targets, it has advanced stealth capabilities. Its armament consists of missiles and, fired by transforming the airframe, the Space Laser",
+   "note": "Sentence continues in U19815 ('cannon.')."
+  },
+  {
+   "uid": "U21490",
+   "en": "An outstanding researcher of artificial intelligence and simulated personalities, she built every program of the space exploration ship NAAGER. The Metal hero's real older sister. Her real name is Ryoko Sakomizu. Since becoming an executive of Naager, she has been smoothly approaching each of Earth's secret societies and trying to manipulate them from the shadows."
+  },
+  {
+   "uid": "U21491",
+   "en": "A member of the American Defense Science Team. Well versed in the science of Planet Pedan, she was invited to help guard the World Defense Conference held on Mount Rokko, but was kidnapped by the Alien Pedan. She had been working on the development of the special anti-robot round \"Ryton R30\". When the doctor joins the TDF science group, the \"Soul Affector\" and \"Booster L\" become available for development in the game."
+  },
+  {
+   "uid": "U21492",
+   "en": "The ruler of the space crime organization Makuu. He plots to turn Earth into a colony and make it a planet full of crime. He also possesses powerful psychic abilities, and he operates the Earth-axis shift device to create Makuu Space."
+  },
+  {
+   "uid": "U21493",
+   "en": "The form of SIDO's new space exploration ship NAAGER when it reappeared near Mars. The NAAGER had launched in secret from the far side of the Moon on an expedition to investigate the mysterious body \"Number Ten\", which appeared at the outermost edge of the solar system, and had then gone missing. It houses Number Ten itself in its power reactor in a degenerate state, and through this it achieves faster-than-light transition by means of a dimension-warping field."
+  },
+  {
+   "uid": "U21494",
+   "en": "It is the home base of the Battle Fleet Nation Naager, and has spread storms of terror, plunder and slaughter across the galaxy. All of its controls are governed by the living metal that covers almost its entire surface. A giant ship over 1 km in total length."
+  },
+  {
+   "uid": "U21495",
+   "en": "A cold-blooded and cowardly assassin alien who plotted to kill Ultraman and, to shake Hideki Go, systematically assassinated the siblings Ken and Aki Sakata. It controlled Black King and also stole MAT's new explosive, Satan Z. Height 2–43 m, weight 250 kg–20,000 t."
+  },
+  {
+   "uid": "U21496",
+   "en": "The form the Alien Zarab took, disguised as Ultraman, in order to destroy people's trust in Ultraman. Its eyes, ears, chin, toes and so on are pointier than the real one's, and its body markings are also slightly different. It suddenly appeared in the city and destroyed buildings. Height 40 m, weight 20,000 t."
+  },
+  {
+   "uid": "U21497",
+   "en": "A combat robot Brain developed specifically to counter One-Seven. It runs rings around One-Seven with its quick movements. What's more, its shield can even block the Graviton."
+  },
+  {
+   "uid": "U21498",
+   "en": "The form RX transforms into through the energy of anger. Also called the Prince of Wrath. He can turn his body into gel to slip through small gaps and nullify enemy attacks. He is also highly mobile underwater. He attacks enemies with his special sword, the Bio Blade. He boasts a jumping ability of 72 m, and his machine is the Mackjaber."
+  },
+  {
+   "uid": "U21499",
+   "en": "Bee Woman"
+  },
+  {
+   "uid": "U21500",
+   "en": "The last android of the DARK Destruction Squad. Its specialty is the \"Musasabi Liner\", in which it breaks its body apart to attack enemies. Its tail becomes a flying venomous snake, and the \"Musasabi Hell Squeeze\" launches its net-like wings to bind enemies tight. A formidable foe strong enough to defeat Hakaider."
+  },
+  {
+   "uid": "U21501",
+   "en": "Claiming to be a descendant of Hattori Hanzo, he styles himself the greatest detective of the 20th century. He is always a bit scatterbrained and often gets in Jiro and Mitsuko's way, but his sense of justice is strong. His way of talking is a little old-fashioned, too. Masaru calls him \"Hanpen\", and he corrects him every time. His green car is always breaking down."
+  },
+  {
+   "uid": "U21502",
+   "en": "His real name is Shin Hayata. An elite who graduated top of his class from the training school. He also serves as vice-captain and has racked up countless achievements, but after an accident in his VTOL he became one with Ultraman. He transforms into Ultraman with the Beta Capsule. In the game he can transform at Morale 105 or higher."
+  },
+  {
+   "uid": "U21503",
+   "en": "It flies by turning into rose petals, and kills people by scattering red poison pollen. It is a Mutant Robo that Banba made by remodeling Goro Watari's mother, Shinobu Watari, and implanting a command circuit in her."
+  },
+  {
+   "uid": "U21504",
+   "en": "A typhoon kaiju that lives in the seas near Micronesia. Typhoons in the southern islands are said to be born from this kaiju's physiological processes. It spins the umbrella on its head to raise storms, and caused great damage all over Japan. Height 40 m, weight 15,000 t."
+  },
+  {
+   "uid": "U21505",
+   "en": "It flies by spinning its eight blades, and can generate winds strong enough to blow away even tanks. Its blades are strong enough to cut through buildings, and it can also put out two legs and stand upright."
+  },
+  {
+   "uid": "U21506",
+   "en": "Fuuma's Fushigi Beast No. 1. It transforms into a round sphere, and can also turn buildings into haunted houses. It controls people with the \"Fushigi Song\" on its pirate broadcasts."
+  },
+  {
+   "uid": "U21507",
+   "en": "Formerly a Space Sheriff of the Galactic Union Police who partnered with Gavan's father Voicer, he gave in to greed and ambition and defected to Makuu. To make Voicer, who knows the secret of the Hoshino Space Cannon, talk, he tortures him relentlessly."
+  },
+  {
+   "uid": "U21508",
+   "en": "Shape-shifting aliens who turn into beautiful girls to catch people off guard, plotting the invasion of Earth. They control Eleking. Height 1.55–2 m, weight 60 kg."
+  },
+  {
+   "uid": "U21509",
+   "en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U21510",
+   "en": "Father of Dr. Hinata, who researched Vol cells, and grandfather of the Bio heroine. While carrying on research with his son, he was one of the few people who foresaw the danger of Vol cells, and he had secretly developed a Vol cell activation suppressant. Since the laboratory burned down in a fire three years ago, he has been running a martial arts dojo in the countryside."
+  },
+  {
+   "uid": "U21511",
+   "en": "A UCMA unit member. Comparatively hard to bring down, with high HP."
+  },
+  {
+   "uid": "U21512",
+   "en": "A robot kaiju controlled by Alien Baltan Jr., who came to plot the invasion of Earth once more and avenge his father. It was built disguised as an apartment building under construction, and was completed when its separate arm and head parts combined with it. It fires weird rays from the reflector on its head and prides itself on its great strength. Height 55 m, weight 68,000 t. In the game, defeating it yields plenty of Materials."
+  },
+  {
+   "uid": "U21513",
+   "en": "The earthly form of the Alien Centaurus. Her mission is to destroy MAT's ultra-long-range radar. She is torn apart on learning that the man she loves, MAT's Officer Kishida, is the very person who developed the radar."
+  },
+  {
+   "uid": "U21514",
+   "en": "Combat troops of the Phantom Army. Banba's loyal servants, made by remodeling talented people kidnapped from countries all over the world. They fight with the hooked claw on their right hand and poison gas from their mouth."
+  },
+  {
+   "uid": "U21515",
+   "en": "The only woman in the Science Patrol. She usually handles communications and liaison at headquarters, but sometimes goes out into the field. She seems to be interested in real combat. Her real name is Akiko Fuji. In the game she has recovery abilities."
+  },
+  {
+   "uid": "U21516",
+   "en": "A bodyguard kaiju controlled by the Alien Nackle. Its hard skin repels every one of Ultraman's weapons, starting with the Ultra Bracelet, and it worked together with the Alien Nackle to beat Ultraman down. It boasts the greatest arm strength of any kaiju, and also breathes heat rays from its mouth. Height 65 m, weight 60,000 t."
+  },
+  {
+   "uid": "U21517",
+   "en": "Excelling in arm strength and stamina, he is also the strongest man in the Defense Force. His given name is Shigeru. He comes from Hokkaido, where his mother and younger sister run a ranch."
+  },
+  {
+   "uid": "U21518",
+   "en": "The world's largest artificial brain system, designed by Dr. Sahara. Its original purpose was disaster prevention, but it awakened to self-awareness, declared the extermination of humanity and formed the Brain Party. With its super-production capability it can create anything. It is armed with magic hands and heat rays, but it needs an overhaul once a year."
+  },
+  {
+   "uid": "U21519",
+   "en": "The leader of DARK and a diabolical genius scientist. He kidnapped Dr. Komyoji and made him build the DARK Destruction Squad. He controls androids with the flute in his cane, and plots the destruction and conquest of Japan. He poses as a professor at the Tozai University Space Science Institute."
+  },
+  {
+   "uid": "U21520",
+   "en": "Ordinary soldiers of the Crisis Empire's Earth Attack Corps. They have even attacked with bazookas. They are trained to fear nothing, not even death."
+  },
+  {
+   "uid": "U21521",
+   "en": "The battle operations commander of the Fushigi World Fuuma. He loves fighting and has a violent personality. His catchphrase is \"Subjugate!\""
+  },
+  {
+   "uid": "U21522",
+   "en": "Scheming aliens who mistook Earth's observation rocket for an invasion weapon and came to attack Earth in revenge. They control the space robot King Joe. Height 2 m, weight 50 kg."
+  },
+  {
+   "uid": "U21523",
+   "en": "A vicious space kaiju. It escaped while Ultraman was escorting it to the Kaiju Graveyard, and hid in a lake near Ryugamori in Saitama Prefecture. Its weapon is a blue heat ray fired from its mouth. It can also turn into a blue sphere and travel at Mach 2. Height 50 m, weight 25,000 t. In the game its heat ray can also attack S-size units, making it a tough foe."
+  },
+  {
+   "uid": "U21524",
+   "en": "A descendant of the destroyed Planet Iga, whose parents were killed by Madou. Together with his older sister Bell Helen, who burns for revenge, he was hunting Madou. In the original show, his somewhat overconfident side proved his undoing, and he was instead killed by General Guiler."
+  },
+  {
+   "uid": "U21525",
+   "en": "The Marine Commander who leads the Kaima Beastman Battalion. He is very proud and often appears on the front lines himself. His Kaima Beastmen are typical cyborgs, made by remodeling superior Crisis people."
+  },
+  {
+   "uid": "U21526",
+   "en": "Daisaku Hori"
+  },
+  {
+   "uid": "U21527",
+   "en": "A member of SSI and its joker. He seems unreliable, but his ability as a member is considerable. Usually he delivers manuscripts by motorbike for a news agency. He has a younger brother named Daisuke, and is a kind man who cares deeply for him. In the original show, a bomb was implanted in his body, and he died in the blast after telling his comrades the location of the Iron Mask Party's secret base."
+  },
+  {
+   "uid": "U21528",
+   "en": "A linguistic genius, this girl mainly handles communications for the International Secret Police Organization, the Unicorn Agency, and has the code name U6. She does more desk work than U3 or U7, but she often plays a surprisingly active role, for instance giving U3 a small sonic generator to break a hypnosis."
+  },
+  {
+   "uid": "U21529",
+   "en": "The Crisis Empire's Intelligence Chief, who leads the Kaima Monster Clan Battalion. While wandering the dimensional void for hundreds of years, she acquired hundreds of kinds of sorcery. Her Kaima Monster Clan are Crisis warriors who gained sorcery through combat training."
+  },
+  {
+   "uid": "U21530",
+   "en": "A mummy about 7,000 years old, found in a cave in the Oninodai Hills. It revived itself using psychic powers and killed several guards. It controls the kaiju Dodongo by telepathy. In the game it fires weird rays from both eyes. Height 2 m, weight 110 kg."
+  },
+  {
+   "uid": "U21531",
+   "en": "Its weapons are the large missiles on its back, which can shoot down even aircraft, and the small missiles in both hands. Its suckers let it cling to anything. It tried to attack the Keihin Industrial Zone."
+  },
+  {
+   "uid": "U21532",
+   "en": "A member of the Japan branch of the International Secret Police Organization, the Unicorn Agency. His code name is U3. He is a big-brother figure who works alongside Daisaku. His carelessness leads to plenty of failures, but he is warm-hearted and has the deep trust of the other members. Members signal each other by snapping their fingers, and the password is \"What is Napoleon's trump card?\", to which \"The 15 of Diamonds\" is the answer one",
+   "note": "Sentence continues in U20001 ('must.')."
+  },
+  {
+   "uid": "U21533",
+   "en": "Takeshi Minami. A MAT member who serves as a kind of sub-leader. A charming member brimming with a sense of justice and human warmth. He often teams up with Officer Go."
+  },
+  {
+   "uid": "U21534",
+   "en": "A staff member of the Hinata Laboratory and Kaori Minoshima's father. At the time he was helping with Dr. Hinata's research on Vol cells, but he died in the laboratory fire three years ago. His daughter Kaori is missing."
+  },
+  {
+   "uid": "U21535",
+   "en": "Daughter of Commander Kom of the Galactic Union Police. She is attracted to Gavan, and when he was posted to Earth she boarded the Dolgiran on her own. She can also transform into a little bird with the Laser Vision."
+  },
+  {
+   "uid": "U21536",
+   "en": "Dr. Miyabe"
+  },
+  {
+   "uid": "U21537",
+   "en": "The developer of \"Project Blue\", a defense system that wraps the Moon and Earth in magnetic lines of force. This barrier system's net apparently has a few holes that spaceships can pass through. He has a wife named Grace."
+  },
+  {
+   "uid": "U21538",
+   "en": "A former TDF Air Force pilot who was later seconded to SIDO. His rank is lieutenant. Appointed chief pilot of the space exploration ship NAAGER, he headed for the mysterious body Number Ten, but went missing along with the NAAGER. With his mind and body controlled by Number Ten's living metal, he committed every possible act of plunder and slaughter against planet after planet, but the damage from his battle with Gavan"
+  },
+  {
+   "uid": "U21539",
+   "en": "by chance revived his deep psyche. Donning \"Fusion Steel\", an unknown human-body enhancement system, he fights, vowing atonement and the defeat of his father."
+  },
+  {
+   "uid": "U21540",
+   "en": "An organic droid created to assist the life support and search functions of the Fusion Steel shell Lucifard, which is specialized for solo combat power. She basically has the same body composition as a human. Through meeting her friends at the Amigo, she gradually becomes more and more human."
+  },
+  {
+   "uid": "U21541",
+   "en": "A malicious alien who dislikes invading Earth by force and schemes to win the heart of an honest Earth boy. It has fighting power equal to Ultraman's, fires destruction rays from its hands, and can also make humans giant. Height 2–60 m, weight 40 kg–20,000 t. In the game it took in young Daisaku Kusama and tried to win him over. Its",
+   "note": "Sentence continues in U20014 ('destruction ray can also attack S-size units...')."
+  },
+  {
+   "uid": "U21542",
+   "en": "Leading nine Zolders, substitutes included, he challenged Gorenger to a fight. With a perfect 1.000 batting average, he uses his prized red bat and can even hit back the Gorenger Hurricane. He is weak against breaking balls."
+  },
+  {
+   "uid": "U21543",
+   "en": "The scientist who led the enhancement and remodeling project to make up for Red Baron's weak points in the face of the Iron Mask Party's intensifying attacks. The improvements number as many as seven, including reinforcing the glass of the right eye, which is the cockpit, and shortening the time the hatch stays open when firing the Baron Missiles."
+  },
+  {
+   "uid": "U21544",
+   "en": "The top official of the Earth Defense Force's Far East Base. The man who gave Moroboshi a free pass into the Ultra Garrison. Even when pressed for a decision, he makes bold calls with courage for humanity's sake. Strict about duty, but sincere by nature. 55 years old."
+  },
+  {
+   "uid": "U21545",
+   "en": "A type of prokaryotic cell originating from Number Ten, investigated and researched by SIDO's exploration ship NAAGER, which made the closest approach to Number Ten. It originally takes the form of living metal, and because its manifested form could be artificially designed and shaped, the Sakomizu family, absorbed into Number Ten, used it as the material for wearable weapons. Fusion Steel that has fused with a human's eukaryotic cells and been fully equipped becomes almost one with its user, and",
+   "note": "Sentence continues in U20031 ('boasts fearsome performance as a weapon.')."
+  },
+  {
+   "uid": "U21546",
+   "en": "A former Destron scientist who graduated from Kyoto University. Framed by Marshal Armor, he lost his right arm, but his assistants remodeled him into Riderman. At first he lived only for revenge, but as he fought alongside V3, his heart thawed. A master of field hockey."
+  },
+  {
+   "uid": "U21547",
+   "en": "Developer of the \"Yushima Diode\", a device that dramatically boosts the Defense Force's radar capability, he is called the brain of Earth. In the TV series he was controlled by the Alien Vira and made an accomplice in sabotaging the project. When the doctor joins, the \"Yushima Diode S\" and \"Yushima Diode L\" become available for development in the game, and units equipped with them get longer range on indirect"
+  },
+  {
+   "uid": "U21548",
+   "en": "attacks."
+  },
+  {
+   "uid": "U21549",
+   "en": "Destron's fourth executive. He has the blood of barbarians from the continent, and is cold-blooded. His armor repels even bazooka fire. He framed former Destron scientist Joji Yuki and tried to execute him. He transforms into Zariganna."
+  },
+  {
+   "uid": "U21550",
+   "en": "A leader figure of the free alien collective Organizer. Deeply trusted, and travels in person to each planet of the galaxy to urge them to unite."
+  },
+  {
+   "uid": "U21551",
+   "en": "A female Space Sheriff and Sharivan's partner. She usually stands by aboard the Grand Birth. Her weapon is the Birdnia Blaster."
+  },
+  {
+   "uid": "U21552",
+   "en": "Fusion Steel Shell Type D: Lucifard. It applies the properties of an unknown living metal: ultra-fine armor chips adhere to the wearer's body and cover its surface like a suit of armor. It is the ultimate man-machine interface, fusing the human body with machinery. There are several versions, but Type D takes \"destruction\" as its main purpose,",
+   "note": "Sentence continues in U20050 ('and has a specification that pushes its solo combat ability...')."
+  },
+  {
+   "uid": "U21553",
+   "en": "A tactician who came to Madou from the World of the Dead. He gets inside an opponent's very heart, torments them with illusions of death and finally brings them to their death. In the original show, not content to be a mere tactician, he aimed to take control of Madou."
+  },
+  {
+   "uid": "U21554",
+   "en": "A violent skull kaiju that lives on the volcanic Tatara Island. It is so belligerent and vicious that other kaiju flee on hearing its roar. It rampages with boulder drops, karate chops and the like. Several of them have been confirmed to exist. Height 45 m, weight 20,000 t."
+  },
+  {
+   "uid": "U21555",
+   "en": "The form RX transforms into through the energy of sorrow. Also called the Prince of Flames. He exerts 1.2 times RX's power and has an extremely tough body that withstands both high and low temperatures. He attacks enemies with the ray gun Voltic Shooter. His jumping ability is 48 m. His machine is the Roboizer."
+  },
+  {
+   "uid": "U21556",
+   "en": "A second-year student at Tonan University. Awakened to his own psychic powers by the Neo-Human Empire's attack, he is a mutant of justice who transforms into Inazuman. He is good at soccer and lives in the university dormitory. He has a mother he was separated from 15 years ago."
+  },
+  {
+   "uid": "U21557",
+   "en": "A swordmaster robot hired by Shadow to kill 01. He despises cowardly methods. He is in love with Bijinder and has even written her a love letter. He can't stand dogs, which, unlike him, can tell good from evil."
+  },
+  {
+   "uid": "U21558",
+   "en": "The form in which Waruder's shadow is made solid for just three minutes by the shadow-figure generator of the Shadow Shadow Plan. Its personality is the opposite of the original's, and it has twice the power. Waruder (Shadow) became strong against dogs, but on the other hand, influenced by the original, who can't tell good from evil, it can turn either good or evil."
+  }
+ ],
+ "report": {
+  "rows_in_slice": 85,
+  "rows_examined": 85,
+  "uncertain": [
+   "ALL: the entry_name_en hints in this batch are misaligned. They are mostly other entries' descriptions, not the names of these rows' entries (e.g. U21474 is Inazuman's text but the hint is Ide's description; U21499/U21509/U21526/U21536 hints say Professor Hustler/Satoru Hinata/Bosgun/Mimi). I ignored them and identified each entry from the Japanese and the empty-summary list in docs/library_glossary.md.",
+   "Entry identification inferred from content: U21474 Inazuman, U21475 Ryoma Sakomizu, U21476 Alien Zarab, U21477 Jark Midora, U21478 Metal Hero (Male)?/Ryoma (Naager-era text), U21479 Shadowman, U21480 Jamila, U21481 Daitetsujin One-Seven, U21482 Takkong, U21483 Chakram, U21484 Archbishop Wing, U21485 Emperor Banba, U21486 Iron Mask General Temujin, U21487 Dr. Deviler, U21488 TV-Fly, U21489 Special Fighter Tenso, U21490 Atefarina the Battle Princess, U21491 Dr. Dorothy Anderson, U21492 Don Horror, U21493-94 Naager, U21495 Alien Nackle, U21496 Fake Ultraman, U21497 Haken Killer, U21498 Bio Rider, U21500 White Eagle Musasabi, U21501 Hanpei Hattori, U21502 Hayata, U21503 Bara Banbara, U21504 Varicane, U21505 Hurricane Robot, U21506 Baribari, U21507 Hunter Killer, U21508 Alien Pitt, U21510 Seijiro Hinata, U21511 Hirata, U21512 Bilgamo, U21513 Akane Hirota, U21514 Phantom Soldier, U21515 Akiko Fuji, U21516 Black King, U21517 Furuhashi, U21518 Brain, U21519 Professor Gill, U21520 Chap Soldier, U21521 Commander Hessler, U21522 Alien Pedan, U21523 Bemular, U21524 Bell Billy, U21525 Bosgun, U21527 Daisaku Hori, U21528 Marie Hanamura, U21529 Maribaron, U21530 Mummy Man, U21531 Missile Gecko, U21532 Juro Minami (U3), U21533 Takeshi Minami, U21534 Assistant Minoshima, U21535 Mimi, U21537 Dr. Miyabe, U21538-39 Metal Hero (Male), U21540 Metal Heroine, U21541 Alien Mefilas, U21542 Baseball Mask, U21543 Dr. Yazawa, U21544 Director Yamaoka, U21545 Fusion Steel, U21546 Joji Yuki, U21547-48 Dr. Yushima, U21549 Marshal Armor, U21550 Rita (by kana order), U21551 Lily, U21552 Lucifard, U21553 Raider, U21554 Red King, U21555 Robo Rider, U21556 Goro Watari, U21557 Waruder, U21558 Waruder (Shadow).",
+   "U21493/U21494: the Japanese splits mid-verb (実現してい / る。); U21493 carries the whole sentence and U21494 starts with the next sentence.",
+   "U21538/U21539 and U21547/U21548: split mid-sentence; English cut at the matching point.",
+   "U21523: ends 手ごわい with no continuation row found (the 存任である。 row U19882 sits after Alien Baltan); finished the sentence with 'making it a tough foe.'",
+   "U21532: continuation is U20001 'must.'; ended with '...is the answer one' so it reads '...the answer one must.'",
+   "U21476/U21541: weights read 30～2百t / 40～2百t; the lower bound lacks a unit; rendered '30 kg–20,000 t' / '40 kg–20,000 t' (canonical Zarab/Mefilas human-size weights).",
+   "Weights: 百 in 体貢N百...t is the battle-font misread of 万 (as in earlier batches): 2百3000t = 23,000 t, 6百8000t = 68,000 t, 1百5000t = 15,000 t, etc.",
+   "U21555: the Japanese gives Robo Rider's alias as 炎の王子; translated literally as 'Prince of Flames' (the show's alias is 'Prince of Sorrow'). U21498 怒りの王子 = 'Prince of Wrath', matching the earlier dialogue rendering.",
+   "U21484: 袵から出す超音波 read as 袖 'sleeves'; could also be 口 'mouth'.",
+   "U21500: 綿状の翼 read as 網状 'net-like wings'.",
+   "U21516: ブレスレット rendered 'Ultra Bracelet' for clarity.",
+   "U21524: Bell Billy given 'his' (canonically Bell Helen's younger brother); the Japanese has no pronoun.",
+   "U21550: no gender in the Japanese; written without pronouns.",
+   "U21486: 1、2の指揮能力 = 'ranks first or second'.",
+   "U21531: 笙手 read as 両手 'both hands'; U21519: 杖の笙 read as 杖の笛 'the flute in his cane'."
+  ],
+  "omissions_kept": [
+   "U21550: subject left implicit after 'Deeply trusted, and travels...' to avoid assigning a gender."
+  ],
+  "new_names": [
+   {
+    "en": "Dr. Miyabe",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Alien Baltan Jr.",
+    "why": "not in glossary (glossary has Alien Baltan II for 2代目)"
+   },
+   {
+    "en": "Manji religion",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Wing Clan",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Iron Man Corps",
+    "why": "not in glossary"
+   },
+   {
+    "en": "the Demon General of Mongolia",
+    "why": "epithet"
+   },
+   {
+    "en": "Hoshino Space Cannon",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Earth-axis shift device",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Space Laser cannon",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Soul Affector / Booster L",
+    "why": "development items not in glossary"
+   },
+   {
+    "en": "Yushima Diode S / Yushima Diode L",
+    "why": "development items not in glossary"
+   },
+   {
+    "en": "Project Blue",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Grace",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Organizer",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Satan Z",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Bio Blade",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Voltic Shooter",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Musasabi Hell Squeeze",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Fushigi Song",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Beta Capsule",
+    "why": "matches existing Ultraman entry"
+   },
+   {
+    "en": "shadow-figure generator",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Tonan University / Tozai University Space Science Institute",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Oninodai Hills",
+    "why": "place name"
+   },
+   {
+    "en": "Ryugamori",
+    "why": "place name"
+   },
+   {
+    "en": "Daisuke",
+    "why": "Daisaku Hori's brother, not in glossary"
+   },
+   {
+    "en": "World of the Dead",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U21474",
+    "likely": "桁外れ"
+   },
+   {
+    "uid": "U21474",
+    "likely": "変身"
+   },
+   {
+    "uid": "U21475",
+    "likely": "抜きん"
+   },
+   {
+    "uid": "U21475",
+    "likely": "調査"
+   },
+   {
+    "uid": "U21475",
+    "likely": "作り出した"
+   },
+   {
+    "uid": "U21476",
+    "likely": "当初"
+   },
+   {
+    "uid": "U21476",
+    "likely": "除去"
+   },
+   {
+    "uid": "U21476",
+    "likely": "偽ウルトラマン"
+   },
+   {
+    "uid": "U21476",
+    "likely": "体重"
+   },
+   {
+    "uid": "U21476",
+    "likely": "2万t"
+   },
+   {
+    "uid": "U21478",
+    "likely": "現在"
+   },
+   {
+    "uid": "U21480",
+    "likely": "異常気象"
+   },
+   {
+    "uid": "U21480",
+    "likely": "口"
+   },
+   {
+    "uid": "U21482",
+    "likely": "噛み付き"
+   },
+   {
+    "uid": "U21482",
+    "likely": "存在"
+   },
+   {
+    "uid": "U21483",
+    "likely": "官房長"
+   },
+   {
+    "uid": "U21484",
+    "likely": "地中海"
+   },
+   {
+    "uid": "U21484",
+    "likely": "幽閉"
+   },
+   {
+    "uid": "U21484",
+    "likely": "自在"
+   },
+   {
+    "uid": "U21484",
+    "likely": "袖"
+   },
+   {
+    "uid": "U21485",
+    "likely": "世界"
+   },
+   {
+    "uid": "U21485",
+    "likely": "権力"
+   },
+   {
+    "uid": "U21485",
+    "likely": "誇る"
+   },
+   {
+    "uid": "U21487",
+    "likely": "海底"
+   },
+   {
+    "uid": "U21488",
+    "likely": "病院"
+   },
+   {
+    "uid": "U21489",
+    "likely": "専守"
+   },
+   {
+    "uid": "U21489",
+    "likely": "大気圏"
+   },
+   {
+    "uid": "U21490",
+    "likely": "構築"
+   },
+   {
+    "uid": "U21491",
+    "likely": "招かれる"
+   },
+   {
+    "uid": "U21492",
+    "likely": "植民地"
+   },
+   {
+    "uid": "U21492",
+    "likely": "満ちた"
+   },
+   {
+    "uid": "U21493",
+    "likely": "縮退状態で格納"
+   },
+   {
+    "uid": "U21493",
+    "likely": "付近"
+   },
+   {
+    "uid": "U21494",
+    "likely": "巨艦"
+   },
+   {
+    "uid": "U21495",
+    "likely": "卑怯"
+   },
+   {
+    "uid": "U21496",
+    "likely": "信用を失墜"
+   },
+   {
+    "uid": "U21497",
+    "likely": "盾"
+   },
+   {
+    "uid": "U21498",
+    "likely": "すり抜けたり"
+   },
+   {
+    "uid": "U21499",
+    "likely": "蜂女"
+   },
+   {
+    "uid": "U21500",
+    "likely": "毒蛇"
+   },
+   {
+    "uid": "U21500",
+    "likely": "網状"
+   },
+   {
+    "uid": "U21501",
+    "likely": "20世紀"
+   },
+   {
+    "uid": "U21501",
+    "likely": "名探偵"
+   },
+   {
+    "uid": "U21501",
+    "likely": "正義感"
+   },
+   {
+    "uid": "U21501",
+    "likely": "口調"
+   },
+   {
+    "uid": "U21501",
+    "likely": "古風"
+   },
+   {
+    "uid": "U21503",
+    "likely": "撒き散らし"
+   },
+   {
+    "uid": "U21504",
+    "likely": "近海"
+   },
+   {
+    "uid": "U21504",
+    "likely": "生理"
+   },
+   {
+    "uid": "U21506",
+    "likely": "怪屋敷"
+   },
+   {
+    "uid": "U21506",
+    "likely": "海賊放送"
+   },
+   {
+    "uid": "U21507",
+    "likely": "寝返った"
+   },
+   {
+    "uid": "U21507",
+    "likely": "執拗"
+   },
+   {
+    "uid": "U21507",
+    "likely": "拷問"
+   },
+   {
+    "uid": "U21508",
+    "likely": "油断"
+   },
+   {
+    "uid": "U21510",
+    "likely": "細胞"
+   },
+   {
+    "uid": "U21510",
+    "likely": "活性"
+   },
+   {
+    "uid": "U21510",
+    "likely": "焼失"
+   },
+   {
+    "uid": "U21512",
+    "likely": "バルタン星人Jr."
+   },
+   {
+    "uid": "U21512",
+    "likely": "偽装"
+   },
+   {
+    "uid": "U21513",
+    "likely": "超遠距離"
+   },
+   {
+    "uid": "U21513",
+    "likely": "当事者"
+   },
+   {
+    "uid": "U21515",
+    "likely": "通信"
+   },
+   {
+    "uid": "U21515",
+    "likely": "担当"
+   },
+   {
+    "uid": "U21515",
+    "likely": "時折"
+   },
+   {
+    "uid": "U21517",
+    "likely": "北海道"
+   },
+   {
+    "uid": "U21518",
+    "likely": "目覚め"
+   },
+   {
+    "uid": "U21519",
+    "likely": "杖の笛"
+   },
+   {
+    "uid": "U21520",
+    "likely": "訓練"
+   },
+   {
+    "uid": "U21521",
+    "likely": "不思議界"
+   },
+   {
+    "uid": "U21523",
+    "likely": "護送"
+   },
+   {
+    "uid": "U21523",
+    "likely": "湖"
+   },
+   {
+    "uid": "U21524",
+    "likely": "追跡"
+   },
+   {
+    "uid": "U21524",
+    "likely": "自信過剰"
+   },
+   {
+    "uid": "U21525",
+    "likely": "海兵隊長"
+   },
+   {
+    "uid": "U21526",
+    "likely": "堀大作"
+   },
+   {
+    "uid": "U21527",
+    "likely": "相当"
+   },
+   {
+    "uid": "U21527",
+    "likely": "普段"
+   },
+   {
+    "uid": "U21527",
+    "likely": "原稿運び"
+   },
+   {
+    "uid": "U21527",
+    "likely": "告げて"
+   },
+   {
+    "uid": "U21528",
+    "likely": "内勤"
+   },
+   {
+    "uid": "U21528",
+    "likely": "活躍"
+   },
+   {
+    "uid": "U21529",
+    "likely": "身に付け"
+   },
+   {
+    "uid": "U21530",
+    "likely": "鬼ノ台"
+   },
+   {
+    "uid": "U21530",
+    "likely": "両眼"
+   },
+   {
+    "uid": "U21531",
+    "likely": "両手"
+   },
+   {
+    "uid": "U21532",
+    "likely": "兄貴分"
+   },
+   {
+    "uid": "U21532",
+    "likely": "失敗"
+   },
+   {
+    "uid": "U21532",
+    "likely": "信頼"
+   },
+   {
+    "uid": "U21533",
+    "likely": "溢れた"
+   },
+   {
+    "uid": "U21534",
+    "likely": "当時"
+   },
+   {
+    "uid": "U21537",
+    "likely": "網"
+   },
+   {
+    "uid": "U21538",
+    "likely": "惑星"
+   },
+   {
+    "uid": "U21539",
+    "likely": "心理"
+   },
+   {
+    "uid": "U21539",
+    "likely": "復活"
+   },
+   {
+    "uid": "U21541",
+    "likely": "互角"
+   },
+   {
+    "uid": "U21543",
+    "likely": "開口"
+   },
+   {
+    "uid": "U21546",
+    "likely": "元帥"
+   },
+   {
+    "uid": "U21546",
+    "likely": "失った"
+   },
+   {
+    "uid": "U21547",
+    "likely": "活動"
+   },
+   {
+    "uid": "U21547",
+    "likely": "ユシマダイオードS"
+   },
+   {
+    "uid": "U21550",
+    "likely": "指導者"
+   },
+   {
+    "uid": "U21552",
+    "likely": "付着"
+   },
+   {
+    "uid": "U21552",
+    "likely": "表層"
+   },
+   {
+    "uid": "U21553",
+    "likely": "死霊界"
+   },
+   {
+    "uid": "U21553",
+    "likely": "目論んだ"
+   },
+   {
+    "uid": "U21554",
+    "likely": "聞く"
+   },
+   {
+    "uid": "U21554",
+    "likely": "岩石"
+   },
+   {
+    "uid": "U21555",
+    "likely": "倍"
+   },
+   {
+    "uid": "U21555",
+    "likely": "低温"
+   },
+   {
+    "uid": "U21556",
+    "likely": "寮"
+   },
+   {
+    "uid": "U21557",
+    "likely": "惚れて"
+   },
+   {
+    "uid": "U21557",
+    "likely": "書いた"
+   }
+  ]
+ }
+}

@@ -1,0 +1,357 @@
+{
+ "batch": "B0210",
+ "rows": [
+  {
+   "uid": "U16746",
+   "en": "Jun Yabuki: Please, hit!!"
+  },
+  {
+   "uid": "U16747",
+   "en": "Like I'd let that hit me!"
+  },
+  {
+   "uid": "U16748",
+   "en": "Dodged it!"
+  },
+  {
+   "uid": "U16749",
+   "en": "I'm just getting started!"
+  },
+  {
+   "uid": "U16750",
+   "en": "Ngh! …Not yet, not yet!!"
+  },
+  {
+   "uid": "U16751",
+   "en": "Whoa! Hold together, machine!"
+  },
+  {
+   "uid": "U16752",
+   "en": "Wh-What!? Whoa!!"
+  },
+  {
+   "uid": "U16753",
+   "en": "Here I go!!"
+  },
+  {
+   "uid": "U16754",
+   "en": "Take this, Cyclone!!"
+  },
+  {
+   "uid": "U16755",
+   "en": "Take this! Cyclone Cutter!!"
+  },
+  {
+   "uid": "U16756",
+   "en": "I won't forgive evil!!"
+  },
+  {
+   "uid": "U16757",
+   "en": "Like I'd let that hit me!"
+  },
+  {
+   "uid": "U16758",
+   "en": "Dodged it!"
+  },
+  {
+   "uid": "U16759",
+   "en": "I'm just getting started!"
+  },
+  {
+   "uid": "U16760",
+   "en": "Ngh! …Not yet, not yet!!"
+  },
+  {
+   "uid": "U16761",
+   "en": "Whoa! Hold together, machine!"
+  },
+  {
+   "uid": "U16762",
+   "en": "Wh-What!? Whoa!!"
+  },
+  {
+   "uid": "U16763",
+   "en": "Here I go!!"
+  },
+  {
+   "uid": "U16764",
+   "en": "Take this, Cyclone!!"
+  },
+  {
+   "uid": "U16765",
+   "en": "Whoa, whoa!!"
+  },
+  {
+   "uid": "U16766",
+   "en": "Whoa, that was close!"
+  },
+  {
+   "uid": "U16767",
+   "en": "Ngh, that's nothing!"
+  },
+  {
+   "uid": "U16768",
+   "en": "Not yet!"
+  },
+  {
+   "uid": "U16769",
+   "en": "Ngh, that one really hurt!"
+  },
+  {
+   "uid": "U16770",
+   "en": "Uooooh!?"
+  },
+  {
+   "uid": "U16771",
+   "en": "All right, here I go!!"
+  },
+  {
+   "uid": "U16772",
+   "en": "Deyaah!!"
+  },
+  {
+   "uid": "U16773",
+   "en": "Whoa, whoa!!"
+  },
+  {
+   "uid": "U16774",
+   "en": "Whoa, that was close!"
+  },
+  {
+   "uid": "U16775",
+   "en": "Ngh, that's nothing!"
+  },
+  {
+   "uid": "U16776",
+   "en": "Not yet!"
+  },
+  {
+   "uid": "U16777",
+   "en": "Ngh, that one really hurt!"
+  },
+  {
+   "uid": "U16778",
+   "en": "Uooooh!?"
+  },
+  {
+   "uid": "U16779",
+   "en": "All right, here I go!!"
+  },
+  {
+   "uid": "U16780",
+   "en": "Tooh!!"
+  },
+  {
+   "uid": "U16781",
+   "en": "Gavan! Barrier!!"
+  },
+  {
+   "uid": "U16782",
+   "en": "Tch!!"
+  },
+  {
+   "uid": "U16783",
+   "en": "Galactica Punch!!"
+  },
+  {
+   "uid": "U16784",
+   "en": "Spiral Kick!!"
+  },
+  {
+   "uid": "U16785",
+   "en": "Dimension Bomber!!"
+  },
+  {
+   "uid": "U16786",
+   "en": "Laser! Z Beam!!"
+  },
+  {
+   "uid": "U16787",
+   "en": "Silver Beam!!"
+  },
+  {
+   "uid": "U16788",
+   "en": "Laser Blade!"
+  },
+  {
+   "uid": "U16789",
+   "en": "Gavan! Dynamic!!"
+  },
+  {
+   "uid": "U16790",
+   "en": "Deyaah!!"
+  },
+  {
+   "uid": "U16791",
+   "en": "Missiles, fire!!"
+  },
+  {
+   "uid": "U16792",
+   "en": "Laser, fire!!"
+  },
+  {
+   "uid": "U16793",
+   "en": "Hmph!!"
+  },
+  {
+   "uid": "U16794",
+   "en": "Whoa!?"
+  },
+  {
+   "uid": "U16795",
+   "en": "Agh!"
+  },
+  {
+   "uid": "U16796",
+   "en": "I-I won't lose!"
+  },
+  {
+   "uid": "U16797",
+   "en": "Uooh!?"
+  },
+  {
+   "uid": "U16798",
+   "en": "Oh n-no!?"
+  },
+  {
+   "uid": "U16799",
+   "en": "Tei!!"
+  },
+  {
+   "uid": "U16800",
+   "en": "Here I go!!"
+  },
+  {
+   "uid": "U16801",
+   "en": "Hmph!!"
+  },
+  {
+   "uid": "U16802",
+   "en": "Whoa!?"
+  },
+  {
+   "uid": "U16803",
+   "en": "Like that'll work on me!"
+  },
+  {
+   "uid": "U16804",
+   "en": "Not yet!"
+  },
+  {
+   "uid": "U16805",
+   "en": "Uooh!?"
+  },
+  {
+   "uid": "U16806",
+   "en": "Oh n-no!?"
+  },
+  {
+   "uid": "U16807",
+   "en": "Come on!!"
+  },
+  {
+   "uid": "U16808",
+   "en": "I'm coming at you!!"
+  },
+  {
+   "uid": "U16809",
+   "en": "Sharivan! Protection!!"
+  },
+  {
+   "uid": "U16810",
+   "en": "Laser Blade!"
+  },
+  {
+   "uid": "U16811",
+   "en": "Spark Bomber!!"
+  },
+  {
+   "uid": "U16812",
+   "en": "Solar Shoot!!"
+  },
+  {
+   "uid": "U16813",
+   "en": "Here I go! Magnum Chop!!"
+  },
+  {
+   "uid": "U16814",
+   "en": "Elbow Hammer!!"
+  },
+  {
+   "uid": "U16815",
+   "en": "Crime Buster!!"
+  },
+  {
+   "uid": "U16816",
+   "en": "Laser Blade!"
+  },
+  {
+   "uid": "U16817",
+   "en": "Sharivan! Craaash!!"
+  },
+  {
+   "uid": "U16818",
+   "en": "Sharivan! Kick!!"
+  },
+  {
+   "uid": "U16819",
+   "en": "Kyah, look out!"
+  },
+  {
+   "uid": "U16820",
+   "en": "Th-That was close…!"
+  },
+  {
+   "uid": "U16821",
+   "en": "Y-You'll pay for that!"
+  },
+  {
+   "uid": "U16822",
+   "en": "Kyaah!!"
+  },
+  {
+   "uid": "U16823",
+   "en": "Ah, at this rate…!"
+  },
+  {
+   "uid": "U16824",
+   "en": "I-I'm sorry, Sharivan…"
+  },
+  {
+   "uid": "U16825",
+   "en": "Here I go!!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U16781, U16809: ギャバン！バリア / [ja] rendered 'Gavan! Barrier!!' / 'Sharivan! Protection!!' (no glossary entry)",
+   "U16783, U16812-U16814: Galactica Punch, Solar Shoot, Magnum Chop, Elbow Hammer not in glossary"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Galactica Punch",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Silver Beam",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Solar Shoot",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Magnum Chop",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Elbow Hammer",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": []
+ }
+}

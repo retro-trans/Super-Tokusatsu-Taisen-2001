@@ -1,0 +1,464 @@
+{
+ "batch": "B0249",
+ "rows": [
+  {
+   "uid": "U19880",
+   "en": "Alien Baltan"
+  },
+  {
+   "uid": "U19881",
+   "en": "Space ninjas who lost their home planet Baltan to nuclear tests and wander the universe with some 2.2 billion of their kin. They can create copies of themselves, teleport, stop human movement, and fire weird rays that destroy buildings. Their weakness is Specium, an energy found on Mars. Height 50 m, weight 15,000 t. In the game, the weird ray can also attack S-size units, making them a tough"
+  },
+  {
+   "uid": "U19882",
+   "en": "foe."
+  },
+  {
+   "uid": "U19883",
+   "en": "Alien Baltan II"
+  },
+  {
+   "uid": "U19884",
+   "en": "Space ninjas who invaded Earth again leading a great army. A Spellgen reflector on the chest repels the Specium Ray. They invade Earth many more times after this. Height 50 m, weight 15,000 t. In the game, the weird ray can also attack S-size units, making them a tough foe."
+  },
+  {
+   "uid": "U19885",
+   "en": "Hunter Killer"
+  },
+  {
+   "uid": "U19886",
+   "en": "Branch Chief Higashi"
+  },
+  {
+   "uid": "U19887",
+   "en": "Head of the Japan branch of the International Secret Police Organization, the Unicorn Agency, code-named U1. He rarely leaves headquarters, but always led Unicorn with sound judgment. He often gives strong support in the field to agents such as U3 Minami and U7 Kusama, and is a dependable presence."
+  },
+  {
+   "uid": "U19888",
+   "en": "Bijinder"
+  },
+  {
+   "uid": "U19889",
+   "en": "Mari transforms with the call \"Change Bijinder\" and appears from within a flower garden. Her special attacks are the Bijinder Laser, fired from her chest, and the bowgun. She is weak against cold."
+  },
+  {
+   "uid": "U19890",
+   "en": "Bijinder (Shadow)"
+  },
+  {
+   "uid": "U19891",
+   "en": "Bijinder's shadow, given physical form for just three minutes by the shadow-making machine of the Shadow Shadow Plan. Its personality is the opposite of the original's, with an evil heart, and it has twice the power."
+  },
+  {
+   "uid": "U19892",
+   "en": "Big Shadow"
+  },
+  {
+   "uid": "U19893",
+   "en": "The ruler of the secret crime organization Shadow. He plots world conquest using a robot army called the Shadow Assassination Squad. A large organization, it even has a base on the Moon."
+  },
+  {
+   "uid": "U19894",
+   "en": "Alien Pitt"
+  },
+  {
+   "uid": "U19895",
+   "en": "Volcano Mask General Magman"
+  },
+  {
+   "uid": "U19896",
+   "en": "The Black Cross Army's third executive, summoned from Mount Hekla in Iceland. When angry, he erupts and launches volcanic bombs from his head. He commands the Eruption Army."
+  },
+  {
+   "uid": "U19897",
+   "en": "Satoru Hinata"
+  },
+  {
+   "uid": "U19898",
+   "en": "A clinical test subject of \"Vol\", the unknown cells Dr. Hinata collected at Nojimazaki. 22 years old. Dr. Hinata's eldest son and the Bio heroine's older brother. He was more or less forced into being a test subject by his father, who dreamed of coexistence with new cells that would carry the next generation. Clinical test subject No. 5."
+  },
+  {
+   "uid": "U19899",
+   "en": "Dr. Hinata"
+  },
+  {
+   "uid": "U19900",
+   "en": "A biophysicist who recognized Number Ten, which appeared at the outer edge of the solar system, as a life form, and was driven out of the TDF of the time for reporting it. He named the new type of cells collected at Nojimazaki \"Vol\" and tried to control them artificially as cells that bring immortality. He is the Bio heroine's real father. He died in the fire at the laboratory three"
+  },
+  {
+   "uid": "U19901",
+   "en": "years ago."
+  },
+  {
+   "uid": "U19902",
+   "en": "Hirata"
+  },
+  {
+   "uid": "U19903",
+   "en": "Alien Vira"
+  },
+  {
+   "uid": "U19904",
+   "en": "To destroy the TDF's ultra-long-range radar, it controlled Dr. Yushima, creator of the Yushima Diode, to carry out sabotage. Space shrimp-people with technology advanced enough to stop time. They fire destruction rays from their eyes and blow yellow gas from their mouths. Height 1.8-40 m, weight 100 kg-10,000 t."
+  },
+  {
+   "uid": "U19905",
+   "en": "Hien"
+  },
+  {
+   "uid": "U19906",
+   "en": "A pollution-monitoring and removal robot developed in Japan. It was stolen by the Iron Mask Party and remodeled into an invasion robot. It can absorb any beam or gas and carries six-tube missile launchers in its abdomen."
+  },
+  {
+   "uid": "U19907",
+   "en": "Hiru-Chameleon"
+  },
+  {
+   "uid": "U19908",
+   "en": "The form General Black transformed into. He uses camouflage to vanish and toy with enemies. He can also bring back revived monsters using human blood."
+  },
+  {
+   "uid": "U19909",
+   "en": "Bilgamo"
+  },
+  {
+   "uid": "U19910",
+   "en": "Hiroshi"
+  },
+  {
+   "uid": "U19911",
+   "en": "Akira's older brother and Professor Gill's eldest son. Half of the Giant Devil blueprints were hidden on his back, and he continues life on the run from Shadow's pursuers with his caretaker Misao."
+  },
+  {
+   "uid": "U19912",
+   "en": "Akane Hirota"
+  },
+  {
+   "uid": "U19913",
+   "en": "Fightlow"
+  },
+  {
+   "uid": "U19914",
+   "en": "Madou's low-level combatants. Armed with daggers and spears, they carry out the Demon Beasts' operations. They act in groups."
+  },
+  {
+   "uid": "U19915",
+   "en": "Fadita"
+  },
+  {
+   "uid": "U19916",
+   "en": "Fusion Steel Shell Proto-Zero: Fadita. A prototype Fusion Steel shell created in Naager for fusion tests with the human body. It is also the combat form of the Metal heroine. Since it was built solely to support Lucifard, the combat-specialized Type D, it originally had no weapons, but it later gained a repair function as Lucifard's dedicated support equipment, and the Destroyer Blast, a mechanism that attacks by reversing"
+  },
+  {
+   "uid": "U19917",
+   "en": "the flow of that energy."
+  },
+  {
+   "uid": "U19918",
+   "en": "Phantom Soldier"
+  },
+  {
+   "uid": "U19919",
+   "en": "Akiko Fuji"
+  },
+  {
+   "uid": "U19920",
+   "en": "Black King"
+  },
+  {
+   "uid": "U19921",
+   "en": "General Black"
+  },
+  {
+   "uid": "U19922",
+   "en": "A chief executive of Gel-Shocker. From Russia, he is credited with uniting the Geldam Clan and Shocker. He excels at creating monsters by combining living creatures, and his abilities are said to equal a Rider's. He transforms into Hiru-Chameleon."
+  },
+  {
+   "uid": "U19923",
+   "en": "Alien Black"
+  },
+  {
+   "uid": "U19924",
+   "en": "Freezing aliens who came from Planet Black to invade Earth and tried to kidnap young men and women for labor. They control the snow-woman kaiju Snowgon and have a forward base on Saturn. Height 2.1 m, weight 99 kg."
+  },
+  {
+   "uid": "U19925",
+   "en": "Furuhashi"
+  },
+  {
+   "uid": "U19926",
+   "en": "Blue Hawk"
+  },
+  {
+   "uid": "U19927",
+   "en": "Shaider's super-dimensional machine. It can break into the Fushigi World and run at 790 km/h. In 1/100 of a second it can transform into a Mach 3 flight mode."
+  },
+  {
+   "uid": "U19928",
+   "en": "Brain"
+  },
+  {
+   "uid": "U19929",
+   "en": "Professor Gill"
+  },
+  {
+   "uid": "U19930",
+   "en": "Chap Soldier"
+  },
+  {
+   "uid": "U19931",
+   "en": "Peggy Matsuyama"
+  },
+  {
+   "uid": "U19932",
+   "en": "The survivor of EAGLE's Hokkaido branch, which was wiped out by Jade Mask. A bomb expert and a master of kicks. She transforms into Momorenger."
+  },
+  {
+   "uid": "U19933",
+   "en": "Commander Hessler"
+  },
+  {
+   "uid": "U19934",
+   "en": "Alien Pedan"
+  },
+  {
+   "uid": "U19935",
+   "en": "Bemstar"
+  },
+  {
+   "uid": "U19936",
+   "en": "A giant space kaiju that flew in from the Crab Nebula. It ate the MAT Station, and the pentagonal mouth on its belly absorbs even Ultraman's Specium Ray. It fires destruction rays from the horn on its head. Height 46 m, weight 61,000 t."
+  },
+  {
+   "uid": "U19937",
+   "en": "Bemular"
+  },
+  {
+   "uid": "U19938",
+   "en": "Bell Billy"
+  },
+  {
+   "uid": "U19939",
+   "en": "Bell Helen"
+  },
+  {
+   "uid": "U19940",
+   "en": "A descendant of the destroyed Planet Iga. While traveling between planets, she was attacked by Madou and her parents were killed. Burning for revenge ever since, she hunts for Madou. An expert marksman and Bell Billy's older sister. Her younger brother Billy was killed by General Guiler when he tried to take revenge."
+  },
+  {
+   "uid": "U19941",
+   "en": "Voicer"
+  },
+  {
+   "uid": "U19942",
+   "en": "A former Space Sheriff. Father of Gavan, a.k.a. Retsu Ichijouji; his wife is Tamiko Ichijouji, an Earthling. He holds the key to the super weapon Hoshino Space Cannon, and after his comrade Hunter Killer betrayed him, he was held by Makuu and relentlessly tortured."
+  },
+  {
+   "uid": "U19943",
+   "en": "Boiler Desper"
+  },
+  {
+   "uid": "U19944",
+   "en": "Its weapon is a heat shower that melts even rock. The claws on its left hand are Fire Claws, which it drives into enemies to burn them to death."
+  },
+  {
+   "uid": "U19945",
+   "en": "Pointer"
+  },
+  {
+   "uid": "U19946",
+   "en": "A special amphibious vehicle exclusive to the Ultra Garrison. It can generate a barrier and launch missile attacks, and has superb defensive and combat performance. Top speed 365 km/h. In the game it can carry two people besides the driver and is equipped with an anti-L laser cannon."
+  },
+  {
+   "uid": "U19947",
+   "en": "Staff Officer Bogard"
+  },
+  {
+   "uid": "U19948",
+   "en": "A staff officer of the TDF Joint Operations Headquarters, posted at the Far East Base. One of the five top leaders. He was dispatched from the Washington branch, the largest after the Far East Base."
+  },
+  {
+   "uid": "U19949",
+   "en": "Bosgun"
+  },
+  {
+   "uid": "U19950",
+   "en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U19951",
+   "en": "A genius with an IQ of 600 who researched biochemistry at Jonan University, and an all-round athlete too. Kidnapped by the evil secret organization Shocker, he was remodeled but escaped before his brain was altered, and became a warrior of justice. He stakes his life on the fight against Shocker."
+  },
+  {
+   "uid": "U19952",
+   "en": "Mara"
+  },
+  {
+   "uid": "U19953",
+   "en": "A female monster born from the silver ray emitted from Shadow Moon's right hand. She always attends behind Shadow Moon. Her red claws on both hands are her trademark."
+  },
+  {
+   "uid": "U19954",
+   "en": "Dr. Maeno"
+  },
+  {
+   "uid": "U19955",
+   "en": "A female scientist and the leading authority on space biology. With Dr. Segawa she worked on developing the planet-attack super weapon \"R1\", but in the first observation, which took six months, she found no life on Planet Gyeron and chose that planet as R1's testing ground. She later joins the TDF science group, making the \"Active Armor S\" and \"Active Armor L\" available for development in the game."
+  },
+  {
+   "uid": "U19956",
+   "en": "Demon King Psycho"
+  },
+  {
+   "uid": "U19957",
+   "en": "Leader of the psychic crime group Madou. From Genmu Castle in the Genmu World, a demonic space where matter sucked into a black hole decomposes into atoms and erupts back out, he plots to rule the whole universe, and intimidates even his subordinates with his psychic powers. Psycholer exists as his alter ego, sharing his life."
+  },
+  {
+   "uid": "U19958",
+   "en": "Masaru"
+  },
+  {
+   "uid": "U19959",
+   "en": "Dr. Komyoji's second son and Mitsuko's younger brother. He continues the journey with his sister in search of the missing Dr. Komyoji. Seeing with a child's eyes, he treats the android Jiro most naturally of all, and noticed Mitsuko's feelings for Jiro early on."
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U19881: 22嬉3000百 read as 22億 = 2.2 billion (OCR damaged); 夫い read as 失い",
+   "U19881-U19882, U19900-U19901, U19916-U19917: sentences split across rows; English split at the matching point",
+   "U19884: 膤 read as 胸 'chest' (Spellgen reflector is on the chest in the show)",
+   "U19889: 膤から発射 likewise read as chest",
+   "U19896: エクラ火山 rendered 'Mount Hekla' (Hekla in Iceland) - inferred",
+   "U19916: メタル系主人公（女） rendered 'the Metal heroine'",
+   "U19936/U19904: weights OCR-damaged (6百1000t read as 61,000 t)",
+   "Not in glossary: International Secret Police Organization, U1, U3, Shadow Shadow Plan, Shadow Assassination Squad, Eruption Army, Yushima Diode, Jade Mask, Crab Nebula, Spellgen reflector, Hoshino Space Cannon, TDF Joint Operations Headquarters, Active Armor S/L, Genmu World"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Metal heroine",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Jade Mask",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Spellgen reflector",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Genmu World",
+    "why": "not in glossary (Genmu Castle is)"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U19881",
+    "likely": "失い/億/存在/体重"
+   },
+   {
+    "uid": "U19884",
+    "likely": "胸/存在"
+   },
+   {
+    "uid": "U19887",
+    "likely": "存在"
+   },
+   {
+    "uid": "U19889",
+    "likely": "胸"
+   },
+   {
+    "uid": "U19891",
+    "likely": "2倍"
+   },
+   {
+    "uid": "U19893",
+    "likely": "世界"
+   },
+   {
+    "uid": "U19898",
+    "likely": "細胞"
+   },
+   {
+    "uid": "U19900",
+    "likely": "当時/物理学者/細胞"
+   },
+   {
+    "uid": "U19904",
+    "likely": "超遠距離/停止/宇宙エビ人間/口/体重"
+   },
+   {
+    "uid": "U19906",
+    "likely": "監視除去"
+   },
+   {
+    "uid": "U19911",
+    "likely": "逃亡生活"
+   },
+   {
+    "uid": "U19914",
+    "likely": "魔界獣"
+   },
+   {
+    "uid": "U19916",
+    "likely": "当初/専用"
+   },
+   {
+    "uid": "U19917",
+    "likely": "付加"
+   },
+   {
+    "uid": "U19927",
+    "likely": "不思議界"
+   },
+   {
+    "uid": "U19932",
+    "likely": "北海道/専門家"
+   },
+   {
+    "uid": "U19936",
+    "likely": "口/体重"
+   },
+   {
+    "uid": "U19940",
+    "likely": "惑星"
+   },
+   {
+    "uid": "U19942",
+    "likely": "一条寺民子/囚われ/執拗/拷問"
+   },
+   {
+    "uid": "U19944",
+    "likely": "岩/左手"
+   },
+   {
+    "uid": "U19946",
+    "likely": "専用/搭載"
+   },
+   {
+    "uid": "U19948",
+    "likely": "派遣"
+   },
+   {
+    "uid": "U19951",
+    "likely": "万能"
+   },
+   {
+    "uid": "U19953",
+    "likely": "侍女"
+   },
+   {
+    "uid": "U19955",
+    "likely": "惑星"
+   },
+   {
+    "uid": "U19957",
+    "likely": "幻夢界"
+   }
+  ]
+ }
+}

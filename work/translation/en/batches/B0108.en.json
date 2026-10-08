@@ -1,0 +1,487 @@
+{
+ "batch": "B0108",
+ "prev": "B0107",
+ "next": "B0109",
+ "rows": [
+  {
+   "uid": "U08579",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08580",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08581",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08582",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U08583",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08584",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U08585",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U08586",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08587",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08588",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U08589",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08590",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U08591",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08592",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U08593",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08594",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U08595",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08596",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U08597",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08598",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U08599",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08600",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U08601",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08602",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U08603",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08604",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08605",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08606",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08607",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08608",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08609",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08610",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08611",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08612",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08613",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08614",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08615",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08616",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U08617",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08618",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08619",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08620",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08621",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U08622",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08623",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08624",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08625",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08626",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08627",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08628",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08629",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08630",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08631",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08632",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tetsuya Sakai"
+  },
+  {
+   "uid": "U08633",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08634",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tetsuya Sakai"
+  },
+  {
+   "uid": "U08635",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08636",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U08637",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08638",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U08639",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U08640",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08641",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tetsuya Sakai"
+  },
+  {
+   "uid": "U08642",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08643",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Daisaku Hori"
+  },
+  {
+   "uid": "U08644",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U08645",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tetsuya Sakai"
+  },
+  {
+   "uid": "U08646",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08647",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U08648",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08649",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U08650",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08651",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U08652",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08653",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U08654",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U08655",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Atefarina the Battle Princess"
+  },
+  {
+   "uid": "U08656",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Yazawa"
+  },
+  {
+   "uid": "U08657",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Minoru Ogo"
+  },
+  {
+   "uid": "U08658",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  }
+ ]
+}

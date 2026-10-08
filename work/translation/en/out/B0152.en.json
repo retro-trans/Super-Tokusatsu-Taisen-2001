@@ -1,0 +1,423 @@
+{
+ "batch": "B0152",
+ "rows": [
+  {
+   "uid": "U12101",
+   "en": "Hey, Goro…<p>You're going without telling [HERO2] and the others anything?"
+  },
+  {
+   "uid": "U12102",
+   "en": "Oyassan… This time, there's no guarantee we'll come out alive.<p>Besides… even if we manage to sneak into Desper City, we don't even know if we can make it back!"
+  },
+  {
+   "uid": "U12103",
+   "en": "Even so…"
+  },
+  {
+   "uid": "U12104",
+   "en": "Oyassan… If everyone gets killed, who's going to protect the peace of the Earth?"
+  },
+  {
+   "uid": "U12105",
+   "en": "Goro, you…"
+  },
+  {
+   "uid": "U12106",
+   "en": "Come on, Mr. Arai… let's go!"
+  },
+  {
+   "uid": "U12107",
+   "en": "This is it, no doubt about it!<p>Desper City… It's just like the streets of Tokyo!"
+  },
+  {
+   "uid": "U12108",
+   "en": "Geisel built an exact copy…"
+  },
+  {
+   "uid": "U12109",
+   "en": "And an artificial sun, too…?"
+  },
+  {
+   "uid": "U12110",
+   "en": "Don't move!"
+  },
+  {
+   "uid": "U12111",
+   "en": "…!?<p>You are!?"
+  },
+  {
+   "uid": "U12112",
+   "en": "The mayor of Desper City… Sadesper! It's as if you came here to die, Goro Watari…!"
+  },
+  {
+   "uid": "U12113",
+   "en": "Sadesper?"
+  },
+  {
+   "uid": "U12114",
+   "en": "Receive the judgment of Fuhrer Geisel! Take them away!"
+  },
+  {
+   "uid": "U12115",
+   "en": "We got caught, but… we made it inside their headquarters."
+  },
+  {
+   "uid": "U12116",
+   "en": "Yes… But we don't have much time! We have to find your wife and daughter fast…<p>And stop Geisel's operation to destroy all of Japan!"
+  },
+  {
+   "uid": "U12117",
+   "en": "Right…"
+  },
+  {
+   "uid": "U12118",
+   "en": "…!?"
+  },
+  {
+   "uid": "U12119",
+   "en": "The prisoners are escaping!"
+  },
+  {
+   "uid": "U12120",
+   "en": "Fuhrer, I'm terribly sorry. I let the two of them get away…"
+  },
+  {
+   "uid": "U12121",
+   "en": "What audacity…<p>Sadesper! [VAR6] must not leave Desper City! Use our final trump card!"
+  },
+  {
+   "uid": "U12122",
+   "en": "You mean… blow up the artificial sun…?"
+  },
+  {
+   "uid": "U12123",
+   "en": "Wipe out [VAR6] along with the fifty thousand citizens!<p>And then… carry out the final plan at once!<p>That artificial sun has a nuclear explosive device based on element NM built into it.<p>It will act on the volcanic belt flowing beneath all of Japan, and in an instant, Japan will sink to the bottom of the sea!<p>Leaving only a certain region, where we will build our empire… Sadesper, you will be the sacrifice!"
+  },
+  {
+   "uid": "U12124",
+   "en": "…………"
+  },
+  {
+   "uid": "U12125",
+   "en": "Mr. Arai…"
+  },
+  {
+   "uid": "U12126",
+   "en": "My wife and daughter are probably…"
+  },
+  {
+   "uid": "U12127",
+   "en": "being forced to work in that Desper City factory, I'm sure of it…"
+  },
+  {
+   "uid": "U12128",
+   "en": "Let's go rescue them right away!"
+  },
+  {
+   "uid": "U12129",
+   "en": "Goro Watari… and Makoto Arai! You won't leave Desper City alive!"
+  },
+  {
+   "uid": "U12130",
+   "en": "The Udesper brothers! And Sadesper!"
+  },
+  {
+   "uid": "U12131",
+   "en": "Looks like… they won't let us through easily."
+  },
+  {
+   "uid": "U12132",
+   "en": "Curse you… But don't forget! You won't leave Desper City alive!"
+  },
+  {
+   "uid": "U12133",
+   "en": "Ngh… Damn you, [VAR6]…!"
+  },
+  {
+   "uid": "U12134",
+   "en": "Nuoooh…"
+  },
+  {
+   "uid": "U12135",
+   "en": "[VAR6]… I can never hate him enough!<p>He has thwarted every one of our Desper plans!<p>I have abandoned my ambition to rule all of Japan. We… must build a new Desper Empire!<p>Set the artificial sun to explode in one hour!"
+  },
+  {
+   "uid": "U12136",
+   "en": "Isn't it great, Mr. Arai? You found your wife and daughter!<p>This is the first time I've seen you look this happy."
+  },
+  {
+   "uid": "U12137",
+   "en": "Chizuko… take everyone and get out of here!"
+  },
+  {
+   "uid": "U12138",
+   "en": "Mr. Arai, I'll handle the rest! You've finally been reunited with your wife and daughter. You take everyone and…"
+  },
+  {
+   "uid": "U12139",
+   "en": "Goro, don't be ridiculous!"
+  },
+  {
+   "uid": "U12140",
+   "en": "I'm a secret agent of Interpol! Before the great mission of striking down the Desper, there's no room for personal feelings!"
+  },
+  {
+   "uid": "U12141",
+   "en": "Papa…"
+  },
+  {
+   "uid": "U12142",
+   "en": "Chizuko, I joined Interpol to strike down the Desper. You understand, don't you? You too, Rumi…"
+  },
+  {
+   "uid": "U12143",
+   "en": "Yes…"
+  },
+  {
+   "uid": "U12144",
+   "en": "Sadesper's coming! Both of you, hurry and hide!"
+  },
+  {
+   "uid": "U12145",
+   "en": "Hey! Goro Watari came here, didn't he? Where is he hiding?"
+  },
+  {
+   "uid": "U12146",
+   "en": "How should I know!"
+  },
+  {
+   "uid": "U12147",
+   "en": "If you don't want to talk, that's fine. The artificial sun… will explode today at 19:30!"
+  },
+  {
+   "uid": "U12148",
+   "en": "What!? The artificial sun…?<p>There's only thirty minutes left!"
+  },
+  {
+   "uid": "U12149",
+   "en": "Tell Goro Watari… no matter how much he struggles in this Desper City, it's already too late!"
+  },
+  {
+   "uid": "U12150",
+   "en": "The artificial sun is going to explode!? What on earth does this mean?"
+  },
+  {
+   "uid": "U12151",
+   "en": "There are rumors that the artificial sun has a bomb using element NM built into it, for emergencies."
+  },
+  {
+   "uid": "U12152",
+   "en": "I see… So that's Geisel's operation to destroy all of Japan…<p>Damn… He means to kill every one of the Desper citizens!?"
+  },
+  {
+   "uid": "U12153",
+   "en": "If that's true, not only Japan but the life of the Earth itself is in danger…"
+  },
+  {
+   "uid": "U12154",
+   "en": "We have to stop the explosion somehow!"
+  },
+  {
+   "uid": "U12155",
+   "en": "And to do that… we have no choice but to defeat Fuhrer Geisel!"
+  },
+  {
+   "uid": "U12156",
+   "en": "Mm… Let's hurry! We're out of time!"
+  },
+  {
+   "uid": "U12157",
+   "en": "Found you, Goro Watari! This time you won't escape!<p>Goro Watari, this is your grave!"
+  },
+  {
+   "uid": "U12158",
+   "en": "…!?<p>Sadesper, you're still alive!?"
+  },
+  {
+   "uid": "U12159",
+   "en": "But it's not all bad news!<p>According to Chizuko… this Desper City has the same city functions as Tokyo… We might be able to use the factories and power plants here."
+  },
+  {
+   "uid": "U12160",
+   "en": "At this rate, the detonator… we'll never make it in time!"
+  },
+  {
+   "uid": "U12161",
+   "en": "At this rate, the detonator… we'll never make it in time!"
+  },
+  {
+   "uid": "U12162",
+   "en": "At this rate, the detonator… we'll never make it in time!"
+  },
+  {
+   "uid": "U12163",
+   "en": "It's fine, then! We already disarmed the detonator…"
+  },
+  {
+   "uid": "U12164",
+   "en": "Everyone!? How did you get here?"
+  },
+  {
+   "uid": "U12165",
+   "en": "Everyone!? How did you get here?"
+  },
+  {
+   "uid": "U12166",
+   "en": "Everyone!? How did you get here?"
+  },
+  {
+   "uid": "U12167",
+   "en": "It was simple!<p>Thanks to Taki! The FBI is who provided the information to your Interpol, Mr. Arai…<p>And as for decoding the encrypted documents, we had Interpol's Destron Hunter, Tadokoro, do it for us!"
+  },
+  {
+   "uid": "U12168",
+   "en": "I see, Tadokoro did…? Decoding encrypted documents is his specialty…"
+  },
+  {
+   "uid": "U12169",
+   "en": "Hey, hey… Looks like there's no time to sit around chatting."
+  },
+  {
+   "uid": "U12170",
+   "en": "Nuoooh…<p>Ngh… Glory to the Desper Army! Fuhrer Geisel!"
+  },
+  {
+   "uid": "U12171",
+   "en": "Nuoooh… Inazu… man… Gwah…!"
+  },
+  {
+   "uid": "U12172",
+   "en": "Ugaaah… Udesper never dies! Inazu… man… Ghh…!"
+  },
+  {
+   "uid": "U12173",
+   "en": "Mr. Arai, your wife and daughter…<p>I'll go after Fuhrer Geisel!"
+  },
+  {
+   "uid": "U12174",
+   "en": "Mr. Arai, your wife and daughter…<p>I'll go after Fuhrer Geisel!"
+  },
+  {
+   "uid": "U12175",
+   "en": "Mr. Arai, your wife and daughter…<p>I'll go after Fuhrer Geisel!"
+  },
+  {
+   "uid": "U12176",
+   "en": "Mm… Hurry, get Geisel…!"
+  },
+  {
+   "uid": "U12177",
+   "en": "So you've finally come…"
+  },
+  {
+   "uid": "U12178",
+   "en": "Geisel!"
+  },
+  {
+   "uid": "U12179",
+   "en": "I will not let anyone who defies me live! Here I come, [VAR6]!"
+  },
+  {
+   "uid": "U12180",
+   "en": "Geisel… I can't forgive anyone without a human heart!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U12110-U12112: Mysterious Cyborg Warrior is Sadesper before the reveal.",
+   "U12118-U12119: Desper Soldier's line continues in a narration-kind row (no closing bracket).",
+   "U12123: 様牲 read as 犠牲; 薬く read as 築く; \"fifty thousand citizens\" for 5万の市民.",
+   "U12126-U12127: one sentence split across two rows; cut at the matching point.",
+   "U12135/U12121/U12123: [VAR6] (Inazuman) referred to as \"him\".",
+   "U12139-U12140: Arai's line continues in a narration-kind row.",
+   "U12144-U12146: speaker Desper City Citizen (several citizens) shield the heroes.",
+   "U12167: 握供 read as 提供 \"provided\"; 害類 read as 書類; [ja] rendered \"Interpol's Destron Hunter, Tadokoro\" (not Dr. Tadokoro of the glossary).",
+   "U12171/U12172: dying Udesper calls \"Inazu…man\" even if the player's hero name differs ([VAR6] not used in the Japanese)."
+  ],
+  "omissions_kept": [
+   "U12124: Sadesper's silent reaction to being made the sacrifice kept."
+  ],
+  "new_names": [
+   {
+    "en": "[HERO2]",
+    "why": "speaker placeholder, speaker_en null"
+   },
+   {
+    "en": "[HERO4]",
+    "why": "speaker placeholder, speaker_en null"
+   },
+   {
+    "en": "[VAR6]",
+    "why": "speaker placeholder, speaker_en null"
+   },
+   {
+    "en": "element NM",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Tadokoro",
+    "why": "Interpol Destron Hunter (glossary has Dr. Tadokoro only)"
+   },
+   {
+    "en": "Destron Hunter",
+    "why": "title, not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U12114",
+    "likely": "裁き"
+   },
+   {
+    "uid": "U12116",
+    "likely": "猶予"
+   },
+   {
+    "uid": "U12116",
+    "likely": "全土"
+   },
+   {
+    "uid": "U12123",
+    "likely": "全土"
+   },
+   {
+    "uid": "U12135",
+    "likely": "全土"
+   },
+   {
+    "uid": "U12152",
+    "likely": "全土"
+   },
+   {
+    "uid": "U12123",
+    "likely": "築く"
+   },
+   {
+    "uid": "U12135",
+    "likely": "築かねば"
+   },
+   {
+    "uid": "U12123",
+    "likely": "犠牲"
+   },
+   {
+    "uid": "U12135",
+    "likely": "憎んでも"
+   },
+   {
+    "uid": "U12167",
+    "likely": "提供"
+   },
+   {
+    "uid": "U12167",
+    "likely": "書類"
+   },
+   {
+    "uid": "U12168",
+    "likely": "書類"
+   }
+  ]
+ }
+}

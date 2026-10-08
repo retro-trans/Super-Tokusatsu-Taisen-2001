@@ -1,0 +1,380 @@
+{
+ "batch": "B0047",
+ "rows": [
+  {
+   "uid": "U03691",
+   "en": "Don't be silly…<p> Try going into that café over there and saying stuff like \"Shocker showed up,\" or \"DARK's Destruction Squad…,\" or something about space crime syndicates!<p> I doubt anyone would take you seriously… but suppose they did believe you, what then? The whole world would be in a huge panic, with people running around in every direction."
+  },
+  {
+   "uid": "U03692",
+   "en": "Oh… I guess you're right.<p> We're not… ordinary high-school students anymore, are we?"
+  },
+  {
+   "uid": "U03693",
+   "en": "That's right… No midterms or finals, none of those annoying school rules. Nobody ranking us by our test scores."
+  },
+  {
+   "uid": "U03694",
+   "en": "And all that's… thanks to the Vol cells, huh?"
+  },
+  {
+   "uid": "U03695",
+   "en": "Well… whether it turned out good or bad, the point is to enjoy the here and now…"
+  },
+  {
+   "uid": "U03696",
+   "en": "I am enjoying it! I'm with you, [HERO2]…"
+  },
+  {
+   "uid": "U03697",
+   "en": "That said… it is kind of sad, I guess."
+  },
+  {
+   "uid": "U03698",
+   "en": "Why? Being with me?"
+  },
+  {
+   "uid": "U03699",
+   "en": "No! This, this right here!<p> \"Another Specialist Scientist Kidnapped!? Crisis Management Called into Question!!\" \"Evil Organizations Run Rampant! Japan Defenseless!\" it says…<p> Unicorn and SSI, with their flashy giant robots, get all the cheers, while we in the Amigo Squad just keep getting bashed."
+  },
+  {
+   "uid": "U03700",
+   "en": "No way! But we in the Amigo Squad… are trying super hard!"
+  },
+  {
+   "uid": "U03701",
+   "en": "I know, right?<p> \"Affiliated with UCMA, the international crisis-management military alliance\"… it just doesn't ring a bell for anyone, does it? I guess it can't be helped, since it's not a public organization…"
+  },
+  {
+   "uid": "U03702",
+   "en": "But you know… the fact that there's a news site like that is proof Earth is still at peace…<p> Hey, hey… why do guys love giant robots like these so much?<p> They're just a wig monster and a fire engine, aren't they? You like them too, don't you, [HERO2]? Hey, hey, which one do you like?"
+  },
+  {
+   "uid": "U03703",
+   "en": "\"The wig monster?\" \"The fire engine?\" \"Or… me?\""
+  },
+  {
+   "uid": "U03704",
+   "en": "\"Sorry, it's Giant Robo!\" \"Hahaha… Red Baron, of course.\""
+  },
+  {
+   "uid": "U03705",
+   "en": "Calling it a wig monster is going too far! Whatever you do, don't say that in front of Daisaku!!"
+  },
+  {
+   "uid": "U03706",
+   "en": "I know… I don't mean anything bad by it."
+  },
+  {
+   "uid": "U03707",
+   "en": "Anyway, I like Giant Robo, with its remote control. Just once, I'd like to…"
+  },
+  {
+   "uid": "U03708",
+   "en": "Look, look, a giant robot showed up! You like those, right?"
+  },
+  {
+   "uid": "U03709",
+   "en": "Idiot! Does that look like it's on our side!?"
+  },
+  {
+   "uid": "U03710",
+   "en": "But… they all look the same to me."
+  },
+  {
+   "uid": "U03711",
+   "en": "Calling it a fire engine is going too far! Whatever you do, don't say that in front of Ken. It's a keepsake from his brother!"
+  },
+  {
+   "uid": "U03712",
+   "en": "Anyway, I like Red Baron.<p> The real thrill of a giant robot is piloting it, after all! Just once, I'd like to…"
+  },
+  {
+   "uid": "U03713",
+   "en": "Look, look… it's one of those giant robots you love, [HERO2]!"
+  },
+  {
+   "uid": "U03714",
+   "en": "Huh?<p> [HERO2]!!<p> …As if we could ever end up like that! We're cousins! [HERO2], you dummy! So, what's the real answer?"
+  },
+  {
+   "uid": "U03715",
+   "en": "Huh?<p> Hey… take what I'm saying seriously!"
+  },
+  {
+   "uid": "U03716",
+   "en": "Is it BF? Or could it be the Iron Mask Party?"
+  },
+  {
+   "uid": "U03717",
+   "en": "We can't handle this on our own… [HERO2]!!"
+  },
+  {
+   "uid": "U03718",
+   "en": "Anyway, let's get back to Dr. Yajima's lab!<p> But… what is that robot attacking? What could be in that spot?"
+  },
+  {
+   "uid": "U03719",
+   "en": "So that's the artificial brain?"
+  },
+  {
+   "uid": "U03720",
+   "en": "It's awfully small, isn't it?"
+  },
+  {
+   "uid": "U03721",
+   "en": "What can it do?"
+  },
+  {
+   "uid": "U03722",
+   "en": "This is the first artificial brain this small in the world, isn't it?<p> Come to think of it… it's the complete opposite of Brain, the world's largest artificial brain, which vanished in that mysterious attack a year ago."
+  },
+  {
+   "uid": "U03723",
+   "en": "Dr. Yajima… what kind of capabilities does it have?"
+  },
+  {
+   "uid": "U03724",
+   "en": "You may think of this artificial brain of mine as an ultra-miniaturized computer.<p> This rabbit has been fitted with an artificial brain.<p> Thanks to it, this rabbit can fully understand all human language."
+  },
+  {
+   "uid": "U03725",
+   "en": "Really!?"
+  },
+  {
+   "uid": "U03726",
+   "en": "Is that even possible?"
+  },
+  {
+   "uid": "U03727",
+   "en": "No way!? A rabbit?"
+  },
+  {
+   "uid": "U03728",
+   "en": "That's really hard to believe."
+  },
+  {
+   "uid": "U03729",
+   "en": "Another feature of this artificial brain is that it can make full use of the animal's natural traits!<p> Until now, this rabbit could jump only about 1 meter, but with the artificial brain it can easily jump 5 meters."
+  },
+  {
+   "uid": "U03730",
+   "en": "That's ridiculous!?"
+  },
+  {
+   "uid": "U03731",
+   "en": "Don't pull our leg."
+  },
+  {
+   "uid": "U03732",
+   "en": "Then, Doctor… show us, please."
+  },
+  {
+   "uid": "U03733",
+   "en": "………<p> Big jump!!"
+  },
+  {
+   "uid": "U03734",
+   "en": "Whoa!? That's really something…"
+  },
+  {
+   "uid": "U03735",
+   "en": "Wow, I'm amazed! Dr. Yajima, the experiment is a huge success!"
+  },
+  {
+   "uid": "U03736",
+   "en": "But… if it were implanted in a human, there'd be serious trouble…"
+  },
+  {
+   "uid": "U03737",
+   "en": "What's wrong? Why the scary face?"
+  },
+  {
+   "uid": "U03738",
+   "en": "Gel-Shocker is bound to go after this."
+  },
+  {
+   "uid": "U03739",
+   "en": "Gel-Shocker is bound to go after this."
+  },
+  {
+   "uid": "U03740",
+   "en": "I see… Now that you mention it, you're right."
+  },
+  {
+   "uid": "U03741",
+   "en": "…!?"
+  },
+  {
+   "uid": "U03742",
+   "en": "Speak of the devil! Here they are already!"
+  },
+  {
+   "uid": "U03743",
+   "en": "Enemies detected!! It's Gel-Shocker."
+  },
+  {
+   "uid": "U03744",
+   "en": "Gel-Shocker! What are they plotting?<p> …!?"
+  },
+  {
+   "uid": "U03745",
+   "en": "…!? Hayato, Taki?"
+  },
+  {
+   "uid": "U03746",
+   "en": "…!? Hongo, Taki?"
+  },
+  {
+   "uid": "U03747",
+   "en": "[HERO2]! [HERO4]! Big trouble! The venue for Dr. Yajima's research press conference has been attacked!"
+  },
+  {
+   "uid": "U03748",
+   "en": "They came to steal Dr. Yajima's artificial intelligence!"
+  },
+  {
+   "uid": "U03749",
+   "en": "They came to steal Dr. Yajima's artificial intelligence!"
+  },
+  {
+   "uid": "U03750",
+   "en": "Then… don't tell me that robot belongs to… Gel-Shocker?"
+  },
+  {
+   "uid": "U03751",
+   "en": "…!?<p> What's that?"
+  },
+  {
+   "uid": "U03752",
+   "en": "…!?<p> What's that?"
+  },
+  {
+   "uid": "U03753",
+   "en": "This is serious. I'll check with the TDF just in case! I'm leaving this to you."
+  },
+  {
+   "uid": "U03754",
+   "en": "Please be careful, Taki."
+  },
+  {
+   "uid": "U03755",
+   "en": "…!?<p> Gel-Shocker!? Why are they here?"
+  },
+  {
+   "uid": "U03756",
+   "en": "[HERO2]! [HERO4]! Big trouble! The venue for Dr. Yajima's research press conference has been attacked!"
+  },
+  {
+   "uid": "U03757",
+   "en": "Be careful, Taki."
+  },
+  {
+   "uid": "U03758",
+   "en": "Which organization does this robot belong to? BF? The Iron Mask Party? Well, Captain Kiriyama?"
+  },
+  {
+   "uid": "U03759",
+   "en": "Sir… Dr. Sahara says it's an invasion weapon belonging to an organization called the Brain Party."
+  },
+  {
+   "uid": "U03760",
+   "en": "The Brain Party? What makes you say that, Dr. Sahara?"
+  },
+  {
+   "uid": "U03761",
+   "en": "Well… there are signs that Professor Hustler may be the mastermind."
+  },
+  {
+   "uid": "U03762",
+   "en": "Professor Hustler?<p> No, but… didn't Professor Hustler go missing in that mysterious laboratory attack a year ago?"
+  },
+  {
+   "uid": "U03763",
+   "en": "In truth, it was Brain and Professor Hustler who formed the Brain Party.<p> And the underground laboratory now under attack was a top-secret location known only to those of commander rank among us."
+  },
+  {
+   "uid": "U03764",
+   "en": "In other words… Professor Hustler, who knew of the location, is the suspect?"
+  },
+  {
+   "uid": "U03765",
+   "en": "That's right…"
+  },
+  {
+   "uid": "U03766",
+   "en": "But… Brain is an artificial brain, isn't it? Does an artificial brain build invasion weapons?"
+  },
+  {
+   "uid": "U03767",
+   "en": "Brain is the largest artificial brain in the world.<p> To protect people all over the world from every kind of disaster, it worked at the science laboratory of the International Peace Organization, also known as the Red Muffler Squad.<p> Its role was to predict abnormal weather and earthquakes around the world ahead of time, and work out countermeasures.<p> But Professor Hustler had another purpose in mind…"
+  },
+  {
+   "uid": "U03768",
+   "en": "Another purpose?"
+  },
+  {
+   "uid": "U03769",
+   "en": "Developing invasion weapons using the artificial brain."
+  },
+  {
+   "uid": "U03770",
+   "en": "Invasion weapons!? An artificial brain can build such things?"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U03702/U03705/U03711: カツラお化け (wig monster, Giant Robo) and 消防自動車 (fire engine, Red Baron) teasing nicknames kept literal.",
+   "U03703/U03704: choice menus stored as narration; rendered as quoted options.",
+   "U03714: [HERO4] fantasizes then denies it ('We're cousins'); the hero and heroine are cousins per this line.",
+   "U03748: 人工知能 (artificial intelligence) used here vs 人工頭脳 (artificial brain) elsewhere; kept the distinction as written."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "DARK's Destruction Squad",
+    "why": "not in glossary"
+   },
+   {
+    "en": "International Peace Organization",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U03691",
+    "likely": "逃げ惑う"
+   },
+   {
+    "uid": "U03692",
+    "likely": "普通"
+   },
+   {
+    "uid": "U03693",
+    "likely": "偏差値"
+   },
+   {
+    "uid": "U03699",
+    "likely": "歓迎"
+   },
+   {
+    "uid": "U03707",
+    "likely": "遠隔操作"
+   },
+   {
+    "uid": "U03712",
+    "likely": "醍醐味"
+   },
+   {
+    "uid": "U03729",
+    "likely": "特徴"
+   },
+   {
+    "uid": "U03735",
+    "likely": "大成功"
+   }
+  ]
+ }
+}

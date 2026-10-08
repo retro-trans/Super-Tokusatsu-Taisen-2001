@@ -1,0 +1,487 @@
+{
+ "batch": "B0003",
+ "prev": "B0002",
+ "next": "B0004",
+ "rows": [
+  {
+   "uid": "U00160",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U00161",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U00162",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00163",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00164",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U00165",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00166",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider"
+  },
+  {
+   "uid": "U00167",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U00168",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00169",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U00170",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shocker's Great Leader"
+  },
+  {
+   "uid": "U00171",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00172",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fadita"
+  },
+  {
+   "uid": "U00173",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00174",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00175",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Spider Man"
+  },
+  {
+   "uid": "U00176",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00178",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00179",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00180",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00182",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00183",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00184",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00185",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00186",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00188",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00189",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00190",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00191",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00192",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00193",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00194",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00195",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00196",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00197",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00198",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00199",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00200",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00201",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00202",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00203",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U00204",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00205",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00206",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00207",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00208",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00209",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00210",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00211",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00212",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00213",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Sawa"
+  },
+  {
+   "uid": "U00214",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Kitakura"
+  },
+  {
+   "uid": "U00215",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Sawa"
+  },
+  {
+   "uid": "U00216",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Kitakura"
+  },
+  {
+   "uid": "U00217",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Sawa"
+  },
+  {
+   "uid": "U00218",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Staff Officer Kitakura"
+  },
+  {
+   "uid": "U00219",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Earth Defense Officer"
+  },
+  {
+   "uid": "U00220",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Sawa"
+  },
+  {
+   "uid": "U00221",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U00222",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Sawa"
+  },
+  {
+   "uid": "U00223",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U00224",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Sawa"
+  },
+  {
+   "uid": "U00225",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U00226",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Sawa"
+  },
+  {
+   "uid": "U00227",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U00228",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director Sawa"
+  },
+  {
+   "uid": "U00229",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U00230",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00231",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00232",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00233",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00234",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U00235",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Minoshima"
+  },
+  {
+   "uid": "U00236",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U00237",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Minoshima"
+  },
+  {
+   "uid": "U00238",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U00239",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  },
+  {
+   "uid": "U00240",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Seijiro Hinata"
+  },
+  {
+   "uid": "U00241",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assistant Minoshima"
+  },
+  {
+   "uid": "U00242",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Hinata"
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "batch": "B0194",
+ "prev": "B0193",
+ "next": "B0195",
+ "rows": [
+  {
+   "uid": "U15461",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U15462",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Watchmaker"
+  },
+  {
+   "uid": "U15463",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U15464",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15465",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U15466",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15467",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U15468",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15469",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U15470",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15471",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15472",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor"
+  },
+  {
+   "uid": "U15473",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15474",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Sakata"
+  },
+  {
+   "uid": "U15475",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15476",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor"
+  },
+  {
+   "uid": "U15477",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15478",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor"
+  },
+  {
+   "uid": "U15479",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15480",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro Sakata"
+  },
+  {
+   "uid": "U15481",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15482",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Aki Sakata"
+  },
+  {
+   "uid": "U15483",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15484",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15485",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro Sakata"
+  },
+  {
+   "uid": "U15486",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director (Alien Nackle in Disguise)"
+  },
+  {
+   "uid": "U15487",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15488",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U15489",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15490",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hideki Go"
+  },
+  {
+   "uid": "U15491",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15492",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Fumio Kishida"
+  },
+  {
+   "uid": "U15493",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15494",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Director (Alien Nackle in Disguise)"
+  },
+  {
+   "uid": "U15495",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraman"
+  },
+  {
+   "uid": "U15496",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15497",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Minami"
+  },
+  {
+   "uid": "U15498",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ultraman"
+  },
+  {
+   "uid": "U15499",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Yuriko Oka"
+  },
+  {
+   "uid": "U15500",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Kato"
+  },
+  {
+   "uid": "U15501",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ippei Ueno"
+  },
+  {
+   "uid": "U15502",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Assassin Alien Nackle"
+  },
+  {
+   "uid": "U15503",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15504",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15505",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15506",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15507",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U15508",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U15509",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U15510",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U15511",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U15512",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U15513",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U15514",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U15515",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U15516",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U15517",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U15518",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U15519",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U15520",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U15521",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U15522",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crisis Emperor"
+  },
+  {
+   "uid": "U15523",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U15524",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Intelligence Chief Maribaron"
+  },
+  {
+   "uid": "U15525",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hayato Ichimonji"
+  },
+  {
+   "uid": "U15526",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  },
+  {
+   "uid": "U15527",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U15528",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Inspector Colonel Dasmader"
+  },
+  {
+   "uid": "U15529",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U15530",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 1"
+  },
+  {
+   "uid": "U15531",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U15532",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U15533",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U15534",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U15535",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U15536",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Supreme Commander General Jark"
+  },
+  {
+   "uid": "U15537",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Lucifard"
+  },
+  {
+   "uid": "U15538",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Vortex"
+  },
+  {
+   "uid": "U15539",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U15540",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider 2"
+  }
+ ]
+}

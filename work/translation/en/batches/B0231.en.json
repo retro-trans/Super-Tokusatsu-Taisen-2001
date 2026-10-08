@@ -1,0 +1,487 @@
+{
+ "batch": "B0231",
+ "prev": "B0230",
+ "next": "B0232",
+ "rows": [
+  {
+   "uid": "U18426",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U18427",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U18428",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U18429",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Doktor G"
+  },
+  {
+   "uid": "U18430",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U18431",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U18432",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U18433",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U18434",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U18435",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U18436",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U18437",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U18438",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U18439",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Crab Laser"
+  },
+  {
+   "uid": "U18440",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U18441",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U18442",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U18443",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U18444",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U18445",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U18446",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U18447",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U18448",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U18449",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U18450",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Zariganna"
+  },
+  {
+   "uid": "U18451",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18452",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18453",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18454",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18455",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18456",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18457",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18458",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18459",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18460",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18461",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18462",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18463",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18464",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Swordsaint Birugenia"
+  },
+  {
+   "uid": "U18465",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U18466",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U18467",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U18468",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U18469",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U18470",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U18471",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U18472",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U18473",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U18474",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U18475",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shadow Moon"
+  },
+  {
+   "uid": "U18476",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U18477",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U18478",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U18479",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U18480",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U18481",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U18482",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U18483",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U18484",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Jark Midora"
+  },
+  {
+   "uid": "U18485",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": null
+  },
+  {
+   "uid": "U18486",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mummy Man"
+  },
+  {
+   "uid": "U18487",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mummy Man"
+  },
+  {
+   "uid": "U18488",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mummy Man"
+  },
+  {
+   "uid": "U18489",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mummy Man"
+  },
+  {
+   "uid": "U18490",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mummy Man"
+  },
+  {
+   "uid": "U18491",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mummy Man"
+  },
+  {
+   "uid": "U18492",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mummy Man"
+  },
+  {
+   "uid": "U18493",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Mummy Man"
+  },
+  {
+   "uid": "U18494",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U18495",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U18496",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U18497",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U18498",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U18499",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Takeshi Hongo"
+  },
+  {
+   "uid": "U18500",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U18501",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U18502",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U18503",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U18504",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U18505",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Shiro Kazami"
+  }
+ ]
+}

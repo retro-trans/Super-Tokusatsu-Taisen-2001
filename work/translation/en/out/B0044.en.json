@@ -1,0 +1,405 @@
+{
+ "batch": "B0044",
+ "rows": [
+  {
+   "uid": "U03450",
+   "en": "Defeat all Phantom Soldiers!"
+  },
+  {
+   "uid": "U03451",
+   "en": "Defeat all Phantom Soldiers! Also search for the space kaiju Bemular sleeping at the bottom of the lake!"
+  },
+  {
+   "uid": "U03452",
+   "en": "Defeat the space kaiju Bemular, Toge Banbara and all Phantom Soldiers!"
+  },
+  {
+   "uid": "U03453",
+   "en": "Welcome…<p> Oh, it's just you guys!?"
+  },
+  {
+   "uid": "U03454",
+   "en": "Don't look so disappointed. We're perfectly good customers too, you know."
+  },
+  {
+   "uid": "U03455",
+   "en": "Anyway… something smells great. Oyassan, is that curry?"
+  },
+  {
+   "uid": "U03456",
+   "en": "Yep, I was thinking of putting it on the shop's lunch menu. I tried making an Amigo Special Curry. Oh, right, give it a taste for me."
+  },
+  {
+   "uid": "U03457",
+   "en": "Ooh… Oyassan's special curry, huh?"
+  },
+  {
+   "uid": "U03458",
+   "en": "Come to think of it… I don't see [HERO2] and the others."
+  },
+  {
+   "uid": "U03459",
+   "en": "Ah, [HERO2]'s gone out. Said he was heading over toward Shinjuku. Something about…"
+  },
+  {
+   "uid": "U03460",
+   "en": "Ah, [HERO2] went out to see a movie with [HERO4].<p> For once, [HERO2] was the one who asked… What was that movie called again? I think it was…"
+  },
+  {
+   "uid": "U03461",
+   "en": "…!?<p> Is that a steam locomotive?"
+  },
+  {
+   "uid": "U03462",
+   "en": "That's odd. No trains run anywhere near here… But that's definitely the sound of a steam locomotive."
+  },
+  {
+   "uid": "U03463",
+   "en": "Wh… what is that thing? It's just like a steam locomotive. It's coming this way!"
+  },
+  {
+   "uid": "U03464",
+   "en": "Chugga-chugga choo-choo… chugga-chugga choo-choo!<p> Sorry, but give me some water! I'm overheating a bit."
+  },
+  {
+   "uid": "U03465",
+   "en": "Ah…!?<p> Yes, yes… Water, right?"
+  },
+  {
+   "uid": "U03466",
+   "en": "Sorry, pour it for me!"
+  },
+  {
+   "uid": "U03467",
+   "en": "………"
+  },
+  {
+   "uid": "U03468",
+   "en": "Another glass!"
+  },
+  {
+   "uid": "U03469",
+   "en": "Who are you? A Gel-Shocker monster?"
+  },
+  {
+   "uid": "U03470",
+   "en": "My name is… Locomotive Mask of the Black Cross Army!"
+  },
+  {
+   "uid": "U03471",
+   "en": "The Black Cross Army? What are you up to? Why are you running around?"
+  },
+  {
+   "uid": "U03472",
+   "en": "That is a Black Cross Army secret! I can't tell you!!<p> Much obliged, thanks for your help! Departuuure, full steam aheaaad!!"
+  },
+  {
+   "uid": "U03473",
+   "en": "Hey, wait!! Who are this Black Cross Army?"
+  },
+  {
+   "uid": "U03474",
+   "en": "Wait, Hayato! Not here, it's a bad idea…"
+  },
+  {
+   "uid": "U03475",
+   "en": "But… I've never heard of any organization called the Black Cross Army, and there's no way they're on our side!<p> Besides… did you see his feet? That was an underground detector! He's definitely up to no good!"
+  },
+  {
+   "uid": "U03476",
+   "en": "Hmm… The Black Cross Army. Has a new enemy appeared!? We'd better report this to the TDF too."
+  },
+  {
+   "uid": "U03477",
+   "en": "Don't look so disappointed. We're perfectly good customers too, you know."
+  },
+  {
+   "uid": "U03478",
+   "en": "Anyway… something smells great. Oyassan, is that curry?"
+  },
+  {
+   "uid": "U03479",
+   "en": "Ooh… Oyassan's special curry, huh?"
+  },
+  {
+   "uid": "U03480",
+   "en": "Come to think of it… I don't see [HERO2] and the others."
+  },
+  {
+   "uid": "U03481",
+   "en": "…!?<p> Is that a steam locomotive?"
+  },
+  {
+   "uid": "U03482",
+   "en": "Wh… what is that thing? It's just like a steam locomotive. It's coming this way!"
+  },
+  {
+   "uid": "U03483",
+   "en": "Who are you? A Gel-Shocker monster?"
+  },
+  {
+   "uid": "U03484",
+   "en": "The Black Cross Army? What are you up to? Why are you running around?"
+  },
+  {
+   "uid": "U03485",
+   "en": "Hey, wait!! Who are this Black Cross Army?"
+  },
+  {
+   "uid": "U03486",
+   "en": "Wait, Hongo! Not here, it's a bad idea…"
+  },
+  {
+   "uid": "U03487",
+   "en": "But… I've never heard of any organization called the Black Cross Army, and there's no way they're on our side!<p> Besides… did you see his feet? That was an underground detector! He's definitely up to no good!"
+  },
+  {
+   "uid": "U03488",
+   "en": "The war between the international defense organization EAGLE and the Black Cross Army, which schemes to conquer the world, was growing larger by the day."
+  },
+  {
+   "uid": "U03489",
+   "en": "For EAGLE's members, the Black Cross Army's Mask Monsters were terrifying foes, but they had the mightiest of guardians on their side."
+  },
+  {
+   "uid": "U03490",
+   "en": "EAGLE's proud elite five… the invincible warriors, Gorenger."
+  },
+  {
+   "uid": "U03491",
+   "en": "Now, carrying out a vital mission, the Gorengers had blended into the crowds of Shinjuku."
+  },
+  {
+   "uid": "U03492",
+   "en": "There are so many people, aren't there?"
+  },
+  {
+   "uid": "U03493",
+   "en": "Yeah… No matter how many invaders and evil organizations attack, people's lives don't change all that much."
+  },
+  {
+   "uid": "U03494",
+   "en": "That means our battles are helping people that much… doesn't it?"
+  },
+  {
+   "uid": "U03495",
+   "en": "Still… this area sure has changed a lot while we were away from Earth."
+  },
+  {
+   "uid": "U03496",
+   "en": "…!?<p> What is that sound?"
+  },
+  {
+   "uid": "U03497",
+   "en": "\"That's a steam locomotive…\" \"No way… a steam locomotive in a place like this?\""
+  },
+  {
+   "uid": "U03498",
+   "en": "That's bugging me. All right, let's go check it out!"
+  },
+  {
+   "uid": "U03499",
+   "en": "Probably some kind of event. Don't worry about it…"
+  },
+  {
+   "uid": "U03500",
+   "en": "Yes… Um, [HERO2]. I would like to go over there…"
+  },
+  {
+   "uid": "U03501",
+   "en": "Hm!? Where do you want to go?"
+  },
+  {
+   "uid": "U03502",
+   "en": "That tallest building."
+  },
+  {
+   "uid": "U03503",
+   "en": "That's the Tokyo Metropolitan Government Building. Why would you want to go there?"
+  },
+  {
+   "uid": "U03504",
+   "en": "That building… is surely hiding a system that transforms it into a giant robot."
+  },
+  {
+   "uid": "U03505",
+   "en": "Huh!?<p> What are you talking about, [HERO4]?"
+  },
+  {
+   "uid": "U03506",
+   "en": "Mr. Tachibana told me. He said that building is Japan's ultimate defense weapon. I would very much like to see it!"
+  },
+  {
+   "uid": "U03507",
+   "en": "H-hold on, [HERO4]!! H-heeey!!"
+  },
+  {
+   "uid": "U03509",
+   "en": "Satisfied now, [HERO4]?"
+  },
+  {
+   "uid": "U03510",
+   "en": "Yes…<p> Optical, infrared, temperature change, gravitational fluctuation, magnetic survey… according to the results of every scan…<p> that building does not transform into a robot!"
+  },
+  {
+   "uid": "U03511",
+   "en": "Good, so you get it now…<p> You… were you hoping it really was a giant robot?"
+  },
+  {
+   "uid": "U03512",
+   "en": "I wanted to see it. A 243-meter giant robot…"
+  },
+  {
+   "uid": "U03513",
+   "en": "Well, sure, I get that. But Oyassan never says anything useful…"
+  },
+  {
+   "uid": "U03514",
+   "en": "Hm!?<p> That steam locomotive sound again! This is definitely weird… Something's going on! Let's go, [HERO4]!!"
+  },
+  {
+   "uid": "U03515",
+   "en": "That banana crepe was yummy, huh?"
+  },
+  {
+   "uid": "U03516",
+   "en": "They say there's always room for dessert, but… you sure can eat, huh?"
+  },
+  {
+   "uid": "U03517",
+   "en": "Hehehe… My feet just carry me there on their own, you know. Like, \"Ah, this feeling\"…"
+  },
+  {
+   "uid": "U03518",
+   "en": "…And that \"feeling\"… which shop is it carrying you to next?"
+  },
+  {
+   "uid": "U03519",
+   "en": "[HERO2], you meanie… Huh?<p> A steam train? No way! In the middle of the city?"
+  },
+  {
+   "uid": "U03520",
+   "en": "That is strange. Not even regular trains run around here…"
+  },
+  {
+   "uid": "U03521",
+   "en": "Did I hear wrong?"
+  },
+  {
+   "uid": "U03522",
+   "en": "\"No… I definitely heard it.\" \"Figures… A steam train in a place like this?\""
+  },
+  {
+   "uid": "U03523",
+   "en": "That's bugging me… Let's go take a look!"
+  },
+  {
+   "uid": "U03524",
+   "en": "Maybe it's some event? \"New! Steam Train Parfait!!\" Just kidding…"
+  },
+  {
+   "uid": "U03525",
+   "en": "Yeah, yeah."
+  },
+  {
+   "uid": "U03526",
+   "en": "Anyway, that movie was fun… The hero, Takuma, was so cool, right? You thought so too, didn't you, [HERO4]?"
+  },
+  {
+   "uid": "U03527",
+   "en": "I mean… I didn't even want to see \"Super Tokusatsu Taisen 2001\"…<p> And honestly, [HERO2], that's just so [HERO2] of you, inviting me to a movie like that… I wanted something more, like… how do I put it? A touching story about two lovers or something…"
+  },
+  {
+   "uid": "U03528",
+   "en": "Come on, quit complaining! I always go along with what you want, [HERO4], don't I? Just this once is fine, isn't it?"
+  },
+  {
+   "uid": "U03529",
+   "en": "I am happy you invited me, though~ Ah… then, [HERO2], so you don't get lost…"
+  },
+  {
+   "uid": "U03530",
+   "en": "Wh… whoa, stop!? Quit it! People are watching!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U03456: 寵のランチ unclear; read as 店のランチ (the shop's lunch menu).",
+   "U03459: [HERO2] referred to as 'he' (the hero).",
+   "U03497/U03522: narration rows holding two quoted speakers; kept as two quoted lines.",
+   "U03526: the movie's hero is named タクマ (the default hero name, a meta joke). Kept 'Takuma' because the row has no [HERO2] tag and adding one would change the tag set; reviewer may want to revisit.",
+   "U03529: line trails off (she grabs his arm, per U03530)."
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Black Cross Army",
+    "why": "not a standalone glossary key"
+   },
+   {
+    "en": "EAGLE",
+    "why": "from glossary note on 江戸川権八総司令"
+   },
+   {
+    "en": "Amigo Special Curry",
+    "why": "Snack Amigo, Tobei's shop"
+   },
+   {
+    "en": "Mask Monster",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Tokyo Metropolitan Government Building",
+    "why": "real place"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U03450",
+    "likely": "ファントム兵士を全て"
+   },
+   {
+    "uid": "U03456",
+    "likely": "店のランチ"
+   },
+   {
+    "uid": "U03460",
+    "likely": "映画"
+   },
+   {
+    "uid": "U03490",
+    "likely": "誇る"
+   },
+   {
+    "uid": "U03491",
+    "likely": "重大"
+   },
+   {
+    "uid": "U03495",
+    "likely": "辺り"
+   },
+   {
+    "uid": "U03503",
+    "likely": "東京都庁舎"
+   },
+   {
+    "uid": "U03510",
+    "likely": "重力"
+   },
+   {
+    "uid": "U03520",
+    "likely": "辺り"
+   },
+   {
+    "uid": "U03526",
+    "likely": "映画"
+   },
+   {
+    "uid": "U03527",
+    "likely": "映画"
+   }
+  ]
+ }
+}

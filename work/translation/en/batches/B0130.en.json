@@ -1,0 +1,487 @@
+{
+ "batch": "B0130",
+ "prev": "B0129",
+ "next": "B0131",
+ "rows": [
+  {
+   "uid": "U10339",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U10340",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10341",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U10342",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10343",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U10344",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10345",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U10346",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10347",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Kom"
+  },
+  {
+   "uid": "U10348",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10349",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10350",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U10351",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10352",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U10353",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Crusher Soldier"
+  },
+  {
+   "uid": "U10354",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U10355",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10356",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Space Sheriff Gavan"
+  },
+  {
+   "uid": "U10357",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10359",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10360",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10361",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10362",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10363",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10364",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10365",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10366",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10367",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsukiko Hoshino"
+  },
+  {
+   "uid": "U10368",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10369",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsukiko Hoshino"
+  },
+  {
+   "uid": "U10370",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10371",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsukiko Hoshino"
+  },
+  {
+   "uid": "U10372",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10373",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10374",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10375",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10376",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10377",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10378",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10379",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10380",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tsukiko Hoshino"
+  },
+  {
+   "uid": "U10381",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10382",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10383",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10384",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10385",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10386",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10387",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10388",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10389",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10390",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10391",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10392",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10393",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10394",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10395",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10396",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10397",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10398",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Voicer"
+  },
+  {
+   "uid": "U10399",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10400",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10401",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10402",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10403",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10404",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U10405",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mimi"
+  },
+  {
+   "uid": "U10406",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Retsu Ichijouji"
+  },
+  {
+   "uid": "U10407",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U10408",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U10409",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U10410",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U10411",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U10412",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U10413",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U10414",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U10415",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U10416",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U10417",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  },
+  {
+   "uid": "U10418",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U10419",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Don Horror"
+  }
+ ]
+}

@@ -1,0 +1,333 @@
+{
+ "batch": "B0205",
+ "rows": [
+  {
+   "uid": "U16346",
+   "en": "Fire!"
+  },
+  {
+   "uid": "U16347",
+   "en": "Target locked, fire."
+  },
+  {
+   "uid": "U16348",
+   "en": "I'm fine!"
+  },
+  {
+   "uid": "U16349",
+   "en": "Emergency evasion!"
+  },
+  {
+   "uid": "U16350",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16351",
+   "en": "I've been hit!?"
+  },
+  {
+   "uid": "U16352",
+   "en": "The aircraft won't hold!?"
+  },
+  {
+   "uid": "U16353",
+   "en": "It's no good! Ejecting!!"
+  },
+  {
+   "uid": "U16354",
+   "en": "How about this!"
+  },
+  {
+   "uid": "U16355",
+   "en": "Emergency barrier deployment!!"
+  },
+  {
+   "uid": "U16356",
+   "en": "…!"
+  },
+  {
+   "uid": "U16357",
+   "en": "Target confirmed! Fire!"
+  },
+  {
+   "uid": "U16358",
+   "en": "Target confirmed! Fire!!"
+  },
+  {
+   "uid": "U16359",
+   "en": "I'm fine!"
+  },
+  {
+   "uid": "U16360",
+   "en": "Emergency evasion!"
+  },
+  {
+   "uid": "U16361",
+   "en": "I can still fly!"
+  },
+  {
+   "uid": "U16362",
+   "en": "I've been hit!?"
+  },
+  {
+   "uid": "U16363",
+   "en": "The aircraft won't hold!?"
+  },
+  {
+   "uid": "U16364",
+   "en": "It's no good! Ejecting!!"
+  },
+  {
+   "uid": "U16365",
+   "en": "How about this!"
+  },
+  {
+   "uid": "U16366",
+   "en": "Emergency barrier deployment!!"
+  },
+  {
+   "uid": "U16367",
+   "en": "…!"
+  },
+  {
+   "uid": "U16368",
+   "en": "Target confirmed, fire!"
+  },
+  {
+   "uid": "U16369",
+   "en": "Target confirmed! Fire!!"
+  },
+  {
+   "uid": "U16370",
+   "en": "Did I dodge it?!"
+  },
+  {
+   "uid": "U16371",
+   "en": "Emergency evasion!"
+  },
+  {
+   "uid": "U16372",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16373",
+   "en": "I've been hit!?"
+  },
+  {
+   "uid": "U16374",
+   "en": "Not yet, don't go down on me yet!"
+  },
+  {
+   "uid": "U16375",
+   "en": "It's no good! Ejecting!!"
+  },
+  {
+   "uid": "U16376",
+   "en": "How about this!"
+  },
+  {
+   "uid": "U16377",
+   "en": "Commencing attack!!"
+  },
+  {
+   "uid": "U16378",
+   "en": "Emergency barrier deployment!!"
+  },
+  {
+   "uid": "U16379",
+   "en": "…!"
+  },
+  {
+   "uid": "U16380",
+   "en": "Target confirmed! Fire!!"
+  },
+  {
+   "uid": "U16381",
+   "en": "I dodged it!"
+  },
+  {
+   "uid": "U16382",
+   "en": "That was close!"
+  },
+  {
+   "uid": "U16383",
+   "en": "An attack like this is nothing!"
+  },
+  {
+   "uid": "U16384",
+   "en": "Checking damage… I can still go!"
+  },
+  {
+   "uid": "U16385",
+   "en": "The aircraft won't hold!?"
+  },
+  {
+   "uid": "U16386",
+   "en": "Ngh! This is it, I'm ejecting."
+  },
+  {
+   "uid": "U16387",
+   "en": "How about this!"
+  },
+  {
+   "uid": "U16388",
+   "en": "Eat this!"
+  },
+  {
+   "uid": "U16389",
+   "en": "Emergency barrier deployment!!"
+  },
+  {
+   "uid": "U16390",
+   "en": "…!"
+  },
+  {
+   "uid": "U16391",
+   "en": "Target confirmed! Fire!!"
+  },
+  {
+   "uid": "U16392",
+   "en": "Emergency turn!"
+  },
+  {
+   "uid": "U16393",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16394",
+   "en": "The vehicle won't hold!?"
+  },
+  {
+   "uid": "U16395",
+   "en": "Autocannon, fire!"
+  },
+  {
+   "uid": "U16396",
+   "en": "Autocannon, fire!"
+  },
+  {
+   "uid": "U16397",
+   "en": "All right!"
+  },
+  {
+   "uid": "U16398",
+   "en": "Lock on! Fire!!"
+  },
+  {
+   "uid": "U16399",
+   "en": "Lock on! Fire!!"
+  },
+  {
+   "uid": "U16400",
+   "en": "High-output maser, fire!"
+  },
+  {
+   "uid": "U16401",
+   "en": "Taste the power of our new weapon!"
+  },
+  {
+   "uid": "U16402",
+   "en": "Adjusting output level… Fire!"
+  },
+  {
+   "uid": "U16403",
+   "en": "Adjusting output level… Fire!"
+  },
+  {
+   "uid": "U16404",
+   "en": "High-output maser, fire!"
+  },
+  {
+   "uid": "U16405",
+   "en": "Taste the power of our new weapon!"
+  },
+  {
+   "uid": "U16406",
+   "en": "High-output maser, fire!"
+  },
+  {
+   "uid": "U16407",
+   "en": "Taste the power of our new weapon!"
+  },
+  {
+   "uid": "U16408",
+   "en": "High-output maser, fire!"
+  },
+  {
+   "uid": "U16409",
+   "en": "Whoa, look out!"
+  },
+  {
+   "uid": "U16410",
+   "en": "Ngh, I'm hit!?"
+  },
+  {
+   "uid": "U16411",
+   "en": "This is getting dangerous!?"
+  },
+  {
+   "uid": "U16412",
+   "en": "Uwaaaah!"
+  },
+  {
+   "uid": "U16413",
+   "en": "Take this!!"
+  },
+  {
+   "uid": "U16414",
+   "en": "Aim set, fire!!"
+  },
+  {
+   "uid": "U16415",
+   "en": "Vanish!!"
+  },
+  {
+   "uid": "U16416",
+   "en": "I'm fine!"
+  },
+  {
+   "uid": "U16417",
+   "en": "Whoa! Look out!"
+  },
+  {
+   "uid": "U16418",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16419",
+   "en": "Ngh, I've been hit!?"
+  },
+  {
+   "uid": "U16420",
+   "en": "This is getting dangerous!?"
+  },
+  {
+   "uid": "U16421",
+   "en": "Uwaaaah!"
+  },
+  {
+   "uid": "U16422",
+   "en": "Take this!!"
+  },
+  {
+   "uid": "U16423",
+   "en": "Charge!!"
+  },
+  {
+   "uid": "U16424",
+   "en": "Aim set, fire!!"
+  },
+  {
+   "uid": "U16425",
+   "en": "Vanish!!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": []
+ }
+}

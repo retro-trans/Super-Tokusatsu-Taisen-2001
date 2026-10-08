@@ -1,0 +1,56 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 960
+PlayResY: 720
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,GenEi LateGo P v2,36,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,0,0,0,0,100,100,0,0,1,2,1,2,36,36,32,1
+Style: Credit,GenEi LateGo P v2,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Note,GenEi LateGo P v2,22,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,0,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.00,0:00:09.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Theme Song
+Dialogue: 0,0:00:05.00,0:00:09.00,Credit,,0,0,0,,{\pos(126,139)\fs26\fad(250,250)}"You Are a Flash! THUNDERBOLT"\NSuper Tokusatsu Taisen 2001\NLyrics: Tetsuo Kudo\NMusic / Arrangement: Yasuharu Takanashi\NVocals: Akira Kushida
+Dialogue: 0,0:00:09.00,0:00:13.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Theme Song Production Support
+Dialogue: 0,0:00:09.00,0:00:13.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}First Smile Entertainment Co., Ltd.
+Dialogue: 0,0:00:13.00,0:00:17.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Sound Production Support
+Dialogue: 0,0:00:13.00,0:00:17.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}大田 雄一
+Dialogue: 0,0:00:17.00,0:00:21.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Voice Recording Support
+Dialogue: 0,0:00:17.00,0:00:21.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}中江 真二\NAtelier Peach
+Dialogue: 0,0:00:21.00,0:00:25.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}CG Support
+Dialogue: 0,0:00:21.00,0:00:25.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}Wavedge Co., Ltd.\NInterAct Technology Co., Ltd.
+Dialogue: 0,0:00:25.00,0:00:29.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Original Character Design
+Dialogue: 0,0:00:25.00,0:00:29.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}青木 健太
+Dialogue: 0,0:00:29.00,0:00:33.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Main Artwork
+Dialogue: 0,0:00:29.00,0:00:33.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}宮島 浩一\N藤井 康文
+Dialogue: 0,0:00:33.00,0:00:37.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Print Materials
+Dialogue: 0,0:00:33.00,0:00:37.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}Mizuno Production Co., Ltd.
+Dialogue: 0,0:00:37.00,0:00:41.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Debugging Support
+Dialogue: 0,0:00:37.00,0:00:41.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}Prova Works Ltd.
+Dialogue: 0,0:00:41.00,0:00:45.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Playtesting Support
+Dialogue: 0,0:00:41.00,0:00:45.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}Sony Computer Entertainment Inc.\NMarigul Management Inc. / Saru Gakucho
+Dialogue: 0,0:00:45.00,0:00:49.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Developer
+Dialogue: 0,0:00:45.00,0:00:49.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}Japan Art Media Co., Ltd.\N高橋 充
+Dialogue: 0,0:00:49.00,0:00:53.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Scenario
+Dialogue: 0,0:00:49.00,0:00:53.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}Tokusatsu Taisen Production Committee (JAM)
+Dialogue: 0,0:00:53.00,0:00:57.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Directors
+Dialogue: 0,0:00:53.00,0:00:57.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}Koji Tsurunaga\N吉川 義賢
+Dialogue: 0,0:00:57.00,0:01:01.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Programming
+Dialogue: 0,0:00:57.00,0:01:01.00,Credit,,0,0,0,,{\pos(126,158)\fs28\fad(250,250)}Hiroshi Yoneyama\N\N牛若 浩二\N海老沼 勇介\N松尾 太郎
+Dialogue: 0,0:01:01.00,0:01:05.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Graphics
+Dialogue: 0,0:01:01.00,0:01:05.00,Credit,,0,0,0,,{\pos(126,158)\fs28\fad(250,250)}木全 和光\N\N竹内 哲也\N内山 雄太\N岩尾 隆広\N江良 奈緒美\N稲永 祐介\N寺澤 奈津子
+Dialogue: 0,0:01:05.00,0:01:09.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Special Thanks
+Dialogue: 0,0:01:05.00,0:01:09.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}間中 哲也\N河原 琴音\N平山 貴之
+Dialogue: 0,0:01:09.00,0:01:13.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}CG
+Dialogue: 0,0:01:09.00,0:01:13.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}伊東 大典\N横瀬 幸子
+Dialogue: 0,0:01:13.00,0:01:17.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}InterAct Technology Co., Ltd.
+Dialogue: 0,0:01:13.00,0:01:17.00,Credit,,0,0,0,,{\pos(126,158)\fs28\fad(250,250)}任堂 智明\N\N木村 伸吾\N剣持 真
+Dialogue: 0,0:01:17.00,0:01:21.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Sound Effects
+Dialogue: 0,0:01:17.00,0:01:21.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}菅井 信義\N佐々木 昌信
+Dialogue: 0,0:01:21.00,0:01:25.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Overall Production
+Dialogue: 0,0:01:21.00,0:01:25.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}Banpresto Co., Ltd.\NTWP
+Dialogue: 0,0:01:25.00,0:01:29.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Public Relations
+Dialogue: 0,0:01:25.00,0:01:29.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}Banpresto Co., Ltd.\N古田 真美
+Dialogue: 0,0:01:29.00,0:01:33.00,Credit,,0,0,0,,{\pos(96,106)\fad(250,250)}Rights Management
+Dialogue: 0,0:01:29.00,0:01:33.00,Credit,,0,0,0,,{\pos(126,151)\fs30\fad(250,250)}Banpresto Co., Ltd.\N門原 悠太

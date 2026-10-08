@@ -1,0 +1,1100 @@
+{
+  "version": "0.3.4",
+  "preview_revision": 2,
+  "base_game_version": "0.3.4",
+  "purpose": "MP4 review only",
+  "source_audio": "Original Japanese audio, preserved",
+  "review": "Textual comparison of Whisper passes, game glossary and visible frames. Human listening review still required.",
+  "credit_pages": [
+    {
+      "heading": "Theme Song",
+      "body": "\"You Are a Flash! THUNDERBOLT\"\nSuper Tokusatsu Taisen 2001\nLyrics: Tetsuo Kudo\nMusic / Arrangement: Yasuharu Takanashi\nVocals: Akira Kushida",
+      "layout": "top"
+    },
+    {
+      "heading": "Theme Song Production Support",
+      "body": "First Smile Entertainment Co., Ltd.",
+      "layout": "top"
+    },
+    {
+      "heading": "Sound Production Support",
+      "body": "大田 雄一",
+      "layout": "top"
+    },
+    {
+      "heading": "Voice Recording Support",
+      "body": "中江 真二\nAtelier Peach",
+      "layout": "top"
+    },
+    {
+      "heading": "CG Support",
+      "body": "Wavedge Co., Ltd.\nInterAct Technology Co., Ltd.",
+      "layout": "top"
+    },
+    {
+      "heading": "Original Character Design",
+      "body": "青木 健太",
+      "layout": "top"
+    },
+    {
+      "heading": "Main Artwork",
+      "body": "宮島 浩一\n藤井 康文",
+      "layout": "top"
+    },
+    {
+      "heading": "Print Materials",
+      "body": "Mizuno Production Co., Ltd.",
+      "layout": "top"
+    },
+    {
+      "heading": "Debugging Support",
+      "body": "Prova Works Ltd.",
+      "layout": "top"
+    },
+    {
+      "heading": "Playtesting Support",
+      "body": "Sony Computer Entertainment Inc.\nMarigul Management Inc. / Saru Gakucho",
+      "layout": "top"
+    },
+    {
+      "heading": "Developer",
+      "body": "Japan Art Media Co., Ltd.\n高橋 充",
+      "layout": "top"
+    },
+    {
+      "heading": "Scenario",
+      "body": "Tokusatsu Taisen Production Committee (JAM)",
+      "layout": "top"
+    },
+    {
+      "heading": "Directors",
+      "body": "Koji Tsurunaga\n吉川 義賢",
+      "layout": "top"
+    },
+    {
+      "heading": "Programming",
+      "body": "Hiroshi Yoneyama\n\n牛若 浩二\n海老沼 勇介\n松尾 太郎",
+      "layout": "left"
+    },
+    {
+      "heading": "Graphics",
+      "body": "木全 和光\n\n竹内 哲也\n内山 雄太\n岩尾 隆広\n江良 奈緒美\n稲永 祐介\n寺澤 奈津子",
+      "layout": "left"
+    },
+    {
+      "heading": "Special Thanks",
+      "body": "間中 哲也\n河原 琴音\n平山 貴之",
+      "layout": "top"
+    },
+    {
+      "heading": "CG",
+      "body": "伊東 大典\n横瀬 幸子",
+      "layout": "top"
+    },
+    {
+      "heading": "InterAct Technology Co., Ltd.",
+      "body": "任堂 智明\n\n木村 伸吾\n剣持 真",
+      "layout": "left"
+    },
+    {
+      "heading": "Sound Effects",
+      "body": "菅井 信義\n佐々木 昌信",
+      "layout": "top"
+    },
+    {
+      "heading": "Overall Production",
+      "body": "Banpresto Co., Ltd.\nTWP",
+      "layout": "top"
+    },
+    {
+      "heading": "Public Relations",
+      "body": "Banpresto Co., Ltd.\n古田 真美",
+      "layout": "top"
+    },
+    {
+      "heading": "Rights Management",
+      "body": "Banpresto Co., Ltd.\n門原 悠太",
+      "layout": "top"
+    }
+  ],
+  "clips": [
+    {
+      "id": 1,
+      "title": "Akarenger (New Red Bute)",
+      "duration": 3.25,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 0,
+          "end": 1.95,
+          "en": "New Red Bute!",
+          "voice_end": 1.45
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Aorenger (Ultra Blue Cherry)",
+      "duration": 3.916667,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 0.72,
+          "end": 3.5,
+          "en": "Ultra Blue Cherry!",
+          "voice_end": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kirenger (Key Sticker)",
+      "duration": 3.0,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 4,
+      "title": "Momorenger (Momo Bomb)",
+      "duration": 2.833333,
+      "status": "Draft: the first short call is uncertain.",
+      "subtitles": [
+        {
+          "start": 0,
+          "end": 0.84,
+          "en": "Now!",
+          "voice_end": 0.78
+        },
+        {
+          "start": 0.84,
+          "end": 2.5,
+          "en": "Here I go!",
+          "voice_end": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Midorenger (Mido Puncher)",
+      "duration": 5.833333,
+      "status": "Draft: Mido Puncher is supported by the movie-list entry; the second call needs listening confirmation.",
+      "subtitles": [
+        {
+          "start": 0,
+          "end": 1.96,
+          "en": "Mido Puncher!",
+          "voice_end": 1.5
+        },
+        {
+          "start": 1.96,
+          "end": 4.2,
+          "en": "Doppan Shoot!",
+          "voice_end": 3.7
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Gorenger Storm New Power Op. MS",
+      "duration": 25.833333,
+      "status": "Draft: relay call at 16.7-18.0 omitted because the models disagree; phrase at 13.2 needs confirmation.",
+      "subtitles": [
+        {
+          "start": 6.1,
+          "end": 8.7,
+          "en": "Gorenger Storm!\nNew Power Operation!",
+          "voice_end": 8.7
+        },
+        {
+          "start": 8.7,
+          "end": 10.28,
+          "en": "Megaton Storm!",
+          "voice_end": 9.9
+        },
+        {
+          "start": 10.28,
+          "end": 12.6,
+          "en": "Ready? Here I go!",
+          "voice_end": 12.1
+        },
+        {
+          "start": 13.22,
+          "end": 14.9,
+          "en": "Leave it to me! All right!",
+          "voice_end": 14.9
+        },
+        {
+          "start": 14.9,
+          "end": 16.24,
+          "en": "OK!",
+          "voice_end": 16
+        },
+        {
+          "start": 16.24,
+          "end": 17.2,
+          "en": "Blue!",
+          "voice_end": 16.7
+        },
+        {
+          "start": 18.36,
+          "end": 19.8,
+          "en": "Red!",
+          "voice_end": 19.3
+        },
+        {
+          "start": 21.58,
+          "end": 24.2,
+          "en": "Finish!",
+          "voice_end": 23.7
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Gavan (Johchaku)",
+      "duration": 23.666667,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 1,
+          "end": 2.5,
+          "en": "Johchaku!",
+          "voice_end": 2
+        },
+        {
+          "start": 9.5,
+          "end": 13.45,
+          "en": "Understood.\nTransmitting the Combat Suit.",
+          "voice_end": 12.95
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Gavan (Laser Blade)",
+      "duration": 5.916667,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 0.7,
+          "end": 3.5,
+          "en": "Laser Blade!",
+          "voice_end": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Gavan (Gavan Dynamic)",
+      "duration": 4.666667,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 0,
+          "end": 3.3,
+          "en": "Gavan Dynamic!",
+          "voice_end": 2.8
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Sharivan (Sekisha)",
+      "duration": 13.333333,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 0,
+          "end": 1.34,
+          "en": "Sekisha!",
+          "voice_end": 1.05
+        },
+        {
+          "start": 1.34,
+          "end": 6.4,
+          "en": "The sun's blazing energy sparks through\nGrand Birth's amplification system.",
+          "voice_end": 5.9
+        },
+        {
+          "start": 6.54,
+          "end": 10.08,
+          "en": "The amplified solar energy\nis converted into Solar Metal...",
+          "voice_end": 9.9
+        },
+        {
+          "start": 10.08,
+          "end": 13.05,
+          "en": "and forms Sharivan's armor.",
+          "voice_end": 12.55
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Sharivan (Laser Blade)",
+      "duration": 6.916667,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 1.08,
+          "end": 3.45,
+          "en": "Laser Blade!",
+          "voice_end": 2.95
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Sharivan (Sharivan Crash)",
+      "duration": 3.833333,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 0,
+          "end": 3.1,
+          "en": "Sharivan Crash!",
+          "voice_end": 2.6
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Shaider (Shoketsu)",
+      "duration": 15.666667,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 0,
+          "end": 3.86,
+          "en": "Space Sheriff Shaider transforms\nin just one millisecond.",
+          "voice_end": 3.8
+        },
+        {
+          "start": 3.86,
+          "end": 6.4,
+          "en": "Let's examine how it works.",
+          "voice_end": 5.9
+        },
+        {
+          "start": 6.58,
+          "end": 11.5,
+          "en": "Bathed in Plasma Blue Energy\nfired from the Babylos...",
+          "voice_end": 11.5
+        },
+        {
+          "start": 11.5,
+          "end": 15.1,
+          "en": "he completes his transformation\nin just one millisecond.",
+          "voice_end": 14.6
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Shaider (Laser Blade)",
+      "duration": 6.833333,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 1.84,
+          "end": 4.1,
+          "en": "Laser Blade!",
+          "voice_end": 3.6
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Shaider (Shaider Blue Flash)",
+      "duration": 4.166667,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 0,
+          "end": 2.9,
+          "en": "Shaider Blue Flash!",
+          "voice_end": 2.4
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Shaider (Big Magnum)",
+      "duration": 22.333333,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 2.38,
+          "end": 5.1,
+          "en": "Shooting Formation!",
+          "voice_end": 4.6
+        },
+        {
+          "start": 16.16,
+          "end": 21.8,
+          "en": "Big Magnum!",
+          "voice_end": 21.3
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Red Baron (Launch)",
+      "duration": 17.916667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 18,
+      "title": "Grand Birth Battle Formation",
+      "duration": 17.583333,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 19,
+      "title": "Kikaider (Henshin)",
+      "duration": 15.166667,
+      "status": "Draft: distorted counting/transformation calls at 1.5-5.7 omitted pending a listening check.",
+      "subtitles": [
+        {
+          "start": 0.7,
+          "end": 2.0,
+          "en": "Change!",
+          "voice_end": 1.5
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Kikaider (Electromagnetic End)",
+      "duration": 2.333333,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 21,
+      "title": "Ultraman (Henshin)",
+      "duration": 7.5,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 22,
+      "title": "Ultraseven (Henshin)",
+      "duration": 10.5,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 23,
+      "title": "Ultraman Jack (Henshin)",
+      "duration": 8.333333,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 24,
+      "title": "Giant Robo (Firing Stance)",
+      "duration": 4.5,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 25,
+      "title": "Sanagiman (Henten)",
+      "duration": 5.083333,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 26,
+      "title": "Inazuman (Henten)",
+      "duration": 11.25,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 3.1,
+          "end": 5.18,
+          "en": "Goriki Shorai!",
+          "voice_end": 5
+        },
+        {
+          "start": 5.18,
+          "end": 7.4,
+          "en": "As Sanagiman grows stronger...",
+          "voice_end": 7.4
+        },
+        {
+          "start": 7.4,
+          "end": 11.0,
+          "en": "the gauge on his belt reaches its peak,\nand he becomes Inazuman.",
+          "voice_end": 10.5
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Inazuman Flash (Henten)",
+      "duration": 13.333333,
+      "status": "Draft: the title at 10.6 is partly obscured; Inazuman and transformation call follow the glossary.",
+      "subtitles": [
+        {
+          "start": 0.96,
+          "end": 3.5,
+          "en": "Choriki Shorai!",
+          "voice_end": 3
+        },
+        {
+          "start": 10.64,
+          "end": 13.2,
+          "en": "Warrior of Freedom, Inazuman!",
+          "voice_end": 12.66
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Giant Robo (Megaton Punch)",
+      "duration": 7.25,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 29,
+      "title": "Giant Robo (Rockets)",
+      "duration": 10.666667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 30,
+      "title": "Kamen Rider 1 (Henshin)",
+      "duration": 19.083333,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 31,
+      "title": "New Kamen Rider 1 (Henshin)",
+      "duration": 10.5,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 2.17,
+          "end": 5.45,
+          "en": "Rider Henshin!",
+          "voice_end": 4.95
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Kamen Rider 1 (Rider Kick)",
+      "duration": 9.916667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 33,
+      "title": "New Kamen Rider 1 (Rider Kick)",
+      "duration": 3.25,
+      "status": "Draft: Rider is recognized; Kick is inferred from the movie-list entry and action.",
+      "subtitles": [
+        {
+          "start": 0.55,
+          "end": 2.7,
+          "en": "Rider Kick!",
+          "voice_end": 2.2
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Kamen Rider 2 (Henshin)",
+      "duration": 13.583333,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 0.88,
+          "end": 3.35,
+          "en": "Henshin!",
+          "voice_end": 2.85
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "New Kamen Rider 2 (Henshin)",
+      "duration": 10.416667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 36,
+      "title": "Kamen Rider 2 (Rider Punch)",
+      "duration": 4.083333,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 37,
+      "title": "Steel Emperor Zephas (Fusion Steel On)",
+      "duration": 14.833333,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 38,
+      "title": "Zephas Core (Awakening)",
+      "duration": 17.5,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 39,
+      "title": "Kamen Rider V3 (Henshin)",
+      "duration": 15.583333,
+      "status": "Unresolved transformation shout: all Whisper passes unreliable; subtitles deliberately omitted.",
+      "subtitles": []
+    },
+    {
+      "id": 40,
+      "title": "Kamen Rider V3 (V3 Kick)",
+      "duration": 6.25,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 41,
+      "title": "Riderman (Henshin)",
+      "duration": 9.083333,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 42,
+      "title": "Kamen Rider BLACK (Henshin)",
+      "duration": 23.5,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 43,
+      "title": "Kamen Rider BLACK RX (Henshin)",
+      "duration": 17.0,
+      "status": "Draft: Child of the Sun and Kamen Rider recognized; BLACK RX restored using the movie-list identity.",
+      "subtitles": [
+        {
+          "start": 10.34,
+          "end": 12.1,
+          "en": "I am the Child of the Sun!",
+          "voice_end": 11.8
+        },
+        {
+          "start": 12.1,
+          "end": 14.8,
+          "en": "Kamen Rider BLACK RX!",
+          "voice_end": 14.3
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Kamen Rider BLACK (Rider Kick)",
+      "duration": 2.916667,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 0,
+          "end": 2.6,
+          "en": "Rider Kick!",
+          "voice_end": 2.1
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Kamen Rider BLACK RX (Revolcane)",
+      "duration": 7.75,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 46,
+      "title": "Electronic Starbeast Dol",
+      "duration": 17.666667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 47,
+      "title": "New Kamen Rider 2 (Rider Punch)",
+      "duration": 4.083333,
+      "status": "Draft: all ASR passes give Power, but the movie list identifies Rider Punch; needs a listening check.",
+      "subtitles": [
+        {
+          "start": 0.7,
+          "end": 3.5,
+          "en": "Rider Power!",
+          "voice_end": 3
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Daitetsujin 17 (Transform)",
+      "duration": 13.916667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 49,
+      "title": "Giant Robo (Launch)",
+      "duration": 14.25,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 50,
+      "title": "Lucifard (Fusion Steel On)",
+      "duration": 18.0,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 51,
+      "title": "Fadita (Fusion Steel On)",
+      "duration": 14.916667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 52,
+      "title": "Vortex (Awakening)",
+      "duration": 14.833333,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 53,
+      "title": "Velvet (Awakening)",
+      "duration": 11.333333,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 54,
+      "title": "Velvet Fury (Fusion)",
+      "duration": 19.166667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 55,
+      "title": "Apfaron (Fusion Steel On)",
+      "duration": 14.583333,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 56,
+      "title": "Atefarina (Fusion Steel On)",
+      "duration": 14.25,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 57,
+      "title": "Volfeed (Awakening)",
+      "duration": 17.666667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 58,
+      "title": "Volhazard (Awakening)",
+      "duration": 10.0,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 59,
+      "title": "Valkyria (Awakening)",
+      "duration": 13.5,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 60,
+      "title": "Velvet Reverse (Awakening)",
+      "duration": 14.0,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 61,
+      "title": "Kikaider 01 (Henshin)",
+      "duration": 13.5,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 62,
+      "title": "Hakaider (Henshin)",
+      "duration": 5.5,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 63,
+      "title": "Bijinder, Enemy (Henshin)",
+      "duration": 17.166667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 64,
+      "title": "Bijinder, Ally (Henshin)",
+      "duration": 10.0,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 65,
+      "title": "Number Ten discovery",
+      "duration": 64.0,
+      "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
+      "subtitles": [
+        {
+          "start": 20,
+          "end": 25.45,
+          "en": "An unprecedented astronomical\ndiscovery was announced on Earth.",
+          "voice_end": 24.95
+        },
+        {
+          "start": 26.1,
+          "end": 31.45,
+          "en": "A mysterious planet had been found\nfar beyond Pluto.",
+          "voice_end": 30.95
+        },
+        {
+          "start": 32.12,
+          "end": 38.8,
+          "en": "Discovered at the edge of the solar system,\nit seemed to have appeared from nowhere.",
+          "voice_end": 38.4
+        },
+        {
+          "start": 38.8,
+          "end": 44.45,
+          "en": "It was provisionally named \"Number Ten,\"\nas the solar system's tenth planet.",
+          "voice_end": 43.95
+        },
+        {
+          "start": 44.92,
+          "end": 49.04,
+          "en": "Every kind of investigation\nwas launched from Earth...",
+          "voice_end": 48.55
+        },
+        {
+          "start": 49.04,
+          "end": 54.05,
+          "en": "but no detailed information\nabout the planet could be obtained.",
+          "voice_end": 53.55
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Asteroid sequence",
+      "duration": 32.416667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 67,
+      "title": "Disaster sequence",
+      "duration": 40.5,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 68,
+      "title": "Return to port",
+      "duration": 86.75,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 69,
+      "title": "Ultra Hawk launch",
+      "duration": 100.0,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 70,
+      "title": "Fighter sequence",
+      "duration": 37.416667,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 71,
+      "title": "Staff roll (Metal)",
+      "duration": 105.5,
+      "status": "English headings and company names; unverified personal-name readings retained in original credited form.",
+      "subtitles": [],
+      "credits": true
+    },
+    {
+      "id": 72,
+      "title": "Staff roll (Bio)",
+      "duration": 105.5,
+      "status": "English headings and company names; unverified personal-name readings retained in original credited form.",
+      "subtitles": [],
+      "credits": true
+    },
+    {
+      "id": 73,
+      "title": "Ending: See you again",
+      "duration": 24.0,
+      "status": "No dependable lexical speech recognized; original audio retained.",
+      "subtitles": []
+    },
+    {
+      "id": 74,
+      "title": "Opening theme",
+      "duration": 123.75,
+      "status": "Draft lyrics: 25-39 and 95-98 omitted because recognition is unreliable. English refrain at 57-60 and wording at 84-95 need listening confirmation.",
+      "subtitles": [
+        {
+          "start": 16.18,
+          "end": 19.5,
+          "en": "Tear through the storm and blaze!",
+          "voice_end": 19.5
+        },
+        {
+          "start": 19.5,
+          "end": 24.5,
+          "en": "Shine, hero!",
+          "voice_end": 24
+        },
+        {
+          "start": 39.42,
+          "end": 42.92,
+          "en": "You who know the heart of justice...",
+          "voice_end": 42.8
+        },
+        {
+          "start": 42.92,
+          "end": 45.5,
+          "en": "become the light!",
+          "voice_end": 45
+        },
+        {
+          "start": 46.92,
+          "end": 50.94,
+          "en": "Burning fiercely in your heart...",
+          "voice_end": 50.7
+        },
+        {
+          "start": 50.94,
+          "end": 54.16,
+          "en": "unleash your courage and love!",
+          "voice_end": 53.7
+        },
+        {
+          "start": 54.16,
+          "end": 57.4,
+          "en": "Now is the time!",
+          "voice_end": 57.4
+        },
+        {
+          "start": 57.4,
+          "end": 60.4,
+          "en": "Let's set fire on!",
+          "voice_end": 59.9
+        },
+        {
+          "start": 60.46,
+          "end": 63.28,
+          "en": "Put your life on the line!",
+          "voice_end": 63.05
+        },
+        {
+          "start": 63.28,
+          "end": 67,
+          "en": "Run, Thunder! Never surrender!",
+          "voice_end": 67
+        },
+        {
+          "start": 67,
+          "end": 72.3,
+          "en": "Tear through the storm and blaze!",
+          "voice_end": 72.15
+        },
+        {
+          "start": 72.3,
+          "end": 75.3,
+          "en": "You are the warrior!",
+          "voice_end": 74.8
+        },
+        {
+          "start": 84.74,
+          "end": 88.6,
+          "en": "I'll never forget...",
+          "voice_end": 88.3
+        },
+        {
+          "start": 88.6,
+          "end": 91.86,
+          "en": "the fighting spirit surging through me.",
+          "voice_end": 91.6
+        },
+        {
+          "start": 91.86,
+          "end": 95.7,
+          "en": "I won't let tomorrow slip away again.",
+          "voice_end": 95.2
+        },
+        {
+          "start": 98.18,
+          "end": 101.26,
+          "en": "Tear through the storm!",
+          "voice_end": 100.8
+        },
+        {
+          "start": 101.26,
+          "end": 103.5,
+          "en": "Race on, Thunder!",
+          "voice_end": 103.5
+        },
+        {
+          "start": 103.5,
+          "end": 105.34,
+          "en": "You're a challenger!",
+          "voice_end": 105.2
+        },
+        {
+          "start": 105.34,
+          "end": 110.1,
+          "en": "Rising up amid the storm...",
+          "voice_end": 109.95
+        },
+        {
+          "start": 110.1,
+          "end": 113.1,
+          "en": "you are the warrior!",
+          "voice_end": 112.6
+        }
+      ],
+      "lyric_draft": true
+    }
+  ],
+  "subtitle_timing": {
+    "post_voice_hold_seconds": 0.5,
+    "interruption": "Next subtitle start",
+    "voice_end_provenance": "Existing end times retained as conservative voice-end bounds; clip 27 final voice end corrected from Whisper."
+  }
+}

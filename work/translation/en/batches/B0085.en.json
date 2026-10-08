@@ -1,0 +1,487 @@
+{
+ "batch": "B0085",
+ "prev": "B0084",
+ "next": "B0086",
+ "rows": [
+  {
+   "uid": "U06738",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06739",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U06740",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06741",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U06742",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Apfaron the Evil Scholar"
+  },
+  {
+   "uid": "U06743",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06744",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Archpriest Darom"
+  },
+  {
+   "uid": "U06745",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06746",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06747",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06748",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Nobuhiko Akizuki"
+  },
+  {
+   "uid": "U06749",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06750",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U06751",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06752",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U06753",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06754",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U06755",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06756",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U06757",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06758",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U06759",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06760",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U06761",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06762",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U06763",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06764",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U06765",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U06766",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06767",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U06768",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U06769",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U06770",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U06771",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Doctor Polter"
+  },
+  {
+   "uid": "U06772",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U06773",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman in the Lab"
+  },
+  {
+   "uid": "U06774",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Boy in the Lab"
+  },
+  {
+   "uid": "U06775",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U06776",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman in the Lab"
+  },
+  {
+   "uid": "U06777",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Boy in the Lab"
+  },
+  {
+   "uid": "U06778",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiroshi"
+  },
+  {
+   "uid": "U06779",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Boy in the Lab"
+  },
+  {
+   "uid": "U06780",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Misao"
+  },
+  {
+   "uid": "U06781",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiroshi"
+  },
+  {
+   "uid": "U06782",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Woman in the Lab"
+  },
+  {
+   "uid": "U06783",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U06784",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U06785",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiroshi"
+  },
+  {
+   "uid": "U06786",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U06787",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U06788",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U06789",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hiroshi"
+  },
+  {
+   "uid": "U06790",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U06791",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U06792",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Washi Beast"
+  },
+  {
+   "uid": "U06793",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06794",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06795",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06796",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06797",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06798",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06799",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U06800",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Priest Poe"
+  },
+  {
+   "uid": "U06801",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Commander Hessler"
+  },
+  {
+   "uid": "U06802",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Priest Poe"
+  },
+  {
+   "uid": "U06803",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Great Emperor Kubilai"
+  },
+  {
+   "uid": "U06804",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U06805",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U06806",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U06807",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Bijinder"
+  },
+  {
+   "uid": "U06808",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U06809",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Den Iga"
+  },
+  {
+   "uid": "U06810",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U06811",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U06812",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06813",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06814",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06815",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Soichiro Akizuki"
+  },
+  {
+   "uid": "U06816",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  },
+  {
+   "uid": "U06817",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kotaro Minami"
+  }
+ ]
+}

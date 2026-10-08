@@ -1,0 +1,333 @@
+{
+ "batch": "B0206",
+ "rows": [
+  {
+   "uid": "U16426",
+   "en": "I'm fine!"
+  },
+  {
+   "uid": "U16427",
+   "en": "Whoa, look out!"
+  },
+  {
+   "uid": "U16428",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16429",
+   "en": "Ngh, I've been hit!?"
+  },
+  {
+   "uid": "U16430",
+   "en": "This is getting dangerous!?"
+  },
+  {
+   "uid": "U16431",
+   "en": "Uwaaaah!"
+  },
+  {
+   "uid": "U16432",
+   "en": "Take this!!"
+  },
+  {
+   "uid": "U16433",
+   "en": "Here I go!!"
+  },
+  {
+   "uid": "U16434",
+   "en": "Aim set, fire!!"
+  },
+  {
+   "uid": "U16435",
+   "en": "Disappear!!"
+  },
+  {
+   "uid": "U16436",
+   "en": "I'm fine!"
+  },
+  {
+   "uid": "U16437",
+   "en": "Whoa, look out!"
+  },
+  {
+   "uid": "U16438",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16439",
+   "en": "Ngh, I've been hit!?"
+  },
+  {
+   "uid": "U16440",
+   "en": "This is getting dangerous!?"
+  },
+  {
+   "uid": "U16441",
+   "en": "Uwaaaah!"
+  },
+  {
+   "uid": "U16442",
+   "en": "Take this!!"
+  },
+  {
+   "uid": "U16443",
+   "en": "I'm going in like my life depends on it!!"
+  },
+  {
+   "uid": "U16444",
+   "en": "Aim set, fire!!"
+  },
+  {
+   "uid": "U16445",
+   "en": "Fire!!"
+  },
+  {
+   "uid": "U16446",
+   "en": "I'm fine!"
+  },
+  {
+   "uid": "U16447",
+   "en": "Whoa, look out!"
+  },
+  {
+   "uid": "U16448",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16449",
+   "en": "Ngh, I've been hit!?"
+  },
+  {
+   "uid": "U16450",
+   "en": "This is getting dangerous!?"
+  },
+  {
+   "uid": "U16451",
+   "en": "Uwaaaah!"
+  },
+  {
+   "uid": "U16452",
+   "en": "Take this!!"
+  },
+  {
+   "uid": "U16453",
+   "en": "Aim set, fire!!"
+  },
+  {
+   "uid": "U16454",
+   "en": "Vanish!!"
+  },
+  {
+   "uid": "U16455",
+   "en": "I'm fine!"
+  },
+  {
+   "uid": "U16456",
+   "en": "Whoa, look out!"
+  },
+  {
+   "uid": "U16457",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16458",
+   "en": "Ngh, I've been hit!?"
+  },
+  {
+   "uid": "U16459",
+   "en": "This is getting dangerous!?"
+  },
+  {
+   "uid": "U16460",
+   "en": "Uwaaaah!"
+  },
+  {
+   "uid": "U16461",
+   "en": "Take this!!"
+  },
+  {
+   "uid": "U16462",
+   "en": "Here I go!!"
+  },
+  {
+   "uid": "U16463",
+   "en": "Aim set, fire!!"
+  },
+  {
+   "uid": "U16464",
+   "en": "Vanish!!"
+  },
+  {
+   "uid": "U16465",
+   "en": "I'm fine!"
+  },
+  {
+   "uid": "U16466",
+   "en": "Whoa, look out!"
+  },
+  {
+   "uid": "U16467",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16468",
+   "en": "Ngh, I've been hit!?"
+  },
+  {
+   "uid": "U16469",
+   "en": "This is getting dangerous!?"
+  },
+  {
+   "uid": "U16470",
+   "en": "Uwaaaah!"
+  },
+  {
+   "uid": "U16471",
+   "en": "Take this!!"
+  },
+  {
+   "uid": "U16472",
+   "en": "Aim set, fire!!"
+  },
+  {
+   "uid": "U16473",
+   "en": "Vanish!!"
+  },
+  {
+   "uid": "U16474",
+   "en": "Whoa, look out!"
+  },
+  {
+   "uid": "U16475",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16476",
+   "en": "Ngh, I've been hit!?"
+  },
+  {
+   "uid": "U16477",
+   "en": "This is getting dangerous!?"
+  },
+  {
+   "uid": "U16478",
+   "en": "Uwaaaah!"
+  },
+  {
+   "uid": "U16479",
+   "en": "Take this!!"
+  },
+  {
+   "uid": "U16480",
+   "en": "Aim set, fire!!"
+  },
+  {
+   "uid": "U16481",
+   "en": "Vanish!!"
+  },
+  {
+   "uid": "U16482",
+   "en": "Whoa, look out!"
+  },
+  {
+   "uid": "U16483",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16484",
+   "en": "Ngh, I've been hit!?"
+  },
+  {
+   "uid": "U16485",
+   "en": "This is getting dangerous!?"
+  },
+  {
+   "uid": "U16486",
+   "en": "Uwaaaah!"
+  },
+  {
+   "uid": "U16487",
+   "en": "Take this!!"
+  },
+  {
+   "uid": "U16488",
+   "en": "Charge!!"
+  },
+  {
+   "uid": "U16489",
+   "en": "Aim set, fire!!"
+  },
+  {
+   "uid": "U16490",
+   "en": "Vanish!!"
+  },
+  {
+   "uid": "U16491",
+   "en": "I'm fine!"
+  },
+  {
+   "uid": "U16492",
+   "en": "Whoa, look out!"
+  },
+  {
+   "uid": "U16493",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16494",
+   "en": "Ngh, I've been hit!?"
+  },
+  {
+   "uid": "U16495",
+   "en": "This is getting dangerous!?"
+  },
+  {
+   "uid": "U16496",
+   "en": "Uwaaaah!"
+  },
+  {
+   "uid": "U16497",
+   "en": "Take this!!"
+  },
+  {
+   "uid": "U16498",
+   "en": "Aim set, fire!!"
+  },
+  {
+   "uid": "U16499",
+   "en": "Vanish!!"
+  },
+  {
+   "uid": "U16500",
+   "en": "I'm fine!"
+  },
+  {
+   "uid": "U16501",
+   "en": "Whoa, look out!"
+  },
+  {
+   "uid": "U16502",
+   "en": "I can still go!"
+  },
+  {
+   "uid": "U16503",
+   "en": "Ngh, I've been hit!?"
+  },
+  {
+   "uid": "U16504",
+   "en": "This is getting dangerous!?"
+  },
+  {
+   "uid": "U16505",
+   "en": "Uwaaaah!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": []
+ }
+}

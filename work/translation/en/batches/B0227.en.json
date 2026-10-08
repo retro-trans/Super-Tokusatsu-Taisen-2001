@@ -1,0 +1,487 @@
+{
+ "batch": "B0227",
+ "prev": "B0226",
+ "next": "B0228",
+ "rows": [
+  {
+   "uid": "U18106",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U18107",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Desper Soldier"
+  },
+  {
+   "uid": "U18108",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Itsutsu Banbara"
+  },
+  {
+   "uid": "U18109",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Itsutsu Banbara"
+  },
+  {
+   "uid": "U18110",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Itsutsu Banbara"
+  },
+  {
+   "uid": "U18111",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Itsutsu Banbara"
+  },
+  {
+   "uid": "U18112",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Itsutsu Banbara"
+  },
+  {
+   "uid": "U18113",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Itsutsu Banbara"
+  },
+  {
+   "uid": "U18114",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Itsutsu Banbara"
+  },
+  {
+   "uid": "U18115",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Itsutsu Banbara"
+  },
+  {
+   "uid": "U18116",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Itsutsu Banbara"
+  },
+  {
+   "uid": "U18117",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U18118",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U18119",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U18120",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U18121",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U18122",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U18123",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U18124",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U18125",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U18126",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Toge Banbara"
+  },
+  {
+   "uid": "U18127",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U18128",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U18129",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U18130",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U18131",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U18132",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U18133",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U18134",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U18135",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Bara Banbara"
+  },
+  {
+   "uid": "U18136",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U18137",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U18138",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U18139",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U18140",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U18141",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U18142",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper"
+  },
+  {
+   "uid": "U18143",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18144",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18145",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18146",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18147",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18148",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18149",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18150",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18151",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18152",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18153",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18154",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Combined Udesper"
+  },
+  {
+   "uid": "U18155",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U18156",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U18157",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U18158",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U18159",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U18160",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U18161",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U18162",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U18163",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U18164",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U18165",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U18166",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U18167",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U18168",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U18169",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U18170",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U18171",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U18172",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U18173",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U18174",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U18175",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Beta"
+  },
+  {
+   "uid": "U18176",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Udesper Alpha"
+  },
+  {
+   "uid": "U18177",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Boiler Desper"
+  },
+  {
+   "uid": "U18178",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Boiler Desper"
+  },
+  {
+   "uid": "U18179",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Boiler Desper"
+  },
+  {
+   "uid": "U18180",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Boiler Desper"
+  },
+  {
+   "uid": "U18181",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Boiler Desper"
+  },
+  {
+   "uid": "U18182",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Boiler Desper"
+  },
+  {
+   "uid": "U18183",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Boiler Desper"
+  },
+  {
+   "uid": "U18184",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Boiler Desper"
+  },
+  {
+   "uid": "U18185",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Boiler Desper"
+  }
+ ]
+}

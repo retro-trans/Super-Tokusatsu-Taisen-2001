@@ -1,0 +1,487 @@
+{
+ "batch": "B0157",
+ "prev": "B0156",
+ "next": "B0158",
+ "rows": [
+  {
+   "uid": "U12501",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12502",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12503",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12504",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U12505",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U12506",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12507",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U12508",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U12509",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U12510",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12511",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U12512",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mitsuko Komyoji"
+  },
+  {
+   "uid": "U12513",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U12514",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12515",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U12516",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U12517",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12518",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U12519",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U12520",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12521",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari"
+  },
+  {
+   "uid": "U12522",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U12523",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Komyoji"
+  },
+  {
+   "uid": "U12524",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12525",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12526",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12527",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U12528",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12529",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12530",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U12531",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12532",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12533",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Waruder"
+  },
+  {
+   "uid": "U12534",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U12535",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U12536",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12537",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U12538",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12539",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12540",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12541",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12542",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U12543",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U12544",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U12545",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U12546",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U12547",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U12548",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U12549",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U12550",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U12551",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U12552",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Zadam"
+  },
+  {
+   "uid": "U12553",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U12554",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U12555",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Big Shadow"
+  },
+  {
+   "uid": "U12556",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12557",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12558",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12559",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12560",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12561",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12562",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12563",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12564",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12565",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12566",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12567",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12568",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12569",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12570",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12571",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12572",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12573",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12574",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12575",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12576",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12577",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12578",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12579",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  },
+  {
+   "uid": "U12580",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Robot Regenerator"
+  }
+ ]
+}

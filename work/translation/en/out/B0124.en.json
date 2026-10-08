@@ -1,0 +1,391 @@
+{
+ "batch": "B0124",
+ "rows": [
+  {
+   "uid": "U09859",
+   "en": "In that case…<p>to start with, let us capture Rieko and make her tell us where the children with the blueprints are."
+  },
+  {
+   "uid": "U09860",
+   "en": "What do you think of this Android Akira?"
+  },
+  {
+   "uid": "U09861",
+   "en": "Hmm… The outside looks fine!<p>Make it walk!"
+  },
+  {
+   "uid": "U09862",
+   "en": "…………"
+  },
+  {
+   "uid": "U09863",
+   "en": "The sound of its steps and its movements still feel like an android! Work on it some more!"
+  },
+  {
+   "uid": "U09864",
+   "en": "Understood… It's no trouble at all, Shadow Knight…"
+  },
+  {
+   "uid": "U09865",
+   "en": "Akira! Akira!"
+  },
+  {
+   "uid": "U09866",
+   "en": "Rieko! What's wrong!?"
+  },
+  {
+   "uid": "U09867",
+   "en": "Jiro! Please save Akira! He fell into the sea!"
+  },
+  {
+   "uid": "U09868",
+   "en": "…!? Akira!<p>Toh…!"
+  },
+  {
+   "uid": "U09869",
+   "en": "Heh heh, you fool! You don't even know that Akira is an android…<p>That android is rigged to explode the moment Zero-One or Kikaider lays a hand on it!"
+  },
+  {
+   "uid": "U09870",
+   "en": "Akiraaaa! Jirooooo!"
+  },
+  {
+   "uid": "U09871",
+   "en": "…!?"
+  },
+  {
+   "uid": "U09872",
+   "en": "Where is she? Where?"
+  },
+  {
+   "uid": "U09873",
+   "en": "Shadow scum! I'll rescue Akira and Jiro myself! I won't let you lay a finger on Rieko!"
+  },
+  {
+   "uid": "U09874",
+   "en": "Ichiro!"
+  },
+  {
+   "uid": "U09875",
+   "en": "Rieko, it's dangerous! Stay hidden!"
+  },
+  {
+   "uid": "U09876",
+   "en": "Akira, you're safe!?"
+  },
+  {
+   "uid": "U09877",
+   "en": "Akira!"
+  },
+  {
+   "uid": "U09878",
+   "en": "Akira, thank goodness…<p>…!?<p>This feel…!?"
+  },
+  {
+   "uid": "U09879",
+   "en": "…!? Ichirooooo!"
+  },
+  {
+   "uid": "U09880",
+   "en": "Hahaha… We did it! At last we've disposed of the Kikaiders!<p>Take the woman away!"
+  },
+  {
+   "uid": "U09881",
+   "en": "Hold it! I won't let you do that!"
+  },
+  {
+   "uid": "U09882",
+   "en": "Fool… I'm not so weak that a mere human can beat me!"
+  },
+  {
+   "uid": "U09883",
+   "en": "Taaah! Ohohohohoho…<p>Wherever there are flowers in this world, I dance out from among them to stand against evil!"
+  },
+  {
+   "uid": "U09884",
+   "en": "Nngh, Bijinder! You traitor!"
+  },
+  {
+   "uid": "U09885",
+   "en": "Out of my way!"
+  },
+  {
+   "uid": "U09886",
+   "en": "Uwaaaah…"
+  },
+  {
+   "uid": "U09887",
+   "en": "…!? Taki!"
+  },
+  {
+   "uid": "U09888",
+   "en": "Bijinder! I'm taking the woman!"
+  },
+  {
+   "uid": "U09889",
+   "en": "Kyah…"
+  },
+  {
+   "uid": "U09890",
+   "en": "Rieko!"
+  },
+  {
+   "uid": "U09891",
+   "en": "No good! It looks like we were a step too late."
+  },
+  {
+   "uid": "U09892",
+   "en": "[HERO2], [HERO4]!"
+  },
+  {
+   "uid": "U09893",
+   "en": "Takiii!<p>Bijinder, is Taki all right?"
+  },
+  {
+   "uid": "U09894",
+   "en": "…………<p>He's dead."
+  },
+  {
+   "uid": "U09895",
+   "en": "Agh… Aaah…"
+  },
+  {
+   "uid": "U09896",
+   "en": "Stubborn woman… Will you still not tell us where Akira and Hiroshi are?"
+  },
+  {
+   "uid": "U09897",
+   "en": "Ngh… I can't tell you… what I don't know!"
+  },
+  {
+   "uid": "U09898",
+   "en": "Hmph… Does she know or doesn't she?<p>Call up Gill on Black Satan and have him talk with this woman!"
+  },
+  {
+   "uid": "U09899",
+   "en": "…………"
+  },
+  {
+   "uid": "U09900",
+   "en": "Professor Gill! Show yourself on the screen!"
+  },
+  {
+   "uid": "U09901",
+   "en": "…Shut up, you robots! Want to borrow my wisdom again, do you?"
+  },
+  {
+   "uid": "U09902",
+   "en": "…!?<p>Professor… Gill!"
+  },
+  {
+   "uid": "U09903",
+   "en": "Professor Gill! You know this woman, don't you?"
+  },
+  {
+   "uid": "U09904",
+   "en": "Rieko…!?<p>She's the woman I left Akira with…"
+  },
+  {
+   "uid": "U09905",
+   "en": "Then this woman… also knows where the other child is?"
+  },
+  {
+   "uid": "U09906",
+   "en": "You mean his older brother, Hiroshi?"
+  },
+  {
+   "uid": "U09907",
+   "en": "Hiroshi…? Is that his name? Where is he?"
+  },
+  {
+   "uid": "U09908",
+   "en": "Hiroshi is with a woman called Misao, at a certain place here in Japan…"
+  },
+  {
+   "uid": "U09909",
+   "en": "And where is this \"certain place\"?"
+  },
+  {
+   "uid": "U09910",
+   "en": "Heh heh heh… That I can't tell anyone."
+  },
+  {
+   "uid": "U09911",
+   "en": "Tell us, and we'll spare your sons' lives! All we want is…"
+  },
+  {
+   "uid": "U09912",
+   "en": "The blueprints hidden on their backs…? You blockhead!<p>If I could hand them over so easily… do you think I'd have hidden them on my children's bodies!?"
+  },
+  {
+   "uid": "U09913",
+   "en": "Blast it!<p>Then… we'll extract the information on Hiroshi and Misao from Gill's memory cells!"
+  },
+  {
+   "uid": "U09914",
+   "en": "…!?<p>Stop it! Stooop!"
+  },
+  {
+   "uid": "U09915",
+   "en": "Heh heh heh… With Black Satan, it's simple! Hahaha…"
+  },
+  {
+   "uid": "U09916",
+   "en": "Oyassan, how's it going?"
+  },
+  {
+   "uid": "U09917",
+   "en": "It's been a good three hours now since Mari went into that room…"
+  },
+  {
+   "uid": "U09918",
+   "en": "I guess it's impossible after all, huh? Bringing a dead man back to life…"
+  },
+  {
+   "uid": "U09919",
+   "en": "No… It's too early to give up! I'm sure Mari will…"
+  },
+  {
+   "uid": "U09920",
+   "en": "But… I wonder if Mari can hold out that long?"
+  },
+  {
+   "uid": "U09921",
+   "en": "What do you mean, [HERO4]?"
+  },
+  {
+   "uid": "U09922",
+   "en": "There's only one way to revive Taki now that his heart has stopped…<p>And that's to give him shock treatment using almost all of Bijinder's energy.<p>And if it fails, Mari could lose her life too."
+  },
+  {
+   "uid": "U09923",
+   "en": "What!? Then…"
+  },
+  {
+   "uid": "U09924",
+   "en": "Mari…!?"
+  },
+  {
+   "uid": "U09925",
+   "en": "It… didn't work?"
+  },
+  {
+   "uid": "U09926",
+   "en": "Uuugh… Taki will be back on his feet in about an hour."
+  },
+  {
+   "uid": "U09927",
+   "en": "Mari… You've used up all your energy…!?"
+  },
+  {
+   "uid": "U09928",
+   "en": "Ugh… Please, keep what I did a secret from Taki."
+  },
+  {
+   "uid": "U09929",
+   "en": "Mari! Where do you think you're going in that state? You need to rest a little…"
+  },
+  {
+   "uid": "U09930",
+   "en": "We have to rescue Ichiro and Jiro… and Rieko too!<p>I'll be all right. My energy will recover soon…"
+  },
+  {
+   "uid": "U09931",
+   "en": "Mari…"
+  },
+  {
+   "uid": "U09932",
+   "en": "Jeez, what the heck is going on?<p>Thanks to Mari, it looks like Taki'll pull through somehow, but he's got near-fatal injuries… and Ichiro and Jiro have gone missing?"
+  },
+  {
+   "uid": "U09933",
+   "en": "At this rate… Akira, Akira's big brother… and Misao are in danger too!"
+  },
+  {
+   "uid": "U09934",
+   "en": "Lady Bijinder… I would have you tell me.<p>Why did you save that young man, even at the cost of all your own energy?"
+  },
+  {
+   "uid": "U09935",
+   "en": "Saving human lives is an android's duty… That is all."
+  },
+  {
+   "uid": "U09936",
+   "en": "Nay, that is not it… You too, my lady, are in love with that young man!"
+  },
+  {
+   "uid": "U09937",
+   "en": "Waruder… I am an android, and Taki is human! Never in a million years would I…"
+  },
+  {
+   "uid": "U09938",
+   "en": "Enough… I will not hear clumsy excuses!<p>If you insist that it is not love, then I challenge you, my lady, to a duel here and now!"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U09865/U09867: Rieko calls Akira \"Akira-chan\"; dropped -chan. Akira is a boy (glossary).",
+   "U09872: Shadowman is searching for someone; \"she\" (Rieko) inferred from U09873.",
+   "U09878: Ichiro touches the android Akira and recognizes the feel; \"This feel…!?\" kept vague as in the Japanese.",
+   "U09883: Bijinder's catchphrase translated freely.",
+   "U09891: [HERO4] speaks to Bijinder; \"we\" inferred.",
+   "U09901/U09912: Gill's tone kept gruff.",
+   "U09911: \"your sons\" - Shadow Knight assumes Akira and Hiroshi are Gill's sons.",
+   "U09918: 死んだ人間 rendered \"a dead man\" since it refers to Taki.",
+   "U09934-U09938: Waruder's archaic samurai speech (ご貴殿, 拙者, ござらん) rendered as old-fashioned English; ご貴殿 as \"my lady\"."
+  ],
+  "omissions_kept": [
+   "U09925: subject of \"didn't work\" left implied (the revival)."
+  ],
+  "new_names": [
+   {
+    "en": "[HERO2]",
+    "why": "speaker placeholder, speaker_en null"
+   },
+   {
+    "en": "[HERO4]",
+    "why": "speaker placeholder, speaker_en null"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U09859",
+    "likely": "手始め"
+   },
+   {
+    "uid": "U09880",
+    "likely": "始末"
+   },
+   {
+    "uid": "U09901",
+    "likely": "借りたい"
+   },
+   {
+    "uid": "U09922",
+    "likely": "失敗"
+   },
+   {
+    "uid": "U09922",
+    "likely": "失って"
+   },
+   {
+    "uid": "U09929",
+    "likely": "休まない"
+   },
+   {
+    "uid": "U09932",
+    "likely": "重傷"
+   },
+   {
+    "uid": "U09934",
+    "likely": "若者"
+   },
+   {
+    "uid": "U09936",
+    "likely": "若者"
+   }
+  ]
+ }
+}

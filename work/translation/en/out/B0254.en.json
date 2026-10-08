@@ -1,0 +1,409 @@
+{
+ "batch": "B0254",
+ "rows": [
+  {
+   "uid": "U20294",
+   "en": "{direct}N.Red Bute{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}New Red Bute{P}"
+  },
+  {
+   "uid": "U20295",
+   "en": "{ranged}Cherry",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Blue Cherry"
+  },
+  {
+   "uid": "U20296",
+   "en": "{ranged}C.Missile",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Cherry Missile"
+  },
+  {
+   "uid": "U20297",
+   "en": "{ranged}T.Cherry",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Triple Cherry"
+  },
+  {
+   "uid": "U20298",
+   "en": "{ranged}U.Blue Cherry",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Ultra Blue Cherry"
+  },
+  {
+   "uid": "U20299",
+   "en": "{direct}Headbutt{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Megaton Headbutt{P}"
+  },
+  {
+   "uid": "U20300",
+   "en": "{direct}Sticker{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Key Sticker{P}"
+  },
+  {
+   "uid": "U20301",
+   "en": "{ranged}Bomb",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Momo Bomb"
+  },
+  {
+   "uid": "U20302",
+   "en": "{ranged}Card",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Momo Card"
+  },
+  {
+   "uid": "U20303",
+   "en": "{ranged}Mido.",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Midomeran"
+  },
+  {
+   "uid": "U20304",
+   "en": "{direct}M.Slash{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Midomeran Slash{P}"
+  },
+  {
+   "uid": "U20305",
+   "en": "{ranged}New Mido.",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}New Midomeran"
+  },
+  {
+   "uid": "U20306",
+   "en": "{ranged}Puncher{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Mido Puncher{bullet}"
+  },
+  {
+   "uid": "U20307",
+   "en": "{ranged}S.Lock",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Sky Lock"
+  },
+  {
+   "uid": "U20308",
+   "en": "{ranged}Sky Msl.{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Sky Missile{bullet}"
+  },
+  {
+   "uid": "U20309",
+   "en": "{direct}G.Cutter{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Gyro Cutter{P}"
+  },
+  {
+   "uid": "U20310",
+   "en": "{ranged}M.Gun",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Machine Gun"
+  },
+  {
+   "uid": "U20311",
+   "en": "{c287}G.Charge{M}{AP}",
+   "note": "Shortened to fit the checker budget; preferred: {c287}Gorenger Charge{M}{AP}"
+  },
+  {
+   "uid": "U20312",
+   "en": "{ranged}G.Storm{M}{AP}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Gorenger Storm{M}{AP}"
+  },
+  {
+   "uid": "U20313",
+   "en": "{ranged}Gorenger Op. SNP MS{M}{AP}"
+  },
+  {
+   "uid": "U20314",
+   "en": "{ranged}Goren. Hurri.{M}{AP}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Gorenger Hurricane{M}{AP}"
+  },
+  {
+   "uid": "U20315",
+   "en": "{ranged}G.Op. SNP{M}{AP}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Gorenger Op. SNP{M}{AP}"
+  },
+  {
+   "uid": "U20316",
+   "en": "{direct}L.F.Shock{P}{elec}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Lightning Fist Shock{P}{elec}"
+  },
+  {
+   "uid": "U20317",
+   "en": "{direct}P.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Psychic Kick{P}"
+  },
+  {
+   "uid": "U20318",
+   "en": "{ranged}Typhoon{elec}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Lightning Typhoon{elec}"
+  },
+  {
+   "uid": "U20319",
+   "en": "{ranged}S.L.Drop{elec}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Super Lightning Drop{elec}"
+  },
+  {
+   "uid": "U20320",
+   "en": "{direct}M.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Meteor Kick{P}"
+  },
+  {
+   "uid": "U20321",
+   "en": "{ranged}Ultra Slash{beam}"
+  },
+  {
+   "uid": "U20322",
+   "en": "{ranged}S.Ray{special}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Specium Ray{special}"
+  },
+  {
+   "uid": "U20323",
+   "en": "{ranged}Ultra Spark"
+  },
+  {
+   "uid": "U20324",
+   "en": "{ranged}U.Lance",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Ultra Lance"
+  },
+  {
+   "uid": "U20325",
+   "en": "{direct}Ultra Rocke.{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Ultra Rocket{P}"
+  },
+  {
+   "uid": "U20326",
+   "en": "{ranged}Rkt.{S}{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Rocket Launcher{S}{bullet}"
+  },
+  {
+   "uid": "U20327",
+   "en": "{ranged}Hd.Msl{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Head Missile{bullet}"
+  },
+  {
+   "uid": "U20328",
+   "en": "{ranged}U.W.Jet{water}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Ultra Water Jet{water}"
+  },
+  {
+   "uid": "U20329",
+   "en": "{ranged}Beam{S}{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Hand Beam{S}{beam}"
+  },
+  {
+   "uid": "U20330",
+   "en": "{ranged}Tranquilizer{bullet}★"
+  },
+  {
+   "uid": "U20331",
+   "en": "{ranged}R.F.Ray{water}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Red Freeze Ray{water}"
+  },
+  {
+   "uid": "U20332",
+   "en": "{direct}S.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Spiral Kick{P}"
+  },
+  {
+   "uid": "U20333",
+   "en": "{direct}D.Bomber{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Dimension Bomber{P}"
+  },
+  {
+   "uid": "U20334",
+   "en": "{ranged}L.Z Beam{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Laser Z Beam{beam}"
+  },
+  {
+   "uid": "U20335",
+   "en": "{direct}L.Blade{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Laser Blade{P}"
+  },
+  {
+   "uid": "U20336",
+   "en": "{direct}G.Dynamic{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Gavan Dynamic{P}"
+  },
+  {
+   "uid": "U20337",
+   "en": "{ranged}Laser{beam}"
+  },
+  {
+   "uid": "U20338",
+   "en": "{ranged}Dol Laser{M}{AP}{beam}"
+  },
+  {
+   "uid": "U20339",
+   "en": "{direct}S.Bomber{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Spark Bomber{P}"
+  },
+  {
+   "uid": "U20340",
+   "en": "{direct}S.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Sharivan Kick{P}"
+  },
+  {
+   "uid": "U20341",
+   "en": "{ranged}C.Buster{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Crime Buster{beam}"
+  },
+  {
+   "uid": "U20342",
+   "en": "{direct}Shariv. Crash{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Sharivan Crash{P}"
+  },
+  {
+   "uid": "U20343",
+   "en": "{ranged}Moto-S. Laser{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Moto-Sharian Laser{beam}"
+  },
+  {
+   "uid": "U20344",
+   "en": "{ranged}Birth{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Birth Beam{beam}"
+  },
+  {
+   "uid": "U20345",
+   "en": "{ranged}G.Buster{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Grand Buster{beam}"
+  },
+  {
+   "uid": "U20346",
+   "en": "{ranged}Plasma{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Plasma Cannon{beam}"
+  },
+  {
+   "uid": "U20347",
+   "en": "{ranged}Gun{beam}"
+  },
+  {
+   "uid": "U20348",
+   "en": "{ranged}V.B.Gun{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Video Beam Gun{beam}"
+  },
+  {
+   "uid": "U20349",
+   "en": "{direct}Shaid. Blue Flash{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Shaider Blue Flash{P}"
+  },
+  {
+   "uid": "U20350",
+   "en": "{ranged}Big M.{L}{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Big Magnum{L}{beam}"
+  },
+  {
+   "uid": "U20351",
+   "en": "{ranged}Birdn. Blast.{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Birdnia Blaster{beam}"
+  },
+  {
+   "uid": "U20352",
+   "en": "{ranged}Babyl. Fire{fire}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Babylos Fire{fire}"
+  },
+  {
+   "uid": "U20353",
+   "en": "{ranged}B.Laser{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Babylos Laser{beam}"
+  },
+  {
+   "uid": "U20354",
+   "en": "{direct}Spin Atk{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Spin Attack{P}"
+  },
+  {
+   "uid": "U20355",
+   "en": "{direct}D.Chop{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Double Chop{P}"
+  },
+  {
+   "uid": "U20356",
+   "en": "{direct}Wheel{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Giant Wheel Throw{P}"
+  },
+  {
+   "uid": "U20357",
+   "en": "{direct}E.End{P}{elec}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Electromagnetic End{P}{elec}"
+  },
+  {
+   "uid": "U20358",
+   "en": "{ranged}K.Spark{elec}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Kikaider Spark{elec}"
+  },
+  {
+   "uid": "U20359",
+   "en": "{direct}Z.Driver{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Zero-One Driver{P}"
+  },
+  {
+   "uid": "U20360",
+   "en": "{direct}B.End{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Blast End{P}"
+  },
+  {
+   "uid": "U20361",
+   "en": "{direct}Z.Kick{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Zero-One Kick{P}"
+  },
+  {
+   "uid": "U20362",
+   "en": "{direct}Z.Cut{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Zero-One Cut{P}"
+  },
+  {
+   "uid": "U20363",
+   "en": "{ranged}B.Laser{M}{AP}{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Blast Laser{M}{AP}{beam}"
+  },
+  {
+   "uid": "U20364",
+   "en": "{ranged}T.C.Line{M}{AP}{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Triple Circle Line{M}{AP}{beam}"
+  },
+  {
+   "uid": "U20365",
+   "en": "{ranged}Bowgun{bullet}"
+  },
+  {
+   "uid": "U20366",
+   "en": "{ranged}B.Laser{beam}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Bijinder Laser{beam}"
+  },
+  {
+   "uid": "U20367",
+   "en": "{direct}Slam{P}",
+   "note": "Shortened to fit the checker budget; preferred: {direct}Body Slam{P}"
+  },
+  {
+   "uid": "U20368",
+   "en": "R.Chest",
+   "note": "Shortened to fit the checker budget; preferred: Reverse Chest"
+  },
+  {
+   "uid": "U20369",
+   "en": "{ranged}Zeber Inazu. Flash{elec}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Zeber Inazuman Flash{elec}"
+  },
+  {
+   "uid": "U20370",
+   "en": "{ranged}H.Msl{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Homing Missile{bullet}"
+  },
+  {
+   "uid": "U20371",
+   "en": "{ranged}H.Msl{L}{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Homing Missile{L}{bullet}"
+  },
+  {
+   "uid": "U20372",
+   "en": "{ranged}Shotg.{bullet}",
+   "note": "Shortened to fit the checker budget; preferred: {ranged}Shotgun{bullet}"
+  },
+  {
+   "uid": "U20373",
+   "en": "{ranged}Gun{bullet}"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "All weapon rows: check_batch.py counts icon tags at 8px each while budget_px appears to cover only the text, so names were abbreviated to stay under the 1.3x hard limit; every shortened row carries a note with the preferred glossary name",
+   "U20347/U20373: {ranged}Gun{...} - nothing readable fits 24px once two icons are counted; full word kept (still fails)",
+   "U20365: Bowgun cannot fit (32px budget with 2 icons); full word kept (still fails)",
+   "Short forms that drop part of the name: Cherry (Blue Cherry), Headbutt (Megaton Headbutt), Sticker (Key Sticker), Bomb/Card (Momo Bomb/Card), Puncher (Mido Puncher), Typhoon (Lightning Typhoon), Beam (Hand Beam), Dol (Dol Laser), Slam (Body Slam), Wheel (Giant Wheel Throw), Birth/Plasma (Birth Beam/Plasma Cannon)"
+  ],
+  "omissions_kept": [],
+  "new_names": [],
+  "glyph_suspects": []
+ }
+}

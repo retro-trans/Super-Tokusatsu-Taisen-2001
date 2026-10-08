@@ -1,0 +1,487 @@
+{
+ "batch": "B0027",
+ "prev": "B0026",
+ "next": "B0028",
+ "rows": [
+  {
+   "uid": "U02088",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02089",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02090",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02091",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02092",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02093",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02094",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02095",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02096",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02097",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02098",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02099",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Trojan Horse"
+  },
+  {
+   "uid": "U02100",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02101",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Trojan Horse"
+  },
+  {
+   "uid": "U02102",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02103",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Trojan Horse"
+  },
+  {
+   "uid": "U02104",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U02105",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U02106",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02107",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02108",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02109",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U02110",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02111",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "White-Haired Man"
+  },
+  {
+   "uid": "U02112",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02113",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U02114",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02115",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U02116",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02117",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U02118",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02119",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U02120",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02121",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Deviler"
+  },
+  {
+   "uid": "U02122",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U02123",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U02124",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Androidman"
+  },
+  {
+   "uid": "U02125",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U02126",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U02127",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02128",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Grey Rhinoking"
+  },
+  {
+   "uid": "U02129",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02130",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U02131",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kaimen Green"
+  },
+  {
+   "uid": "U02132",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo"
+  },
+  {
+   "uid": "U02133",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02134",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U02135",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U02136",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U02137",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mari Matsubara"
+  },
+  {
+   "uid": "U02138",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02139",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U02140",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U02141",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U02142",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Hakaider"
+  },
+  {
+   "uid": "U02143",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Young Man"
+  },
+  {
+   "uid": "U02144",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02145",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U02146",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U02147",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02148",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U02149",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U02150",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02151",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U02152",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ichiro"
+  },
+  {
+   "uid": "U02153",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider 01"
+  },
+  {
+   "uid": "U02154",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Jiro"
+  },
+  {
+   "uid": "U02155",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kikaider"
+  },
+  {
+   "uid": "U02156",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02157",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02158",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02159",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02160",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02161",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02162",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02163",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02164",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02165",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kenichiro Kurenai"
+  },
+  {
+   "uid": "U02166",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Ken Kurenai"
+  },
+  {
+   "uid": "U02167",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  }
+ ]
+}

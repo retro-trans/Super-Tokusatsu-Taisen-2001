@@ -1,0 +1,487 @@
+{
+ "batch": "B0066",
+ "prev": "B0065",
+ "next": "B0067",
+ "rows": [
+  {
+   "uid": "U05213",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05214",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Combatant"
+  },
+  {
+   "uid": "U05215",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Combatant"
+  },
+  {
+   "uid": "U05216",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05217",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05218",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "TV-Fly"
+  },
+  {
+   "uid": "U05219",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05220",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "TV-Fly"
+  },
+  {
+   "uid": "U05221",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05222",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist A"
+  },
+  {
+   "uid": "U05223",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist B"
+  },
+  {
+   "uid": "U05224",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "TV-Fly"
+  },
+  {
+   "uid": "U05225",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05226",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05227",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05228",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05229",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "TV-Type Cyborg"
+  },
+  {
+   "uid": "U05230",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05231",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05232",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "TV-Fly"
+  },
+  {
+   "uid": "U05233",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U05234",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist"
+  },
+  {
+   "uid": "U05235",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05236",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U05237",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "TV-Fly"
+  },
+  {
+   "uid": "U05238",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Rider"
+  },
+  {
+   "uid": "U05239",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "TV-Fly"
+  },
+  {
+   "uid": "U05240",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Mysterious Rider"
+  },
+  {
+   "uid": "U05241",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "TV-Fly"
+  },
+  {
+   "uid": "U05242",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U05243",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05244",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U05245",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "TV-Fly"
+  },
+  {
+   "uid": "U05246",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05247",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U05248",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U05249",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U05250",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05251",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U05252",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U05253",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05254",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U05255",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05256",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05257",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U05258",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U05259",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kazuya Taki"
+  },
+  {
+   "uid": "U05260",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05261",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U05262",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05263",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Tobei Tachibana"
+  },
+  {
+   "uid": "U05264",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05265",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U05266",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05267",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist"
+  },
+  {
+   "uid": "U05268",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Computer"
+  },
+  {
+   "uid": "U05269",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05270",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Computer"
+  },
+  {
+   "uid": "U05271",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron Scientist"
+  },
+  {
+   "uid": "U05272",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Destron's Great Leader"
+  },
+  {
+   "uid": "U05273",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05274",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U05275",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05276",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U05277",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05278",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U05279",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Marshal Armor"
+  },
+  {
+   "uid": "U05280",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U05281",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05282",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamen Rider V3"
+  },
+  {
+   "uid": "U05283",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Joji Yuki"
+  },
+  {
+   "uid": "U05284",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  },
+  {
+   "uid": "U05285",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamebazooka"
+  },
+  {
+   "uid": "U05286",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Kamebazooka"
+  },
+  {
+   "uid": "U05287",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05288",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05289",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05290",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U05291",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Shiro Kazami"
+  },
+  {
+   "uid": "U05292",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Riderman"
+  }
+ ]
+}

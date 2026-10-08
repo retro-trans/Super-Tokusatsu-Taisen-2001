@@ -1,0 +1,453 @@
+{
+ "batch": "B0250",
+ "rows": [
+  {
+   "uid": "U19960",
+   "en": "Mackjaber"
+  },
+  {
+   "uid": "U19961",
+   "en": "The enhanced transformation of the Acrobatter that happens when RX turns into Bio Rider. Top speed 700 km/h, and it can operate underwater too. It boasts a 75 m jump."
+  },
+  {
+   "uid": "U19962",
+   "en": "MAT Arrow 1"
+  },
+  {
+   "uid": "U19963",
+   "en": "MAT's jet fighter-attacker. It launches from the undersea base and can take off and land vertically with VTOL. Its main weapons are missiles and cannons. Crew of 2, length 15 m, top speed Mach 5. In the game it can carry one person besides the pilot."
+  },
+  {
+   "uid": "U19964",
+   "en": "MAT Arrow 2"
+  },
+  {
+   "uid": "U19965",
+   "en": "MAT's dedicated single-seat small jet fighter. Its circular wing gives it tight turning and high mobility. Length 14 m, top speed Mach 3.8. In the game it can carry one person besides the pilot."
+  },
+  {
+   "uid": "U19966",
+   "en": "MAT Jeep"
+  },
+  {
+   "uid": "U19967",
+   "en": "MAT's dedicated modified jeep. Armed with bazookas and more, it forms the core of the ground forces."
+  },
+  {
+   "uid": "U19968",
+   "en": "MAT Gyro"
+  },
+  {
+   "uid": "U19969",
+   "en": "MAT's dedicated ducted-fan multipurpose craft. It can carry the MAT Jeep and other vehicles slung beneath it. Crew of 2, length 13 m, top speed Mach 1. In the game it can carry one person besides the pilot."
+  },
+  {
+   "uid": "U19970",
+   "en": "MAT Vehicle"
+  },
+  {
+   "uid": "U19971",
+   "en": "MAT's dedicated special investigation vehicle. It attacks kaiju with a rocket launcher mounted on top. Later Ken Sakata fitted it with a stabilizer, increasing its mobility. In the game it can carry two people besides the driver."
+  },
+  {
+   "uid": "U19972",
+   "en": "Mari Matsubara"
+  },
+  {
+   "uid": "U19973",
+   "en": "The only woman among the SSI secret agents. She usually works as a photographer for a news agency, using an infrared camera to track enemy movements. She is also good at driving the special support vehicle Iron Hawk."
+  },
+  {
+   "uid": "U19974",
+   "en": "Manaka"
+  },
+  {
+   "uid": "U19975",
+   "en": "A UCMA unit member. Excels in Accuracy."
+  },
+  {
+   "uid": "U19976",
+   "en": "Staff Officer Manabe"
+  },
+  {
+   "uid": "U19977",
+   "en": "Staff officer at the TDF Far East Base, who also commands the Ultra Garrison. A veteran staff officer who worked at the Washington base until two years ago."
+  },
+  {
+   "uid": "U19978",
+   "en": "Mari"
+  },
+  {
+   "uid": "U19979",
+   "en": "A female android built by Shadow to defeat 01. A special bomb was built into her body, and the third button on her clothes was the switch. Later Ichiro fitted her with a Conscience Circuit, and she became a warrior of justice."
+  },
+  {
+   "uid": "U19980",
+   "en": "Marine"
+  },
+  {
+   "uid": "U19981",
+   "en": "Commander Kom's secretary. Taking over from Mimi, in the original show she later becomes Gavan's partner and is posted to Earth. Her marksmanship is top-notch."
+  },
+  {
+   "uid": "U19982",
+   "en": "Marie Hanamura"
+  },
+  {
+   "uid": "U19983",
+   "en": "Maribaron"
+  },
+  {
+   "uid": "U19984",
+   "en": "Mummy Man"
+  },
+  {
+   "uid": "U19985",
+   "en": "Dr. Mikami"
+  },
+  {
+   "uid": "U19986",
+   "en": "He cooperated with SSI and completed Red Baron's new weapon, the \"Space Wings\". With it, Red Baron gained a new special weapon and the ability to travel in outer space."
+  },
+  {
+   "uid": "U19987",
+   "en": "Miclas"
+  },
+  {
+   "uid": "U19988",
+   "en": "One of the three Capsule Monsters owned by Dan Moroboshi. From the Buffalo Planet. It prides itself on great strength, but is weak against electricity."
+  },
+  {
+   "uid": "U19989",
+   "en": "Missile Gecko"
+  },
+  {
+   "uid": "U19990",
+   "en": "Misao"
+  },
+  {
+   "uid": "U19991",
+   "en": "Hiroshi's caretaker, a woman who shakes off Shadow's pursuers with him and continues life on the run. Rieko, Akira's caretaker, was an android, but whether Misao was too is unknown."
+  },
+  {
+   "uid": "U19992",
+   "en": "Mister Gold"
+  },
+  {
+   "uid": "U19993",
+   "en": "BF's top alien executive. A golden knight clad in armor of space steel."
+  },
+  {
+   "uid": "U19994",
+   "en": "Midorenger"
+  },
+  {
+   "uid": "U19995",
+   "en": "One of the five warriors of the International Secret Defense Organization EAGLE's Japan branch. Kenji Asuka transforms into him. His weapons include the Midomeran, New Midomeran and Mido Puncher. He also toys with enemies through swift movement."
+  },
+  {
+   "uid": "U19996",
+   "en": "Kotaro Minami"
+  },
+  {
+   "uid": "U19997",
+   "en": "A second-year student in the humanities department of Tosei University. Born on the day of a solar eclipse, he was kidnapped by the dark society Gorgom along with his best friend Nobuhiko Akizuki and remodeled, but escaped before his brain was altered and fights for justice. He carries the King Stone, the Stone of the Sun, inside his body."
+  },
+  {
+   "uid": "U19998",
+   "en": "Saburo Minami"
+  },
+  {
+   "uid": "U19999",
+   "en": "A boy who happened to be present at One-Seven's start-up, removed its electromagnetic filter and became able to share his heart with it. He communicates through a helmet given to him by One-Seven. His parents and sister were killed by a Brain robot."
+  },
+  {
+   "uid": "U20000",
+   "en": "Juro Minami"
+  },
+  {
+   "uid": "U20001",
+   "en": "must."
+  },
+  {
+   "uid": "U20002",
+   "en": "Takeshi Minami"
+  },
+  {
+   "uid": "U20003",
+   "en": "Kaori Minoshima"
+  },
+  {
+   "uid": "U20004",
+   "en": "A 20-year-old friend of Satoru Hinata, said to have been dating Tatsuya. She often came and went at the Hinata Laboratory with Tatsuya Todo. A carrier of Vol cells, she transforms into the EATER Valkyria. She had been missing since the fire at the laboratory three years ago. Clinical test subject No. 9."
+  },
+  {
+   "uid": "U20005",
+   "en": "Assistant Minoshima"
+  },
+  {
+   "uid": "U20006",
+   "en": "Mimi"
+  },
+  {
+   "uid": "U20007",
+   "en": "Miracler"
+  },
+  {
+   "uid": "U20008",
+   "en": "The lowest-ranking soldiers of the Fushigi World Fuuma. They obey any order and fight with a weapon that fuses a spear and an axe. They can also disguise themselves skillfully as humans."
+  },
+  {
+   "uid": "U20009",
+   "en": "Muramatsu"
+  },
+  {
+   "uid": "U20010",
+   "en": "A veteran who took office when the Science Patrol's Japan branch was founded. Sturdy and sincere, with excellent judgment and decisiveness. Strict about work, but also a good leader, much trusted by his subordinates. His real name is Toshio Muramatsu."
+  },
+  {
+   "uid": "U20011",
+   "en": "Metal Hero (Male)"
+  },
+  {
+   "uid": "U20012",
+   "en": "Metal Heroine (Female)"
+  },
+  {
+   "uid": "U20013",
+   "en": "Alien Mefilas"
+  },
+  {
+   "uid": "U20014",
+   "en": "destruction ray can also attack S-size units, making it a tough foe."
+  },
+  {
+   "uid": "U20015",
+   "en": "Moto-Sharian"
+  },
+  {
+   "uid": "U20016",
+   "en": "Sharivan's combat machine. Armed with the Moto-Sharian Laser, it can break into the Genmu World and races at 700 km/h. It launches from the Grand Birth."
+  },
+  {
+   "uid": "U20017",
+   "en": "Momorenger"
+  },
+  {
+   "uid": "U20018",
+   "en": "One of the five warriors of the International Secret Defense Organization EAGLE's Japan branch. Peggy Matsuyama transforms into her. She reads opponents' hearts with the Heart Mirror and throws the Momo Card like a shuriken."
+  },
+  {
+   "uid": "U20019",
+   "en": "Dan Moroboshi"
+  },
+  {
+   "uid": "U20020",
+   "en": "The temporary earthly form of Fixed-star Observer No. 340, Ultraseven. It is modeled on Jiro Satsuma, a brave young man who tried to save a friend in a climbing accident without regard for his own life. He posed as a drifter, but his achievements were recognized and he became an Ultra Garrison member. In the game he can transform at Morale 105 or higher."
+  },
+  {
+   "uid": "U20021",
+   "en": "Baseball Mask"
+  },
+  {
+   "uid": "U20022",
+   "en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U20023",
+   "en": "A lonely boy who was a little bad at making friends, until he happened to meet Brain's robot One-Eight and shared his heart with it. One-Eight's actions were normally controlled by its Satan Circuit, but it opened its heart to him alone."
+  },
+  {
+   "uid": "U20024",
+   "en": "Dr. Yazawa"
+  },
+  {
+   "uid": "U20025",
+   "en": "Staff Officer Yanagawa"
+  },
+  {
+   "uid": "U20026",
+   "en": "Staff officer at the TDF Far East Base. One of the five top leaders."
+  },
+  {
+   "uid": "U20027",
+   "en": "Yanagiya"
+  },
+  {
+   "uid": "U20028",
+   "en": "A UCMA unit member. Only recently assigned. Has lots of room to grow."
+  },
+  {
+   "uid": "U20029",
+   "en": "Director Yamaoka"
+  },
+  {
+   "uid": "U20030",
+   "en": "Fusion Steel"
+  },
+  {
+   "uid": "U20031",
+   "en": "boasts fearsome performance as a weapon. However, information transfer after fusion is said to have limits, and to make this fusion complete, mediation by the Vol, which are archaebacterial cells, is said to be necessary."
+  },
+  {
+   "uid": "U20032",
+   "en": "Joji Yuki"
+  },
+  {
+   "uid": "U20033",
+   "en": "Dr. Yushima"
+  },
+  {
+   "uid": "U20034",
+   "en": "Anne Yuri"
+  },
+  {
+   "uid": "U20035",
+   "en": "The only woman in the Ultra Garrison, she also serves on the staff of the Defense Force's Medical Center. Granddaughter of Dr. Genzaburo Yuri, an authority on space navigation. She has faint feelings of love for Dan. In the game she has repair skills."
+  },
+  {
+   "uid": "U20036",
+   "en": "Dr. Genzaburo Yuri"
+  },
+  {
+   "uid": "U20037",
+   "en": "Grandfather of Ultra Garrison member Anne. An authority on space navigation, he later joins the TDF science group and is active as a scientist. His joining makes the \"Reload Magazine S\" and \"EN Repair Kit S\" available for development."
+  },
+  {
+   "uid": "U20038",
+   "en": "Marshal Armor"
+  },
+  {
+   "uid": "U20039",
+   "en": "Raijingo"
+  }
+ ],
+ "report": {
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "uncertain": [
+   "U20001, U20014, U20031: fragments continuing entries whose start is not in this batch; translated as fragments ('must.', '...destruction ray...', '...boasts fearsome performance...')",
+   "U20011/U20012: titles メタル系主人公（男）/（女） rendered 'Metal Hero (Male)' / 'Metal Heroine (Female)'",
+   "U19972: 松原真俚 read as glossary 松原真理 Mari Matsubara",
+   "U19979: 01 = Kikaider 01",
+   "Not in glossary: Iron Hawk, Space Wings, Buffalo Planet, Tosei University, Stone of the Sun, Satan Circuit, Heart Mirror, Medical Center, Reload Magazine S, EN Repair Kit S"
+  ],
+  "omissions_kept": [],
+  "new_names": [
+   {
+    "en": "Iron Hawk",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Space Wings",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Satan Circuit",
+    "why": "not in glossary"
+   },
+   {
+    "en": "Heart Mirror",
+    "why": "not in glossary"
+   },
+   {
+    "en": "MAT Jeep",
+    "why": "not in glossary"
+   }
+  ],
+  "glyph_suspects": [
+   {
+    "uid": "U19961",
+    "likely": "活動/誇る"
+   },
+   {
+    "uid": "U19963",
+    "likely": "海中/垂直離着陸/搭載"
+   },
+   {
+    "uid": "U19965",
+    "likely": "専用/誇る"
+   },
+   {
+    "uid": "U19969",
+    "likely": "懸架/運搬"
+   },
+   {
+    "uid": "U19971",
+    "likely": "取り付け"
+   },
+   {
+    "uid": "U19972",
+    "likely": "松原真理"
+   },
+   {
+    "uid": "U19973",
+    "likely": "普段/通信社/運転"
+   },
+   {
+    "uid": "U19977",
+    "likely": "司令/勤務"
+   },
+   {
+    "uid": "U19981",
+    "likely": "秘書"
+   },
+   {
+    "uid": "U19991",
+    "likely": "逃亡生活"
+   },
+   {
+    "uid": "U19997",
+    "likely": "秋月信彦"
+   },
+   {
+    "uid": "U19999",
+    "likely": "送られた/交信"
+   },
+   {
+    "uid": "U20004",
+    "likely": "付き合って/藤堂/細胞"
+   },
+   {
+    "uid": "U20008",
+    "likely": "不思議界"
+   },
+   {
+    "uid": "U20010",
+    "likely": "指導力"
+   },
+   {
+    "uid": "U20014",
+    "likely": "存在"
+   },
+   {
+    "uid": "U20016",
+    "likely": "幻夢界"
+   },
+   {
+    "uid": "U20020",
+    "likely": "風来坊/功績"
+   },
+   {
+    "uid": "U20023",
+    "likely": "付き合い/唯一"
+   },
+   {
+    "uid": "U20031",
+    "likely": "誇る/限界/古細菌細胞"
+   },
+   {
+    "uid": "U20035",
+    "likely": "権威"
+   },
+   {
+    "uid": "U20037",
+    "likely": "権威/活躍"
+   },
+   {
+    "uid": "U20038",
+    "likely": "ヨロイ元帥"
+   }
+  ]
+ }
+}

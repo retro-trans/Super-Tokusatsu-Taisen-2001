@@ -1,0 +1,487 @@
+{
+ "batch": "B0224",
+ "prev": "B0223",
+ "next": "B0225",
+ "rows": [
+  {
+   "uid": "U17866",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U17867",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U17868",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U17869",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U17870",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U17871",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U17872",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U17873",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U17874",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U17875",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Sandoruba"
+  },
+  {
+   "uid": "U17876",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fightlow"
+  },
+  {
+   "uid": "U17877",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fightlow"
+  },
+  {
+   "uid": "U17878",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fightlow"
+  },
+  {
+   "uid": "U17879",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fightlow"
+  },
+  {
+   "uid": "U17880",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fightlow"
+  },
+  {
+   "uid": "U17881",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fightlow"
+  },
+  {
+   "uid": "U17882",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fightlow"
+  },
+  {
+   "uid": "U17883",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Fightlow"
+  },
+  {
+   "uid": "U17884",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gori Beast"
+  },
+  {
+   "uid": "U17885",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gori Beast"
+  },
+  {
+   "uid": "U17886",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Washi Beast"
+  },
+  {
+   "uid": "U17887",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Washi Beast"
+  },
+  {
+   "uid": "U17888",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Washi Beast"
+  },
+  {
+   "uid": "U17889",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Washi Beast"
+  },
+  {
+   "uid": "U17890",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Washi Beast"
+  },
+  {
+   "uid": "U17891",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U17892",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U17893",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U17894",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U17895",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U17896",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U17897",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U17898",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U17899",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U17900",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "General Guiler"
+  },
+  {
+   "uid": "U17901",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Great King Gamagon"
+  },
+  {
+   "uid": "U17902",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Great King Gamagon"
+  },
+  {
+   "uid": "U17903",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Great King Gamagon"
+  },
+  {
+   "uid": "U17904",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Great King Gamagon"
+  },
+  {
+   "uid": "U17905",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Psycholer"
+  },
+  {
+   "uid": "U17906",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Psycholer"
+  },
+  {
+   "uid": "U17907",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Psycholer"
+  },
+  {
+   "uid": "U17908",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Psycholer"
+  },
+  {
+   "uid": "U17909",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miracler"
+  },
+  {
+   "uid": "U17910",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miracler"
+  },
+  {
+   "uid": "U17911",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miracler"
+  },
+  {
+   "uid": "U17912",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miracler"
+  },
+  {
+   "uid": "U17913",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miracler"
+  },
+  {
+   "uid": "U17914",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Miracler"
+  },
+  {
+   "uid": "U17915",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baribari"
+  },
+  {
+   "uid": "U17916",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baribari"
+  },
+  {
+   "uid": "U17917",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baribari"
+  },
+  {
+   "uid": "U17918",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baribari"
+  },
+  {
+   "uid": "U17919",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baribari"
+  },
+  {
+   "uid": "U17920",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baribari"
+  },
+  {
+   "uid": "U17921",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baribari"
+  },
+  {
+   "uid": "U17922",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Baribari"
+  },
+  {
+   "uid": "U17923",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Umiumi"
+  },
+  {
+   "uid": "U17924",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Umiumi"
+  },
+  {
+   "uid": "U17925",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Umiumi"
+  },
+  {
+   "uid": "U17926",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Umiumi"
+  },
+  {
+   "uid": "U17927",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Umiumi"
+  },
+  {
+   "uid": "U17928",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Umiumi"
+  },
+  {
+   "uid": "U17929",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Umiumi"
+  },
+  {
+   "uid": "U17930",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Umiumi"
+  },
+  {
+   "uid": "U17931",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Umiumi"
+  },
+  {
+   "uid": "U17932",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U17933",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U17934",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U17935",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U17936",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U17937",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U17938",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U17939",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U17940",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U17941",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U17942",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 1"
+  },
+  {
+   "uid": "U17943",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 5"
+  },
+  {
+   "uid": "U17944",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 5"
+  },
+  {
+   "uid": "U17945",
+   "kind": "quote",
+   "src": "bquote",
+   "speaker_en": "Gal 5"
+  }
+ ]
+}

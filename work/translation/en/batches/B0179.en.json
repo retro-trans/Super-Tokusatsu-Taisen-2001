@@ -1,0 +1,487 @@
+{
+ "batch": "B0179",
+ "prev": "B0178",
+ "next": "B0180",
+ "rows": [
+  {
+   "uid": "U14261",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14262",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14263",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14264",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14265",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14266",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14267",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14268",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14269",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14270",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14271",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14272",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14273",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14274",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14275",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14276",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14277",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14278",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14279",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14280",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14281",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14282",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14283",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14284",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14285",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14286",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14287",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rumi Sahara"
+  },
+  {
+   "uid": "U14288",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14289",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14290",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14291",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14292",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rumi Sahara"
+  },
+  {
+   "uid": "U14293",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U14294",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U14295",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14296",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14297",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rumi Sahara"
+  },
+  {
+   "uid": "U14298",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14299",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14300",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14301",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14302",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14303",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14304",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14305",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14306",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14307",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14308",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14309",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14310",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14311",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14312",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14313",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14314",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14315",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14316",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14317",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14318",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14319",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14320",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14321",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Isamu Yazaki"
+  },
+  {
+   "uid": "U14322",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14323",
+   "kind": "narration",
+   "src": "stage",
+   "speaker_en": null
+  },
+  {
+   "uid": "U14324",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Dr. Sahara"
+  },
+  {
+   "uid": "U14325",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14326",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14327",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14328",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14329",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14330",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Professor Hustler"
+  },
+  {
+   "uid": "U14331",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Brain"
+  },
+  {
+   "uid": "U14332",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U14333",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Captain Sawa"
+  },
+  {
+   "uid": "U14334",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Chief Kitakura"
+  },
+  {
+   "uid": "U14335",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Saburo Minami"
+  },
+  {
+   "uid": "U14336",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14337",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Eight"
+  },
+  {
+   "uid": "U14338",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "Rumi Sahara"
+  },
+  {
+   "uid": "U14339",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  },
+  {
+   "uid": "U14340",
+   "kind": "dialogue",
+   "src": "stage",
+   "speaker_en": "One-Seven"
+  }
+ ]
+}
