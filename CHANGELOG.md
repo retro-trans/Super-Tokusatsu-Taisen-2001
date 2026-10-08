@@ -6,7 +6,12 @@
 - `.gitignore` now also excludes disc images (`*.bin`, `*.cue`, `*.iso`, `*.chd`), edited TIMs, exported game graphics and frames, font-sheet atlases, `incoming/`, logs and the raw library glossary.
 - Public build mode: without the Japanese working files (or with `STT_PUBLIC=1`), `tools/insert.py` uses the `*.en.json` copies and the occurrence map, and decodes the Japanese from the user's own disc. Checked: v0.3.6 built this way is byte-identical outside MOVIE.STR.
 
-## 0.3.6 (local test build, not released)
+## 0.3.6 (released 2026-10-08)
+- Published as https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.6, the first public release. The repository is now public.
+  - Assets: the bare `STT2001-English-v0.3.6.xdelta` (61,660,859 bytes), `BUILD-MANIFEST.json`, `VALIDATION.json` and `SHA256SUMS.txt`, all built and round-trip verified with the Retro Trans release builder. Extras: README and CHANGELOG, the 4x DuckStation font pack (`STT2001-4x-font-pack-v0.3.6.zip`) and `EXTRAS-SHA256SUMS.txt`.
+  - Source: Super Tokusatsu Taisen 2001 (Japan).bin, 725,316,816 bytes, SHA-256 219d9c4f...2795465. Target SHA-256: 3360e045...5e5cb6. The tag v0.3.6 is the manifest's source_commit, 5029bba.
+  - Uploaded assets matched the local files by size and SHA-256. A scoped Retro Trans catalog validation of the repository passed.
+  - Still not playtested: release notes ask players for reports.
 - Story dialogue is verified 100% English. All 26,261 stage-script strings (16,179 unique) and all 12,617 battle quotes (3,102 unique) have English, and none still contains Japanese. A scan of every archive entry and compressed block on the built disc finds Japanese text only in MAPMAIN #3, an old database copy that no code loads (checked against all 66 calls to the file loader). The original disc has 58,833 Japanese strings in 656 entries.
 - Encyclopedia: 85 entries were never translated, and now are (batch B0268). They use glyphs from the third battle-font page (codes 1454-1789), which the text dumper's `is_text()` skipped. The entries are recorded in work/script/ja/frozen_extra.json. Insertion accepts those codes (`is_text_battle`).
 - Encyclopedia size: the English would have reached 0x801A7000, which the exe uses as a work area. Identical self-contained strings and tails are now shared (`rebuild_encyc`): 126,720 bytes, under the 0x1F000 limit. All 1,715 entries read back identically to the unshared layout. Strings chained with FFFD and the first entry keep their place.
