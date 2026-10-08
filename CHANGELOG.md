@@ -1,5 +1,11 @@
 # Changelog
 
+## Repository (2026-10-08)
+- Published the toolchain to GitHub as a private repository, binhlt0402/Super-Tokusatsu-Taisen-2001. There is no release; per AGENTS.md, releases wait for an explicit request. The README follows the layout of retro-trans/SRW-Z.
+- New `tools/strip_jp.py` writes the git-safe `*.en.json` copies. It drops the Japanese source fields and blanks long Japanese runs, keeping names and UI terms. It also writes `work/script/occurrences.json`, where each string sits on the disc, with no text. `--check` audits a file list.
+- `.gitignore` now also excludes disc images (`*.bin`, `*.cue`, `*.iso`, `*.chd`), edited TIMs, exported game graphics and frames, font-sheet atlases, `incoming/`, logs and the raw library glossary.
+- Public build mode: without the Japanese working files (or with `STT_PUBLIC=1`), `tools/insert.py` uses the `*.en.json` copies and the occurrence map, and decodes the Japanese from the user's own disc. Checked: v0.3.6 built this way is byte-identical outside MOVIE.STR.
+
 ## 0.3.6 (local test build, not released)
 - Story dialogue is verified 100% English. All 26,261 stage-script strings (16,179 unique) and all 12,617 battle quotes (3,102 unique) have English, and none still contains Japanese. A scan of every archive entry and compressed block on the built disc finds Japanese text only in MAPMAIN #3, an old database copy that no code loads (checked against all 66 calls to the file loader). The original disc has 58,833 Japanese strings in 656 entries.
 - Encyclopedia: 85 entries were never translated, and now are (batch B0268). They use glyphs from the third battle-font page (codes 1454-1789), which the text dumper's `is_text()` skipped. The entries are recorded in work/script/ja/frozen_extra.json. Insertion accepts those codes (`is_text_battle`).
