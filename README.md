@@ -12,13 +12,19 @@ all welcome. Please open an issue on this repository.
 
 ## Play it
 
-**There is no public release yet.** Local test builds are being checked in
-DuckStation first. When a release is published, it will be a bare `.xdelta`
-patch for the Japanese disc (SLPS-02863), listed in
-[Retro Trans](https://github.com/retro-trans/retro-trans-tools). You need your
-own copy of the game.
+The latest release is **[v0.3.6](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.6)**,
+a single patch for the Japanese disc (**SLPS-02863**). You need your own copy
+of the game. This is the first public build: the whole text is in English, but
+nobody has played through it yet. Please report anything that breaks.
 
-### Apply (once a release exists)
+| Your source image | Patch |
+|---|---|
+| Super Tokusatsu Taisen 2001 (Japan), SLPS-02863, single `.bin` (MODE2/2352) | `STT2001-English-v0.3.6.xdelta` |
+
+The patch checks its source. The original `.bin` is 725,316,816 bytes, with
+SHA-256 `219d9c4f64caf670b5e400612fa19677ed9a3f59a7ebdb72c12c425412795465`.
+
+### Apply
 
 **The easiest way:** [Retro Trans](https://github.com/retro-trans/retro-trans-tools)
 is a desktop app for applying translation patches. Download it from its
@@ -31,7 +37,7 @@ accepts the same `.xdelta` file. Select the unpacked `.bin` as the original file
 **Command line:** get [xdelta3](https://github.com/jmacd/xdelta).
 
 ```
-xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-vX.Y.Z.xdelta "STT2001 English vX.Y.Z.bin"
+xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.3.6.xdelta "STT2001 English v0.3.6.bin"
 ```
 
 Keep the `.cue` next to the patched `.bin` and point its `FILE` line at the
