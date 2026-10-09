@@ -1,0 +1,30 @@
+{
+  "version": "0.3.7",
+  "dialogue": {
+    "native_frame_left": 16,
+    "native_frame_right": 304,
+    "native_text_left": 70,
+    "wrap_width": 220,
+    "line_pitch": 16,
+    "maximum_story_body_lines": 3,
+    "maximum_battle_body_lines": 2,
+    "notes": "Horizontal geometry follows the user overflow screenshot. The margin also accommodates the optional 4x font shadow. Choice menus keep their original options."
+  },
+  "stage_card": {
+    "image_entries": "EVENT 52-141",
+    "scene_script_entries": "STAGE 6,13,...,629; CM block 5 in entries 630-719",
+    "prefix_atlas_bounds": [256, 104, 308, 128],
+    "digit_atlas_bounds": "[24*n+6,104,24*n+18,128] for digits 0-9",
+    "one_digit_positions": {"prefix": [122, 68], "digit": [180, 68]},
+    "two_digit_positions": {"prefix": [116, 68], "tens": [174, 68], "ones": [186, 68]},
+    "suffix": {"source_pixel": [240, 104], "screen_position": [220, 69]},
+    "title_position": [0, 72]
+  },
+  "screenshots": {
+    "user_report_overflow.png": "Actual user-provided emulator capture",
+    "user_report_stage_card.png": "Actual user-provided emulator capture",
+    "sawa_layout.png": "Reconstructed native-font layout; not an emulator capture",
+    "stage_1_layout.png": "Reconstructed native-TIM layout; not an emulator capture",
+    "stage_12_layout.png": "Two-digit layout check using the first title as a fixture; not an emulator capture"
+  }
+}

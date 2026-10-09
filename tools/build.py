@@ -42,6 +42,17 @@ def main():
     exe = insert.patch_exe_strings(exe, tr)
     exe = insert.patch_save_title(exe)
     exe = insert.patch_hero_select(exe)
+    exe = insert.patch_var6(exe)
+    import turn_popup
+    exe = turn_popup.patch_exe(exe)
+    import stats_layout
+    exe = stats_layout.patch_exe(exe)
+    import growth_layout
+    exe = growth_layout.patch_exe(exe)
+    import battle_voice_layout
+    exe = battle_voice_layout.patch_exe(exe)
+    import intermission_layout
+    exe = intermission_layout.patch_exe(exe)
     insert.check_default_names(files)
     files["SLPS_028.63"] = exe
     os.makedirs(os.path.join(ROOT, "work", "output"), exist_ok=True)

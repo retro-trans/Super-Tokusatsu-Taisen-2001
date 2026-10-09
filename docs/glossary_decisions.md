@@ -1,5 +1,9 @@
 # Glossary and style decisions
 
+## Compact terrain labels (v0.3.10)
+
+The user requested readable labels within the existing one-glyph terrain slots. Unit and weapon terrain ratings now use AIR (Air), LND (Land), SEA (Sea), SPC (Space), KAI (Kaima World), GEN (Genmu World), and FUS (Fushigi World). These are display abbreviations for the existing terms; canonical glossary names are unchanged. Database-index aliases prevent the Air/Sea badges from replacing the full map terrain names that share their original strings. The Terrain heading uses two compact glyphs, preserving the 24px space before the first grade pair.
+
 The sources are `work/glossary/names.json` (names, units, attacks, terms) and `docs/library_glossary.md`. The library one is built by `tools/build_library.py` from the translated in-game encyclopedia, BATTLE #540.
 
 ## Name conventions
@@ -12,6 +16,8 @@ The sources are `work/glossary/names.json` (names, units, attacks, terms) and `d
 - Nicknames: the Riders call Tobei Tachibana "Oyassan"; the Science Patrol call Muramatsu "Cap".
 
 ## Specific decisions
+The Shocker monster name uses **Man Spider** by the user's explicit correction (2026-10-09, local v0.3.16). This replaces the previous project spelling throughout dialogue, unit labels, encyclopedia text and both glossary aliases. A global insertion replacement also catches the older spelling or hyphenated variant in future text. This user-requested project terminology takes precedence over the previous glossary wording.
+
 | Term | Decision | Reason |
 |---|---|---|
 | 融機鋼 (decoded as 轟機鋼) | **Fusion Steel** | The logo art (EVENT #230) reads 融機鋼. 轟 was a glyph misread. Older outputs that say "Roaring Steel" are fixed by `work/translation/en/replacements.json`. |
@@ -25,7 +31,11 @@ The sources are `work/glossary/names.json` (names, units, attacks, terms) and `d
 | 気力 | **Will** | The Super Robot Wars English term (akurasu). It is also short enough for the 24 px stat labels. Applied by replacements.json. |
 | イーッ (Shocker combatants' cry) | **Eeee** | The combatants' trademark cry. The earlier "Iiiih" read as "liiiih" in this font. |
 | Unit names in map windows | shortened where over ~134 px | Beret Combatant, Mask Combatant, K. Rider 1/2 (New), K. Rider BLACK (RX), King Gamagon, Cmdr. Hessler, W. Eagle Musasabi, Birugenia, Type 75 SP How. Only the database copy is shortened ("@MAPMAIN0002:offset" in overrides.json); the encyclopedia keeps the full name. |
-| Episode title cards | "EP" + number (第/話) | Graphics work is paused; see `docs/handoff_graphics.md`. |
+| Episode title cards | "Stage" + number | User requested Chapter/Stage instead of EP; all 90 cards use Stage in local v0.3.7. |
+
+### Dialogue display labels (v0.3.7)
+
+Canonical glossary terms are unchanged. Eight speaker headers exceeded the 220 px dialogue margin, so dialogue alone uses shorter display labels from `work/translation/en/dialogue_layout.en.json`. General Jark's rank is abbreviated to Cmdr.; MAT officers omit the station qualifier; disguised Nackle headers use a shorter parenthetical; Granzairus uses his Kaima Beastman name without the superlative title. These are display aliases, not replacements for canonical names or wiki terms. The emperor and policeman labels are rephrased with the same meaning.
 
 ## Text noise
 The Japanese was decoded from font images (13 scene sheets plus a battle sheet), so some kanji are misread. Translators corrected these from context and listed them as `glyph_suspects` in their batch reports. Insertion never re-decodes for meaning: it re-encodes the English at the original string locations, so leftover misreads don't affect the game.

@@ -52,6 +52,38 @@
   [
    "re:\\bIi{2,}h\\b",
    "Eeee"
+  ],
+  [
+   "Rescuing Dr. Komyoji comes first.",
+   "Rescue Dr. Komyoji first."
+  ],
+  [
+   "Too dangerous… they shouldn't.",
+   "Too risky… they shouldn't."
+  ],
+  [
+   "No way… a steam train out here?",
+   "A steam train here? No way!"
+  ],
+  [
+   "Figures… a steam train out here?",
+   "Figures… a steam train here?"
+  ],
+  [
+   "Just kidding… I was only joking.",
+   "Just kidding… only a joke."
+  ],
+  [
+   "Cleared Stage 82: Guillotine gone",
+   "Stage 82 clear: Guillotine gone"
+  ],
+  [
+   "Cleared Stage 63: Iron Mask gone",
+   "Stage 63 clear: Iron Mask gone"
+  ],
+  [
+   "re:\\bSpider[ -]Man\\b",
+   "Man Spider"
   ]
  ]
 }

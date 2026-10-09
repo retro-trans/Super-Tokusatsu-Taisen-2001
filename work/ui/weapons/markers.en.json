@@ -1,0 +1,18 @@
+{
+ "version": "0.3.18",
+ "prefix": {
+  "277": {"short":"D", "meaning":"Direct", "width":8},
+  "278": {"short":"I", "meaning":"Indirect", "width":8}
+ },
+ "attributes": {
+  "1433": {"short":"BLT", "meaning":"Bullet", "width":12},
+  "1434": {"short":"ELC", "meaning":"Electric", "width":12},
+  "1435": {"short":"BEM", "meaning":"Beam", "width":12},
+  "1436": {"short":"WTR", "meaning":"Water", "width":12},
+  "1437": {"short":"FIR", "meaning":"Fire", "width":12},
+  "1438": {"short":"SPL", "meaning":"Special", "width":12}
+ },
+ "upgrade_menu": {"label":"Parts", "width_limit":64},
+ "source_screenshots": ["weapon_user.png", "upgrade_user.png"],
+ "preview_is_emulator_capture": false
+}

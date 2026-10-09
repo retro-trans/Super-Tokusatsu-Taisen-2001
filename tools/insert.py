@@ -27,12 +27,17 @@ UNP = os.path.join(ROOT, "work", "source", "unpacked")
 TR = os.path.join(ROOT, "work", "translation", "en")
 EF = json.load(open(os.path.join(ROOT, "work", "font", "efont.json"), encoding="utf-8"))
 GLOSS = json.load(open(os.path.join(ROOT, "work", "glossary", "names.json"), encoding="utf-8"))
+DISPLAY = json.load(open(os.path.join(TR, "dialogue_layout.en.json"), encoding="utf-8")).get("speaker_display", {})
 
-WRAP = {"stage": 236, "bquote": 228, "encyc": 264}
+# Portrait dialogue starts at x=70; leave room before the frame at x=304.
+# This also leaves space for the optional 4x font's small shadow.
+WRAP = {"stage": 220, "bquote": 220, "encyc": 264}
 CTRL = {"<c1>": 0xFF31, "<c2>": 0xFF32, "<c3>": 0xFF33, "</c>": 0xFF30,
         "[HERO1]": 0xFF01, "[HERO2]": 0xFF02, "[HERO3]": 0xFF03, "[HERO4]": 0xFF04,
         "[VAR5]": 0xFF05, "[VAR6]": 0xFF06}
-PH_W = {"[HERO1]": 48, "[HERO2]": 48, "[HERO3]": 48, "[HERO4]": 48, "[VAR5]": 0, "[VAR6]": 66}
+# Save names have eight surname and five given-name codes. Reserve the
+# original 12px glyph width so renamed heroes and existing Japanese saves fit.
+PH_W = {"[HERO1]": 96, "[HERO2]": 60, "[HERO3]": 96, "[HERO4]": 60, "[VAR5]": 0, "[VAR6]": 75}   # VAR6 = "Inazuman F" (75 px)
 TOKEN = re.compile(r"(<c[123]>|</c>|<p>|\[(?:HERO[1-4]|VAR[56])\]|\{[A-Za-z0-9]+\}|\s+|[^\s<\[{]+|[<\[{])")
 STATS = Counter()
 CHOICE = re.compile("^「[^」\n]*」(\n「[^」\n]*」)+$")
@@ -159,7 +164,7 @@ def px_of(tok):
     if tok in PH_W:
         return PH_W[tok]
     if tok.startswith("{"):
-        return 8
+        return 8 if tok in ("{direct}", "{ranged}") else 12
     if tok in CTRL or tok == "<p>":
         return 0
     return efont.text_width(tok, EF)
@@ -224,6 +229,27 @@ def layout(en, width, max_lines):
                 cur.append(t)
         if cur:
             words.append(cur)
+        # An unusually long unbroken word must not bypass the wrap limit.
+        bounded = []
+        for word in words:
+            if width and sum(px_of(t) for t in word) > width:
+                part, used = [], 0
+                for token in word:
+                    pieces = [token] if token in CTRL or token.startswith("{") else list(token)
+                    for piece in pieces:
+                        pw = px_of(piece)
+                        if pw > width:
+                            raise ValueError("token exceeds dialogue width: %s" % piece)
+                        if part and used + pw > width:
+                            bounded.append(part)
+                            part, used = [], 0
+                        part.append(piece)
+                        used += pw
+                if part:
+                    bounded.append(part)
+            else:
+                bounded.append(word)
+        words = bounded
         lines, line, lw = [], [], 0
         space_w = px_of(" ")
         for w in words:
@@ -240,6 +266,23 @@ def layout(en, width, max_lines):
         if line or not lines:
             lines.append(line)
         while lines:
+            # Prefer a sentence boundary over leaving a few words alone in
+            # the following box. Rewrap the remainder without changing text.
+            if max_lines == 3 and len(lines) > max_lines:
+                boundary = None
+                for li, row in enumerate(lines[:max_lines]):
+                    for ti, token in enumerate(row):
+                        if li > 0 and re.search(r"[.!?\u2026][\"')]*$", token) and token not in (
+                                "Dr.", "Mr.", "Mrs.", "Ms.", "Prof.", "St.", "No."):
+                            boundary = li, ti
+                if boundary:
+                    li, ti = boundary
+                    pages.append(lines[:li] + [lines[li][:ti+1]])
+                    rest = [lines[li][ti+1:]] + lines[li+1:]
+                    remaining = " ".join("".join(row).strip() for row in rest).strip()
+                    pages.extend(layout(remaining, width, max_lines))
+                    lines = []
+                    continue
             pages.append(lines[:max_lines])
             lines = lines[max_lines:]
     return pages
@@ -321,7 +364,7 @@ class Translator:
                 STATS["untranslated_" + src] += 1
             return None
         try:
-            lines = max(3, page_lines(body)) if src == "stage" else (2 if src == "bquote" else 99)
+            lines = 3 if src == "stage" else (2 if src == "bquote" else 99)
             new = []
             if sp is not None:
                 g = GLOSS.get(sp)
@@ -335,7 +378,7 @@ class Translator:
                     new_sp = list(ws[1:k])
                     PROBLEMS.append("speaker not in glossary: %s" % sp)
                 else:
-                    new_sp = encode_name(name)
+                    new_sp = encode_name(DISPLAY.get(name, name))
                 new = [0xFF33] + new_sp + [0xFF30, 0xFFFB]
             if src == "db" and GRID.match(body) and len(ws) >= 20:
                 new = grid_words(en, len(ws))
@@ -599,7 +642,7 @@ def tim_pixels(tim):
     return pix, pos + 12
 
 
-def write_font(tim, extra=False, main=True, ex_x=256):
+def write_font(tim, extra=False, main=True, ex_x=256, native_values=True):
     """English glyphs into a font sheet.  main: single + two-letter glyphs (page 0);
     extra: the 24 px word glyphs (F0 layer of the right page, ex_x = where that
     page starts in this TIM: 256 for full sheets, 0 for the per-scene right pages)."""
@@ -607,6 +650,11 @@ def write_font(tim, extra=False, main=True, ex_x=256):
     z = np.load(os.path.join(ROOT, "work", "font", "efont_cells.npz"))
     tim = bytearray(tim)
     pix, base = tim_pixels(tim)
+    if main and native_values:
+        import ui_value_font
+        ui_value_font.apply_pixels(pix)
+        import weapon_markers
+        weapon_markers.apply_main(pix)
     for i in range(efont.UNI_COUNT if main else 0):
         a = efont.UNI_FIRST + i - 110
         x, y = (a % 21) * 12, (a // 21) * 16
@@ -623,6 +671,10 @@ def write_font(tim, extra=False, main=True, ex_x=256):
             x, y = ex_x + (r % 21) * 12, (r // 21) * 16
             cell = z["ex"][i] if i < len(z["ex"]) else np.zeros((16, efont.EX_W), np.uint8)
             pix[y:y + 16, x:x + efont.EX_W] = (pix[y:y + 16, x:x + efont.EX_W] & 0xC) | cell
+        import ui_glyphs
+        ui_glyphs.apply_pixels(pix, ex_x)
+        import weapon_markers
+        weapon_markers.apply_ex(pix, ex_x)
     packed = (pix[:, 0::2] | (pix[:, 1::2] << 4)).astype(np.uint8).tobytes()
     tim[base:base + len(packed)] = packed
     return bytes(tim)
@@ -641,12 +693,15 @@ def build_all():
     for i, k in enumerate(keys):
         idx = int(k)
         name = "STAGE%s" % k
+        import stage_cards
+        stage[idx+1], count = stage_cards.patch_script(stage[idx+1])
+        STATS["stage_card_routines"] += count
         new = rebuild_overlay(stage[idx], 0, "stage", lambda off, ws, n=name: font_at.get((n, off), "11"), tr, name)
         STATS["max_overlay"] = max(STATS["max_overlay"], len(new))
         if len(new) > 0x12C00:
             PROBLEMS.append("%s overlay is %d bytes (limit 0x12C00)" % (name, len(new)))
         stage[idx] = new
-        stage[630 + i] = rebuild_cm(stage[630 + i], {4: new})
+        stage[630 + i] = rebuild_cm(stage[630 + i], {4: new, 5: stage[idx+1][:len(cm.blocks(stage[630+i])[5])]})
     files["STAGE.DAT"] = repack.dat_pack(stage)
     # ---- BATTLE.DAT
     battle = repack.dat_entries(open(os.path.join(ROOT, "work", "source", "disc", "BATTLE.DAT"), "rb").read())
@@ -657,15 +712,18 @@ def build_all():
     STATS["encyc_bytes"] = len(battle[540])
     if len(battle[540]) > 0x1F000:
         PROBLEMS.append("encyclopedia is %d bytes (limit 0x1F000)" % len(battle[540]))
-    battle[537] = write_font(battle[537])
+    # This encyclopedia sheet has 16px tab cells instead of native UI digits.
+    battle[537] = write_font(battle[537], native_values=False)
     battle[538] = write_font(battle[538], extra=True)
     files["BATTLE.DAT"] = repack.dat_pack(battle)
     # ---- MAPMAIN.DAT
     mm = repack.dat_entries(open(os.path.join(ROOT, "work", "source", "disc", "MAPMAIN.DAT"), "rb").read())
-    db2 = rebuild_table16(mm[2], "db", tr, fname="MAPMAIN0002")
+    import ui_glyphs
+    import intermission_layout
+    db2 = intermission_layout.patch_database(ui_glyphs.patch_database(rebuild_table16(mm[2], "db", tr, fname="MAPMAIN0002")))
     mm[2] = db2
     blocks24 = cm_blocks_raw(mm[24])
-    db24 = rebuild_table16(blocks24[1][0], "db", tr)
+    db24 = intermission_layout.patch_database(ui_glyphs.patch_database(rebuild_table16(blocks24[1][0], "db", tr)))
     if len(db24) > 0xD000:
         PROBLEMS.append("database is %d bytes (limit 0xD000 at 0x800F3000)" % len(db24))
     STATS["db_bytes"] = len(db24)
@@ -780,6 +838,31 @@ def check_default_names(files):
         if n > lim:
             PROBLEMS.append("default name #%X is %d codes (save buffer holds %d)" % (idx, n, lim))
         STATS["name_codes_max"] = max(STATS["name_codes_max"], n)
+
+
+VAR6_SLOTS = [   # FF06 in dialogue: the text drawers (0x8004AB08, 0x8004BBB0) pick one by a story flag
+    (0x800AA108, 6, "Inazuman"),      # original イナズマン + FF05
+    (0x800AA114, 7, "Inazuman F"),    # original イナズマンF + FF05
+]
+
+
+def patch_var6(exe):
+    """The FF06 variable is drawn from two fixed exe strings (terminated by FF05).
+    They hold 5 and 6 codes; the English names fit with the "Ina"/"ma" word glyphs,
+    which every font sheet carries since 0.3.3."""
+    exe = bytearray(exe)
+    for addr, slot, name in VAR6_SLOTS:
+        off = addr - 0x80010000 + 0x800
+        old = struct.unpack_from("<%dH" % slot, exe, off)
+        assert old[-1] == 0xFF05 and all(w < 0xFF00 for w in old[:-1]), (hex(addr), old)
+        codes = efont.encode_plain(name, ENC_ENCYC)
+        if len(codes) > slot - 1:
+            PROBLEMS.append("VAR6 name %r is %d codes (slot holds %d)" % (name, len(codes), slot - 1))
+            continue
+        new = codes + [0xFF05] + [0xFF05] * (slot - 1 - len(codes))
+        struct.pack_into("<%dH" % slot, exe, off, *new)
+        STATS["var6_written"] += 1
+    return bytes(exe)
 
 
 if __name__ == "__main__":

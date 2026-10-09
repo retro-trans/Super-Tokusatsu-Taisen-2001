@@ -1,0 +1,12 @@
+{
+ "decisions": [
+  {
+   "term": "Shocker's spider monster",
+   "previous": "Spider Man",
+   "english": "Man Spider",
+   "reason": "Explicit user correction on 2026-10-09; use consistently in all English text and glossary aliases.",
+   "source": "User instruction in this chat",
+   "version": "0.3.16"
+  }
+ ]
+}

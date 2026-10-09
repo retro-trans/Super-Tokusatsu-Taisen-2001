@@ -1,0 +1,114 @@
+{
+ "screen": "Unit statistics / terrain ratings",
+ "reported_screenshot": "work/ui/unit_stats/user_report_labels.png",
+ "screenshot_type": "actual emulator screenshot supplied by user before changes",
+ "native_coordinate_space": "320x240",
+ "unit_tab": {
+  "before": "Unit Stats",
+  "after": "Unit",
+  "before_width": 67,
+  "after_width": 28,
+  "slot_width": 64
+ },
+ "terrain_glyphs": {
+  "cell_width": 12,
+  "cell_height": 16,
+  "labels": [
+   "AIR",
+   "LND",
+   "SEA",
+   "SPC",
+   "KAI",
+   "GEN",
+   "FUS"
+  ],
+  "header": "Terrain",
+  "header_width": 24
+ },
+ "source": "work/translation/en/ui_glyphs.en.json",
+ "previews": [
+  {
+   "file": "work/ui/unit_stats/terrain_native_preview.png",
+   "type": "native font layout reconstruction, enlarged 4x"
+  },
+  {
+   "file": "work/ui/unit_stats/terrain_4x_preview.png",
+   "type": "4x font pack layout reconstruction"
+  },
+  {
+   "file": "work/ui/unit_stats/stats_native_preview.png",
+   "type": "completed-disc font and verified MIPS draw-list reconstruction, enlarged 4x"
+  },
+  {
+   "file": "work/ui/unit_stats/stats_4x_preview.png",
+   "type": "matching 4x font and verified MIPS draw-list reconstruction"
+  },
+  {
+   "file": "work/ui/unit_stats/growth_native_preview.png",
+   "type": "all four development combinations, built-font reconstruction, enlarged 4x"
+  },
+  {
+   "file": "work/ui/unit_stats/growth_4x_preview.png",
+   "type": "all four development combinations, matching-pack reconstruction"
+  }
+ ],
+ "grade_values_and_positions": "unchanged",
+ "emulator_verified": false,
+ "pilot_stats": {
+  "reported_screenshot": "work/ui/unit_stats/user_report_stats_overlap.png",
+  "gui_script_exe_offset": "0x9B0C0",
+  "terrain_heading_db_index": "0xB76",
+  "terrain_drawer": "0x80049AE0",
+  "terrain_cache_init": "0x80013D2C",
+  "terrain_alias_indices": [
+   "0xAFE",
+   "0xAFF",
+   "0xB00",
+   "0xB01",
+   "0xB02",
+   "0xB03",
+   "0xB04"
+  ],
+  "base_bonus_total": "base + bonus (total)",
+  "row_y": [
+   117,
+   141
+  ],
+  "base_x": 130,
+  "plus_x": 156,
+  "bonus_x": 168,
+  "open_parenthesis_x": 193,
+  "total_x": 200,
+  "close_parenthesis_x": 226,
+  "number_limit": 3,
+  "example": [
+   "Eva. 134 + 68 (202)",
+   "Acc. 128 + 68 (196)"
+  ],
+  "verification": "work/output/STT2001_EN_v0.3.11_stats_verification.json"
+ },
+ "growth_row": {
+  "reported_screenshot": "work/ui/unit_stats/user_report_growth_overflow.png",
+  "gui_script_exe_offset": "0x9B04C",
+  "heading_position_word": "0x9B052",
+  "badges_position_word": "0x9B060",
+  "heading_x": 18,
+  "badges_x": 56,
+  "y": 123,
+  "content_bounds": [
+   16,
+   148
+  ],
+  "group_spacing": 0,
+  "maximum_right": 146,
+  "body_icon_code": 284,
+  "weapon_icon_code": 285,
+  "database_indices": [
+   "0xB79",
+   "0xB7A",
+   "0xB7B",
+   "0xB7C"
+  ],
+  "verification": "work/output/STT2001_EN_v0.3.12_growth_verification.json"
+ }
+}

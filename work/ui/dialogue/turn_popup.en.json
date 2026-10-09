@@ -1,0 +1,18 @@
+{
+ "id": "turn_announcement",
+ "screenshot": "work/ui/dialogue/user_report_turn_popup.png",
+ "screenshot_type": "user-provided emulator capture before fix",
+ "coordinate_space": "native 320x240",
+ "database_index": "0xCF4",
+ "translation_uid": "U21195",
+ "label": "Turn",
+ "label_color_control": "c3",
+ "label_position": [124, 112],
+ "label_width": 30,
+ "number_position": [160, 112],
+ "number_maximum_digits": 4,
+ "number_alignment": "left, six pixels after the label",
+ "maximum_number_right": 192,
+ "caller": "0x80019E88",
+ "verification": "Actual MIPS numeric drawer executed for all values 0 through 9999; ordinary numeric displays compared with the original. Final game appearance still requires emulator testing."
+}

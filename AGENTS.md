@@ -16,6 +16,7 @@ incoming - outside files that need agent to look into
 - Be conscious of subscription limit before creating sub-agents
 
 ** REMEMBER **
+- Spoken dialogue must fit within its frame and use no more than three body lines per box; continue longer text in the next box or shorten the wording without changing its meaning.
 - Movie subtitles must remain visible for at least 0.5 seconds after the voice line ends, unless the next subtitle begins sooner.
 - Publish bare `.xdelta` patches for both platforms; do not wrap the PS2 patch in a ZIP.
 - Public PSP and PS2 releases share the PSP version number; preserve historical PS2 test labels in verification records.

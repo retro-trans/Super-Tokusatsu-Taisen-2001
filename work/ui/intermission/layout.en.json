@@ -1,0 +1,28 @@
+{
+ "version": "0.3.17",
+ "screenshots": ["menu_user.png", "hero_user.png"],
+ "submenu": {"database_index": "0xD9F", "before": "Support Mecha", "after": "Mecha", "text_width": 43},
+ "hero_list": {
+  "row_y": 144,
+  "content_bounds": [176, 308],
+  "labels": [{"database_index": "0xD87", "text": "Unit", "x": 176}, {"database_index": "0xD88", "text": "Wpn", "x": 242}],
+  "modes": {"values": ["Grow", "Upg."], "database_indices": ["0xD89", "0xD8A"], "x": [204, 270]},
+  "hp_en_positions_preserved": true
+ },
+ "stage_clear": {
+  "function": "0x8006F8AC",
+  "caller": "0x80070D14",
+  "position": [20, 200],
+  "example": "Stage 1: Fell to Earth cleared",
+  "maximum_advance": 284,
+  "caller_buffer_bytes": 136,
+  "suffix": " cleared",
+  "long_caption_suffix": " Clr.",
+  "long_caption_threshold_codes": 28,
+  "title_and_number_preserved": true
+ },
+ "preview": "fixed_4x_preview.png",
+ "preview_is_emulator_capture": false,
+ "texture_pack_compatible_since": "0.3.15",
+ "emulator_verified": false
+}

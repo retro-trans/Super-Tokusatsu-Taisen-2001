@@ -1,5 +1,8 @@
 {
  "_doc": "Per-uid English overrides applied at insertion (choice rows must be one quoted option per line, each fitting one line).",
+ "U21195": "<c3>Turn</c>",
+ "U20844": "<c3>Unit</c>",
+ "U20870": "Unit",
  "U01051": "\"All right, heads!\" \"No, wait… tails after all!\"",
  "U01125": "\"Then, heads…\" \"Actually, maybe tails?\"",
  "U01249": "\"We need Hongo after all.\" \"We'll do it ourselves this time.\"",
@@ -58,7 +61,7 @@
  "U20188": "Gamma",
  "U20189": "Ultraman Jack",
  "U20194": "Bara Banbara",
- "U20196": "Spider Man",
+ "U20196": "Man Spider",
  "U20197": "Bee Woman",
  "U20205": "Shadow Moon",
  "U20211": "Hiryu",
@@ -253,5 +256,13 @@
  "@MAPMAIN0002:11454": "Mask Combatant",
  "@MAPMAIN0002:11972": "Birugenia",
  "@MAPMAIN0002:21528": "Type 75 SP How.",
- "_doc_occ": "Keys \"@FILE:offset\" override one occurrence of the frozen dump only (map-window unit names shortened; the encyclopedia keeps the full name)."
+ "_doc_occ": "Keys \"@FILE:offset\" override one occurrence of the frozen dump only (map-window unit names shortened; the encyclopedia keeps the full name).",
+ "U20965": "+       (       )",
+ "U20942": "{man}Grow{sword}Grow",
+ "U20943": "{man}Grow{sword}Upg.",
+ "U20944": "{man}Upg.{sword}Grow",
+ "U20945": "{man}Upg.{sword}Upg.",
+ "U21238": "<c3>Unit</c>",
+ "U21239": "<c3>Wpn</c>",
+ "U21193": " cleared"
 }

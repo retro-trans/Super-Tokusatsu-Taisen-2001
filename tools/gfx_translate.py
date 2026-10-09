@@ -22,6 +22,30 @@ PREVIEWS = ROOT / "work/ui/graphics"
 EXPORT = ROOT / "work/translation/en/graphics"
 
 
+def callout_lettering(text):
+    """Five-pixel bitmap lettering for the original 24x8 battle sprite."""
+    glyphs = {
+        "C": ("011", "100", "100", "100", "011"),
+        "r": ("00", "11", "10", "10", "10"),
+        "i": ("1", "0", "1", "1", "1"),
+        "t": ("10", "11", "10", "10", "01"),
+        "c": ("000", "011", "100", "100", "011"),
+        "a": ("000", "110", "001", "111", "101"),
+        "l": ("1", "1", "1", "1", "1"),
+    }
+    width = sum(len(glyphs[c][0])+1 for c in text)-1
+    face = np.zeros((5, width), np.uint8)
+    x = 0
+    for c in text:
+        rows = glyphs[c]
+        face[:, x:x+len(rows[0])] = [[int(bit) for bit in row] for row in rows]
+        x += len(rows[0])+1
+    mask = np.zeros((6, width+1), np.uint8)
+    mask[1:, 1:] = face
+    mask[:5, :width][face != 0] = 2
+    return mask
+
+
 def load_manifest():
     return json.loads(MANIFEST.read_text(encoding="utf-8"))
 
@@ -48,7 +72,21 @@ def render(data, target):
     labels = []
     if kind == "episode":
         return gfx_cards.make_card(data, target["en"]), labels
-    if kind in ("disclaimer", "narration"):
+    if kind == "artwork_logo":
+        restored = Image.open(ROOT / target["background"]).convert("RGB")
+        if restored.size != (t.w, t.h):
+            raise ValueError("artwork restoration has wrong dimensions")
+        pal = np.array(t.palette, dtype=np.int32)
+        for x0, y0, x1, y1 in target["regions"]:
+            rgb = np.asarray(restored, dtype=np.int32)
+            for y in range(y0, y1):
+                dist = ((rgb[y, x0:x1, None, :] - pal[None, :, :])**2).sum(axis=2)
+                dist[:, 0] = 2**30  # keep the image opaque
+                t.idx[y, x0:x1] = dist.argmin(axis=1)
+        for row in target["labels"]:
+            labels.append(t.label(row["rect"], row["en"], row["size"],
+                                  outline=1, edge=(0, 0, 0)))
+    elif kind in ("disclaimer", "narration"):
         t.fill(*target["regions"][0], int(t.idx[target["regions"][0][1], 5]))
         for row in target["labels"]:
             labels.append(t.label(row["rect"], row["en"], row["size"]))
@@ -66,6 +104,19 @@ def render(data, target):
         for row in target["labels"]:
             t.fill(*row["rect"], 0)
             labels.append(t.label(row["rect"], row["en"], row["size"], color=(0, 189, 255)))
+    elif kind == "battle_callout":
+        # Shared map/battle label strip. Keep its palette indices so the
+        # runtime's yellow/gold colour selection and shadows still work.
+        for row in target["labels"]:
+            x0,y0,x1,y1 = row["rect"]
+            mask = callout_lettering(row["en"])
+            h,w = mask.shape
+            assert w<=x1-x0 and h<=y1-y0,(row["en"],w,h)
+            t.fill(x0,y0,x1,y1,0)
+            x,y = x0+(x1-x0-w)//2,y0+(y1-y0-h)//2
+            t.idx[y:y+h,x:x+w] = np.where(mask==2,1,np.where(mask==1,4,0))
+            labels.append({"text":row["en"],"font":"pixel_3x5",
+                           "bounds":[x,y,x+w,y+h],"face_index":1,"shadow_index":4})
     elif kind == "encyclopedia_index":
         box = target["regions"][0]
         t.fill(*box, t.nearest((0, 8, 8)))
@@ -123,10 +174,14 @@ def verify(original, edited, target):
     if np.any(changed & ~allowed):
         raise AssertionError("pixels changed outside sprite rectangles")
     if target["kind"] == "episode":
-        if not np.array_equal(a.idx[100:, :270], b.idx[100:, :270]):
-            raise AssertionError("episode number sprites changed")
-        if np.any(b.idx[100:, 297:] != a.idx[5, 5]):
-            raise AssertionError("episode suffix not blank")
+        for digit in range(10):
+            x = digit*24
+            if np.any(b.idx[104:128, x:x+6] != a.idx[5, 5]) or np.any(b.idx[104:128, x+18:x+24] != a.idx[5, 5]):
+                raise AssertionError("stage numeral exceeds its 12px sprite")
+        if np.any(b.idx[100:, 240:256] != a.idx[5, 5]):
+            raise AssertionError("stage suffix sample must be blank")
+        if np.any(b.idx[100:, 308:] != a.idx[5, 5]):
+            raise AssertionError("stage prefix exceeds its new sprite")
     if target["kind"] == "encyclopedia_tab_font":
         if np.any((a.idx & 12) != (b.idx & 12)):
             raise AssertionError("F1 font layer changed")

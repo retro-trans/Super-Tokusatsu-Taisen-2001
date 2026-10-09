@@ -1,0 +1,15 @@
+{
+ "_doc": "Compact unit/weapon terrain labels. Reserved unused English F1 cells on font page 1; each cell remains 12x16 pixels.",
+ "glyph_first": 1118,
+ "terrain": [
+  {"index": 2814, "short": "AIR", "meaning": "Air"},
+  {"index": 2815, "short": "LND", "meaning": "Land"},
+  {"index": 2816, "short": "SEA", "meaning": "Sea"},
+  {"index": 2817, "short": "SPC", "meaning": "Space"},
+  {"index": 2818, "short": "KAI", "meaning": "Kaima World"},
+  {"index": 2819, "short": "GEN", "meaning": "Genmu World"},
+  {"index": 2820, "short": "FUS", "meaning": "Fushigi World"}
+ ],
+ "heading": {"text": "Terrain", "indices": [2813, 2934], "cells": 2},
+ "unit_tab": {"uids": ["U20844", "U20870"], "text": "Unit"}
+}

@@ -1,0 +1,52 @@
+{
+  "version": "0.3.7",
+  "body_lines": 3,
+  "stage_width": 220,
+  "battle_width": 220,
+  "hero_name_max_widths": [
+    96,
+    60,
+    96,
+    60
+  ],
+  "choice_rewordings": [
+    [
+      "Rescuing Dr. Komyoji comes first.",
+      "Rescue Dr. Komyoji first."
+    ],
+    [
+      "Too dangerous… they shouldn't.",
+      "Too risky… they shouldn't."
+    ],
+    [
+      "No way… a steam train out here?",
+      "A steam train here? No way!"
+    ],
+    [
+      "Figures… a steam train out here?",
+      "Figures… a steam train here?"
+    ],
+    [
+      "Just kidding… I was only joking.",
+      "Just kidding… only a joke."
+    ],
+    [
+      "Cleared Stage 82: Guillotine gone",
+      "Stage 82 clear: Guillotine gone"
+    ],
+    [
+      "Cleared Stage 63: Iron Mask gone",
+      "Stage 63 clear: Iron Mask gone"
+    ]
+  ],
+  "speaker_display": {
+    "Emperor of the Neo-Human Empire": "Neo-Human Empire Emperor",
+    "Supreme Commander General Jark": "Supreme Cmdr. General Jark",
+    "Strongest Kaima Beastman Granzairus": "Kaima Beastman Granzairus",
+    "Policeman Holding the King's Sword": "Policeman with the King's Sword",
+    "MAT Station Instrument Room Officer": "MAT Instrument Room Officer",
+    "MAT Station Control Room Officer": "MAT Control Room Officer",
+    "Director (Alien Nackle in Disguise)": "Director (disguised Alien Nackle)",
+    "Staffer (Alien Nackle in Disguise)": "Staffer (disguised Alien Nackle)"
+  }
+}

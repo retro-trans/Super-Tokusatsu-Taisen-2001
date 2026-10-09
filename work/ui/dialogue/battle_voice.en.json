@@ -1,0 +1,39 @@
+{
+  "version": "0.3.14",
+  "id": "battle_voice_layout",
+  "old_text_y": [
+    50,
+    182
+  ],
+  "new_text_y": [
+    44,
+    176
+  ],
+  "map_story_text_y": [
+    22,
+    154
+  ],
+  "native_line_pitch": 16,
+  "body_lines_maximum": 2,
+  "glyph_cell_height": 16,
+  "exe_positions": [
+    {
+      "offset": "0xADAFC",
+      "old": 50,
+      "new": 44
+    },
+    {
+      "offset": "0xADAFE",
+      "old": 182,
+      "new": 176
+    }
+  ],
+  "runtime_commands": [
+    "0x8007348C",
+    "0x80079EE4"
+  ],
+  "user_screenshot": "work/ui/dialogue/battle_voice_overflow_user.png",
+  "preview": "work/ui/dialogue/battle_voice_layout.png",
+  "preview_is_emulator_capture": false,
+  "reason": "Six pixels more bottom clearance inside the short battle frame; no change to font size, text, or frame/portrait origin."
+}

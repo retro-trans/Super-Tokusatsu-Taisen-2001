@@ -1,6 +1,6 @@
-"""English episode title cards (EVENT #52-#141).
-Each card: title area rows 20-80 redrawn; 第 (x 270-296) -> "EP", 話 (x 297-320) blanked.
-work/translation/en/graphics.en.json maps EVENT index -> English title."""
+"""Stage title cards with consistent regular lettering and matching numerals.
+The stage-script sprite rectangles are updated by stage_cards.patch_script.
+"""
 import os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "tools"))
@@ -10,15 +10,15 @@ WHITE, BLACK = (255, 255, 255), (0, 0, 0)
 
 
 def fit(title, maxw=304):
-    for size in (30, 28, 26, 24):
-        if gfx.lettering(title, size, bold=1, shadow=True).shape[1] <= maxw:
+    for size in (24, 22):
+        if gfx.lettering(title, size).shape[1] <= maxw:
             return [title], size
     words = title.split()
     best = None
     for k in range(1, len(words)):
         a, b = " ".join(words[:k]), " ".join(words[k:])
         for size in (24, 22, 20, 18):
-            w = max(gfx.lettering(s, size, bold=1, shadow=True).shape[1] for s in (a, b))
+            w = max(gfx.lettering(s, size).shape[1] for s in (a, b))
             if w <= maxw:
                 cand = (size, -abs(len(a) - len(b)), [a, b])
                 if best is None or cand > best:
@@ -35,12 +35,14 @@ def make_card(data, title):
     t.fill(0, 18, 320, 84, bg)
     lines, size = fit(title)
     if len(lines) == 1:
-        t.label((8, 22, 312, 80), lines[0], size, WHITE, bold=1, shadow=True)
+        t.label((8, 22, 312, 80), lines[0], size, WHITE)
     else:
-        t.label((8, 20, 312, 50), lines[0], size, WHITE, bold=1, shadow=True)
-        t.label((8, 52, 312, 82), lines[1], size, WHITE, bold=1, shadow=True)
-    t.fill(270, 100, 320, 128, bg)
-    t.label((272, 100, 296, 128), "EP", 18, WHITE, bold=1)
+        t.label((8, 20, 312, 50), lines[0], size, WHITE)
+        t.label((8, 52, 312, 82), lines[1], size, WHITE)
+    t.fill(0, 100, 320, 128, bg)
+    for digit in range(10):
+        t.label((digit * 24, 104, (digit + 1) * 24, 128), str(digit), 18, WHITE)
+    t.label((256, 104, 308, 128), "Stage", 18, WHITE)
     return t.bytes()
 
 

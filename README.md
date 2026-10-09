@@ -6,20 +6,20 @@ translation built with it.
 
 ## Contribute
 
-The text is translated end to end, but nobody has played through it yet.
+The text is translated end to end. Playtesting is in progress; a full playthrough remains unverified.
 Bug reports (with a screenshot, if you can), proofreading and playtesting are
 all welcome. Please open an issue on this repository.
 
 ## Play it
 
-The latest release is **[v0.3.6](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.6)**,
+The latest release is **[v0.3.18](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.18)**,
 a single patch for the Japanese disc (**SLPS-02863**). You need your own copy
-of the game. This is the first public build: the whole text is in English, but
-nobody has played through it yet. Please report anything that breaks.
+of the game. It includes the dialogue, menu and font fixes found during early playtesting. Please report anything that breaks.
 
 | Your source image | Patch |
 |---|---|
-| Super Tokusatsu Taisen 2001 (Japan), SLPS-02863, single `.bin` (MODE2/2352) | `STT2001-English-v0.3.6.xdelta` |
+| Super Tokusatsu Taisen 2001 (Japan), SLPS-02863, single `.bin` (MODE2/2352) | `STT2001-English-v0.3.18.xdelta` |
+| Published English v0.3.6 `.bin` | `STT2001-English-v0.3.6-to-v0.3.18.xdelta` |
 
 The patch checks its source. The original `.bin` is 725,316,816 bytes, with
 SHA-256 `219d9c4f64caf670b5e400612fa19677ed9a3f59a7ebdb72c12c425412795465`.
@@ -37,7 +37,7 @@ accepts the same `.xdelta` file. Select the unpacked `.bin` as the original file
 **Command line:** get [xdelta3](https://github.com/jmacd/xdelta).
 
 ```
-xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.3.6.xdelta "STT2001 English v0.3.6.bin"
+xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.3.18.xdelta "STT2001 English v0.3.18.bin"
 ```
 
 Keep the `.cue` next to the patched `.bin` and point its `FILE` line at the
@@ -53,15 +53,17 @@ chdman extractcd -i "your-game.chd" -o game.cue -ob game.bin
 
 ### Sharper font (optional, DuckStation)
 
-Each build also produces a **4x font texture pack** for DuckStation. It
+Download **STT2001-4x-font-pack-v0.3.18.zip** from the release. It
 redraws the English font at 4x, with a fine drop shadow, in every text colour.
-Copy its `SLPS-02863` folder into DuckStation's `textures` folder. Then enable
+Extract its `textures/SLPS-02863` folder into DuckStation's data folder (Tools → Open Data Directory), merging it with existing files. Then enable
 **Settings → Graphics → Texture Replacement → Enable Texture Cache** and
 **Enable Texture Replacements**, and use 4x internal resolution.
 
 The pack's `config.yaml` sets `MaxVRAMWriteSplits: true`. Without it the font
 isn't replaced in story scenes, because the game overwrites half of its font
-sheet there. Each pack only matches the build it was made with.
+sheet there. Restart DuckStation or reload replacements after installing. Older v0.3.6–v0.3.17 packs alone do not match the v0.3.18 font. Packs are matched by texture contents: text-only builds can share a pack, while font changes require new IDs. Merging this pack preserves older IDs.
+
+Weapon markers use **D** for Direct and **I** for Indirect; these are attack categories, while Rng shows the range. Attribute badges read BLT (Bullet), ELC (Electric), BEM (Beam), WTR (Water), FIR (Fire), and SPL (Special). P and MAP retain their existing functions.
 
 ## What is translated
 
@@ -72,11 +74,11 @@ sheet there. Each pack only matches the build it was made with.
 | Character Encyclopedia (キャラクター辞典) | 914 strings, 100% |
 | Units, weapons, abilities, menus, episode titles (database) | 2,914 strings |
 | Music titles, executable menus, memory-card save title | done |
-| Graphics: 90 episode title cards, disclaimer, narration card, title-menu and option labels, encyclopedia frames and tabs | 98 images |
+| Graphics: 90 stage title cards, disclaimer, narration card, title-menu and option labels, encyclopedia frames/tabs, Fusion Steel card and Critical callouts | 101 images |
 | Movies: 26 captioned clips and both credit rolls | English subtitles over the Japanese audio |
 
-Still in Japanese: the battle labels strip (Shield, Parry, Afterimage…), the
-two name logos, the copyright screen, and the title logo (kept on purpose). A
+Still in Japanese: some battle labels (Shield, Parry, Afterimage…), remaining
+name logos, the copyright screen, and the title logo (kept on purpose). A
 few unclear shouts in the movies are left unsubtitled. See
 [docs/handoff_graphics.md](docs/handoff_graphics.md) and
 [docs/handoff_movies.md](docs/handoff_movies.md).
@@ -118,7 +120,7 @@ Instead, `work/script/occurrences.json` records where each translated string
 sits on the disc (file, offset, font and ID, with no text). In a checkout
 without the Japanese files, the inserter decodes those strings from your own
 disc. A build from this repository is byte-identical to the project's own
-builds outside the movie data; this was checked for v0.3.6.
+builds outside the movie data; this is checked by `tools/check_public_build.py`. Release patches are separately round-tripped against the complete disc, including the approved movies.
 
 ## What is here
 

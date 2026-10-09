@@ -25,6 +25,10 @@ __pycache__/
 /work/translation/en/graphics/
 /work/ui/graphics/
 /work/ui/movies/
+/work/ui/dialogue/*.png
+/work/ui/unit_stats/*.png
+/work/ui/intermission/*.png
+/work/ui/weapons/*.png
 /work/font/*.png
 /*.log
 /work/glossary/library.json

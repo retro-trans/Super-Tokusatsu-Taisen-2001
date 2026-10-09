@@ -30,6 +30,10 @@ EX_FIRST, EX_COUNT = 446, 336    # extra glyphs, battle font (BATTLE #538) only:
 # extra glyphs are up to 24 px wide: each uses two neighbouring cells (even column + next)
 EX_SLOTS = [EX_FIRST + row * 21 + col for row in range(16) for col in range(0, 20, 2)]
 EX_W = 24
+# word glyphs that must exist: name pieces copied into fixed-size slots
+#   "ma": Takuma (hero given name, 5-code save buffer)
+#   "Ina": Inazuman / Inazuman F, the FF06 variable (5 / 6-code slots in the exe)
+FORCE_EX = ["ma", "Ina"]
 CELL_W = 12
 
 
@@ -121,20 +125,25 @@ def corpus_text(paths, only_kind=None):
     return out
 
 
-def build(corpus_paths=None):
+def build(corpus_paths=None, keep_bigrams=False):
+    """keep_bigrams: reuse the two-letter set of the current efont.json, so only
+    the word glyphs (encyclopedia / names) are re-chosen."""
     f = font()
     u = unigrams(f)
     if corpus_paths is None:
         d = os.path.join(ROOT, "work", "translation", "en", "out")
-        corpus_paths = [os.path.join(d, x) for x in sorted(os.listdir(d)) if x.endswith(".json")]
+        corpus_paths = [os.path.join(d, x) for x in sorted(os.listdir(d))
+                        if x.endswith(".json") and not x.endswith(".en.json")]   # not the git copies
     segs = corpus_text(corpus_paths)
     cnt = Counter()
     for s in segs:
         for i in range(len(s) - 1):
             cnt[s[i:i + 2]] += 1
     bigrams = []
+    if keep_bigrams:
+        bigrams = list(json.load(open(os.path.join(OUT, "efont.json"), encoding="utf-8"))["bi"])
     for bg, n in cnt.most_common():
-        if len(bigrams) >= BI_COUNT:
+        if len(bigrams) >= BI_COUNT or keep_bigrams:
             break
         if bg[0] in u and bg[1] in u and compose(u, bg[0], bg[1]):
             bigrams.append(bg)
@@ -159,7 +168,11 @@ def build(corpus_paths=None):
         cands.append((g, n))
     # greedy: each pick maximises occurrences x codes saved under the current set
     extra, enc_now = [], dict(base_enc)
-    for _ in range(len(EX_SLOTS)):
+    for g in FORCE_EX:
+        assert compose_wide(u, g) is not None, g
+        extra.append(g)
+        enc_now[g] = 1
+    for _ in range(len(EX_SLOTS) - len(FORCE_EX)):
         best = None
         for g, n in cands:
             if g in enc_now:
@@ -273,6 +286,7 @@ def preview(text):
 
 if __name__ == "__main__":
     if sys.argv[1] == "build":
-        build(sys.argv[2:] or None)
+        args = [a for a in sys.argv[2:] if not a.startswith("--")]
+        build(args or None, keep_bigrams="--keep-bigrams" in sys.argv)
     else:
         preview(sys.argv[2])

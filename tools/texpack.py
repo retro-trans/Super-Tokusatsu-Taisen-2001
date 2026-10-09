@@ -164,10 +164,19 @@ def shadow(cell):
 
 def hires_layers(pix, page, hf, role):
     """Two K-scaled level maps (F0, F1) for one 256x256 page of a font sheet.
-    role "main": single + two-letter glyphs; "ex": word glyphs (F0 layer)."""
+    role "main": English and native values; "encyc": English only (tab sheet);
+    "ex": word glyphs and compact terrain labels."""
     sub = pix[:, page * 256:(page + 1) * 256]
-    layers = [scale4x(sub & 3), scale4x(sub >> 2)]
     if role == "main":
+        import ui_value_font
+        sub = ui_value_font.upscale_base(sub)
+        import weapon_markers
+        sub = weapon_markers.upscale_main_base(sub)
+    if role == "ex":
+        import weapon_markers
+        sub = weapon_markers.upscale_ex_base(sub)
+    layers = [scale4x(sub & 3), scale4x(sub >> 2)]
+    if role in ("main", "encyc"):
         m = hf.meta
         for i, ch in enumerate(m["uni"]):
             _, ly, x, y = cell_xy(efont.UNI_FIRST + i)
@@ -175,10 +184,27 @@ def hires_layers(pix, page, hf, role):
         for i, s in enumerate(m["bi"]):
             _, ly, x, y = cell_xy(efont.BI_FIRST + i)
             layers[ly][y * K:(y + 16) * K, x * K:(x + 12) * K] = shadow(hf.string(s, 12))
+        if role == "main":
+            import ui_value_font
+            for code, glyph in ui_value_font.cells(hires=True, hf=hf).items():
+                x, y = (code%32)*8, (code//32)*16
+                layers[0][y*K:(y+16)*K,x*K:(x+8)*K] = shadow(glyph)
+            import weapon_markers
+            for code,glyph in weapon_markers.prefixes(hires=True,hf=hf).items():
+                x,y=(code%32)*8,(code//32)*16
+                layers[0][y*K:(y+16)*K,x*K:(x+8)*K] = shadow(glyph)
     if role == "ex":
         for i, g in enumerate(hf.meta["ex"]):
             _, ly, x, y = cell_xy(efont.EX_SLOTS[i])
             layers[ly][y * K:(y + 16) * K, x * K:(x + efont.EX_W) * K] = shadow(hf.string(g, efont.EX_W))
+        import ui_glyphs
+        for code, glyph in ui_glyphs.cells(hires=True).items():
+            _, ly, x, y = cell_xy(code)
+            layers[ly][y*K:(y+16)*K,x*K:(x+12)*K] = glyph
+        import weapon_markers
+        for code,glyph in weapon_markers.badges(hires=True).items():
+            _,ly,x,y=cell_xy(code)
+            layers[ly][y*K:(y+16)*K,x*K:(x+12)*K] = glyph
     return layers
 
 
@@ -206,7 +232,7 @@ def build(files, version, log=print):
     sheets = [  # (name, tim, [(page in this TIM, role)]); "ex" pages only need the F0 palettes
         ("MAPMAIN7", mm[7], [(0, "main"), (1, "ex")]),
         ("BATTLE538", bt[538], [(0, "main"), (1, "ex")]),
-        ("BATTLE537", bt[537], [(0, "main")]),
+        ("BATTLE537", bt[537], [(0, "encyc")]),
     ] + [("EVENT%d" % i, ev[i], [(0, "ex")]) for i in range(11, 24)]
     parts = {n: tim_parts(t) for n, t, _ in sheets}
     pals = palettes([parts[n][3] for n in parts])
@@ -232,8 +258,7 @@ def build(files, version, log=print):
                 raw = (blk[:, 0::2] | (blk[:, 1::2] << 4)).astype(np.uint8).tobytes()
                 keys.append((xxhash.xxh3_64_intdigest(raw), 64, 0))
             for ph, (layer, row) in pals.items():
-                if role == "ex" and layer == 1:
-                    continue
+                # The right page also carries the compact F1 terrain labels.
                 for stp in (False, True):
                     img = colourise(layers[layer], layer, row, stp)
                     first = None

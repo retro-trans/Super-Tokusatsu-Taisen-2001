@@ -1,0 +1,40 @@
+{
+  "version": "0.3.13",
+  "id": "critical_callout",
+  "source_term": "クリティカル",
+  "english": "Critical",
+  "texture_dimensions": [
+    256,
+    16
+  ],
+  "sprite_rect": [
+    136,
+    0,
+    160,
+    8
+  ],
+  "lettering": "Original 3x5 bitmap letters, 23x5 face plus one-pixel shadow",
+  "palette_indices": {
+    "foreground": 1,
+    "shadow": 4,
+    "transparent": 0
+  },
+  "assets": [
+    {
+      "archive": "MAPMAIN",
+      "entry": 17
+    },
+    {
+      "archive": "MAPMAIN",
+      "entry": 25,
+      "block": 5
+    }
+  ],
+  "user_screenshots": [
+    "work/ui/graphics/critical_battle_user.png",
+    "work/ui/graphics/critical_map_user.png"
+  ],
+  "preview": "work/ui/graphics/critical_translation_preview.png",
+  "preview_is_emulator_capture": false,
+  "verification_command": "python tools/check_critical_labels.py 0.3.13 0.3.12"
+}

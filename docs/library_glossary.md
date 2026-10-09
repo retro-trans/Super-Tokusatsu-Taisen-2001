@@ -136,7 +136,7 @@ Built by tools/build_library.py from the translated in-game encyclopedia (BATTLE
 | キングジョー | King Joe | A space robot controlled by the Alien Pedan. |
 | キングデビラー | King Deviler | The Iron Mask Party's strongest robot. |
 | 草間大作 | Daisaku Kusama | A boy who became Giant Robo's only pilot after he was held captive at BF's secret base and happened to give it the start-up command. |
-| 蝋蛛男 | Spider Man | The first monster the evil secret organization Shocker assigned to its Japan branch. |
+| 蝋蛛男 | Man Spider | The first monster the evil secret organization Shocker assigned to its Japan branch. |
 | クライシス皇帝 | Crisis Emperor | A mysterious despot who, a thousand years ago, suddenly conquered the once green and peaceful Kaima World and founded the Crisis Empire. |
 | クラッシャー | Crusher | Makuu's low-level combatants. |
 | グラナダス | Granadas | A phosphor kaiju controlled by the Alien Centaurus. |
