@@ -1,6 +1,6 @@
 # Handoff: Japanese text inside images (graphics translation)
 
-Status: **v0.3.18 weapon markers and Parts menu built and verified; public release authorized, 2026-10-09**. The user explicitly requested a GitHub release with the new texture replacement package. Earlier local-build notes below preserve their authorization status at the time.
+Status: **v0.3.18 published with the matching font package, 2026-10-09**. Release: https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.18 . Both bare xdelta patches passed full-disc round-trip checks; all 11 uploaded assets match local SHA-256 hashes. The public source rebuild matches all rebuilt archives and executable. Earlier local-build notes below preserve their authorization status at the time.
 The text translation is handled separately (see `docs/translator_brief.md`, `tools/insert.py`).
 
 v0.3.18 final verification passed: 17 native font copies, four Parts entries in each live database, 31 native menu draw cases / 80 labels, and all 756 replacement images. Exactly 360 replacement images have new marker pixels; pixels outside the marker cells remain identical. Executable, dialogue, weapon/gameplay data, graphics and movies match v0.3.17. Report: `work/output/STT2001_EN_v0.3.18_weapon_ui_verification.json`. The matching pack is installed cumulatively in the active local DuckStation texture folder; reload/restart to activate it. Actual emulator appearance remains unverified.
