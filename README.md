@@ -33,7 +33,7 @@ game image; a full disc is not distributed.
 |---|---|
 | Original Japanese SLPS-02863 single BIN (MODE2/2352) | `STT2001-English-v0.3.27.xdelta` |
 | Published English v0.3.18 BIN | `STT2001-English-v0.3.18-to-v0.3.27.xdelta` |
-| Local English v0.3.23 / v0.3.24 / v0.3.25 / v0.3.26 BIN | The correspondingly named `-to-v0.3.27.xdelta` |
+| Local English v0.3.25 / v0.3.26 BIN | The correspondingly named `-to-v0.3.27.xdelta` |
 
 Older public v0.3.6 users can upgrade to v0.3.18 first, then v0.3.27.
 Cold boot the new disc and load an ordinary in-game save; old emulator save

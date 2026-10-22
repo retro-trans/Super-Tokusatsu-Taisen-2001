@@ -206,3 +206,13 @@ Tools catalog includes the six routes and supports public v0.3.6 via v0.3.18.
 Source/tag commit: `d0acb475a3ea634a3fbd3007deaa2346bdac1289`.
 Release record: `work/output/github-release-v0.3.27.json`. Earlier local
 validation notes retain their historical publication status.
+
+### Release asset cleanup (2026-10-22)
+
+At the user's request, removed the v0.3.23 and v0.3.24 upgrade assets because
+those source builds were not public. The live release now has four active
+patch routes and 13 assets, with updated manifest/validation/checksums and
+instructions. Retro Trans Tools retains the two exact historical routes as
+withdrawn identities, excluded from recognition and routing. Remaining
+patch bytes and target output are unchanged. Current verification record:
+`work/output/github-release-v0.3.27-withdrawal.json`.
