@@ -2,7 +2,7 @@
 
 Selected profile: Gentle, explicitly chosen by the user on 2026-10-22.
 The standard image now includes the optional setting; no separate balance
-image or re-patching is needed to switch rules. No GitHub release is created.
+image or re-patching is needed to switch rules. Published in v0.3.27 on 2026-10-22.
 
 At **Intermission > Difficulty**, choose **Normal** (original rules) or
 **Gentle**. Up/Down selects; Circle applies; Cross cancels without changing the
@@ -197,3 +197,12 @@ round-trip through Retro Trans Tools to SHA-256
 `fa4ddddacbfa9c6f3ae8dcc3ca5bdd3c82699fe745450e0c6a3f513d2f8732fa`. The v0.3.26 upgrade is 6,031 bytes.
 Matching texture ZIP/instructions included; all 757 font files and raw
 movie/audio sectors are unchanged. No GitHub release created.
+
+## Publication
+
+v0.3.27 was published on 2026-10-22 at https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.27 .
+All 15 uploaded assets match the verified local files. The live Retro Trans
+Tools catalog includes the six routes and supports public v0.3.6 via v0.3.18.
+Source/tag commit: `d0acb475a3ea634a3fbd3007deaa2346bdac1289`.
+Release record: `work/output/github-release-v0.3.27.json`. Earlier local
+validation notes retain their historical publication status.
