@@ -1,13 +1,18 @@
-# In-game difficulty setting — local v0.3.27
+# In-game difficulty setting — v0.3.29
 
-Selected profile: Gentle, explicitly chosen by the user on 2026-10-22.
+Gentle was explicitly chosen by the user on 2026-10-22. The user subsequently
+requested the previously offered stronger profile as a third option. Local
+Local v0.3.28 adds Stronger. The v0.3.29 release, requested by the user,
+uses the visible names **Default / Gentle / Story**:
+Normal is renamed Default, and Stronger is renamed Story. Only the display
+names change; effects and saved markers remain identical.
 The standard image now includes the optional setting; no separate balance
 image or re-patching is needed to switch rules. Published in v0.3.27 on 2026-10-22.
 
-At **Intermission > Difficulty**, choose **Normal** (original rules) or
-**Gentle**. Up/Down selects; Circle applies; Cross cancels without changing the
+At **Intermission > Difficulty**, choose **Default** (original rules),
+**Gentle** or **Story**. Up/Down or Left/Right selects; Circle applies; Cross cancels without changing the
 saved mode. The right panel always shows the current mode while the submenu
-is closed. Normal is the default. The choice is stored in ordinary in-game
+is closed. Default is initially selected. The choice is stored in ordinary in-game
 saves. Texture replacement is optional; every label uses native font glyphs.
 Cold boot the new disc and load an in-game save; an old emulator save state
 can retain the previous executable in RAM.
@@ -19,14 +24,19 @@ synthetic state-0 tests checked the hook logic but did not establish its
 connection to the actual screen. v0.3.26 removes that shortcut and its label
 hook, preserves the gameplay hooks and uses a real sixth root-menu row.
 
-| Category | ON (Gentle) | OFF |
-|---|---|---|
-| Purchased stat and weapon upgrades | S: 75% price; L: 50%; materials = discounted funds / 2 | Original prices |
-| Battle XP | 150%, rounded down | Original award |
-| Funds/materials | 150% battle and chapter-clear rewards | Original rewards |
-| Ally combat stats | Attack and armor 110% in damage calculation | Original calculation |
-| Enemy combat stats | Attack and armor 90% in damage calculation | Original calculation |
-| Ammunition | Full magazines during fresh-stage setup | Original persistence |
+| Category | Default | Gentle | Story |
+|---|---|---|---|
+| Purchased stat and weapon upgrades | Original prices | S: 75%; L: 50% | Same as Gentle |
+| Battle XP | Original award | 150% | 300% |
+| Funds/materials | Original rewards | 150% battle/chapter rewards | 200% battle/chapter rewards |
+| Ally attack and armor | Original calculation | 110% | 125% |
+| Enemy attack and armor | Original calculation | 90% | 75% |
+| Ammunition | Original persistence | Full magazines at fresh-stage setup | Same as Gentle |
+
+Integer amounts round down. Discounted upgrade materials cost half the
+discounted funds price. The Story figures match the original alternative
+offered in the profile question; this is a selectable option, not a change
+to the previously chosen Gentle profile.
 
 Stat modifiers apply to working combat values, including normal attacks,
 counterattacks and MAP damage, without writing boosted values into saves.
@@ -51,17 +61,30 @@ six-slot magazine loop is retained.
 
 ## Native implementation
 
+For v0.3.28, the three-choice menu occupies `0x800DD340..0x800DD7BC`;
+runtime helpers end at `0x800DCF3C`, before the unchanged save-slot helper at
+`0x800DD000`. The heap still starts at `0x800DE000`. Choice rows use y=128,
+144 and 160, with help at 176, inside the existing panel. Native group-18
+glyphs are finalized once; group-13 stage text remains independent. The old
+v0.3.27 rendering post-patch is skipped because this batching is integrated
+in the expanded menu. Existing two-choice implementation notes below refer
+to the historical v0.3.26/v0.3.27 layouts.
+
 `tools/runtime_balance.py` is applied by both the normal builder and the
 stripped English-only source verifier for v0.3.24+. Historical `--balance`
 builds remain reproducible; the option is rejected for new versions, which
 always contain the toggle and start OFF.
 
-- Exact marker `0x424D0001` at player-state `+0x218` means ON; every other value
-  means OFF. This unused aligned word is within the original save packer's
+- At player-state `+0x218`, `0x424D0001` means Gentle and (v0.3.28+)
+  `0x424D0002` means Stronger; every other value means Normal. This unused aligned word is within the original save packer's
   verbatim `+0..0x3C77` segment. Original native code has no accesses to the
   reserved word. The packer at `0x800428D4`, checksum and loader at
   `0x80042BE4` are executed in tests with both modes, including clearing the
   working state between packing and loading. Save file size/format are unchanged.
+  Stronger is opt-in through `support_stronger` in the build, public-source
+  verification and packaging paths for v0.3.28+. Older defaults reproduce the
+  published v0.3.27 executable byte for byte. Its two-choice menu cannot select
+  Stronger and treats the newer marker as Normal.
 - From v0.3.26, `tools/difficulty_menu.py` replaces the two historical UI
   hooks after runtime Balance and save-slot patching. It appends a sixth row
   to state 22, extends only its left panel and adds a right status/options

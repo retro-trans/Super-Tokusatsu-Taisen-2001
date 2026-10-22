@@ -1,13 +1,13 @@
 {
- "version": "0.3.27",
+ "version": "0.3.29",
  "screen": "Intermission main menu",
  "button": "Difficulty menu",
- "default": "Normal",
+ "default": "Default",
  "footer_y": 200,
  "native_font_height": 16,
  "examples": [
   {
-   "mode": "Normal",
+   "mode": "Default",
    "pending": 0,
    "draws": [
     {
@@ -189,11 +189,12 @@
      "x": 200,
      "y": 136,
      "codes": [
-      426,
-      382,
-      338,
-      435,
-      1018
+      424,
+      377,
+      355,
+      375,
+      1112,
+      349
      ]
     },
     {
@@ -215,8 +216,8 @@
    ]
   },
   {
-   "mode": "Normal",
-   "pending": 2,
+   "mode": "choosing Story",
+   "pending": 3,
    "draws": [
     {
      "kind": "text",
@@ -395,19 +396,20 @@
     {
      "kind": "text",
      "x": 208,
-     "y": 132,
+     "y": 128,
      "codes": [
-      426,
-      382,
-      338,
-      435,
-      1018
+      424,
+      377,
+      355,
+      375,
+      1112,
+      349
      ]
     },
     {
      "kind": "text",
      "x": 208,
-     "y": 148,
+     "y": 144,
      "codes": [
       430,
       377,
@@ -418,8 +420,20 @@
     },
     {
      "kind": "text",
+     "x": 208,
+     "y": 160,
+     "codes": [
+      373,
+      349,
+      382,
+      338,
+      415
+     ]
+    },
+    {
+     "kind": "text",
      "x": 200,
-     "y": 172,
+     "y": 176,
      "codes": [
       432,
       792,
@@ -437,7 +451,7 @@
     {
      "kind": "text",
      "x": 196,
-     "y": 148,
+     "y": 160,
      "codes": [
       407
      ]
@@ -445,7 +459,7 @@
    ]
   },
   {
-   "mode": "Gentle",
+   "mode": "Story",
    "pending": 0,
    "draws": [
     {
@@ -627,11 +641,11 @@
      "x": 200,
      "y": 136,
      "codes": [
-      430,
-      377,
-      381,
-      876,
-      377
+      373,
+      349,
+      382,
+      338,
+      415
      ]
     },
     {

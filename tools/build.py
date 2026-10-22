@@ -88,7 +88,7 @@ def main():
     balance_report = None
     if runtime:
         import runtime_balance
-        exe,balance_report = runtime_balance.patch_exe(exe,report=True)
+        exe,balance_report = runtime_balance.patch_exe(exe,report=True,support_stronger=tuple(map(int,version.split('.'))) >= (0,3,28))
     save_slot_report = None
     if tuple(map(int, version.split('.'))) >= (0,3,25):
         import save_slot_layout
@@ -96,9 +96,9 @@ def main():
     difficulty_report = None
     if tuple(map(int, version.split('.'))) >= (0,3,26):
         import difficulty_menu
-        exe,difficulty_report = difficulty_menu.patch_exe(exe,report=True)
+        exe,difficulty_report = difficulty_menu.patch_exe(exe,report=True,support_stronger=tuple(map(int,version.split('.'))) >= (0,3,28),story_labels=tuple(map(int,version.split('.'))) >= (0,3,29))
     difficulty_render_report = None
-    if tuple(map(int, version.split('.'))) >= (0,3,27):
+    if (0,3,27) <= tuple(map(int, version.split('.'))) < (0,3,28):
         import difficulty_render
         exe,difficulty_render_report = difficulty_render.patch_exe(exe,report=True)
     if balanced:

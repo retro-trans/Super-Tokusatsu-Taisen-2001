@@ -71,8 +71,8 @@ class Menu(Intermission):
         return self.cpu.reg_read(UC_MIPS_REG_V0)
 
 
-def tests(exe, db):
-    _,info=fix.patch_exe(exe,True)
+def tests(exe, db, support_stronger=False, story_labels=False):
+    _,info=fix.patch_exe(exe,True,support_stronger=support_stronger,story_labels=story_labels)
     pending=int(info['pending_choice'],16)
     # Derive root state from the native type-6 entry, and identify its script
     # by the actual title/catalog IDs. This avoids the old state-0 assumption.
@@ -87,10 +87,13 @@ def tests(exe, db):
     m.call(0x8005C430,())  # actual config setup plus native root render
     labels=[text(d['codes']) for d in m.draws if d['kind']=='text']
     assert 'Intermission' in labels and 'M.Card' in labels,labels
-    assert labels.count('Difficulty')==2 and 'Normal' in labels,labels
+    assert labels.count('Difficulty')==2 and info['default'] in labels,labels
     assert '0x80061090' in m.path and '0x800627bc' in m.path
     examples=[{'mode':'Normal','pending':0,'draws':list(m.draws)}]
     assert m.get(0x800CC644)==6
+    if support_stronger:
+        from check_stronger_difficulty import menu_checks
+        return menu_checks(m,info)
     # Every original row still reaches the native dispatch. No Select toggles.
     for row in range(5):
         m.put(GP+0x552,row)
@@ -190,10 +193,12 @@ def main():
     path=ROOT/('work/output/STT2001_EN_v%s.bin'%args.version)
     base=path if args.verify else ROOT/'work/output/STT2001_EN_v0.3.25.bin'
     d=directory(base);exe=read_file(base,d['SLPS_028.63'])
-    if not args.verify:exe=fix.patch_exe(exe)
+    stronger=tuple(map(int,args.version.split('.'))) >= (0,3,28)
+    story_labels=tuple(map(int,args.version.split('.'))) >= (0,3,29)
+    if not args.verify:exe=fix.patch_exe(exe,support_stronger=stronger,story_labels=story_labels)
     mm=repack.dat_entries(read_file(base,d['MAPMAIN.DAT']))
-    result=tests(exe,mm[2]);result['version']=args.version
-    preview(mm[7],result,args.version)
+    result=tests(exe,mm[2],support_stronger=stronger,story_labels=story_labels);result['version']=args.version
+    if not stronger:preview(mm[7],result,args.version)
     dest=path.with_name(path.stem+'_difficulty_verification.json')
     dest.write_text(json.dumps(result,indent=1)+'\n',encoding='utf-8')
     print('PASS: '+str(dest))

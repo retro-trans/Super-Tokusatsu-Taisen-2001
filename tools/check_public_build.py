@@ -49,14 +49,14 @@ def main():
     if tuple(map(int,args.version.split('.'))) >= (0,3,24):
         assert not args.balance, 'runtime setting replaces separate balance variant'
         import runtime_balance
-        exe=runtime_balance.patch_exe(exe)
+        exe=runtime_balance.patch_exe(exe,support_stronger=tuple(map(int,args.version.split('.'))) >= (0,3,28))
     if tuple(map(int,args.version.split('.'))) >= (0,3,25):
         import save_slot_layout
         exe=save_slot_layout.patch_exe(exe)
     if tuple(map(int,args.version.split('.'))) >= (0,3,26):
         import difficulty_menu
-        exe=difficulty_menu.patch_exe(exe)
-    if tuple(map(int,args.version.split('.'))) >= (0,3,27):
+        exe=difficulty_menu.patch_exe(exe,support_stronger=tuple(map(int,args.version.split('.'))) >= (0,3,28),story_labels=tuple(map(int,args.version.split('.'))) >= (0,3,29))
+    if (0,3,27) <= tuple(map(int,args.version.split('.'))) < (0,3,28):
         import difficulty_render
         exe=difficulty_render.patch_exe(exe)
     insert.check_default_names(files)

@@ -26,11 +26,11 @@ def mode(m, value):
     put(m.cpu,STATE+rb.FLAG,rb.MAGIC if value else 0)
 
 
-def verify(exe, db=None):
-    _,info = rb.patch_exe(mips.load(),True)
+def verify(exe, db=None, support_stronger=False, story_labels=False):
+    _,info = rb.patch_exe(mips.load(),True,support_stronger=support_stronger)
     labels = {k:int(v,16) for k,v in info['labels'].items()}
     original = mips.load()
-    visible_menu = exe[mips.off(0x8005CBF8):mips.off(0x8005CBFC)] != rb.patch_exe(original)[mips.off(0x8005CBF8):mips.off(0x8005CBFC)]
+    visible_menu = exe[mips.off(0x8005CBF8):mips.off(0x8005CBFC)] != rb.patch_exe(original,support_stronger=support_stronger)[mips.off(0x8005CBF8):mips.off(0x8005CBFC)]
     result = {'price_rows':0,'purchases':0,'rejected_purchases':0}
     ref,game = Machine(original),Machine(exe)
     for row in balance.plan():
@@ -80,11 +80,11 @@ def verify(exe, db=None):
     else:
         from check_difficulty_menu import tests
         assert db is not None
-        result['difficulty_menu']=tests(exe,db)
+        result['difficulty_menu']=tests(exe,db,support_stronger=support_stronger,story_labels=story_labels)
         result['toggle_checks']='native root menu confirm/cancel/held input'
     m=Machine(exe);c=m.cpu
     # Exact marker needed: unrelated bytes in an older save cannot enable mode.
-    for bad in (0,1,0xffffffff,0x424d0000,0x424d0002):
+    for bad in (0,1,0xffffffff,0x424d0000,0x424d0003 if support_stronger else 0x424d0002):
         put(c,STATE+rb.FLAG,bad)
         m.run(labels['prices_sync'])
         for address in balance.TABLES.values():
@@ -289,12 +289,12 @@ def verify(exe, db=None):
                  (labels['off'],labels['draw'])]
     if any(exe[mips.off(0x800dd000):mips.off(0x800dd050)]):
         import save_slot_layout
-        _,save_info=save_slot_layout.patch_exe(rb.patch_exe(mips.load()),True)
+        _,save_info=save_slot_layout.patch_exe(rb.patch_exe(mips.load(),support_stronger=support_stronger),True)
         # Save-caption private data precedes its first measured-width helper.
         data_ranges.append((save_slot_layout.START,int(save_info['labels']['measure'],16)))
     if visible_menu:
         import difficulty_menu
-        _,menu_info=difficulty_menu.patch_exe(exe,True)
+        _,menu_info=difficulty_menu.patch_exe(exe,True,support_stronger=support_stronger,story_labels=story_labels)
         ml={k:int(v,16) for k,v in menu_info['labels'].items()}
         data_ranges.extend([(ml['pending_choice'],ml['input']),(ml['row'],ml['draw'])])
     for i,j in zip(instructions,instructions[1:]):
@@ -340,13 +340,13 @@ def main():
     if path.exists():
         import repack
         db=repack.dat_entries(read_file(path,directory(path)['MAPMAIN.DAT']))[2]
-    report=verify(exe,db)
+    report=verify(exe,db,support_stronger=tuple(map(int,args.version.split('.'))) >= (0,3,28),story_labels=tuple(map(int,args.version.split('.'))) >= (0,3,29))
     dest=path.with_name(path.stem+'_runtime_balance_verification.json')
     dest.write_text(json.dumps(report,indent=1)+'\n',encoding='utf-8')
     ui=ROOT/'work/ui/balance'
     ui.mkdir(parents=True,exist_ok=True)
     (ui/'layout.en.json').write_text(json.dumps({'version':args.version,
-        'screen':'Intermission main menu','button':('Difficulty menu' if tuple(map(int,args.version.split('.'))) >= (0,3,26) else 'Select'),'default':'Normal',
+        'screen':'Intermission main menu','button':('Difficulty menu' if tuple(map(int,args.version.split('.'))) >= (0,3,26) else 'Select'),'default':('Default' if tuple(map(int,args.version.split('.'))) >= (0,3,29) else 'Normal'),
         'footer_y':200,'native_font_height':16,'examples':report['setting_layout'],
         'sprite_submission_modeled':True,'emulator_capture':False},indent=1)+'\n',encoding='utf-8')
     print('PASS: '+str(dest))

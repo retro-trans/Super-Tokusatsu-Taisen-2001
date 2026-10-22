@@ -12,17 +12,19 @@ all welcome. Please open an issue on this repository.
 
 ## Play it
 
-The latest release is **[v0.3.27](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.27)**
+The latest release is **[v0.3.29](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.29)**
 for the Japanese PlayStation disc (**SLPS-02863**). It includes all earlier
 translation, UI and movie fixes, a readable automatic title credit/version,
 wider command menus, repaired Options titles and save/load captions.
 
-**Intermission > Difficulty** offers **Normal / Gentle**. Use Up/Down to
+**Intermission > Difficulty** offers **Default / Gentle / Story**. Use Up/Down to
 choose, Circle to apply, or Cross to cancel. The panel shows the saved mode.
-Normal is the default. Gentle gives 1.5x battle XP/rewards and chapter rewards,
+Default uses the original rules and is initially selected. Gentle gives 1.5x battle XP/rewards and chapter rewards,
 25% cheaper S-unit / 50% cheaper L-unit upgrades, +10% ally / -10% enemy attack
 and armor, and fresh-stage ammo refill. HP/EN, movement and hit rates are
-unchanged. Switching back keeps earned progress. See [implementation and testing](docs/runtime_balance.md).
+unchanged. Story gives 3x XP, 2x battle/chapter funds/materials, +25% ally /
+-25% enemy attack and armor, and Gentle's discounts and ammo refill.
+Switching back keeps earned progress. See [implementation and testing](docs/runtime_balance.md).
 
 Use [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools/releases/latest)
 with this release's `BUILD-MANIFEST.json`, checksums and validation report.
@@ -31,11 +33,11 @@ game image; a full disc is not distributed.
 
 | Your source image | Patch |
 |---|---|
-| Original Japanese SLPS-02863 single BIN (MODE2/2352) | `STT2001-English-v0.3.27.xdelta` |
-| Published English v0.3.18 BIN | `STT2001-English-v0.3.18-to-v0.3.27.xdelta` |
-| Local English v0.3.25 / v0.3.26 BIN | The correspondingly named `-to-v0.3.27.xdelta` |
+| Original Japanese SLPS-02863 single BIN (MODE2/2352) | `STT2001-English-v0.3.29.xdelta` |
+| Published English v0.3.18 BIN | `STT2001-English-v0.3.18-to-v0.3.29.xdelta` |
+| Published English v0.3.27 BIN | `STT2001-English-v0.3.27-to-v0.3.29.xdelta` |
 
-Older public v0.3.6 users can upgrade to v0.3.18 first, then v0.3.27.
+Older public v0.3.6 users can upgrade to v0.3.18 first, then v0.3.29.
 Cold boot the new disc and load an ordinary in-game save; old emulator save
 states keep the previous executable in RAM. The v0.3.26 missing-label/erased
 footer defect is fixed in v0.3.27.
@@ -56,7 +58,7 @@ accepts the same `.xdelta` file. Select the unpacked `.bin` as the original file
 **Command line:** get [xdelta3](https://github.com/jmacd/xdelta).
 
 ```
-xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.3.27.xdelta "STT2001 English v0.3.27.bin"
+xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.3.29.xdelta "STT2001 English v0.3.29.bin"
 ```
 
 Keep the `.cue` next to the patched `.bin` and point its `FILE` line at the
@@ -72,7 +74,7 @@ chdman extractcd -i "your-game.chd" -o game.cue -ob game.bin
 
 ### Sharper font (optional, DuckStation)
 
-Download **STT2001-4x-font-pack-v0.3.27.zip** from the release. It
+Download **STT2001-4x-font-pack-v0.3.29.zip** from the release. It
 redraws the English font at 4x, with a fine drop shadow, in every text colour.
 Extract its `textures/SLPS-02863` folder into DuckStation's data folder (Tools → Open Data Directory), merging it with existing files. Then enable
 **Settings → Graphics → Texture Replacement → Enable Texture Cache** and
@@ -86,7 +88,7 @@ Weapon markers use **D** for Direct and **I** for Indirect; these are attack cat
 
 ## What is translated
 
-The native Normal/Gentle setting supersedes the separate v0.3.22 economy
+The native Default/Gentle/Story setting supersedes the separate v0.3.22 economy
 prototype. Native sprite/menu, save, gameplay and patch round-trip checks
 pass; complete emulator/PSP campaign and visual testing remain pending.
 Some encyclopedia descriptions still clip, and the reported Kaimen Green

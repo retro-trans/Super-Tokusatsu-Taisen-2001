@@ -1,4 +1,4 @@
-"""Native, reversible intermission Balance setting (Gentle profile).
+"""Native, reversible intermission difficulty (Gentle / optional Stronger).
 
 Original prices remain in the file. Conditional hooks refresh their RAM copy
 before every quote, affordability check and purchase. Combat modifies working
@@ -13,11 +13,27 @@ import mips
 
 START, LIMIT = 0x800DC400, 0x800DE000
 FLAG, MAGIC = 0x218, 0x424D0001
+STRONG_MAGIC = 0x424D0002
 PRICE_SITES = (0x800665F0, 0x80066B68, 0x80069080, 0x80069900,
                0x8006939C, 0x80069F08)
 
 
-def flag_test(no):
+def flag_test(no, support_stronger=False):
+    if support_stronger:
+        # Preserve exact mode 1/2 in the reserved scratch slot, accepting no
+        # other old-save values. All callers already own at least 16 bytes.
+        return """lui $k0,0x800c
+        lw $k0,-0x2cb0($k0)
+        lui $k1,0x424d
+        lw $k0,0x218($k0)
+        nop
+        subu $k0,$k0,$k1
+        addiu $k1,$k0,-1
+        sltiu $k1,$k1,2
+        beqz $k1,%s
+        nop
+        sw $k0,8($sp)
+        """ % no
     return '''lui $k0,0x800c
     lw $k0,-0x2cb0($k0)
     lui $k1,0x424d
@@ -52,7 +68,7 @@ class Payload:
         return address
 
 
-def patch_exe(exe, report=False):
+def patch_exe(exe, report=False, support_stronger=False):
     original = mips.load()
     result = bytearray(exe)
     assert len(result) == len(original) == 0xAE000
@@ -74,6 +90,35 @@ def patch_exe(exe, report=False):
     regs = ['v0','v1','a0','a1','a2','a3']+['t%d'%i for i in range(10)]+['ra']
     save = '\n'.join('sw $%s,%d($sp)'%(r,16+4*i) for i,r in enumerate(regs))
     restore = '\n'.join('lw $%s,%d($sp)'%(r,16+4*i) for i,r in enumerate(regs))
+    def scale(reg, temp, kind, label):
+        gentle = 'srl $%s,$%s,1\naddu $%s,$%s,$%s\n' % (temp,reg,reg,reg,temp)
+        if not support_stronger:
+            return gentle
+        extra = ('sll $%s,$%s,1' if kind=='xp' else 'move $%s,$%s') % (temp,reg)
+        return """lw $%s,8($sp)
+        nop
+        addiu $%s,$%s,-2
+        bnez $%s,%s_gentle
+        nop
+        %s
+        b %s_add
+        nop
+%s_gentle:
+        srl $%s,$%s,1
+%s_add:
+        addu $%s,$%s,$%s
+        """ % (temp,temp,temp,temp,label,extra,label,label,temp,reg,label,reg,reg,temp)
+
+    selector = """ori $t2,$t2,1
+    xor $t1,$t1,$t2
+    sltiu $t1,$t1,1
+    """
+    if support_stronger:
+        selector = """nop
+        subu $t1,$t1,$t2
+        addiu $t1,$t1,-1
+        sltiu $t1,$t1,2
+        """
     sync = p.add('prices_sync', '''addiu $sp,$sp,-112
     %s
     mfhi $t0
@@ -84,9 +129,7 @@ def patch_exe(exe, report=False):
     lw $t0,-0x2cb0($t0)
     lui $t2,0x424d
     lw $t1,0x218($t0)
-    ori $t2,$t2,1
-    xor $t1,$t1,$t2
-    sltiu $t1,$t1,1
+    %s
     sll $t1,$t1,1
     lui $t0,0x800d
     ori $t0,$t0,%d
@@ -109,7 +152,7 @@ loop:
     nop
     jr $ra
     addiu $sp,$sp,112
-    ''' % (save, table & 0xffff, restore))
+    ''' % (save, selector, table & 0xffff, restore))
     # Two adjacent 480-byte native tables, with interleaved price/gain pairs.
     assert balance.TABLES['weapons'] == balance.TABLES['unit_stats']+480
     for address in PRICE_SITES:
@@ -157,24 +200,21 @@ done:
 
     # Award commitment executes once before the native reward display/XP flow.
     # Clamp signed-short XP pending buffer to avoid turning large gains negative.
-    reward = p.add('battle_rewards', enter+flag_test('done')+'''
+    reward = p.add('battle_rewards', enter+flag_test('done', support_stronger)+'''
     lui $k0,0x800c
     lw $k1,-0x2728($k0)
     nop
-    srl $v0,$k1,1
-    addu $k1,$k1,$v0
+    '''+scale('k1','v0','reward','funds')+'''
     sw $k1,-0x2728($k0)
     lw $k1,-0x2724($k0)
     nop
-    srl $v0,$k1,1
-    addu $k1,$k1,$v0
+    '''+scale('k1','v0','reward','materials')+'''
     sw $k1,-0x2724($k0)
     lh $k1,-0x2720($k0)
     nop
     blez $k1,done
     nop
-    srl $v0,$k1,1
-    addu $k1,$k1,$v0
+    '''+scale('k1','v0','xp','battle_xp')+'''
     srl $v0,$k1,15
     beqz $v0,xp
     nop
@@ -189,14 +229,13 @@ done:
     nop
     ''')
     patch(0x80047A18, reward)
-    xp_only = p.add('xp_only', enter+flag_test('done')+'''
+    xp_only = p.add('xp_only', enter+flag_test('done', support_stronger)+'''
     lui $k0,0x800c
     lh $k1,-0x2720($k0)
     nop
     blez $k1,done
     nop
-    srl $v0,$k1,1
-    addu $k1,$k1,$v0
+    '''+scale('k1','v0','xp','nonkill_xp')+'''
     srl $v0,$k1,15
     beqz $v0,xp
     nop
@@ -211,9 +250,8 @@ done:
     nop
     ''')
     patch(0x80047AB4, xp_only)
-    stage = p.add('stage_rewards', enter+flag_test('done')+'''
-    srl $k0,$v0,1
-    addu $v0,$v0,$k0
+    stage = p.add('stage_rewards', enter+flag_test('done', support_stronger)+'''
+    '''+scale('v0','k0','reward','chapter')+'''
     sw $v0,4($t7)
     sw $v0,-0x2728($t4)
 done:
@@ -226,7 +264,7 @@ done:
     patch(0x80026D6C, stage)
 
     # Only the fresh-map call, after the game's resume-path branch.
-    ammo = p.add('stage_ammo', enter+flag_test('done')+'''
+    ammo = p.add('stage_ammo', enter+flag_test('done', support_stronger)+'''
     sll $k0,$a0,1
     addu $k0,$k0,$a0
     sll $k0,$k0,3
@@ -259,7 +297,7 @@ done:
     nop
     ''')
     patch(0x800546B8, entry)
-    stats_code = enter+flag_test('done')
+    stats_code = enter+flag_test('done', support_stronger)
     for reg, field, name in (('s4',0x2c,'attack'), ('s1',0x70,'armor')):
         stats_code += '''lw $k0,%d($sp)
         addiu $k1,$zero,1
@@ -285,6 +323,23 @@ done:
 %s_zero:
         move $%s,$k0
         ''' % (field,name,name,name,name,reg,reg,name,name,name,reg)
+    if support_stronger:
+        for name in ('attack','armor'):
+            chosen = """lw $k0,8($sp)
+            nop
+            addiu $k0,$k0,-2
+            bnez $k0,%s_base
+            nop
+            addiu $k0,$k1,-90
+            beqz $k0,%s_strong_enemy
+            addiu $k1,$zero,125
+            b %s_base
+            nop
+%s_strong_enemy:
+            addiu $k1,$zero,75
+%s_base:
+            """ % (name,name,name,name,name)
+            stats_code=stats_code.replace(name+'_scale:\n',name+'_scale:\n'+chosen)
     stats_code += '''done:
     '''+leave+'''
     lhu $t3,0x18($sp)
@@ -308,7 +363,7 @@ done:
     nop
     lui $a0,0x800d
     ori $a0,$a0,%d
-    '''%(strings['off']&0xffff)+flag_test('label')+'''
+    '''%(strings['off']&0xffff)+flag_test('label', support_stronger)+'''
     lui $a0,0x800d
     ori $a0,$a0,%d
 label:
@@ -352,6 +407,7 @@ done:
     result.extend(bytes(mips.off(LIMIT)-len(result)))
     result[mips.off(START):mips.off(START)+len(p.data)] = p.data
     struct.pack_into('<I',result,0x1c,LIMIT-0x80010000)
+    assert not support_stronger or START+len(p.data) <= 0x800DD000, 'runtime code overlaps save-slot payload'
     info = {'profile':'Gentle','default':'OFF','input':'Select at intermission main menu',
             'xp_and_rewards':'150%, floor, XP pending capped at 32767; native level cap unchanged',
             'ally_attack_armor_percent':110,'enemy_attack_armor_percent':90,
@@ -360,4 +416,8 @@ done:
             'code_start':hex(START),'code_end':hex(START+len(p.data)),
             'heap_start':hex(LIMIT),'labels':{k:hex(v) for k,v in p.labels.items()},
             'hooks':sites,'exe_sha256':hashlib.sha256(result).hexdigest()}
+    if support_stronger:
+        info['profiles']={'Gentle':{'xp_percent':150,'reward_percent':150,'ally_percent':110,'enemy_percent':90},
+                          'Stronger':{'xp_percent':300,'reward_percent':200,'ally_percent':125,'enemy_percent':75}}
+        info['strong_flag_magic']=hex(STRONG_MAGIC)
     return (bytes(result),info) if report else bytes(result)

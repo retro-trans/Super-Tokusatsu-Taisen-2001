@@ -124,14 +124,14 @@ def tests(old, new, db):
             'snapshots':snapshots}
 
 
-def preview(tim, report, version):
+def preview(tim, report, version, samples=None):
     """Reconstruct retained glyphs, using actual UV/CLUT/position/size values."""
     import gfx
     import numpy as np
     from PIL import Image,ImageDraw
     pixels=gfx.Tim(tim).idx
     image=Image.new('RGB',(960,256),(28,24,21));brush=ImageDraw.Draw(image)
-    samples=[('v0.3.26 - retained text',report['old_retained_sprites']),
+    if samples is None:samples=[('v0.3.26 - retained text',report['old_retained_sprites']),
         ('v'+version+' - Normal',report['snapshots'][0]['difficulty_sprites']+report['snapshots'][0]['footer_sprites']),
         ('v'+version+' - choosing Gentle',report['snapshots'][2]['difficulty_sprites']+report['snapshots'][2]['footer_sprites'])]
     for col,(title,sprites) in enumerate(samples):
@@ -151,7 +151,8 @@ def preview(tim, report, version):
                 if 0<=x<960 and 0<=y<256:image.putpixel((x,y),palette[int(cell[cy,cx])])
     ui=ROOT/'work/ui/difficulty';ui.mkdir(parents=True,exist_ok=True)
     image.resize((1920,512),Image.Resampling.NEAREST).save(ui/('retained_sprites_v%s.png'%version))
-    (ui/'sprite_layout.en.json').write_text(json.dumps(report,indent=1)+'\n',encoding='utf-8')
+    if 'stronger_save_checksum_load_roundtrip' not in report:
+        (ui/'sprite_layout.en.json').write_text(json.dumps(report,indent=1)+'\n',encoding='utf-8')
 
 
 def main():

@@ -26,14 +26,14 @@ def verify_disc(version):
     od,nd=directory(old),directory(new)
     assert od.keys()==nd.keys()
     exe=read_file(new,nd['SLPS_028.63'])
-    expected_exe=runtime_balance.patch_exe(read_file(old,od['SLPS_028.63']))
+    expected_exe=runtime_balance.patch_exe(read_file(old,od['SLPS_028.63']),support_stronger=tuple(map(int,version.split('.'))) >= (0,3,28))
     if tuple(map(int,version.split('.'))) >= (0,3,25):
         import save_slot_layout
         expected_exe=save_slot_layout.patch_exe(expected_exe)
     if tuple(map(int,version.split('.'))) >= (0,3,26):
         import difficulty_menu
-        expected_exe=difficulty_menu.patch_exe(expected_exe)
-    if tuple(map(int,version.split('.'))) >= (0,3,27):
+        expected_exe=difficulty_menu.patch_exe(expected_exe,support_stronger=tuple(map(int,version.split('.'))) >= (0,3,28),story_labels=tuple(map(int,version.split('.'))) >= (0,3,29))
+    if (0,3,27) <= tuple(map(int,version.split('.'))) < (0,3,28):
         import difficulty_render
         expected_exe=difficulty_render.patch_exe(expected_exe)
     assert exe==expected_exe
@@ -99,7 +99,13 @@ def main():
     report=verify_disc(version)
     native=json.loads((out/('STT2001_EN_v%s_runtime_balance_verification.json'%version)).read_text(encoding='utf-8'))
     assert native['native_save_pack_checksum_and_load_roundtrip'] and native['purchases']==960
-    if tuple(map(int,version.split('.'))) >= (0,3,27):
+    if tuple(map(int,version.split('.'))) >= (0,3,28):
+        sprites=json.loads((out/('STT2001_EN_v%s_stronger_verification.json'%version)).read_text(encoding='utf-8'))
+        assert sprites['native_retained_three_choice_sprites_checked']
+        assert sprites['stronger_save_checksum_load_roundtrip']
+        report['native_retained_sprites_verified']=True
+        report['stronger_profile_verified']=True
+    elif tuple(map(int,version.split('.'))) >= (0,3,27):
         sprites=json.loads((out/('STT2001_EN_v%s_difficulty_render_verification.json'%version)).read_text(encoding='utf-8'))
         assert sprites['old_arrow_only_and_erased_footer_reproduced']
         assert sprites['native_vwf_positions_allocator_and_finalizer_executed']
@@ -158,6 +164,44 @@ Actual emulator/PSP rendering and a complete campaign still need testing.
         readme+='\nCold boot the new disc, then load an ordinary in-game save. Do not resume an\nold emulator save state: it retains the previous executable/menu in RAM.\n'
     if tuple(map(int,version.split('.'))) >= (0,3,27):
         readme+='\nFixed the v0.3.26 missing Difficulty labels and erased stage footer. All\nlabels now draw together in a separate group; the arrow/header use yellow.\nA v0.3.26-to-v'+version+' upgrade patch is included.\n'
+    if tuple(map(int,version.split('.'))) >= (0,3,28):
+        readme='''Super Tokusatsu Taisen 2001 English v{v} - local test build
+No GitHub release has been created for this build.
+
+Intermission > Difficulty: choose Normal, Gentle or Stronger.
+Up/Down or Left/Right changes the choice; Circle applies; Cross cancels.
+The side panel shows the saved mode. Normal is the default.
+Normal: original gameplay rules.
+Gentle: 1.5x XP, 1.5x battle/chapter funds and materials;
+ally attack/armor +10%, enemy attack/armor -10%.
+Stronger: 3x XP, 2x battle/chapter funds and materials;
+ally attack/armor +25%, enemy attack/armor -25%.
+Gentle and Stronger both give S upgrades 25% cheaper, L upgrades 50%
+cheaper, and full ammo at a fresh stage, not when resuming mid-stage.
+HP/EN, movement, accuracy/evasion, growth, upgrade gains/caps and scripted
+level setters are unchanged. Switching back keeps earned progress.
+Integer amounts round down. All three choices persist in in-game saves.
+
+Apply exactly ONE bare .xdelta matching your source BIN using Retro Trans
+Tools > Apply xdelta. Japan = clean Japanese SLPS-02863; v0.3.18 and v0.3.27
+= their matching public English BINs. Output a NEW BIN named
+STT2001_EN_v{v}.bin and place its CUE next to it. Boot the CUE.
+For PSP, convert the patched BIN/CUE using your usual PS1 EBOOT workflow.
+Source hashes and verified decode results are in the patch verification JSON.
+Cold boot the new image, then load an ordinary in-game save. Old emulator
+save states retain the previous executable/menu in RAM.
+
+Optional DuckStation 4x font: extract the matching ZIP into its data directory
+(Tools > Open Data Directory), merging textures/SLPS-02863/ with config.yaml.
+Enable Texture Cache and Texture Replacements, then reload or restart.
+All 757 texture/config files remain unchanged; v0.3.18+ packs are compatible.
+The new menu also works with native fonts and needs no texture replacement.
+
+Native MIPS gameplay, menu controls, retained glyphs, save serialization and
+disc integrity are checked. Emulator/PSP playtesting remains pending.
+'''.format(v=version)
+    if tuple(map(int,version.split('.'))) >= (0,3,29):
+        readme=readme.replace('Normal','Default').replace('Stronger','Story')
     (out/('STT2001_EN_v%s_README.txt'%version)).write_text(readme,encoding='utf-8')
     archive=out/('STT2001_EN_v%s_4x_font.zip'%version)
     with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED,compresslevel=9) as z:
@@ -186,6 +230,8 @@ Actual emulator/PSP rendering and a complete campaign still need testing.
             input_versions.append('0.3.25')
         if tuple(map(int,version.split('.'))) >= (0,3,27):
             input_versions.append('0.3.26')
+        if tuple(map(int,version.split('.'))) >= (0,3,28):
+            input_versions=['0.3.18','0.3.27']
         for label,source in [('Japan',ROOT/'Super Tokusatsu Taisen 2001 (Japan).bin')]+[
             ('v'+v,out/('STT2001_EN_v%s.bin'%v)) for v in input_versions]:
             name='STT2001-English-'+('v'+version if label=='Japan' else label+'-to-v'+version)+'.xdelta'
