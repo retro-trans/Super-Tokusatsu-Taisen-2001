@@ -2,7 +2,7 @@
 
 Gentle was explicitly chosen by the user on 2026-10-22. The user subsequently
 requested the previously offered stronger profile as a third option. Local
-Local v0.3.28 adds Stronger. The v0.3.29 release, requested by the user,
+Local v0.3.28 adds Stronger. The v0.3.29 release, published at the user's request on 2026-10-22,
 uses the visible names **Default / Gentle / Story**:
 Normal is renamed Default, and Stronger is renamed Story. Only the display
 names change; effects and saved markers remain identical.
@@ -239,3 +239,15 @@ instructions. Retro Trans Tools retains the two exact historical routes as
 withdrawn identities, excluded from recognition and routing. Remaining
 patch bytes and target output are unchanged. Current verification record:
 `work/output/github-release-v0.3.27-withdrawal.json`.
+
+### v0.3.29 publication (2026-10-22)
+
+Published https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.29
+with Default / Gentle / Story, three public-source patch routes, matching
+texture ZIP and instructions. All 12 uploaded hashes/sizes match local files.
+Retro Trans Tools' live parser accepts the manifest; workflow `39779385006`
+successfully refreshed its catalog. Original/public v0.3.18/v0.3.27 route
+directly to v0.3.29; public v0.3.6 routes through v0.3.18. Historical v0.3.25
+and v0.3.26 route through v0.3.27. The earlier withdrawn nonpublic routes
+remain withdrawn. Source/tag: `93a95acf089fb540abc0ffa3c2940e4c83e13c40`.
+Record: `work/output/github-release-v0.3.29.json`.
