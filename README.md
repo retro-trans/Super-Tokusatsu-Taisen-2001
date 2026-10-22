@@ -12,14 +12,33 @@ all welcome. Please open an issue on this repository.
 
 ## Play it
 
-The latest release is **[v0.3.18](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.18)**,
-a single patch for the Japanese disc (**SLPS-02863**). You need your own copy
-of the game. It includes the dialogue, menu and font fixes found during early playtesting. Please report anything that breaks.
+The latest release is **[v0.3.27](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.27)**
+for the Japanese PlayStation disc (**SLPS-02863**). It includes all earlier
+translation, UI and movie fixes, a readable automatic title credit/version,
+wider command menus, repaired Options titles and save/load captions.
+
+**Intermission > Difficulty** offers **Normal / Gentle**. Use Up/Down to
+choose, Circle to apply, or Cross to cancel. The panel shows the saved mode.
+Normal is the default. Gentle gives 1.5x battle XP/rewards and chapter rewards,
+25% cheaper S-unit / 50% cheaper L-unit upgrades, +10% ally / -10% enemy attack
+and armor, and fresh-stage ammo refill. HP/EN, movement and hit rates are
+unchanged. Switching back keeps earned progress. See [implementation and testing](docs/runtime_balance.md).
+
+Use [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools/releases/latest)
+with this release's `BUILD-MANIFEST.json`, checksums and validation report.
+Refresh the catalog, or open the release URL directly. You need your own
+game image; a full disc is not distributed.
 
 | Your source image | Patch |
 |---|---|
-| Super Tokusatsu Taisen 2001 (Japan), SLPS-02863, single `.bin` (MODE2/2352) | `STT2001-English-v0.3.18.xdelta` |
-| Published English v0.3.6 `.bin` | `STT2001-English-v0.3.6-to-v0.3.18.xdelta` |
+| Original Japanese SLPS-02863 single BIN (MODE2/2352) | `STT2001-English-v0.3.27.xdelta` |
+| Published English v0.3.18 BIN | `STT2001-English-v0.3.18-to-v0.3.27.xdelta` |
+| Local English v0.3.23 / v0.3.24 / v0.3.25 / v0.3.26 BIN | The correspondingly named `-to-v0.3.27.xdelta` |
+
+Older public v0.3.6 users can upgrade to v0.3.18 first, then v0.3.27.
+Cold boot the new disc and load an ordinary in-game save; old emulator save
+states keep the previous executable in RAM. The v0.3.26 missing-label/erased
+footer defect is fixed in v0.3.27.
 
 The patch checks its source. The original `.bin` is 725,316,816 bytes, with
 SHA-256 `219d9c4f64caf670b5e400612fa19677ed9a3f59a7ebdb72c12c425412795465`.
@@ -37,7 +56,7 @@ accepts the same `.xdelta` file. Select the unpacked `.bin` as the original file
 **Command line:** get [xdelta3](https://github.com/jmacd/xdelta).
 
 ```
-xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.3.18.xdelta "STT2001 English v0.3.18.bin"
+xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.3.27.xdelta "STT2001 English v0.3.27.bin"
 ```
 
 Keep the `.cue` next to the patched `.bin` and point its `FILE` line at the
@@ -53,7 +72,7 @@ chdman extractcd -i "your-game.chd" -o game.cue -ob game.bin
 
 ### Sharper font (optional, DuckStation)
 
-Download **STT2001-4x-font-pack-v0.3.18.zip** from the release. It
+Download **STT2001-4x-font-pack-v0.3.27.zip** from the release. It
 redraws the English font at 4x, with a fine drop shadow, in every text colour.
 Extract its `textures/SLPS-02863` folder into DuckStation's data folder (Tools → Open Data Directory), merging it with existing files. Then enable
 **Settings → Graphics → Texture Replacement → Enable Texture Cache** and
@@ -66,6 +85,12 @@ sheet there. Restart DuckStation or reload replacements after installing. Older 
 Weapon markers use **D** for Direct and **I** for Indirect; these are attack categories, while Rng shows the range. Attribute badges read BLT (Bullet), ELC (Electric), BEM (Beam), WTR (Water), FIR (Fire), and SPL (Special). P and MAP retain their existing functions.
 
 ## What is translated
+
+The native Normal/Gentle setting supersedes the separate v0.3.22 economy
+prototype. Native sprite/menu, save, gameplay and patch round-trip checks
+pass; complete emulator/PSP campaign and visual testing remain pending.
+Some encyclopedia descriptions still clip, and the reported Kaimen Green
+text corruption remains unreproduced. See [the report](docs/encyclopedia_report.md).
 
 | Part | Status |
 |---|---|
@@ -95,6 +120,11 @@ batch reports. Names and terms follow [docs/glossary_decisions.md](docs/glossary
 and `work/glossary/names.json`.
 
 ## Build it
+
+Each new build automatically stamps its version and `github.com/retro-trans` on
+the native title screen and verifies both artwork copies in the completed disc.
+From v0.3.20, crisp bitmap lettering on dark backing improves readability.
+See [title-screen footer](docs/title_footer.md) for placement and verification.
 
 You need your own disc image, `Super Tokusatsu Taisen 2001 (Japan).bin/.cue`,
 in the project root, plus Python 3 with `numpy`, `pillow`, `capstone`,

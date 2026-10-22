@@ -1,0 +1,54 @@
+{
+ "date": "2026-10-18",
+ "title": "Black Cross",
+ "guide_label": "41B",
+ "reported_in_game_number": 38,
+ "stage_record": 61,
+ "strings_entry": 432,
+ "program_entry": 433,
+ "compressed_entry": 691,
+ "native_chapter_counter": {
+  "state_offset": "0x5A9",
+  "cases": [
+   {
+    "before": 37,
+    "display_counter": 38
+   },
+   {
+    "before": 40,
+    "display_counter": 41
+   }
+  ],
+  "fixed_scenario_number": false
+ },
+ "native_objective_selection": [
+  {
+   "script_offset": "0x1ea4",
+   "objective_index": 0
+  },
+  {
+   "script_offset": "0x2ac8",
+   "objective_index": 1
+  },
+  {
+   "script_offset": "0x368c",
+   "objective_index": 2
+  }
+ ],
+ "changed_uid": "U11024",
+ "clarified_objective": "Move Red, Blue and Green next to Navaron. Defeat all Zolders and Black Cross Ninjas!",
+ "lines": [
+  "Move Red, Blue and Green next",
+  "to Navaron. Defeat all Zolders",
+  "and Black Cross Ninjas!"
+ ],
+ "pointer_entries_checked": 606,
+ "other_strings_unchanged": true,
+ "event_conditions_changed": false,
+ "build_created": false,
+ "limits": "Native primitive handlers and overlay insertion checked. Adjacency event predicates, full map playthrough and UI screenshot are not yet verified.",
+ "sources": [
+  "https://gamefaqs.gamespot.com/ps/584485-super-tokusatsu-taisen-2001/faqs/82565/scenario-41b",
+  "https://www.akurasu.net/wiki/Super_Tokusatsu_Wars_2001/Complete_Chart"
+ ]
+}

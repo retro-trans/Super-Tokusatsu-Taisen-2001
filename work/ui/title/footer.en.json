@@ -1,0 +1,46 @@
+{
+ "version": "0.3.20",
+ "labels": [
+  {
+   "text": "v0.3.20",
+   "bounds": [
+    277,
+    210,
+    310,
+    219
+   ],
+   "font": "Retro Trans Pixel",
+   "pixel_height": 9,
+   "backing_bounds": [
+    275,
+    208,
+    312,
+    221
+   ]
+  },
+  {
+   "text": "github.com/retro-trans",
+   "bounds": [
+    203,
+    221,
+    310,
+    232
+   ],
+   "font": "Retro Trans Pixel",
+   "pixel_height": 11,
+   "backing_bounds": [
+    201,
+    219,
+    312,
+    234
+   ]
+  }
+ ],
+ "allowed_rect": [
+  188,
+  208,
+  312,
+  234
+ ],
+ "preview_is_asset_not_emulator_capture": true
+}

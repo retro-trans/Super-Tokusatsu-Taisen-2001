@@ -1,0 +1,11 @@
+{
+ "id": "economy-v1",
+ "status": "experimental",
+ "description": "Optional upgrade-cost relief; no XP, combat-stat or scenario changes.",
+ "small_unit_price_percent": 75,
+ "large_unit_price_percent": 50,
+ "material_cost": "Native funds price divided by two, rounded down.",
+ "scope": "All purchased unit-stat and weapon upgrades, using the game's S/L unit classification. Large units include giants as well as robots.",
+ "rounding": "Integer division after multiplying each original tier price by the percentage.",
+ "unchanged": ["upgrade gains", "upgrade caps", "XP", "rewards", "enemies", "growth classes", "ammo", "deployment rules", "scenario events"]
+}

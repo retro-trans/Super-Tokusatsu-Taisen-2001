@@ -8,6 +8,8 @@ rebuild(src_bin, out_bin, new_files)
     From STAGE.DAT on, files are packed back to back; DUMMY.DAT (padding at the
     end of the disc) shrinks to absorb any growth. Root directory records are
     updated. Every written sector gets a fresh header, EDC and ECC.
+    An enlarged PS-X EXE is relocated to the movable region instead of
+    overwriting the movie immediately after its original sector range.
 """
 import json
 import os
@@ -107,7 +109,20 @@ def rebuild(src_bin, out_bin, new_files, log=print):
     src = open(src_bin, "rb")
     cursor = None
     plan = []
+    # An enlarged PS-X EXE no longer fits immediately before MOVIE.STR.
+    # BIOS resolves BOOT by the ISO directory, so move the EXE into the same
+    # movable region as the archives. Never shift the raw movie/audio streams.
+    boot = next(e for e in files if e['name']=='SLPS_028.63')
+    enlarged_boot = ('SLPS_028.63' in new_files and
+                     len(new_files['SLPS_028.63']) > boot['size'])
+    if enlarged_boot:
+        payload = new_files['SLPS_028.63']
+        assert payload[:8] == b'PS-X EXE'
+        assert len(payload) == struct.unpack_from('<I',payload,0x1c)[0]+0x800
+        assert len(payload)%2048 == 0
     for e in files:
+        if enlarged_boot and e['name']=='SLPS_028.63':
+            continue
         if e["name"] in FIXED:
             if e["name"] in new_files and len(new_files[e["name"]]) > e["size"]:
                 raise ValueError("%s cannot grow" % e["name"])
@@ -115,6 +130,10 @@ def rebuild(src_bin, out_bin, new_files, log=print):
             continue
         if cursor is None:
             cursor = e["lba"]
+            if enlarged_boot:
+                size = len(new_files['SLPS_028.63'])
+                plan.append((boot,cursor,size))
+                cursor += size//2048
         size = len(new_files[e["name"]]) if e["name"] in new_files else e["size"]
         if e["name"] == "DUMMY.DAT":
             end = e["lba"] + (e["size"] + 2047) // 2048   # keep the post-gap after DUMMY.DAT

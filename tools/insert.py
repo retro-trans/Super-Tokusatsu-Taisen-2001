@@ -548,6 +548,8 @@ def rebuild_encyc(buf, tr):
     n = struct.unpack_from("<I", buf, 0)[0] // 4
     table = struct.unpack_from("<%dI" % n, buf, 0)
     tset = set(table)
+    import encyclopedia_layout
+    short_labels = encyclopedia_layout.replacements(table)
     pieces = []                 # (pos, term_pos, words incl. terminator, run_in)
     pos = table[0]
     prev_term = 0xFFFE
@@ -559,6 +561,9 @@ def rebuild_encyc(buf, tr):
             break
         ws = list(struct.unpack_from("<%dH" % ((q - pos) // 2), buf, pos))
         new = tr.words_for("encyc", ws, "battle", ("BATTLE0540", pos)) if ws and is_text_battle(ws) else None
+        if pos in short_labels:
+            new = encyclopedia_layout.encode(short_labels[pos], new if new is not None else ws)
+            STATS['encyc_compact_labels'] += 1
         term = struct.unpack_from("<H", buf, q)[0]
         pieces.append((pos, q, (new if new is not None else ws) + [term], prev_term == 0xFFFD))
         prev_term = term
@@ -728,7 +733,8 @@ def build_all():
         PROBLEMS.append("database is %d bytes (limit 0xD000 at 0x800F3000)" % len(db24))
     STATS["db_bytes"] = len(db24)
     mm[24] = rebuild_cm(mm[24], {1: db24})
-    mm[27] = rebuild_sequential(mm[27], struct.unpack_from("<I", mm[27], 0)[0], "music", tr, fname="MAPMAIN0027")
+    import options_layout
+    mm[27] = options_layout.rebuild(mm[27], tr)
     mm[7] = write_font(mm[7], extra=True)
     b25 = cm_blocks_raw(mm[25])
     mm[25] = rebuild_cm(mm[25], {3: write_font(b25[3][0], extra=True)})

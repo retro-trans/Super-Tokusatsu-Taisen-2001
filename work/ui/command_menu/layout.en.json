@@ -1,0 +1,138 @@
+{
+ "version": "0.3.21",
+ "preview_is_reconstruction_not_emulator_capture": true,
+ "native_text_width_before": 64,
+ "native_text_width_after": 128,
+ "native_frame_width_before": 96,
+ "native_frame_width_after": 160,
+ "native_frame_x_bounds": [
+  8,
+  312
+ ],
+ "screenshots": [
+  "reported_double_machine.png",
+  "reported_sharivan.png",
+  "reported_battle_hopper.png"
+ ],
+ "labels": [
+  {
+   "sample": "Double Machine",
+   "database_index": 2892,
+   "text": "Move",
+   "width": 36,
+   "available_width": 128
+  },
+  {
+   "sample": "Double Machine",
+   "database_index": 2893,
+   "text": "Atk",
+   "width": 24,
+   "available_width": 128
+  },
+  {
+   "sample": "Double Machine",
+   "database_index": 2896,
+   "text": "Henshin",
+   "width": 54,
+   "available_width": 128
+  },
+  {
+   "sample": "Double Machine",
+   "database_index": 78,
+   "text": "Double Machine",
+   "width": 106,
+   "available_width": 128
+  },
+  {
+   "sample": "Double Machine",
+   "database_index": 2908,
+   "text": "Parts",
+   "width": 34,
+   "available_width": 128
+  },
+  {
+   "sample": "Double Machine",
+   "database_index": 2910,
+   "text": "Ability",
+   "width": 45,
+   "available_width": 128
+  },
+  {
+   "sample": "Grand Birth / Moto-Sharian",
+   "database_index": 2892,
+   "text": "Move",
+   "width": 36,
+   "available_width": 128
+  },
+  {
+   "sample": "Grand Birth / Moto-Sharian",
+   "database_index": 2406,
+   "text": "Grand Birth",
+   "width": 78,
+   "available_width": 128
+  },
+  {
+   "sample": "Grand Birth / Moto-Sharian",
+   "database_index": 62,
+   "text": "Moto-Sharian",
+   "width": 89,
+   "available_width": 128
+  },
+  {
+   "sample": "Grand Birth / Moto-Sharian",
+   "database_index": 2908,
+   "text": "Parts",
+   "width": 34,
+   "available_width": 128
+  },
+  {
+   "sample": "Grand Birth / Moto-Sharian",
+   "database_index": 2910,
+   "text": "Ability",
+   "width": 45,
+   "available_width": 128
+  },
+  {
+   "sample": "Battle Hopper",
+   "database_index": 2892,
+   "text": "Move",
+   "width": 36,
+   "available_width": 128
+  },
+  {
+   "sample": "Battle Hopper",
+   "database_index": 2893,
+   "text": "Atk",
+   "width": 24,
+   "available_width": 128
+  },
+  {
+   "sample": "Battle Hopper",
+   "database_index": 2896,
+   "text": "Henshin",
+   "width": 54,
+   "available_width": 128
+  },
+  {
+   "sample": "Battle Hopper",
+   "database_index": 125,
+   "text": "Battle Hopper",
+   "width": 93,
+   "available_width": 128
+  },
+  {
+   "sample": "Battle Hopper",
+   "database_index": 2908,
+   "text": "Parts",
+   "width": 34,
+   "available_width": 128
+  },
+  {
+   "sample": "Battle Hopper",
+   "database_index": 2910,
+   "text": "Ability",
+   "width": 45,
+   "available_width": 128
+  }
+ ]
+}

@@ -28,6 +28,7 @@ __pycache__/
 /work/ui/dialogue/*.png
 /work/ui/unit_stats/*.png
 /work/ui/intermission/*.png
+/work/ui/command_menu/*.png
 /work/ui/weapons/*.png
 /work/font/*.png
 /*.log
