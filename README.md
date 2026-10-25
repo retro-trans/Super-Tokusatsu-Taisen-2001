@@ -49,6 +49,9 @@ game image; a full disc is not distributed.
 | Published English v0.3.29 BIN | `STT2001-English-v0.3.29-to-v0.9.0.xdelta` |
 
 All listed public versions can upgrade directly to v0.9.0.
+If applying a patch manually, name the output `STT2001_EN_v0.9.0.bin`.
+Download `STT2001_EN_v0.9.0.cue.txt` from the release, remove the final
+`.txt`, and place the resulting CUE beside the BIN.
 Cold boot the new disc and load an ordinary in-game save; old emulator save
 states keep the previous executable in RAM. The v0.3.26 missing-label/erased
 footer defect is fixed in v0.3.27.

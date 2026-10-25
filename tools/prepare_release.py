@@ -94,7 +94,7 @@ DeltaPatcher and xdelta3 can also apply these patches. You need your own game im
 All source/output images are 725,316,816 bytes. Source hashes are in `BUILD-MANIFEST.json`.
 Output SHA-256: `{sha}`.
 
-Name the patched image `STT2001_EN_v{v}.bin` and place the included `STT2001_EN_v{v}.cue` beside it. **Cold boot the CUE, then load an ordinary in-game save.** Old emulator save states retain old code and text in RAM. PSP users can convert the patched BIN/CUE using their usual PS1 EBOOT workflow.
+Name the patched image `STT2001_EN_v{v}.bin`. Download `STT2001_EN_v{v}.cue.txt`, remove the final `.txt` from its filename, and place the resulting `STT2001_EN_v{v}.cue` beside the BIN. **Cold boot the CUE, then load an ordinary in-game save.** Old emulator save states retain old code and text in RAM. PSP users can convert the patched BIN/CUE using their usual PS1 EBOOT workflow.
 
 ### Matching optional texture package
 
@@ -120,7 +120,8 @@ Emulator/PSP playback and a full campaign remain unverified. Some encyclopedia d
     (dest/('README-v'+version+'.txt')).write_bytes(notes.encode('utf-8'))
     (OUT/('release-notes-v'+version+'.md')).write_bytes(notes.encode('utf-8'))
     shutil.copyfile(ROOT/'CHANGELOG.md',dest/('CHANGELOG-v'+version+'.txt'))
-    shutil.copyfile(target.with_suffix('.cue'),dest/target.with_suffix('.cue').name)
+    # Catalog extras accept text templates; users remove the final .txt.
+    shutil.copyfile(target.with_suffix('.cue'),dest/(target.with_suffix('.cue').name+'.txt'))
     write(dest/'PUBLIC-SOURCE-VERIFICATION.json',public)
     write(dest/'FONT-VERIFICATION.json',font)
     write(dest/'UI-VERIFICATION.json',{'native_2x':native,'numeric_and_badges':numbers,'dialogue_clear':clear,'saved_names':saved})
@@ -140,6 +141,11 @@ Emulator/PSP playback and a full campaign remain unverified. Some encyclopedia d
     sums=['{}  {}'.format(sha256_file(p),p.name) for p in sorted(dest.iterdir()) if p.name!='SHA256SUMS.txt']
     (dest/'SHA256SUMS.txt').write_bytes(('\n'.join(sums)+'\n').encode())
     validate_directory(dest)
+    # Match the catalog validator's supported supplemental-asset policy.
+    for path in dest.iterdir():
+        if path.suffix.lower()!='.xdelta':
+            assert path.suffix.lower() in ('.json','.txt','.md','.png','.zip')
+            assert 0<path.stat().st_size<=64*1024**2
     assets={p.name:Asset(p.name,'https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/download/v'+version+'/'+p.name,p.stat().st_size,sha256_file(p)) for p in dest.iterdir()}
     assert len(parse_manifest(manifest,assets))==len(sources)
     print('PUBLIC RELEASE READY: '+str(dest),flush=True)
