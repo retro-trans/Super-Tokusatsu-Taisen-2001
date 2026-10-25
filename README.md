@@ -1,209 +1,285 @@
 # Super Tokusatsu Taisen 2001 — translation project
 
 An open toolchain for translating **Super Tokusatsu Taisen 2001**
-(スーパー特撮大戦2001, PlayStation, **SLPS-02863**), plus the English
-translation built with it.
+(PlayStation, **SLPS-02863**), plus the English translation built with it.
 
 ## Contribute
 
-The text is translated end to end. Playtesting is in progress; a full playthrough remains unverified.
-Bug reports (with a screenshot, if you can), proofreading and playtesting are
-all welcome. Please open an issue on this repository.
+The text is translated end to end, but a complete campaign and every route
+have not been tested. Fluent proofreading, bug reports and playtesting are
+welcome. Join the Retro Trans Discord:
+
+**[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)**
+
+You can also [open an issue](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues).
+For bugs, include the title-screen version, platform/emulator, a screenshot
+and an ordinary in-game save if available.
 
 ## Play it
 
-The latest release is **[v0.9.0](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.0)**
-for the Japanese PlayStation disc (**SLPS-02863**). It includes the latest
-font and saved-name repairs, fixed dialogue clearing, correct HP/EN digits,
-readable weapon badges, and the revised opening with English/romaji captions.
-Both caption rows sit farther inside the picture for gameplay visibility.
-Original audio is preserved. See [song audit](docs/opening_song.md) and
-[font implementation](docs/rayblade_font.md).
-
-The native Skies of Arcadia font follows the Rayblade/Riot Stars approach:
-retain a 2x atlas and draw at half size. Use 2x/4x internal resolution in
-DuckStation for extra detail. Install the included optional v0.9.0 texture
-pack when using replacements; public v0.3.29 and older packs alone do not
-match this font. Local v0.3.35-v0.3.38 packs share the current payload.
-
-**Intermission > Difficulty** offers **Default / Gentle / Story**. Use Up/Down to
-choose, Circle to apply, or Cross to cancel. The panel shows the saved mode.
-Default uses the original rules and is initially selected. Gentle gives 1.5x battle XP/rewards and chapter rewards,
-25% cheaper S-unit / 50% cheaper L-unit upgrades, +10% ally / -10% enemy attack
-and armor, and fresh-stage ammo refill. HP/EN, movement and hit rates are
-unchanged. Story gives 3x XP, 2x battle/chapter funds/materials, +25% ally /
--25% enemy attack and armor, and Gentle's discounts and ammo refill.
-Switching back keeps earned progress. See [implementation and testing](docs/runtime_balance.md).
-
-Use [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools/releases/latest)
-with this release's `BUILD-MANIFEST.json`, checksums and validation report.
-Refresh the catalog, or open the release URL directly. You need your own
-game image; a full disc is not distributed.
-
-| Your source image | Patch |
-|---|---|
-| Original Japanese SLPS-02863 single BIN (MODE2/2352) | `STT2001-English-v0.9.0.xdelta` |
-| Published English v0.3.29 BIN | `STT2001-English-v0.3.29-to-v0.9.0.xdelta` |
-
-Each release includes only the original-disc patch and the previous-public-version
-upgrade. Older English builds can follow intermediate releases through Retro Trans
-Tools after refreshing its catalog, or start from the original Japanese disc.
-If applying a patch manually, name the output `STT2001_EN_v0.9.0.bin`.
-Download `STT2001_EN_v0.9.0.cue.txt` from the release, remove the final
-`.txt`, and place the resulting CUE beside the BIN.
-Cold boot the new disc and load an ordinary in-game save; old emulator save
-states keep the previous executable in RAM. The v0.3.26 missing-label/erased
-footer defect is fixed in v0.3.27.
-
-The patch checks its source. The original `.bin` is 725,316,816 bytes, with
-SHA-256 `219d9c4f64caf670b5e400612fa19677ed9a3f59a7ebdb72c12c425412795465`.
+The latest release is **[v0.9.0](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.0)**,
+with a full patch for the original Japanese disc and an upgrade from public
+English **v0.3.29**. It includes the new Skies of Arcadia font, saved-name
+repairs, fixed dialogue clearing, correct HP/EN digits, readable weapon
+badges and revised English/romaji opening subtitles. Original audio is
+preserved. See the release notes for verification and remaining issues.
 
 ### Apply
 
-**The easiest way:** [Retro Trans](https://github.com/retro-trans/retro-trans-tools)
-is a desktop app for applying translation patches. Download it from its
-Releases page, open the **Automatic** tab and select your game image (.bin,
-.cue or .chd). Wait for it to analyse the image, then click Patch.
+**The easiest way:** Download [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools/releases/latest),
+open **Automatic**, select your source BIN/CUE or supported CHD, and let the
+app identify it before clicking **Patch**. Refresh the catalog to see the
+latest release; you can also open the release URL in the app.
 
 **Other ways:** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher)
-accepts the same `.xdelta` file. Select the unpacked `.bin` as the original file.
+accepts the same bare `.xdelta` files. Select the unpacked BIN as the source
+and choose the patch matching its version.
 
-**Command line:** get [xdelta3](https://github.com/jmacd/xdelta).
+**Command line:** Get [xdelta3](https://github.com/jmacd/xdelta).
+For CHD extraction, `chdman` comes with [MAME](https://www.mamedev.org/release.html);
+you do not need to install or run MAME.
 
-```
+You need your own Japanese disc image or the exact published English
+v0.3.29 output. Each release includes only the original-to-current and
+previous-public-to-current patches.
+
+| Your source image | Patch |
+|---|---|
+| Original Japanese SLPS-02863, single MODE2/2352 BIN | `STT2001-English-v0.9.0.xdelta` |
+| Published English v0.3.29 BIN | `STT2001-English-v0.3.29-to-v0.9.0.xdelta` |
+
+**Original Japanese disc:**
+
+```sh
 xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.9.0.xdelta "STT2001_EN_v0.9.0.bin"
 ```
 
-Keep the `.cue` next to the patched `.bin` and point its `FILE` line at the
-new name. The disc is a single MODE2/2352 track.
+**Already on public v0.3.29?** Use the smaller upgrade patch:
 
-**If you have a `.chd`**, unpack it first (`chdman.exe` comes with
-[MAME](https://www.mamedev.org/release.html); you don't need to install or run
-MAME):
-
+```sh
+xdelta3 -d -s "STT2001_EN_v0.3.29.bin" STT2001-English-v0.3.29-to-v0.9.0.xdelta "STT2001_EN_v0.9.0.bin"
 ```
+
+Older English versions can follow intermediate public upgrades through
+Retro Trans Tools after refreshing its catalog, or start from the original
+Japanese disc. Local test builds may differ from published builds bearing
+the same label. If source verification fails, check the version and hashes
+in `BUILD-MANIFEST.json`; keep verification enabled.
+
+Both patches produce the same 725,316,816-byte image:
+
+| Image | SHA-256 |
+|---|---|
+| Original Japanese BIN | `219d9c4f64caf670b5e400612fa19677ed9a3f59a7ebdb72c12c425412795465` |
+| English v0.9.0 BIN | `000762aaaa9b16416546e4c11e97177175bd4a5be95155b2ab262c7243d82c8a` |
+
+For manual patching, download `STT2001_EN_v0.9.0.cue.txt` from the release,
+remove the final `.txt`, and place the resulting CUE beside
+`STT2001_EN_v0.9.0.bin`. Cold boot the CUE, then load an ordinary in-game
+save. Old emulator save states retain the previous executable and text in
+RAM. PSP users can convert the patched BIN/CUE with their usual PS1 EBOOT
+workflow.
+
+**If you have a CHD**, extract it before applying a patch manually:
+
+```sh
 chdman extractcd -i "your-game.chd" -o game.cue -ob game.bin
 ```
 
 ### Sharper font (optional, DuckStation)
 
-Download **STT2001-4x-font-pack-v0.9.0.zip** from the release. It
-provides the matching English font at 4x in every text colour.
-Extract its `textures/SLPS-02863` folder into DuckStation's data folder (Tools → Open Data Directory), merging it with existing files. Then enable
-**Settings → Graphics → Texture Replacement → Enable Texture Cache** and
-**Enable Texture Replacements**, and use 4x internal resolution.
+The native font is included in the patches. The optional
+**STT2001-4x-font-pack-v0.9.0.zip** provides matching 4x replacements in
+every text colour.
 
-The pack's `config.yaml` sets `MaxVRAMWriteSplits: true`. Without it the font
-isn't replaced in story scenes, because the game overwrites half of its font
-sheet there. Restart DuckStation or reload replacements after installing.
-Public v0.3.29 and older packs alone do not match the new font. Packs are
-matched by texture contents: text-only builds can share a pack, while font
-changes require new IDs. Local v0.3.35-v0.3.38 packs already match v0.9.0.
+1. In DuckStation, open **Tools > Open Data Directory**.
+2. Extract the ZIP there, merging `textures/SLPS-02863/`. Keep `config.yaml`
+   beside the `replacements/` directory containing all 756 PNGs.
+3. Enable **Texture Cache** and **Texture Replacements** in the graphics
+   settings, and use 2x/4x internal resolution.
+4. Reload replacements or restart DuckStation.
 
-Weapon markers use **D** for Direct and **I** for Indirect; these are attack categories, while Rng shows the range. Attribute badges read BLT (Bullet), ELC (Electric), BEM (Beam), WTR (Water), FIR (Fire), and SPL (Special). P and MAP retain their existing functions.
+The configuration includes `MaxVRAMWriteSplits: true`, which is needed when
+story scenes overwrite part of the font sheet. Public v0.3.29 and older
+packs alone do not match this font. Local v0.3.35–v0.3.38 packs contain the
+same texture payload as v0.9.0. Text-only builds can share a pack; changes
+to font textures can require new replacement IDs. See
+[font implementation](docs/rayblade_font.md).
 
-## What is translated
+### Difficulty and weapon markers
 
-The native Default/Gentle/Story setting supersedes the separate v0.3.22 economy
-prototype. Native sprite/menu, save, gameplay and patch round-trip checks
-pass; complete emulator/PSP campaign and visual testing remain pending.
-Some encyclopedia descriptions still clip, and the reported Kaimen Green
-text corruption remains unreproduced. See [the report](docs/encyclopedia_report.md).
+**Intermission > Difficulty** offers **Default / Gentle / Story**. Use
+Up/Down to choose, Circle to apply, or Cross to cancel. The panel displays
+the saved mode, and Default is initially selected.
 
-| Part | Status |
-|---|---|
-| Story dialogue (stage scripts) | 26,261 strings (16,179 unique), 100% |
-| Battle quotes | 12,617 strings (3,102 unique), 100% |
-| Character Encyclopedia (キャラクター辞典) | 914 strings, 100% |
-| Units, weapons, abilities, menus, episode titles (database) | 2,914 strings |
-| Music titles, executable menus, memory-card save title | done |
-| Graphics: 90 stage title cards, disclaimer, narration card, title-menu and option labels, encyclopedia frames/tabs, Fusion Steel card and Critical callouts | 101 images |
-| Movies: 26 captioned clips and both credit rolls | English subtitles over the Japanese audio |
+| Setting | Default | Gentle | Story |
+|---|---|---|---|
+| XP | Original | 1.5× | 3× |
+| Battle/chapter funds and materials | Original | 1.5× | 2× |
+| Ally attack and armor | Original | +10% | +25% |
+| Enemy attack and armor | Original | −10% | −25% |
+| S-unit / L-unit upgrade costs | Original | 25% / 50% cheaper | 25% / 50% cheaper |
+| Ammo at a fresh stage | Original | Refilled | Refilled |
 
-Still in Japanese: some battle labels (Shield, Parry, Afterimage…), remaining
-name logos, the copyright screen, and the title logo (kept on purpose). A
-few unclear shouts in the movies are left unsubtitled. See
-[docs/handoff_graphics.md](docs/handoff_graphics.md) and
-[docs/handoff_movies.md](docs/handoff_movies.md).
+HP/EN, movement, hit rates and saved base stats are unchanged. Ammo is not
+refilled when resuming a stage. Switching back keeps earned progress.
+See [difficulty implementation and testing](docs/runtime_balance.md).
 
-## How it was translated
+Weapon prefixes **D** (Direct) and **I** (Indirect) identify attack categories;
+**Rng** shows range. Attribute badges are **BLT** (Bullet), **ELC** (Electric),
+**BEM** (Beam), **WTR** (Water), **FIR** (Fire) and **SPL** (Special).
+P and MAP retain their existing functions.
 
-This is a **machine translation**, produced with large language models and
-then checked by scripts, not a hand translation by a fluent translator. No
-human proofreading has been done yet.
+## Check the translation
 
-The Japanese was decoded from the game's own font images. A few kanji were
-misread there; translators fixed them from context and listed them in their
-batch reports. Names and terms follow [docs/glossary_decisions.md](docs/glossary_decisions.md)
-and `work/glossary/names.json`.
+Read the English in `work/translation/en/**/*.en.json`. When suggesting a
+correction, include the line ID and surrounding scene. Names and terminology
+are documented in [glossary decisions](docs/glossary_decisions.md) and
+[the library glossary](docs/library_glossary.md).
 
-## Build it
+Japanese script text is decoded from your own disc during extraction and
+building. The repository stores English translations and source offsets.
+Layout, pointer and byte checks support review; fluent readers are needed
+to judge the wording and meaning.
 
-Each new build automatically stamps its version and `github.com/retro-trans` on
-the native title screen and verifies both artwork copies in the completed disc.
-From v0.3.20, crisp bitmap lettering on dark backing improves readability.
-See [title-screen footer](docs/title_footer.md) for placement and verification.
-
-You need your own disc image, `Super Tokusatsu Taisen 2001 (Japan).bin/.cue`,
-in the project root, plus Python 3 with `numpy`, `pillow`, `capstone`,
-`keystone-engine` and `xxhash`.
+After preparing the extracted files and a completed local image, compare
+an English-only source rebuild against that image with:
 
 ```sh
-python tools/extract_iso.py                                  # disc files -> work/source/disc/
-for f in work/source/disc/*.DAT; do python tools/dat_archive.py "$f"; done   # -> work/source/unpacked/
-python tools/build.py 0.x.y --keep-font     # build work/output/STT2001_EN_v0.x.y.bin/.cue (+ 4x font pack)
+python tools/check_public_build.py 0.9.0 --verify
 ```
 
-`--movies` also inserts the subtitled movies. It needs the movie pipeline
-(jPSXdec and the exported streams); see [docs/handoff_movies.md](docs/handoff_movies.md).
+This checks rebuilt archives and executable data. Movie verification is
+separate; release patches are round-tripped against the complete disc.
 
-The build writes a report with any problems: text that doesn't fit, RAM
-limits, name buffers, and so on. A release is only made from a build that
-reports none.
+## Translate it
 
-The working translation files contain Japanese and are not in git. This
-repository holds only the stripped `*.en.json` copies, made by
-`python tools/strip_jp.py`, and no game data or dump of the Japanese script.
-Instead, `work/script/occurrences.json` records where each translated string
-sits on the disc (file, offset, font and ID, with no text). In a checkout
-without the Japanese files, the inserter decodes those strings from your own
-disc. A build from this repository is byte-identical to the project's own
-builds outside the movie data; this is checked by `tools/check_public_build.py`. Release patches are separately round-tripped against the complete disc, including the approved movies.
+Fork the project to improve the English or start another language. Begin
+with the [translator brief](docs/translator_brief.md),
+[text format](docs/text_format.md) and existing English batches.
+Preserve name placeholders, control tags and weapon icons.
+
+In a public checkout, edit the `*.en.json` translation files. Maintainers
+with local Japanese-source working files regenerate their English-only
+copies with `python tools/strip_jp.py` before committing. Keep Japanese
+script dumps and game data out of git.
+
+Spoken dialogue must fit its frame with no more than three body lines per
+box. Continue longer dialogue in another box or shorten it without losing
+meaning. Resolve the build's layout and memory errors before release.
 
 ## What is here
 
 | Path | Contents |
 |---|---|
-| `tools/` | extractor, archive and CM (LZSS) codecs, font OCR, script dumper, inserter, VWF patch, disc re-layout with EDC/ECC, graphics and movie pipelines, 4x texture-pack generator |
-| `work/translation/en/**/*.en.json` | the English translation (batches, translator outputs, overrides, menu and graphics text) |
-| `work/translation/en/movies/` | English movie subtitles (.ass/.srt) |
-| `work/glossary/` | names and terms; the encyclopedia library glossary |
-| `work/font/` | English font metrics and glyph cells (Gen'ei LateGo P), font decoding maps |
-| `docs/text_format.md` | disc layout, text encoding, font lookup, containers |
-| `docs/translator_brief.md` | rules the translators followed |
-| `docs/glossary_decisions.md`, `docs/library_glossary.md` | terminology decisions |
-| `docs/handoff_graphics.md`, `docs/handoff_movies.md` | image and movie work, and what remains |
-| `CHANGELOG.md` | every build: what changed and what broke |
+| `tools/` | Disc/archive codecs, font and text tools, inserter, renderer patches, graphics/movie pipelines and verifiers |
+| `work/translation/en/**/*.en.json` | English batches, corrections, menus, graphics and subtitle records |
+| `work/translation/en/movies/` | English movie subtitle files |
+| `work/script/occurrences.json` | Source locations and IDs without Japanese text |
+| `work/glossary/` | Names, terminology and library references |
+| `work/font/` | Font metrics, glyph cells and decoding maps |
+| `work/ui/` | In-game screenshots, layout descriptions and verification views |
+| `work/output/` | Local test images, texture packages and verification reports; not distributed in git |
+| `docs/translator_brief.md`, `docs/text_format.md` | Translation rules, disc layout, encoding and containers |
+| `docs/rayblade_font.md`, `docs/title_footer.md` | Font rendering and automatic title credits/version |
+| `docs/handoff_graphics.md`, `docs/handoff_movies.md` | Graphics/movie work and remaining tasks |
+| `docs/runtime_balance.md`, `docs/opening_song.md` | Difficulty modes and song-subtitle audit |
+| `CHANGELOG.md` | Build history, repairs and validation limits |
+
+## Using these tools
+
+You need your own `Super Tokusatsu Taisen 2001 (Japan).bin/.cue` in the
+project root, plus Python 3 with `numpy`, `pillow`, `capstone`,
+`keystone-engine` and `xxhash`. The movie pipeline also needs jPSXdec and
+prepared streams; see [movie instructions](docs/handoff_movies.md).
+
+For example, in PowerShell, extract the disc and unpack its DAT archives:
+
+```powershell
+python tools/extract_iso.py
+Get-ChildItem work/source/disc/*.DAT | ForEach-Object { python tools/dat_archive.py $_.FullName }
+```
+
+Build with a version such as `0.x.y`, replacing it with the actual build
+number. `--keep-font` reuses prepared font assets; `--movies` includes the
+prepared subtitled movies:
+
+```sh
+python tools/build.py 0.x.y --keep-font --movies
+```
+
+Output goes to `work/output/STT2001_EN_v0.x.y.bin/.cue`, with reports and a
+matching texture package. Every build automatically stamps its exact
+version and `github.com/retro-trans` credit on the native title screen and
+verifies both copies in the completed image. Preparing or testing a local
+build does not publish a release.
 
 ## Do not sell this
 
-This patch is free. Do not sell it, and do not sell anything made with it:
-no pre-patched discs or images, no loaded memory cards or consoles, no
-paywalled or ad-gated downloads.
+This patch is free. Do not sell it or anything made with it: pre-patched
+discs/images, loaded memory cards or consoles, or paywalled/ad-gated downloads.
 
-It is an unofficial fan translation. Super Tokusatsu Taisen 2001 is © BANPRESTO
-2001, and its characters belong to their rights holders (Ishimori Pro, Toei,
-Tsuburaya Pro, Senkosha, Hikari Pro and others).
+This is an unofficial fan translation. Super Tokusatsu Taisen 2001 is
+© BANPRESTO 2001; its characters belong to their rights holders, including
+Ishimori Pro, Toei, Tsuburaya Pro, Senkosha and Hikari Pro.
 
 ## Credits
 
-- **pow** — Project lead
-- **Karnik** — Playtester
+| Role | Contributor |
+|---|---|
+| Project lead | **pow** |
+| Playtesting | **Karnik** |
 
-Native font: **Skies of Arcadia** by SEGA/Overworks, following the Seireiki
-Rayblade / Riot Stars implementation. Latin fallback: **Gen'ei LateGo P** by [okoneya](https://okoneya.jp/font/genei-latin.html)
-(SIL Open Font License 1.1, Latin glyphs from Linux Biolinum).
+The native **Skies of Arcadia** font artwork is by **SEGA / Overworks**,
+integrated through the Seireiki Rayblade / Riot Stars font work. The Latin
+fallback is **Gen'ei LateGo P** by [okoneya](https://okoneya.jp/font/genei-latin.html),
+under SIL Open Font License 1.1, with Latin glyphs from Linux Biolinum.
+No new license for the Skies of Arcadia artwork is granted.
 
-Translation passes, tooling and reverse engineering were done with Claude
-(Anthropic), directed by binhlt0402. The README and release layout follow
+Translation passes, tooling and reverse engineering began with Claude
+(Anthropic), directed by pow. The text is machine-translated and then
+edited; it still needs fluent human review. Names and terminology follow
+the project's glossary decisions.
+
+The README and release-note layout follow
 [retro-trans/SRW-Z](https://github.com/retro-trans/SRW-Z).
+
+## Status
+
+The text is translated end to end. Coverage counts below describe inserted
+English, not completed human proofreading or campaign testing.
+
+| Part | Coverage |
+|---|---|
+| Story dialogue | 26,261 strings (16,179 unique) |
+| Battle quotes | 12,617 strings (3,102 unique) |
+| Character encyclopedia | 914 strings |
+| Units, weapons, abilities, menus and episode titles | 2,914 database strings |
+| Music titles, executable menus and memory-card save title | Translated |
+| Stage cards, interface labels and other graphics | 101 images, including 90 stage title cards |
+| Movies | 26 captioned clips and both credit rolls, over original Japanese audio |
+
+### Testing and remaining work
+
+Native font/menu rendering, saved names, dialogue clearing, number/badge
+rendering, difficulty/rewards/purchases, save round trips and complete-disc
+patch verification pass. Movie decoding and simulated opening-subtitle
+cropping also pass. A full campaign, every route and emulator/PSP visual
+confirmation remain pending.
+
+Some encyclopedia descriptions still clip; the reported Kaimen Green text
+corruption remains unreproduced. See [the encyclopedia report](docs/encyclopedia_report.md).
+Some battle callouts and name logos remain Japanese. The copyright screen
+and title logo remain Japanese, and a few unclear movie shouts are
+unsubtitled. The opening has English and romaji; see
+[the song audit](docs/opening_song.md) for its scope.
+
+### Human proofreading
+
+The translation was produced with large language models and edited with
+automated checks and reported corrections. A counted, comprehensive human
+proofreading audit is not available. Contributions from fluent readers
+are welcome; technical verification does not establish translation accuracy.
+
+[CHANGELOG.md](CHANGELOG.md) records shipped builds, reported defects,
+repairs and the limits of each verification.

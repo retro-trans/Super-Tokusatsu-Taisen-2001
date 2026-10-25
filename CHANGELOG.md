@@ -1,5 +1,8 @@
 # Changelog
 
+## Documentation (2026-10-25)
+- Restructured the README using SRW-Z's template: contribution/contact links, patching instructions, translation review/editing, repository/tool guidance, credits table and clear coverage/testing/proofreading status. Retain this game's two-patch download policy, matching DuckStation texture instructions, difficulty modes, save compatibility and known issues. No game build or release assets changed.
+
 ## 0.9.0 (2026-10-25)
 - Release packaging revision: follow the SRW-Z release-note structure; credit pow as project lead and Karnik as playtester. Keep only original Japanese -> v0.9.0 and previous public v0.3.29 -> v0.9.0 patches. Retire three redundant direct upgrades, preserve catalog history and intermediate routes, and update matching instructions/checksums. Game image, retained patch bytes and tag remain unchanged. Future release preparation selects only the previous public version automatically.
 - Renumbered the completed v0.3.38 revision for public release. Both native title copies show v0.9.0 and github.com/retro-trans; retain the approved game content, gameplay, saves and movie/audio data.
