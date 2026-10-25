@@ -34,6 +34,8 @@ def width(code):
         return PH[code]
     if code >= 0xFF00:
         return 0
+    if insert.EF.get('stable_encoding') and code in REVERSE:
+        return sum(insert.EF['widths'][ch] for ch in REVERSE[code])
     if 320 <= code < 446:
         table = insert.EF["t_uni"]
     elif 782 <= code < 1118:
@@ -45,9 +47,10 @@ def width(code):
     return sum(t <= code for t in table)
 
 
-def content(words):
+def content(words,reverse=None):
+    reverse=REVERSE if reverse is None else reverse
     # Whitespace and page/color controls may move; visible content may not.
-    text = re.sub(r"\s+", "", "".join(REVERSE.get(c, "{%04X}" % c) for c in words
+    text = re.sub(r"\s+", "", "".join(reverse.get(c, "{%04X}" % c) for c in words
                   if c not in (0, 0xFFFB, 0xFFFC, 0xFF30, 0xFF31, 0xFF32, 0xFF33)))
     for before, after in EDITS["choice_rewordings"]:
         text = text.replace(re.sub(r"\s+", "", before), re.sub(r"\s+", "", after))
@@ -93,7 +96,7 @@ def check_words(words, kind, stats):
     stats[kind+"_pages"] += pages-1
 
 
-def overlay(before, after, base, kind, stats):
+def overlay(before, after, base, kind, stats, old_reverse=None):
     old = D.overlay_strings(before, base)
     new = D.overlay_strings(after, base)
     assert len(old) == len(new), "dialogue count changed"
@@ -107,7 +110,7 @@ def overlay(before, after, base, kind, stats):
     assert [oi[p-0x800E0000+base] for p in op] == [ni[p-0x800E0000+base] for p in np], "pointer order changed"
     for (_, ow, ot), (_, nw, nt) in zip(old, new):
         assert ot == nt, "dialogue terminator changed"
-        assert content(ow) == content(nw), "visible English content changed"
+        assert content(ow,old_reverse) == content(nw), "visible English content changed"
         check_words(nw, kind, stats)
 
 

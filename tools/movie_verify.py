@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 import av
-from movie_subtitles import display_subtitles, timestamp, SUBTITLE_HOLD
+from movie_subtitles import display_subtitles, timestamp, SUBTITLE_HOLD,srt_text
 ROOT=Path(__file__).resolve().parents[1]
 BASE=ROOT/'work/output/movies_v0.3.4_preview'
 def inspect(path):
@@ -42,7 +42,7 @@ def main():
         srt=(subfolder/(stem+'.srt')).read_text(encoding='utf-8')
         ass=(subfolder/(stem+'.ass')).read_text(encoding='utf-8')
         expected_srt='\n\n'.join('%d\n%s --> %s\n%s' %
-            (i,timestamp(s['start']),timestamp(s['end']),s['en'])
+            (i,timestamp(s['start']),timestamp(s['end']),srt_text(s))
             for i,s in enumerate(subtitles,1))+'\n'
         assert srt==expected_srt,stem
         for i,s in enumerate(subtitles):
@@ -54,6 +54,10 @@ def main():
             event='Dialogue: 0,%s,%s,Default,,0,0,0,,%s' % (
                 timestamp(s['start'],True),timestamp(s['end'],True),s['en'].replace('\n',r'\N'))
             assert event in ass,(stem,event)
+            if s.get('romaji') and s['romaji']!=s['en']:
+                event='Dialogue: 0,%s,%s,Romaji,,0,0,0,,%s' % (
+                    timestamp(s['start'],True),timestamp(s['end'],True),s['romaji'].replace('\n',r'\N'))
+                assert event in ass,(stem,event)
         row['id']=clip['id']
         rows.append(row)
     for name,selection in [('main_movies_en',inv[64:]),('battle_movies_en',inv[:64])]:

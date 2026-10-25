@@ -12,10 +12,19 @@ all welcome. Please open an issue on this repository.
 
 ## Play it
 
-The latest release is **[v0.3.29](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.3.29)**
-for the Japanese PlayStation disc (**SLPS-02863**). It includes all earlier
-translation, UI and movie fixes, a readable automatic title credit/version,
-wider command menus, repaired Options titles and save/load captions.
+The latest release is **[v0.9.0](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.0)**
+for the Japanese PlayStation disc (**SLPS-02863**). It includes the latest
+font and saved-name repairs, fixed dialogue clearing, correct HP/EN digits,
+readable weapon badges, and the revised opening with English/romaji captions.
+Both caption rows sit farther inside the picture for gameplay visibility.
+Original audio is preserved. See [song audit](docs/opening_song.md) and
+[font implementation](docs/rayblade_font.md).
+
+The native Skies of Arcadia font follows the Rayblade/Riot Stars approach:
+retain a 2x atlas and draw at half size. Use 2x/4x internal resolution in
+DuckStation for extra detail. Install the included optional v0.9.0 texture
+pack when using replacements; public v0.3.29 and older packs alone do not
+match this font. Local v0.3.35-v0.3.38 packs share the current payload.
 
 **Intermission > Difficulty** offers **Default / Gentle / Story**. Use Up/Down to
 choose, Circle to apply, or Cross to cancel. The panel shows the saved mode.
@@ -33,11 +42,13 @@ game image; a full disc is not distributed.
 
 | Your source image | Patch |
 |---|---|
-| Original Japanese SLPS-02863 single BIN (MODE2/2352) | `STT2001-English-v0.3.29.xdelta` |
-| Published English v0.3.18 BIN | `STT2001-English-v0.3.18-to-v0.3.29.xdelta` |
-| Published English v0.3.27 BIN | `STT2001-English-v0.3.27-to-v0.3.29.xdelta` |
+| Original Japanese SLPS-02863 single BIN (MODE2/2352) | `STT2001-English-v0.9.0.xdelta` |
+| Published English v0.3.6 BIN | `STT2001-English-v0.3.6-to-v0.9.0.xdelta` |
+| Published English v0.3.18 BIN | `STT2001-English-v0.3.18-to-v0.9.0.xdelta` |
+| Published English v0.3.27 BIN | `STT2001-English-v0.3.27-to-v0.9.0.xdelta` |
+| Published English v0.3.29 BIN | `STT2001-English-v0.3.29-to-v0.9.0.xdelta` |
 
-Older public v0.3.6 users can upgrade to v0.3.18 first, then v0.3.29.
+All listed public versions can upgrade directly to v0.9.0.
 Cold boot the new disc and load an ordinary in-game save; old emulator save
 states keep the previous executable in RAM. The v0.3.26 missing-label/erased
 footer defect is fixed in v0.3.27.
@@ -58,7 +69,7 @@ accepts the same `.xdelta` file. Select the unpacked `.bin` as the original file
 **Command line:** get [xdelta3](https://github.com/jmacd/xdelta).
 
 ```
-xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.3.29.xdelta "STT2001 English v0.3.29.bin"
+xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.9.0.xdelta "STT2001_EN_v0.9.0.bin"
 ```
 
 Keep the `.cue` next to the patched `.bin` and point its `FILE` line at the
@@ -74,15 +85,18 @@ chdman extractcd -i "your-game.chd" -o game.cue -ob game.bin
 
 ### Sharper font (optional, DuckStation)
 
-Download **STT2001-4x-font-pack-v0.3.29.zip** from the release. It
-redraws the English font at 4x, with a fine drop shadow, in every text colour.
+Download **STT2001-4x-font-pack-v0.9.0.zip** from the release. It
+provides the matching English font at 4x in every text colour.
 Extract its `textures/SLPS-02863` folder into DuckStation's data folder (Tools → Open Data Directory), merging it with existing files. Then enable
 **Settings → Graphics → Texture Replacement → Enable Texture Cache** and
 **Enable Texture Replacements**, and use 4x internal resolution.
 
 The pack's `config.yaml` sets `MaxVRAMWriteSplits: true`. Without it the font
 isn't replaced in story scenes, because the game overwrites half of its font
-sheet there. Restart DuckStation or reload replacements after installing. Older v0.3.6–v0.3.17 packs alone do not match the v0.3.18 font. Packs are matched by texture contents: text-only builds can share a pack, while font changes require new IDs. Merging this pack preserves older IDs.
+sheet there. Restart DuckStation or reload replacements after installing.
+Public v0.3.29 and older packs alone do not match the new font. Packs are
+matched by texture contents: text-only builds can share a pack, while font
+changes require new IDs. Local v0.3.35-v0.3.38 packs already match v0.9.0.
 
 Weapon markers use **D** for Direct and **I** for Indirect; these are attack categories, while Rng shows the range. Attribute badges read BLT (Bullet), ELC (Electric), BEM (Beam), WTR (Water), FIR (Fire), and SPL (Special). P and MAP retain their existing functions.
 

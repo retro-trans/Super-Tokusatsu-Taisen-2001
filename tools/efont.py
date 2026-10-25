@@ -9,6 +9,8 @@ from 12 thresholds per range (tools/vwf_patch.py) instead of a table.
 
 python tools/efont.py build [corpus.txt]  -> work/font/efont.json + efont_cells.npz
 python tools/efont.py preview "text"      -> work/font/efont_preview.png
+python tools/efont.py build --rayblade --keep-glyphs -> port the current
+Rayblade font while retaining the existing single/pair/word token inventory.
 """
 import json
 import os
@@ -37,7 +39,14 @@ FORCE_EX = ["ma", "Ina"]
 CELL_W = 12
 
 
-def font():
+def font(family=None):
+    if family is None:
+        path=os.path.join(OUT,'efont.json')
+        family=json.load(open(path,encoding='utf-8')).get('font_family','genei') if os.path.exists(path) else 'genei'
+    if family=='rayblade-skies':
+        from rayblade_font import Font
+        return Font()
+    assert family=='genei',family
     fname, idx = V.FACES[V.DEFAULT_FACE]
     return ImageFont.truetype(os.path.join(V.FONT_DIR, fname), V.DEFAULT_SIZE, index=idx)
 
@@ -125,10 +134,13 @@ def corpus_text(paths, only_kind=None):
     return out
 
 
-def build(corpus_paths=None, keep_bigrams=False):
+def build(corpus_paths=None, keep_bigrams=False, family=None, keep_glyphs=False, native_2x=False, stable_encoding=False):
     """keep_bigrams: reuse the two-letter set of the current efont.json, so only
     the word glyphs (encyclopedia / names) are re-chosen."""
-    f = font()
+    family=family or 'genei'
+    previous=json.load(open(os.path.join(OUT,'efont.json'),encoding='utf-8')) if keep_glyphs else None
+    keep_bigrams=keep_bigrams or keep_glyphs
+    f = font(family)
     u = unigrams(f)
     if corpus_paths is None:
         d = os.path.join(ROOT, "work", "translation", "en", "out")
@@ -168,11 +180,11 @@ def build(corpus_paths=None, keep_bigrams=False):
         cands.append((g, n))
     # greedy: each pick maximises occurrences x codes saved under the current set
     extra, enc_now = [], dict(base_enc)
-    for g in FORCE_EX:
+    for g in (previous['ex'] if keep_glyphs else FORCE_EX):
         assert compose_wide(u, g) is not None, g
         extra.append(g)
         enc_now[g] = 1
-    for _ in range(len(EX_SLOTS) - len(FORCE_EX)):
+    for _ in range(0 if keep_glyphs else len(EX_SLOTS) - len(FORCE_EX)):
         best = None
         for g, n in cands:
             if g in enc_now:
@@ -186,6 +198,11 @@ def build(corpus_paths=None, keep_bigrams=False):
         extra.append(best[1])
     uni = sorted(V.CHARSET, key=lambda c: (u[c][1], V.CHARSET.index(c)))
     bi = sorted(bigrams, key=lambda s: (compose(u, s[0], s[1])[1], s))
+    frozen=None
+    if stable_encoding:
+        frozen=json.load(open(os.path.join(OUT,'encoding.en.json'),encoding='utf-8'))
+        assert set(uni)==set(frozen['uni']) and set(bi)==set(frozen['bi'])
+        uni,bi=list(frozen['uni']),list(frozen['bi'])
     encode, cells_u, cells_b, w_u, w_b = {}, [], [], [], []
     for i, ch in enumerate(uni):
         encode[ch] = UNI_FIRST + i
@@ -198,6 +215,9 @@ def build(corpus_paths=None, keep_bigrams=False):
         w_b.append(w)
 
     ex = sorted(extra, key=lambda g: (compose_wide(u, g)[1], g))
+    if stable_encoding:
+        assert set(ex)==set(frozen['ex'])
+        ex=list(frozen['ex'])
     encode_ex, cells_x, w_x = {}, [], []
     for i, g in enumerate(ex):
         c, w = compose_wide(u, g)
@@ -224,7 +244,15 @@ def build(corpus_paths=None, keep_bigrams=False):
             "t_uni": thresholds(UNI_FIRST, w_u, UNI_COUNT), "t_bi": thresholds(BI_FIRST, w_b, BI_COUNT),
             "t_ex": ex_thresholds(w_x),
             "widths": {ch: u[ch][1] for ch in V.CHARSET}}
-    json.dump(meta, open(os.path.join(OUT, "efont.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+    meta['font_family']=family
+    if native_2x:meta['native_2x']=True
+    if stable_encoding:
+        assert encode==frozen['encode'] and encode_ex==frozen['encode_ex']
+        meta['stable_encoding']='public-v0.3.29'
+    if family=='rayblade-skies':
+        from rayblade_font import provenance
+        meta['font_source']=provenance(native_2x=native_2x)
+    json.dump(meta, open(os.path.join(OUT, "efont.json"), "w", encoding="utf-8", newline="\n"), ensure_ascii=False, indent=0)
     np.savez(os.path.join(OUT, "efont_cells.npz"), uni=np.stack(cells_u),
              bi=np.stack(cells_b) if cells_b else np.zeros((0, 16, 12), np.uint8),
              ex=np.stack(cells_x) if cells_x else np.zeros((0, 16, EX_W), np.uint8))
@@ -287,6 +315,8 @@ def preview(text):
 if __name__ == "__main__":
     if sys.argv[1] == "build":
         args = [a for a in sys.argv[2:] if not a.startswith("--")]
-        build(args or None, keep_bigrams="--keep-bigrams" in sys.argv)
+        build(args or None, keep_bigrams="--keep-bigrams" in sys.argv,
+              family='rayblade-skies' if '--rayblade' in sys.argv else 'genei',keep_glyphs='--keep-glyphs' in sys.argv,
+              native_2x='--native-2x' in sys.argv,stable_encoding='--stable-encoding' in sys.argv)
     else:
         preview(sys.argv[2])

@@ -27,6 +27,9 @@ def main():
     import vwf_patch
     from check_graphics_build import directory,read_file
     files,tr=insert.build_all()
+    if tuple(map(int,args.version.split('.'))) >= (0,3,31):
+        import native_font2x
+        native_font2x.patch_files(files,native_ui=tuple(map(int,args.version.split('.'))) >= (0,3,35))
     # Historical builds predate the automatic native title footer.
     if tuple(map(int,args.version.split('.'))) >= (0,3,19):
         import title_footer
@@ -60,6 +63,8 @@ def main():
         import difficulty_render
         exe=difficulty_render.patch_exe(exe)
     insert.check_default_names(files)
+    if tuple(map(int,args.version.split('.'))) >= (0,3,31):
+        exe=native_font2x.patch_exe(exe,transition_clip=tuple(map(int,args.version.split('.'))) >= (0,3,34),native_ui=tuple(map(int,args.version.split('.'))) >= (0,3,35))
     files['SLPS_028.63']=exe
     assert not insert.PROBLEMS,insert.PROBLEMS
     build_name='STT2001_EN_v%s%s'%(args.version,'_balance' if args.balance else '')

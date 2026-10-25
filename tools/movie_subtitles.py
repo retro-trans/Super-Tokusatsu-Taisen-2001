@@ -29,26 +29,33 @@ def timestamp(seconds, ass=False):
     s, fraction = divmod(units,scale)
     return ('%d:%02d:%02d.%02d' if ass else '%02d:%02d:%02d,%03d') % (h,m,s,fraction)
 
-def write_subtitles(clip, credits):
+def srt_text(row):
+    romaji=row.get('romaji','')
+    return romaji+'\n'+row['en'] if romaji and romaji!=row['en'] else row['en']
+
+def write_subtitles(clip, credits,folder=None):
     name='movie_%03d' % clip['id']
-    folder=ROOT/'work/translation/en/movies'
+    folder=folder or ROOT/'work/translation/en/movies'
     folder.mkdir(parents=True,exist_ok=True)
     rows=display_subtitles(clip)
     (folder/(name+'.srt')).write_text('\n\n'.join('%d\n%s --> %s\n%s' %
-        (n,timestamp(r['start']),timestamp(r['end']),r['en']) for n,r in enumerate(rows,1))+'\n',encoding='utf-8')
+        (n,timestamp(r['start']),timestamp(r['end']),srt_text(r)) for n,r in enumerate(rows,1))+'\n',encoding='utf-8')
     lines=['[Script Info]','ScriptType: v4.00+','PlayResX: 960','PlayResY: 720','WrapStyle: 2',
         '[V4+ Styles]', 'Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding',
-        'Style: Default,GenEi LateGo P v2,36,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,0,0,0,0,100,100,0,0,1,2,1,2,36,36,32,1',
+        'Style: Default,GenEi LateGo P v2,36,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,0,0,0,0,100,100,0,0,1,2,1,2,36,36,%d,1' % (clip['english_bottom']*3 if 'english_bottom' in clip else 32),
         'Style: Credit,GenEi LateGo P v2,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1',
         'Style: Note,GenEi LateGo P v2,22,&H00FFFFFF,&H00FFFFFF,&H00101010,&H80000000,0,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1',
+        'Style: Romaji,GenEi LateGo P v2,32,&H0080E8FF,&H0080E8FF,&H00101010,&H80000000,0,0,0,0,100,100,0,0,1,2,1,8,36,36,%d,1' % (clip.get('romaji_top',8)*3),
         '[Events]','Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text']
     def event(start,end,text,style='Default'):
         assert 0 <= start < end <= clip['duration']+0.15,(clip['id'],start,end)
         lines.append('Dialogue: 0,%s,%s,%s,,0,0,0,,%s' % (timestamp(start,True),timestamp(end,True),style,text.replace('\n',r'\N')))
     for r in rows:
         event(r['start'],r['end'],r['en'])
+        if r.get('romaji') and r['romaji']!=r['en']:
+            event(r['start'],r['end'],r['romaji'],'Romaji')
     if clip.get('lyric_draft'):
-        event(14,113,'Draft lyric translation','Note')
+        event(0,min(13.5,clip['duration']),clip.get('review_note','Draft lyric translation'),'Note')
     if clip.get('credits'):
         for i,page in enumerate(credits):
             start=5+4*i
@@ -59,9 +66,10 @@ def write_subtitles(clip, credits):
     (folder/(name+'.ass')).write_text('\n'.join(lines)+'\n',encoding='utf-8')
     return name
 
-def render(clip,credits):
-    name=write_subtitles(clip,credits)
-    dest=BASE/'english'/(name+'_en.mp4')
+def render(clip,credits,output=None):
+    folder=output/'subtitles' if output else ROOT/'work/translation/en/movies'
+    name=write_subtitles(clip,credits,folder)
+    dest=(output or BASE/'english')/(name+'_en.mp4')
     dest.parent.mkdir(parents=True,exist_ok=True)
     filters=['scale=960:720:force_original_aspect_ratio=decrease:flags=lanczos:in_range=pc:out_range=tv',
              'pad=960:720:(ow-iw)/2:(oh-ih)/2','setsar=1']
@@ -74,7 +82,8 @@ def render(clip,credits):
     if not font.exists():
         import shutil
         shutil.copyfile(ROOT/'incoming/GenEiLatin/GenEiLateGo_v2.ttc',font)
-    filters += ['subtitles=work/translation/en/movies/'+name+'.ass:fontsdir=work/source/movies/fonts']
+    ass=(folder/(name+'.ass')).relative_to(ROOT).as_posix()
+    filters += ['subtitles='+ass+':fontsdir=work/source/movies/fonts']
     cmd=[FFMPEG,'-hide_banner','-loglevel','warning','-y','-i',str(BASE/'original'/(name+'.mp4')),
          '-vf',','.join(filters),'-c:v','libx264','-preset','fast','-crf','18',
          '-pix_fmt','yuv420p','-color_range','tv','-r','12','-c:a','aac','-b:a','128k','-ar','48000','-ac','2',
@@ -109,8 +118,10 @@ def main():
     p=argparse.ArgumentParser()
     p.add_argument('--ids')
     p.add_argument('--reels',action='store_true')
+    p.add_argument('--manifest',type=Path,default=MANIFEST)
+    p.add_argument('--output',type=Path,help='Workspace folder for a separate review MP4 and subtitles')
     args=p.parse_args()
-    manifest=json.loads(MANIFEST.read_text(encoding='utf-8'))
+    manifest=json.loads(args.manifest.read_text(encoding='utf-8'))
     clips=manifest['clips']
     if args.reels:
         reel([c for c in clips if c['id']>=65],'main_movies_en')
@@ -118,7 +129,7 @@ def main():
     else:
         ids=[int(x) for x in args.ids.split(',')] if args.ids else list(range(65,75))+list(range(1,65))
         for clip_id in ids:
-            render(next(c for c in clips if c['id']==clip_id),manifest['credit_pages'])
+            render(next(c for c in clips if c['id']==clip_id),manifest['credit_pages'],args.output.resolve() if args.output else None)
 
 if __name__=='__main__':
     main()

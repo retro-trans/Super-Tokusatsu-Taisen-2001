@@ -1,0 +1,205 @@
+{
+  "version": "0.9.0",
+  "preview_revision": 6,
+  "purpose": "Public v0.9.0 opening, retaining the approved v0.3.38 lyrics and playback-safe layout",
+  "source_audio": "Original Japanese game audio, preserved",
+  "credit_pages": [],
+  "clips": [
+    {
+      "id": 74,
+      "title": "Opening theme",
+      "duration": 123.75,
+      "status": "English captions raised 11 native pixels using a 16-pixel bottom inset. Retain romaji at y=16, lyric wording/timing, font sizes and original XA audio.",
+      "subtitles": [
+        {
+          "start": 16.18,
+          "end": 19.5,
+          "en": "Tear through the storm and blaze!",
+          "voice_end": 19.5,
+          "romaji": "Arashi o saite moeagare!"
+        },
+        {
+          "start": 19.5,
+          "end": 24.5,
+          "en": "Shine, hero!",
+          "voice_end": 24,
+          "romaji": "Kagayake HERO!"
+        },
+        {
+          "start": 26.34,
+          "voice_end": 31.9,
+          "end": 32.4,
+          "en": "The enemy comes with a thunderous roar!",
+          "romaji": "Bakuon todorokase teki ga kuru"
+        },
+        {
+          "start": 33.66,
+          "voice_end": 39.4,
+          "end": 39.42,
+          "en": "Don't let a night of dark storms fall!",
+          "romaji": "Ankoku boufuu no yoru ni saseru na!"
+        },
+        {
+          "start": 39.42,
+          "end": 42.92,
+          "en": "You who know the heart of justice...",
+          "voice_end": 42.8,
+          "romaji": "Seigi no kokoro shiru mono yo"
+        },
+        {
+          "start": 42.92,
+          "end": 45.5,
+          "en": "become the light!",
+          "voice_end": 45,
+          "romaji": "Hikari ni naru nda!"
+        },
+        {
+          "start": 46.92,
+          "end": 50.94,
+          "en": "Burning fiercely in your heart...",
+          "voice_end": 50.7,
+          "romaji": "Sono mune ni atsuku moeru"
+        },
+        {
+          "start": 50.94,
+          "end": 54.16,
+          "en": "unleash your courage and love!",
+          "voice_end": 53.7,
+          "romaji": "Yuuki to ai o hanate!"
+        },
+        {
+          "start": 54.16,
+          "end": 57.4,
+          "en": "Now is the time!",
+          "voice_end": 57.4,
+          "romaji": "Saa ima ga sono toki da!"
+        },
+        {
+          "start": 57.4,
+          "end": 60.4,
+          "en": "Let's set fire on!",
+          "voice_end": 59.9,
+          "romaji": "Let's set fire on!"
+        },
+        {
+          "start": 60.46,
+          "end": 63.28,
+          "en": "Put your life on the line!",
+          "voice_end": 63.05,
+          "romaji": "Inochi o kakete!"
+        },
+        {
+          "start": 63.28,
+          "end": 67,
+          "en": "Run, Thunder! Never surrender!",
+          "voice_end": 67,
+          "romaji": "Hashire THUNDER! Never surrender!"
+        },
+        {
+          "start": 67,
+          "end": 72.3,
+          "en": "Tear through the storm and blaze!",
+          "voice_end": 72.15,
+          "romaji": "Arashi o saite moeagaru"
+        },
+        {
+          "start": 72.3,
+          "end": 75.3,
+          "en": "You are the warrior!",
+          "voice_end": 74.8,
+          "romaji": "Kimi koso senshi da!"
+        },
+        {
+          "start": 84.74,
+          "end": 88.6,
+          "en": "I'll never forget...",
+          "voice_end": 88.3,
+          "romaji": "Itsumademo wasurenai sa"
+        },
+        {
+          "start": 88.6,
+          "end": 91.86,
+          "en": "the fighting spirit surging through me.",
+          "voice_end": 91.6,
+          "romaji": "Senaka ni tagiru toushi"
+        },
+        {
+          "start": 91.86,
+          "end": 95.4,
+          "en": "I won't let tomorrow slip away again.",
+          "voice_end": 95.2,
+          "romaji": "Mou ashita o hanasanai"
+        },
+        {
+          "start": 95.4,
+          "end": 98.18,
+          "voice_end": 97.68,
+          "en": "We get rainbow!",
+          "romaji": "We get rainbow!"
+        },
+        {
+          "start": 98.18,
+          "end": 101.26,
+          "en": "Tear through the storm!",
+          "voice_end": 100.8,
+          "romaji": "Arashi o saite"
+        },
+        {
+          "start": 101.26,
+          "end": 103.5,
+          "en": "Race on, Thunder!",
+          "voice_end": 103.5,
+          "romaji": "Hashire THUNDER!"
+        },
+        {
+          "start": 103.5,
+          "end": 105.34,
+          "en": "You're a challenger!",
+          "voice_end": 105.2,
+          "romaji": "You're a challenger!"
+        },
+        {
+          "start": 105.34,
+          "end": 110.1,
+          "en": "Rising up amid the storm...",
+          "voice_end": 109.95,
+          "romaji": "Arashi no naka de tachiagaru"
+        },
+        {
+          "start": 110.1,
+          "end": 113.1,
+          "en": "you are the warrior!",
+          "voice_end": 112.6,
+          "romaji": "Kimi koso senshi da!"
+        }
+      ],
+      "lyric_draft": false,
+      "romaji_top": 16,
+      "english_bottom": 16
+    }
+  ],
+  "review": {
+    "missing_verse_seconds": [
+      26.34,
+      39.42
+    ],
+    "romaji_style": "ASCII Hepburn, long vowels written ou/uu/aa; sung English retained",
+    "source_records": "work/source/movies/song_audit/",
+    "game_manifest_unchanged": false,
+    "added_refrain_seconds": [
+      95.4,
+      98.18
+    ],
+    "lyric_reference": {
+      "source": "User-provided Spotify lyric screenshot",
+      "url": "https://open.spotify.com/track/5Rizd2UNChsPcFeIHM3N8A",
+      "independently_retrieved_lyrics": false,
+      "comparison_recording": "https://www.youtube.com/watch?v=u5CTg9cnsOY",
+      "comparison_recording_note": "Official Akira Kushida Topic upload, self-cover; no captions. No second verse added because it is absent from the game cut."
+    },
+    "romaji_top_native_pixels": 16,
+    "previous_romaji_top_native_pixels": 5,
+    "english_bottom_native_pixels": 16,
+    "previous_english_bottom_native_pixels": 5
+  }
+}

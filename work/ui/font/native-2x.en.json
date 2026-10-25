@@ -1,0 +1,26 @@
+{
+ "version": "0.3.31",
+ "source": "../Riot Stars native 2x rendering / Rayblade Skies bitmap",
+ "reported": "reported_v0.3.30.png",
+ "comparison": "native-2x-menu-v0.3.31.png",
+ "comparison_is_emulator_capture": false,
+ "comparison_source": "actual retained native glyph objects and emitted FT4 packets",
+ "logical_max_cell": [
+  12,
+  16
+ ],
+ "atlas_max_cell": [
+  24,
+  32
+ ],
+ "atlas_size": [
+  256,
+  256
+ ],
+ "atlas_rows_used": 224,
+ "font_layer": "original F1 left page",
+ "draw_primitive": "POLY_FT4 / blend mode 0",
+ "faint_edge": "STP, half-blended",
+ "solid_ink": "opaque",
+ "advance_and_text_codes_preserved": true
+}

@@ -184,11 +184,14 @@ def main():
     else:
         import save_slot_layout
         exe=menu.patch_exe(save_slot_layout.patch_exe(rb.patch_exe(read_file(base,d['SLPS_028.63']),support_stronger=True)),support_stronger=True,story_labels=story_labels)
-    mm=repack.dat_entries(read_file(base,d['MAPMAIN.DAT']));r=tests(exe,mm[2],story_labels=story_labels);r['version']=a.version
-    from check_difficulty_render import preview
-    # Reconstruct the actual retained sprites for each pending choice.
-    preview(mm[7],r,a.version,samples=[('v'+a.version+' - '+s['state'],
-        s['difficulty_sprites']+s['footer_sprites']) for s in r['snapshots']])
+    font_disc=path if a.verify else base
+    mm=repack.dat_entries(read_file(font_disc,directory(font_disc)['MAPMAIN.DAT']));r=tests(exe,mm[2],story_labels=story_labels);r['version']=a.version
+    # The 2x renderer expands tokens into FT4 packets after object retention;
+    # check_native_font2x reconstructs that actual drawing path instead.
+    if not json.loads((ROOT/'work/font/efont.json').read_text(encoding='utf-8')).get('native_2x'):
+        from check_difficulty_render import preview
+        preview(mm[7],r,a.version,samples=[('v'+a.version+' - '+s['state'],
+            s['difficulty_sprites']+s['footer_sprites']) for s in r['snapshots']])
     dest=path.with_name(path.stem+'_stronger_verification.json');dest.write_bytes((json.dumps(r,indent=1)+'\n').encode())
     print('PASS: '+str(dest))
 

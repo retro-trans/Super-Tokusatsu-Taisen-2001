@@ -15,6 +15,7 @@ import xml.etree.ElementTree as ET
 import av
 from PIL import Image, ImageDraw, ImageFont
 from movie_subtitles import display_subtitles
+from movie_patch import native_fingerprint
 
 ROOT=Path(__file__).resolve().parents[1]
 SOURCE=ROOT/'work/source/movies'
@@ -39,19 +40,28 @@ def wrap(text,font,width):
     assert all(font.getlength(line)<=width for line in lines),(text,width)
     return lines
 
-def caption(image,text):
+def caption(image,text,romaji=None,romaji_top=5,english_bottom=5):
     w,h=image.size
     size=9 if w==160 else 12
     font=ImageFont.truetype(str(FONT),size,index=1)
     lines=wrap(text,font,w-8)
     spacing=size+2
     assert len(lines)<=4 if w==160 else len(lines)<=3,(text,lines)
-    top=h-5-spacing*len(lines)
+    top=h-english_bottom-spacing*len(lines)
     draw=ImageDraw.Draw(image)
     for i,line in enumerate(lines):
         x=(w-font.getlength(line))/2
         draw.text((x,top+i*spacing),line,font=font,fill='white',stroke_width=1,
                   stroke_fill='black',anchor='lt')
+    if romaji and romaji!=text:
+        roman_font=ImageFont.truetype(str(FONT),size-1,index=1)
+        roman_lines=wrap(romaji,roman_font,w-8)
+        assert len(roman_lines)<=2,(romaji,roman_lines)
+        for i,line in enumerate(roman_lines):
+            x=(w-roman_font.getlength(line))/2
+            draw.text((x,romaji_top+i*(size+1)),line,font=roman_font,fill=(255,232,128),
+                      stroke_width=1,stroke_fill='black',anchor='lt')
+        return (0,0,w,h)
     return (0,max(0,(top//16)*16),w,h-max(0,(top//16)*16))
 
 def run_java(args,log):
@@ -96,7 +106,7 @@ def prepare(clip,inventory,test_frame=None):
             image=frame.to_image()
             if credit:
                 image=credit_frame.to_image().resize(image.size,Image.Resampling.LANCZOS)
-            rect=caption(image,active['en']) if active else None
+            rect=caption(image,active['en'],active.get('romaji'),clip.get('romaji_top',5),clip.get('english_bottom',5)) if active else None
             dest=frames/('%05d.png'%n)
             image.save(dest)
             # Full-frame quantization preserves bright lettering. Partial
@@ -115,6 +125,7 @@ def prepare(clip,inventory,test_frame=None):
             'source_sha256':hashlib.sha256((SOURCE/(name+'.str')).read_bytes()).hexdigest(),
             'encoded_sha256':hashlib.sha256(raw.read_bytes()).hexdigest(),
             'manifest_sha256':hashlib.sha256(MANIFEST.read_bytes()).hexdigest(),
+            'native_fingerprint':native_fingerprint(clip),
             'encoder':'jPSXdec v2.1 beta, full changed frames, original slot capacities'}
     (folder/'report.json').write_text(json.dumps(report,indent=2)+'\n',encoding='utf-8')
     print('%s: %d frames edited'%(name,len(changed)),flush=True)

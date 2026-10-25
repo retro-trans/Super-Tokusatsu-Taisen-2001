@@ -3,13 +3,32 @@ import hashlib
 import json
 from pathlib import Path
 import struct
+from movie_subtitles import display_subtitles
 
 ROOT=Path(__file__).resolve().parents[1]
 SOURCE=ROOT/'work/source/movies'
 MANIFEST=ROOT/'work/translation/en/movies.en.json'
 
+def native_fingerprint(clip,manifest=None):
+    """Hash render inputs per clip, so unrelated manifest edits reuse checked STRs."""
+    if manifest is None:
+        manifest=json.loads(MANIFEST.read_text(encoding='utf-8'))
+    rows=[{k:r[k] for k in ('start','end','en','romaji') if k in r}
+          for r in display_subtitles(clip)]
+    payload={'id':clip['id'],'duration':clip['duration'],'subtitles':rows,
+             'caption_layout':2 if any(r.get('romaji') for r in rows) else 1,
+             'credits':bool(clip.get('credits'))}
+    if 'romaji_top' in clip:
+        payload['romaji_top']=clip['romaji_top']
+    if 'english_bottom' in clip:
+        payload['english_bottom']=clip['english_bottom']
+    if payload['credits']:
+        payload['credit_pages']=manifest['credit_pages']
+    return hashlib.sha256(json.dumps(payload,sort_keys=True,separators=(',',':'),
+                                     ensure_ascii=True).encode()).hexdigest()
+
 def expected_frames(clip):
-    rows=clip['subtitles']
+    rows=display_subtitles(clip)
     return [n for n in range(round(clip['duration']*12))
             if any(s['start']<=n/12<s['end'] for s in rows)
             or (clip.get('credits') and 5<=n/12<=93)]
@@ -23,7 +42,10 @@ def validate(clip,inventory):
     encoded=(folder/(name+'.str')).read_bytes()
     assert report['source_sha256']==hashlib.sha256(original).hexdigest(),i
     assert report['encoded_sha256']==hashlib.sha256(encoded).hexdigest(),i
-    assert report['manifest_sha256']==hashlib.sha256(MANIFEST.read_bytes()).hexdigest(),i
+    if 'native_fingerprint' in report:
+        assert report['native_fingerprint']==native_fingerprint(clip),('Stale movie render',i)
+    else:
+        assert report['manifest_sha256']==hashlib.sha256(MANIFEST.read_bytes()).hexdigest(),i
     assert report['edited_frames']==expected_frames(clip),i
     assert len(encoded)==len(original)==(inventory['end_sector']-inventory['start_sector'])*2352,i
     edited=set(report['edited_frames'])

@@ -40,6 +40,8 @@ SHADOW = False          # drop shadow (level 1) right/below the ink; off since 0
 
 def render_char(font, ch):
     """Return (2bpp cell array, advance width)."""
+    if hasattr(font,'render_cell'):
+        return font.render_cell(ch)
     if ch == " ":
         return np.zeros((CELL_H, CELL_W), np.uint8), SPACE_W
     big = Image.new("L", (40, 40))

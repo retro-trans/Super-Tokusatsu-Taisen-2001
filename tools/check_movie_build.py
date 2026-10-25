@@ -59,6 +59,8 @@ def main():
     p=argparse.ArgumentParser()
     p.add_argument('version')
     p.add_argument('baseline',nargs='?',default='0.3.4')
+    p.add_argument('--title-update',action='store_true',help='Allow only the exact automatic title-version stamp outside MOVIE.STR')
+    p.add_argument('--changed-ids',help='Require exactly these movies to differ from baseline')
     args=p.parse_args()
     new=OUT/('STT2001_EN_v%s.bin'%args.version)
     old=OUT/('STT2001_EN_v%s.bin'%args.baseline)
@@ -72,10 +74,27 @@ def main():
     selected={c['id']:c for c in manifest['clips'] if c['subtitles'] or c.get('credits')}
     start=nd['MOVIE.STR']['lba']*2352
     end=start+inv[-1]['end_sector']*2352
+    excluded=[(start,end)]
+    if args.title_update:
+        from check_graphics_build import read_file
+        import title_footer
+        expected={'MAPMAIN.DAT':read_file(old,od['MAPMAIN.DAT'])}
+        title_footer.patch_files(expected,args.version)
+        assert read_file(new,nd['MAPMAIN.DAT'])==expected['MAPMAIN.DAT'],'Changes beyond title stamp in MAPMAIN'
+        title_footer.verify_disc(new,args.version)
+        title=nd['MAPMAIN.DAT']
+        excluded.append((title['lba']*2352,(title['lba']+(title['size']+2047)//2048)*2352))
     with new.open('rb') as a,old.open('rb') as b:
-        same_range(a,b,0,start)
-        same_range(a,b,end,new.stat().st_size)
+        cursor=0
+        for first,last in sorted(excluded):
+            same_range(a,b,cursor,first)
+            cursor=last
+        same_range(a,b,cursor,new.stat().st_size)
+        if args.title_update:
+            a.seek(title['lba']*2352)
+            check_parity(a.read(((title['size']+2047)//2048)*2352))
         clips=[]
+        changed_ids=[]
         parity=[]
         checked=0
         for row in inv:
@@ -84,9 +103,12 @@ def main():
             size=(row['end_sector']-row['start_sector'])*2352
             a.seek(offset)
             inserted=a.read(size)
+            b.seek(offset)
+            previous=b.read(size)
+            if inserted!=previous:
+                changed_ids.append(i)
             if i not in selected:
-                b.seek(offset)
-                assert inserted==b.read(size),('Unedited movie changed',i)
+                assert inserted==previous,('Unedited movie changed',i)
                 continue
             expected,report=movie_patch.validate(selected[i],row)
             assert inserted==expected,('Inserted stream differs',i)
@@ -119,9 +141,14 @@ def main():
             checked+=len(parity)
     with new.open('rb') as image:
         bin_hash=hashlib.file_digest(image,'sha256').hexdigest()
+    if args.changed_ids:
+        assert changed_ids==sorted(int(i) for i in args.changed_ids.split(',')),changed_ids
     result={'version':args.version,'baseline':args.baseline,'all_checks_passed':True,
             'disc_size':new.stat().st_size,'disc_directory_and_all_lbas_unchanged':True,
-            'all_nonmovie_disc_bytes_identical':True,'unchanged_movie_count':len(inv)-len(selected),
+            'all_nonmovie_disc_bytes_identical':not args.title_update,
+            'nonmovie_exception':'Exact automatic MAPMAIN title stamp only' if args.title_update else None,
+            'all_other_disc_bytes_identical':True,'changed_movie_ids_from_baseline':changed_ids,
+            'unchanged_movie_count':len(inv)-len(changed_ids),
             'movie_edc_ecc_sectors_verified':checked,'movies':clips,
             'bin_sha256':bin_hash,'emulator_verified':False}
     (OUT/('STT2001_EN_v%s_movie_verification.json'%args.version)).write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8')

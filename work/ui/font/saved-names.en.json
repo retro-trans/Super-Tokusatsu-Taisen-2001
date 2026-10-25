@@ -1,0 +1,23 @@
+{
+ "version": "0.3.32",
+ "report": "Corrupted related character names after Skies font change",
+ "user_save_origin": "Before v0.3.30 font change, confirmed by user",
+ "reported": [
+  "reported_saved_names_hero.png",
+  "reported_saved_names_heroine.png"
+ ],
+ "expected": [
+  "Sakomizu Takuma",
+  "Saki"
+ ],
+ "name_fields": {
+  "hero_surname": "state+0x24E, 8 codes",
+  "hero_given": "state+0x272, 5 codes",
+  "heroine_surname": "state+0x260, 8 codes",
+  "heroine_given": "state+0x27E, 5 codes"
+ },
+ "fix": "Keep public token IDs stable and calculate font widths independently",
+ "save_bytes_rewritten": false,
+ "comparison": "saved-names-v0.3.32.png",
+ "comparison_is_emulator_capture": false
+}

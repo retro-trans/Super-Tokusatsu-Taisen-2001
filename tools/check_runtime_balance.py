@@ -297,6 +297,10 @@ def verify(exe, db=None, support_stronger=False, story_labels=False):
         _,menu_info=difficulty_menu.patch_exe(exe,True,support_stronger=support_stronger,story_labels=story_labels)
         ml={k:int(v,16) for k,v in menu_info['labels'].items()}
         data_ranges.extend([(ml['pending_choice'],ml['input']),(ml['row'],ml['draw'])])
+    if exe[mips.off(0x800DCE38):mips.off(0x800DCE38)+4]==b'F2X1':
+        import native_font2x
+        _,font_info=native_font2x.patch_exe(rb.patch_exe(mips.load(),support_stronger=True),True)
+        data_ranges.extend(tuple(int(v,16) for v in font_info[k]) for k in ('data_a','data_i','data_b'))
     for i,j in zip(instructions,instructions[1:]):
         if any(a<=i.address<b for a,b in data_ranges):
             continue

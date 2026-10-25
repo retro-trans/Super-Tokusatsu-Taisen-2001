@@ -9,8 +9,9 @@ DuckStation names a replacement after the VRAM write it replaces:
 
 Each 4bpp font pixel holds two 2-bit layers (F0 bits 0-1, F1 bits 2-3) and the
 CLUT row picks the layer and the colour, so every (sheet page, CLUT row, blend
-mode) gets its own image.  English glyph cells are re-rendered from Gen'ei
-LateGo at 4x with the same metrics as the 1x font (so the VWF widths still
+mode) gets its own image. English glyph cells use the selected font: Gen'ei
+LateGo vectors or the copied Rayblade/Skies masks, with the same advances as
+the 1x font (so the VWF widths still
 line up); all other cells (kana, icons, kanji) are upscaled with Scale4x.
 
 Pages written: MAPMAIN #7 pages 0-1 (EVENT #10 / MAPMAIN #25 hold the same
@@ -97,7 +98,12 @@ def scale4x(a):
 
 # ---------------------------------------------------------------- hi-res glyphs
 class HiFont:
-    def __init__(self):
+    def __init__(self,legacy=False):
+        meta = json.load(open(os.path.join(ROOT, "work", "font", "efont.json"), encoding="utf-8"))
+        self.bitmap=None
+        if not legacy and meta.get('font_family')=='rayblade-skies':
+            from rayblade_font import Font
+            self.bitmap=Font()
         fname, idx = V.FACES[V.DEFAULT_FACE]
         path = os.path.join(V.FONT_DIR, fname)
         self.lo = ImageFont.truetype(path, V.DEFAULT_SIZE, index=idx)
@@ -109,6 +115,7 @@ class HiFont:
 
     def char(self, ch):
         """(K*16 x K*12 level array) aligned like vwf_font.render_char's 1x cell."""
+        if self.bitmap is not None:return self.bitmap.hires(ch)
         if ch in self.cache:
             return self.cache[ch]
         cell = np.zeros((16 * K, 12 * K), np.uint8)
@@ -176,12 +183,14 @@ def hires_layers(pix, page, hf, role):
         import weapon_markers
         sub = weapon_markers.upscale_ex_base(sub)
     layers = [scale4x(sub & 3), scale4x(sub >> 2)]
+    if hf.meta.get('native_2x') and page==0 and role in ('main','encyc'):
+        layers[1]=np.repeat(np.repeat(sub>>2,K,axis=0),K,axis=1)
     if role in ("main", "encyc"):
         m = hf.meta
         for i, ch in enumerate(m["uni"]):
             _, ly, x, y = cell_xy(efont.UNI_FIRST + i)
             layers[ly][y * K:(y + 16) * K, x * K:(x + 12) * K] = shadow(hf.char(ch))
-        for i, s in enumerate(m["bi"]):
+        for i, s in enumerate([] if m.get('native_2x') else m["bi"]):
             _, ly, x, y = cell_xy(efont.BI_FIRST + i)
             layers[ly][y * K:(y + 16) * K, x * K:(x + 12) * K] = shadow(hf.string(s, 12))
         if role == "main":

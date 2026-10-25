@@ -60,13 +60,23 @@ def main():
     t0 = time.time()
     if "--keep-font" not in sys.argv:
         import efont
-        efont.build()
+        rayblade=tuple(map(int,version.split('.'))) >= (0,3,30)
+        efont.build(family='rayblade-skies' if rayblade else 'genei',keep_glyphs=rayblade,
+                    native_2x=tuple(map(int,version.split('.'))) >= (0,3,31),
+                    stable_encoding=tuple(map(int,version.split('.'))) >= (0,3,32))
     import insert
     import repack
     import vwf_patch
     files, tr = insert.build_all()
+    font_2x_report=None
+    if tuple(map(int,version.split('.'))) >= (0,3,31):
+        import native_font2x
+        native_font2x.patch_files(files,native_ui=tuple(map(int,version.split('.'))) >= (0,3,35))
     footer_report = title_footer.patch_files(files, version, balanced)
     ef = json.load(open(os.path.join(ROOT, "work", "font", "efont.json"), encoding="utf-8"))
+    assert ef.get('font_family','genei')==('rayblade-skies' if tuple(map(int,version.split('.'))) >= (0,3,30) else 'genei'), 'Font family/version mismatch; rebuild without --keep-font.'
+    assert bool(ef.get('native_2x'))==(tuple(map(int,version.split('.'))) >= (0,3,31)), 'Font renderer/version mismatch; rebuild without --keep-font.'
+    assert bool(ef.get('stable_encoding'))==(tuple(map(int,version.split('.'))) >= (0,3,32)), 'Font encoding/version mismatch; rebuild without --keep-font.'
     exe, tab = vwf_patch.patch_exe(open(os.path.join(DISC, "SLPS_028.63"), "rb").read(), ef["t_uni"], ef["t_bi"], ef["t_ex"])
     exe = insert.patch_exe_strings(exe, tr)
     exe = insert.patch_save_title(exe)
@@ -106,6 +116,8 @@ def main():
         original_exe = exe
         exe = balance.patch_exe(exe)
         balance_report = balance.verify(original_exe, exe)
+    if tuple(map(int,version.split('.'))) >= (0,3,31):
+        exe,font_2x_report=native_font2x.patch_exe(exe,report=True,transition_clip=tuple(map(int,version.split('.'))) >= (0,3,34),native_ui=tuple(map(int,version.split('.'))) >= (0,3,35))
     insert.check_default_names(files)
     files["SLPS_028.63"] = exe
     os.makedirs(os.path.join(ROOT, "work", "output"), exist_ok=True)
@@ -123,7 +135,7 @@ def main():
               "graphics": insert.GRAPHICS_REPORT, "title_footer": footer_report,
               "title_footer_verified": footer_verified,
               "movies": movies, "balance": balance_report, "save_slot_layout":save_slot_report, "difficulty_menu":difficulty_report, "difficulty_render":difficulty_render_report, "difficulty_menu":difficulty_report, "difficulty_render":difficulty_render_report,
-              "emulator_verified": False,
+              "native_font_2x":font_2x_report,"emulator_verified": False,
               "seconds": round(time.time() - t0)}
     json.dump(report, open(os.path.join(ROOT, "work", "output", name + "_report.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
