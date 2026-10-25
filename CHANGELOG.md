@@ -1,6 +1,7 @@
 # Changelog
 
 ## 0.9.0 (2026-10-25)
+- Release packaging revision: follow the SRW-Z release-note structure; credit pow as project lead and Karnik as playtester. Keep only original Japanese -> v0.9.0 and previous public v0.3.29 -> v0.9.0 patches. Retire three redundant direct upgrades, preserve catalog history and intermediate routes, and update matching instructions/checksums. Game image, retained patch bytes and tag remain unchanged. Future release preparation selects only the previous public version automatically.
 - Renumbered the completed v0.3.38 revision for public release. Both native title copies show v0.9.0 and github.com/retro-trans; retain the approved game content, gameplay, saves and movie/audio data.
 - Includes the Skies of Arcadia font port following Rayblade/Riot Stars, stable public saved-name codes, the same-speaker dialogue-clear repair, correct HP/EN digits on reused text slots, and readable weapon badges with restored shared palettes.
 - Includes the recovered opening-song lyrics, romaji and approved "We get rainbow!" refrain. Romaji and English use 16px native top/bottom insets, with matching 48px MP4 margins; original audio and lyric timing are preserved.

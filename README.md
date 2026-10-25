@@ -43,12 +43,11 @@ game image; a full disc is not distributed.
 | Your source image | Patch |
 |---|---|
 | Original Japanese SLPS-02863 single BIN (MODE2/2352) | `STT2001-English-v0.9.0.xdelta` |
-| Published English v0.3.6 BIN | `STT2001-English-v0.3.6-to-v0.9.0.xdelta` |
-| Published English v0.3.18 BIN | `STT2001-English-v0.3.18-to-v0.9.0.xdelta` |
-| Published English v0.3.27 BIN | `STT2001-English-v0.3.27-to-v0.9.0.xdelta` |
 | Published English v0.3.29 BIN | `STT2001-English-v0.3.29-to-v0.9.0.xdelta` |
 
-All listed public versions can upgrade directly to v0.9.0.
+Each release includes only the original-disc patch and the previous-public-version
+upgrade. Older English builds can follow intermediate releases through Retro Trans
+Tools after refreshing its catalog, or start from the original Japanese disc.
 If applying a patch manually, name the output `STT2001_EN_v0.9.0.bin`.
 Download `STT2001_EN_v0.9.0.cue.txt` from the release, remove the final
 `.txt`, and place the resulting CUE beside the BIN.
@@ -198,7 +197,11 @@ Tsuburaya Pro, Senkosha, Hikari Pro and others).
 
 ## Credits
 
-English font: **Gen'ei LateGo P** by [okoneya](https://okoneya.jp/font/genei-latin.html)
+- **pow** — Project lead
+- **Karnik** — Playtester
+
+Native font: **Skies of Arcadia** by SEGA/Overworks, following the Seireiki
+Rayblade / Riot Stars implementation. Latin fallback: **Gen'ei LateGo P** by [okoneya](https://okoneya.jp/font/genei-latin.html)
 (SIL Open Font License 1.1, Latin glyphs from Linux Biolinum).
 
 Translation passes, tooling and reverse engineering were done with Claude
