@@ -1,6 +1,7 @@
 # Changelog
 
 ## 0.9.1 (2026-11-16)
+- Published v0.9.1 with exactly two bare patches and the matching font package. All 15 uploaded hashes/sizes, both patch round trips, official package-ID registration, Retro Trans Tools 0.5.23 release validation, full-catalog immutability and all eight latest routes verify. Source/tag: `249fa57314958be035bff823e3f24a8525d08d7e`. See `docs/releases/v0.9.1.md`.
 - Public release requested: package only original Japanese -> v0.9.1 and previous public v0.9.0 -> v0.9.1 patches, matching textures/instructions, checksums and verification. Retain the exact tested target image; register verified SLPS-02863 in the Retro Trans Tools game library and declare package IDs in the manifest.
 - Local test package: 920,441-byte bare v0.9.0 upgrade, matching 756-image font ZIP, CUE template, instructions, manifest/validation and checksums. Current Retro Trans Tools registration and complete-disc patch round trip pass; target SHA-256 `363356615fcca99fd595ed5f8ab866c1786b84a0b49fa2969c71d6a9db025c6e`. Source fixes: `c4555dd`; package remains local.
 - Fix all reports in open issues #2, #3 and #4, including their comments. Rename Lucifard to Luciferd throughout dialogue, glossary, hero selection, database, music/movie titles and the native Fusion Steel artwork. Translate Henshin as Transform/Transform! in dialogue, commands, traits and two movie captions; use Pops for Oyassan and Mr. Tachibana for the fuller address. Record the terminology decisions and update translator guidance.

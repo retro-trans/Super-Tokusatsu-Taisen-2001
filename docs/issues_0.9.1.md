@@ -1,8 +1,10 @@
 # Open-issue repair audit: v0.9.1
 
 Reviewed every open issue and comment on 2026-11-16: **#2, #3 and #4**.
-Changes are in a local test build. No release was requested and no issue
-comments or closure messages were posted.
+Initially prepared as a local test build; now published as
+[v0.9.1](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.1).
+See [the publication record](releases/v0.9.1.md). No issue comments or closure
+messages were posted.
 
 | Report | Repair | Verification |
 |---|---|---|
@@ -60,5 +62,5 @@ The current Retro Trans Tools builder accepts this game's existing registered
 package ID and round-trips the 920,441-byte patch against the complete BIN.
 Target SHA-256: `363356615fcca99fd595ed5f8ab866c1786b84a0b49fa2969c71d6a9db025c6e`.
 The font ZIP contains all 756 PNGs/configuration and the fallback license;
-its embedded README and all asset checksums verify. This package has not
-been uploaded as a GitHub release.
+its embedded README and all asset checksums verify. This initial test package remains local; the public release includes the
+original-disc patch and updated release instructions as well.
