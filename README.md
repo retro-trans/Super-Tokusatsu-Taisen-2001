@@ -17,12 +17,13 @@ and an ordinary in-game save if available.
 
 ## Play it
 
-The latest release is **[v0.9.0](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.0)**,
+The latest release is **[v0.9.1](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.1)**,
 with a full patch for the original Japanese disc and an upgrade from public
-English **v0.3.29**. It includes the new Skies of Arcadia font, saved-name
-repairs, fixed dialogue clearing, correct HP/EN digits, readable weapon
-badges and revised English/romaji opening subtitles. Original audio is
-preserved. See the release notes for verification and remaining issues.
+English **v0.9.0**. It corrects Luciferd's name, restores complete Evade/Defend
+labels, fixes upgrade and Stats overlaps, changes Continued to Continue,
+and translates Henshin/Oyassan as Transform/Pops. The two affected movie
+captions are updated with original audio and timing preserved. See the
+[repair audit](docs/issues_0.9.1.md) and release notes for verification limits.
 
 ### Apply
 
@@ -40,24 +41,24 @@ For CHD extraction, `chdman` comes with [MAME](https://www.mamedev.org/release.h
 you do not need to install or run MAME.
 
 You need your own Japanese disc image or the exact published English
-v0.3.29 output. Each release includes only the original-to-current and
+v0.9.0 output. Each release includes only the original-to-current and
 previous-public-to-current patches.
 
 | Your source image | Patch |
 |---|---|
-| Original Japanese SLPS-02863, single MODE2/2352 BIN | `STT2001-English-v0.9.0.xdelta` |
-| Published English v0.3.29 BIN | `STT2001-English-v0.3.29-to-v0.9.0.xdelta` |
+| Original Japanese SLPS-02863, single MODE2/2352 BIN | `STT2001-English-v0.9.1.xdelta` |
+| Published English v0.9.0 BIN | `STT2001-English-v0.9.0-to-v0.9.1.xdelta` |
 
 **Original Japanese disc:**
 
 ```sh
-xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.9.0.xdelta "STT2001_EN_v0.9.0.bin"
+xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.9.1.xdelta "STT2001_EN_v0.9.1.bin"
 ```
 
-**Already on public v0.3.29?** Use the smaller upgrade patch:
+**Already on public v0.9.0?** Use the smaller upgrade patch:
 
 ```sh
-xdelta3 -d -s "STT2001_EN_v0.3.29.bin" STT2001-English-v0.3.29-to-v0.9.0.xdelta "STT2001_EN_v0.9.0.bin"
+xdelta3 -d -s "STT2001_EN_v0.9.0.bin" STT2001-English-v0.9.0-to-v0.9.1.xdelta "STT2001_EN_v0.9.1.bin"
 ```
 
 Older English versions can follow intermediate public upgrades through
@@ -71,11 +72,11 @@ Both patches produce the same 725,316,816-byte image:
 | Image | SHA-256 |
 |---|---|
 | Original Japanese BIN | `219d9c4f64caf670b5e400612fa19677ed9a3f59a7ebdb72c12c425412795465` |
-| English v0.9.0 BIN | `000762aaaa9b16416546e4c11e97177175bd4a5be95155b2ab262c7243d82c8a` |
+| English v0.9.1 BIN | `363356615fcca99fd595ed5f8ab866c1786b84a0b49fa2969c71d6a9db025c6e` |
 
-For manual patching, download `STT2001_EN_v0.9.0.cue.txt` from the release,
+For manual patching, download `STT2001_EN_v0.9.1.cue.txt` from the release,
 remove the final `.txt`, and place the resulting CUE beside
-`STT2001_EN_v0.9.0.bin`. Cold boot the CUE, then load an ordinary in-game
+`STT2001_EN_v0.9.1.bin`. Cold boot the CUE, then load an ordinary in-game
 save. Old emulator save states retain the previous executable and text in
 RAM. PSP users can convert the patched BIN/CUE with their usual PS1 EBOOT
 workflow.
@@ -89,7 +90,7 @@ chdman extractcd -i "your-game.chd" -o game.cue -ob game.bin
 ### Sharper font (optional, DuckStation)
 
 The native font is included in the patches. The optional
-**STT2001-4x-font-pack-v0.9.0.zip** provides matching 4x replacements in
+**STT2001-4x-font-pack-v0.9.1.zip** provides matching 4x replacements in
 every text colour.
 
 1. In DuckStation, open **Tools > Open Data Directory**.
@@ -102,7 +103,7 @@ every text colour.
 The configuration includes `MaxVRAMWriteSplits: true`, which is needed when
 story scenes overwrite part of the font sheet. Public v0.3.29 and older
 packs alone do not match this font. Local v0.3.35–v0.3.38 packs contain the
-same texture payload as v0.9.0. Text-only builds can share a pack; changes
+same texture payload as v0.9.1; the public v0.9.0 pack also matches. Text-only builds can share a pack; changes
 to font textures can require new replacement IDs. See
 [font implementation](docs/rayblade_font.md).
 
@@ -246,10 +247,9 @@ The README and release-note layout follow
 
 ## Status
 
-Local source build **v0.9.1** fixes the reports in issues #2–#4: Luciferd's
-name, response labels, upgrade/Stats overlaps, Continue and the English
-Transform/Pops wording. See [the repair audit](docs/issues_0.9.1.md).
-The latest public release remains v0.9.0 until a new release is published.
+Public **v0.9.1** fixes the reports in issues #2–#4. See
+[the repair audit](docs/issues_0.9.1.md) for native checks and remaining
+emulator/hardware confirmation.
 
 The text is translated end to end. Coverage counts below describe inserted
 English, not completed human proofreading or campaign testing.

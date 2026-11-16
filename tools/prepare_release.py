@@ -21,6 +21,9 @@ def main():
     parser.add_argument('--previous-version', help='Previous public release; default: newest lower version in the catalog')
     parser.add_argument('--baseline',default='0.3.38')
     parser.add_argument('--catalog',type=Path,help='Reviewed catalog override; default: current public catalog')
+    parser.add_argument('--library',type=Path,help='Reviewed game-library override; default: current public library')
+    parser.add_argument('--changed-movies',default='',help='Exact approved changed movie IDs relative to --baseline')
+    parser.add_argument('--opening-baseline',help='Reuse a checked opening review when that movie is unchanged')
     args=parser.parse_args();version=args.version
     import title_footer
     title_footer.validate_version(version)
@@ -30,14 +33,26 @@ def main():
         return json.loads((OUT/('STT2001_EN_v'+version+'_'+suffix+'.json')).read_text(encoding='utf-8'))
     movie=proof('movie_verification');public=proof('public_source_verification')
     font=proof('font_verification');runtime=proof('runtime_balance_verification');story=proof('stronger_verification')
-    native=proof('native_2x_verification');numbers=proof('native_ui_verification')
+    native=proof('native_2x_verification')
+    issues=proof('issue_verification') if tuple(map(int,version.split('.'))) >= (0,9,1) else None
+    numbers=issues if issues else proof('native_ui_verification')
     clear=proof('font_transition_verification');saved=proof('saved_name_font_verification')
-    opening=json.loads((OUT/('opening_song_review_v'+version)/'verification.json').read_text())
+    opening_version=args.opening_baseline or version
+    opening=json.loads((OUT/('opening_song_review_v'+opening_version)/'verification.json').read_text())
     assert movie['all_checks_passed'] and movie['all_other_disc_bytes_identical']
-    assert movie['baseline']==args.baseline and movie['changed_movie_ids_from_baseline']==[]
+    expected_movies=sorted(int(x) for x in args.changed_movies.split(',') if x)
+    assert movie['baseline']==args.baseline and movie['changed_movie_ids_from_baseline']==expected_movies
+    if args.opening_baseline:
+        assert args.opening_baseline==movie['baseline'] and 74 not in expected_movies
     assert public['public_english_only_build_matches'] and public['build_problems']==0
     assert font['texture_upload_ids_checked'] and font['dialogue_content_and_pointer_order_preserved']
-    assert native['full_pool_ordering_table_checked'] and numbers['small_number_packets_equal_original_native_drawer']
+    assert native['full_pool_ordering_table_checked']
+    if issues:
+        assert issues['version']==version and issues['native_numeric_reuse_cases']>=10
+        assert issues['executable_changes_only_two_pointers_and_reserved_labels']
+        assert issues['terminology']['no_old_terms_in_compiled_text']
+    else:
+        assert numbers['small_number_packets_equal_original_native_drawer']
     assert clear['crop_and_geometry_match_native_height']
     assert runtime['native_save_pack_checksum_and_load_roundtrip'] and story['stronger_save_checksum_load_roundtrip']
     assert story['native_retained_three_choice_sprites_checked']
@@ -48,12 +63,19 @@ def main():
     from retro_trans.release import build_release,validate_directory
     from retro_trans.core import sha256_file,Asset,parse_manifest,GitHubClient
     from retro_trans.catalog import Catalog, version_key
+    from retro_trans.game_library import validate_registration
     from release_notes import render_release_notes
     assert sha256_file(target)==movie['bin_sha256']
     catalog=Catalog(json.loads(args.catalog.read_text(encoding='utf-8')) if args.catalog else
                     GitHubClient().json('https://raw.githubusercontent.com/retro-trans/retro-trans-tools/main/retro_trans/resources/catalog.json'))
     config={'game_id':'super-tokusatsu-taisen-2001','game_name':'Super Tokusatsu Taisen 2001',
             'platform':'PS1','version':version,'source_commit':commit,'patches':[]}
+    library=json.loads(args.library.read_text(encoding='utf-8')) if args.library else GitHubClient().json(
+        'https://raw.githubusercontent.com/retro-trans/retro-trans-tools/main/retro_trans/resources/game-library.json')
+    registration=next(g for g in library['games'] if g['game_id']==config['game_id'] and
+                      g['repo']=='retro-trans/Super-Tokusatsu-Taisen-2001')
+    config['package_ids']=registration['package_ids']
+    validate_registration(config,registration['repo'],library)
     published={r['manifest']['version'] for r in catalog.data['releases']
                if r['manifest']['game_id']==config['game_id']
                and version_key(r['manifest']['version']) < version_key(version)}
@@ -71,7 +93,7 @@ def main():
     config_path=OUT/('release-config-v'+version+'.json');write(config_path,config)
     dest=OUT/('release-v'+version)
     print('Creating and round-trip checking %d public patches.'%len(sources),flush=True)
-    manifest=build_release(config_path,dest)
+    manifest=build_release(config_path,dest,library=library)
     assert all(p['target_sha256']==movie['bin_sha256'] for p in manifest['patches'])
     notes=render_release_notes(version,previous,movie['bin_sha256'],font['texture_images'])
     (dest/('README-v'+version+'.txt')).write_bytes(notes.encode('utf-8'))
@@ -82,8 +104,10 @@ def main():
     write(dest/'PUBLIC-SOURCE-VERIFICATION.json',public)
     write(dest/'FONT-VERIFICATION.json',font)
     write(dest/'UI-VERIFICATION.json',{'native_2x':native,'numeric_and_badges':numbers,'dialogue_clear':clear,'saved_names':saved})
+    if issues:write(dest/'ISSUE-VERIFICATION.json',issues)
     write(dest/'RUNTIME-VERIFICATION.json',{'gameplay_and_saves':runtime,'story_and_menu':story})
-    write(dest/'MOVIE-VERIFICATION.json',{'completed_disc':movie,'opening_review':opening})
+    write(dest/'MOVIE-VERIFICATION.json',{'completed_disc':movie,'opening_review':opening,
+                                        'opening_review_version':opening_version})
     folder=OUT/('STT2001_EN_v'+version+'_4x_font/SLPS-02863')
     paths={p.relative_to(folder).as_posix():p for p in folder.rglob('*') if p.is_file()}
     assert len(paths)==font['texture_images']+1

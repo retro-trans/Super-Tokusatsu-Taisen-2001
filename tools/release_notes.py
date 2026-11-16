@@ -2,9 +2,23 @@
 
 
 def render_release_notes(version, previous_version, target_sha256, texture_count):
+    issue_release=version=='0.9.1'
+    summary=('Version v{v} corrects Luciferd\'s name, repairs response/upgrade/Stats labels, and translates the remaining Henshin/Oyassan wording.' if issue_release else
+             'Version v{v} includes the new font, saved-name and dialogue repairs, and revised opening subtitles.').format(v=version)
+    changes=('''- **Luciferd corrected:** Replaces Lucifard in dialogue, hero selection, database, music/movie names and native Fusion Steel artwork ([#2](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues/2)).
+- **Full response labels:** Selected Evade and Defend now display their first letter and complete names, replacing the broken vd/rd labels (#2 comment).
+- **Stat overlaps repaired:** Max Lv. fits beside the upgrade limit; Eva./Acc. brackets no longer overlap bonuses or totals ([#3](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues/3)).
+- **Continue corrected:** Replaces Continued on the Intermission menu (#3 comment).
+- **English transformation/address wording:** Transform/Transform! replaces Henshin; Pops or Mr. Tachibana replaces Oyassan ([#4](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues/4)). Updated the two affected movie captions while preserving original audio and timing.
+- Retains the v0.9.0 font, saved-name and dialogue-clear repairs, opening English/romaji lyrics and Default/Gentle/Story modes. The title displays **v{v}** and **github.com/retro-trans**.'''
+             if issue_release else '''- **New native font:** Skies of Arcadia bitmap font using the Rayblade/Riot Stars approach, with a matching optional texture pack.
+- **Existing save names repaired:** Campaigns started before the font change retain their character names.
+- **Text rendering repaired:** Fixed flashing when dialogue clears, corrupt HP/EN digits from reused text slots, and weapon badges appearing as white blocks.
+- **Opening lyrics restored:** Added missing lines, romaji and the approved "We get rainbow!" refrain. English and romaji sit farther inside the picture to reduce edge clipping. Original audio is preserved.
+- Includes earlier translation/UI fixes and **Intermission > Difficulty: Default / Gentle / Story**. The title displays **v{v}** and **github.com/retro-trans**.''').format(v=version)
     return '''English translation of **Super Tokusatsu Taisen 2001** for PlayStation, Japanese release **SLPS-02863**.
 
-Version v{v} includes the new font, saved-name and dialogue repairs, and revised opening subtitles. Translation covers the game end to end; campaign playtesting and fluent review remain in progress.
+{summary} Translation covers the game end to end; campaign playtesting and fluent review remain in progress.
 
 ### Apply
 
@@ -43,11 +57,7 @@ Both patches produce the same 725,316,816-byte image. Output SHA-256: `{sha}`.
 
 ### What changed since v{previous}
 
-- **New native font:** Skies of Arcadia bitmap font using the Rayblade/Riot Stars approach, with a matching optional texture pack.
-- **Existing save names repaired:** Campaigns started before the font change retain their character names.
-- **Text rendering repaired:** Fixed flashing when dialogue clears, corrupt HP/EN digits from reused text slots, and weapon badges appearing as white blocks.
-- **Opening lyrics restored:** Added missing lines, romaji and the approved "We get rainbow!" refrain. English and romaji sit farther inside the picture to reduce edge clipping. Original audio is preserved.
-- Includes earlier translation/UI fixes and **Intermission > Difficulty: Default / Gentle / Story**. The title displays **v{v}** and **github.com/retro-trans**.
+{changes}
 
 ### Testing and known issues
 
@@ -68,7 +78,7 @@ A full campaign and emulator/PSP playback remain unverified. Some encyclopedia d
 3. Enable **Texture Cache** and **Texture Replacements**, then use 2x/4x internal resolution.
 4. Reload replacements or restart DuckStation.
 
-Public v0.3.29 and older packs alone do not match this font. Local v0.3.35-v0.3.38 packs contain the same texture payload. Native text also works without replacements.
+The v0.9.0 pack and local v0.3.35-v0.3.38 packs contain the same texture payload; an installed v0.9.0 pack already matches v0.9.1. Public v0.3.29 and older packs alone do not match this font. Native text also works without replacements.
 
 **Difficulty:** Default uses the original rules. Gentle gives 1.5x XP/rewards and +10% ally / -10% enemy attack and armor. Story gives 3x XP, 2x rewards and +25% ally / -25% enemy attack and armor. Both assistance modes give 25% cheaper S-unit / 50% cheaper L-unit upgrades and refill ammo at a fresh stage. HP/EN, movement, hit rates and saved base stats are unchanged. Circle applies, Cross cancels; the mode is saved. Switching back retains earned progress.
 
@@ -97,5 +107,5 @@ Bug reports, proofreading and playtesting are welcome through [GitHub issues](ht
 ---
 
 No game image is included. Use your own disc image. This fan translation is free; please do not sell it.
-'''.format(v=version, previous=previous_version, sha=target_sha256,
+'''.format(v=version, previous=previous_version, sha=target_sha256,summary=summary,changes=changes,
            count=texture_count)
