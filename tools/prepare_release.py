@@ -66,8 +66,13 @@ def main():
     from retro_trans.game_library import validate_registration
     from release_notes import render_release_notes
     assert sha256_file(target)==movie['bin_sha256']
-    catalog=Catalog(json.loads(args.catalog.read_text(encoding='utf-8')) if args.catalog else
-                    GitHubClient().json('https://raw.githubusercontent.com/retro-trans/retro-trans-tools/main/retro_trans/resources/catalog.json'))
+    catalog_data=json.loads(args.catalog.read_text(encoding='utf-8')) if args.catalog else GitHubClient().json(
+        'https://raw.githubusercontent.com/retro-trans/retro-trans-tools/main/retro_trans/resources/catalog.json')
+    # Source checks need this game's history only. Other projects can introduce
+    # newer manifest schemas without changing this game's reviewed BIN hashes.
+    repo='retro-trans/Super-Tokusatsu-Taisen-2001'
+    catalog=Catalog({'schema_version':1,**{key:[r for r in catalog_data.get(key,[]) if r['repo']==repo]
+                     for key in ('releases','withdrawn_releases')}})
     config={'game_id':'super-tokusatsu-taisen-2001','game_name':'Super Tokusatsu Taisen 2001',
             'platform':'PS1','version':version,'source_commit':commit,'patches':[]}
     library=json.loads(args.library.read_text(encoding='utf-8')) if args.library else GitHubClient().json(
