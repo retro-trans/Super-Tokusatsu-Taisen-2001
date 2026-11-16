@@ -48,5 +48,31 @@
     "MAT Station Control Room Officer": "MAT Control Room Officer",
     "Director (Alien Nackle in Disguise)": "Director (disguised Alien Nackle)",
     "Staffer (Alien Nackle in Disguise)": "Staffer (disguised Alien Nackle)"
-  }
+  },
+  "term_rewordings": [
+    [
+      "Lucifard",
+      "Luciferd"
+    ],
+    [
+      "Henshin",
+      "Transform"
+    ],
+    [
+      "O-Oyassan",
+      "P-Pops"
+    ],
+    [
+      "Oyassan Tachibana",
+      "Mr. Tachibana"
+    ],
+    [
+      "Oyassan",
+      "Pops"
+    ],
+    [
+      "Oyass…",
+      "Po…"
+    ]
+  ]
 }

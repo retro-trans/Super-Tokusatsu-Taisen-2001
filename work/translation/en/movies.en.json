@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0",
-  "preview_revision": 6,
-  "base_game_version": "0.3.38",
-  "purpose": "Native game subtitles and matching MP4 review",
+  "version": "0.9.1",
+  "preview_revision": 7,
+  "base_game_version": "0.9.0",
+  "purpose": "Native game terminology update; MP4 reviews have not been regenerated for this revision",
   "source_audio": "Original Japanese audio, preserved",
   "review": "Textual comparison of Whisper passes, game glossary and visible frames. Human listening review still required.",
   "credit_pages": [
@@ -453,7 +453,7 @@
     },
     {
       "id": 19,
-      "title": "Kikaider (Henshin)",
+      "title": "Kikaider (Transform)",
       "duration": 15.166667,
       "status": "Draft: distorted counting/transformation calls at 1.5-5.7 omitted pending a listening check.",
       "subtitles": [
@@ -474,21 +474,21 @@
     },
     {
       "id": 21,
-      "title": "Ultraman (Henshin)",
+      "title": "Ultraman (Transform)",
       "duration": 7.5,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 22,
-      "title": "Ultraseven (Henshin)",
+      "title": "Ultraseven (Transform)",
       "duration": 10.5,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 23,
-      "title": "Ultraman Jack (Henshin)",
+      "title": "Ultraman Jack (Transform)",
       "duration": 8.333333,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
@@ -569,21 +569,21 @@
     },
     {
       "id": 30,
-      "title": "Kamen Rider 1 (Henshin)",
+      "title": "Kamen Rider 1 (Transform)",
       "duration": 19.083333,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 31,
-      "title": "New Kamen Rider 1 (Henshin)",
+      "title": "New Kamen Rider 1 (Transform)",
       "duration": 10.5,
       "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
       "subtitles": [
         {
           "start": 2.17,
           "end": 5.45,
-          "en": "Rider Henshin!",
+          "en": "Rider Transform!",
           "voice_end": 4.95
         }
       ]
@@ -611,21 +611,21 @@
     },
     {
       "id": 34,
-      "title": "Kamen Rider 2 (Henshin)",
+      "title": "Kamen Rider 2 (Transform)",
       "duration": 13.583333,
       "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
       "subtitles": [
         {
           "start": 0.88,
           "end": 3.35,
-          "en": "Henshin!",
+          "en": "Transform!",
           "voice_end": 2.85
         }
       ]
     },
     {
       "id": 35,
-      "title": "New Kamen Rider 2 (Henshin)",
+      "title": "New Kamen Rider 2 (Transform)",
       "duration": 10.416667,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
@@ -653,7 +653,7 @@
     },
     {
       "id": 39,
-      "title": "Kamen Rider V3 (Henshin)",
+      "title": "Kamen Rider V3 (Transform)",
       "duration": 15.583333,
       "status": "Unresolved transformation shout: all Whisper passes unreliable; subtitles deliberately omitted.",
       "subtitles": []
@@ -667,21 +667,21 @@
     },
     {
       "id": 41,
-      "title": "Riderman (Henshin)",
+      "title": "Riderman (Transform)",
       "duration": 9.083333,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 42,
-      "title": "Kamen Rider BLACK (Henshin)",
+      "title": "Kamen Rider BLACK (Transform)",
       "duration": 23.5,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 43,
-      "title": "Kamen Rider BLACK RX (Henshin)",
+      "title": "Kamen Rider BLACK RX (Transform)",
       "duration": 17.0,
       "status": "Draft: Child of the Sun and Kamen Rider recognized; BLACK RX restored using the movie-list identity.",
       "subtitles": [
@@ -757,7 +757,7 @@
     },
     {
       "id": 50,
-      "title": "Lucifard (Fusion Steel On)",
+      "title": "Luciferd (Fusion Steel On)",
       "duration": 18.0,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
@@ -834,28 +834,28 @@
     },
     {
       "id": 61,
-      "title": "Kikaider 01 (Henshin)",
+      "title": "Kikaider 01 (Transform)",
       "duration": 13.5,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 62,
-      "title": "Hakaider (Henshin)",
+      "title": "Hakaider (Transform)",
       "duration": 5.5,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 63,
-      "title": "Bijinder, Enemy (Henshin)",
+      "title": "Bijinder, Enemy (Transform)",
       "duration": 17.166667,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 64,
-      "title": "Bijinder, Ally (Henshin)",
+      "title": "Bijinder, Ally (Transform)",
       "duration": 10.0,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []

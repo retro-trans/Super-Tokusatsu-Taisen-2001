@@ -19,7 +19,7 @@
  "U08764": "\"Sigh… you win, Mr. Oiwa…\" \"Hold on a minute here\"",
  "U12743": "\"Sounds fine to me, right?\" \"But there are the others…\"",
  "U12744": "\"Doesn't that sound fine?\" \"But there are the others…\"",
- "U13301": "\"Right, Oyassan's got a point!\" \"But still, even so…\"",
+ "U13301": "\"Right, Pops's got a point!\" \"But still, even so…\"",
  "U13978": "\"Cleared Stage 82: Guillotine gone\" \"Cleared Stage 63: Iron Mask gone\"",
  "U20987": "ABCDE FGHIJ KLMNO PQRST",
  "U20988": "UVWXY Z-.   01234 56789",
@@ -257,7 +257,7 @@
  "@MAPMAIN0002:11972": "Birugenia",
  "@MAPMAIN0002:21528": "Type 75 SP How.",
  "_doc_occ": "Keys \"@FILE:offset\" override one occurrence of the frozen dump only (map-window unit names shortened; the encyclopedia keeps the full name).",
- "U20965": "+       (       )",
+ "U20965": "+           (         )",
  "U20942": "{man}Grow{sword}Grow",
  "U20943": "{man}Grow{sword}Upg.",
  "U20944": "{man}Upg.{sword}Grow",
@@ -265,5 +265,7 @@
  "U21238": "<c3>Unit</c>",
  "U21239": "<c3>Wpn</c>",
  "U21193": " cleared",
- "U11024": "Move Red, Blue and Green next to Navaron. Defeat all Zolders and Black Cross Ninjas!"
+ "U11024": "Move Red, Blue and Green next to Navaron. Defeat all Zolders and Black Cross Ninjas!",
+ "U20872": "Continue",
+ "U20886": "<c3>Max Lv.</c>"
 }

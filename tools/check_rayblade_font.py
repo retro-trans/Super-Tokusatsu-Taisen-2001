@@ -15,11 +15,20 @@ ROOT=Path(__file__).resolve().parents[1]
 def main():
     p=argparse.ArgumentParser();p.add_argument('--version',default='0.3.30')
     p.add_argument('--movie-baseline',help='Approved movie revision to retain, independently of the font baseline')
+    p.add_argument('--movie-verification',type=Path,help='Independent completed-disc movie audit when captions intentionally change')
     a=p.parse_args()
     out=ROOT/'work/output';disc=out/('STT2001_EN_v'+a.version+'.bin');old=out/'STT2001_EN_v0.3.29.bin'
     nd,od=directory(disc),directory(old)
     movie_old=out/('STT2001_EN_v'+a.movie_baseline+'.bin') if a.movie_baseline else old
     movie_od=directory(movie_old)
+    movie_proof=json.loads(a.movie_verification.read_text(encoding='utf-8')) if a.movie_verification else None
+    if movie_proof:
+        assert movie_proof['all_checks_passed'] and movie_proof['version']==a.version
+        with disc.open('rb') as stream:
+            digest=hashlib.sha256()
+            for block in iter(lambda:stream.read(4*1024**2),b''):digest.update(block)
+        assert movie_proof['bin_sha256']==digest.hexdigest()
+        assert all(m['xa_audio_unchanged'] and m['native_decode_passed'] for m in movie_proof['movies'])
     archives={n:repack.dat_entries(read_file(disc,nd[n+'.DAT'])) for n in ('MAPMAIN','BATTLE','EVENT','STAGE')}
     mm,bt,ev=archives['MAPMAIN'],archives['BATTLE'],archives['EVENT']
     meta=json.loads((ROOT/'work/font/efont.json').read_text(encoding='utf-8'))
@@ -78,10 +87,12 @@ def main():
             dialogue.overlay(before,after,0x8434,'bquote',stats,old_reverse=old_reverse)
     unchanged=[]
     for name in ('SOUND.DAT','MOVIE.STR','VORTEX.XA','WAZA1.DAT','WAZA2.DAT','WAZA3.DAT','SYSTEM.CNF'):
+        if name=='MOVIE.STR' and movie_proof:continue
         reference,table=(movie_old,movie_od) if name=='MOVIE.STR' else (old,od)
         assert file_hash(reference,table[name])==file_hash(disc,nd[name]),name
         unchanged.append(name)
     for name in ('MOVIE.STR','VORTEX.XA'):
+        if name=='MOVIE.STR' and movie_proof:continue
         reference,table=(movie_old,movie_od) if name=='MOVIE.STR' else (old,od)
         assert table[name]==nd[name]
         remain=((nd[name]['size']+2047)//2048)*2352
@@ -127,7 +138,9 @@ def main():
         'all_prior_glyph_tokens_preserved':True,'completed_sheet_glyph_checks':checked,'font_copies':len(sheets),
         'native_vwf_glyph_cases':len(glyphs),'dialogue':dict(stats),
         'dialogue_content_and_pointer_order_preserved':True,'unchanged_files':unchanged,
-        'raw_movie_and_audio_sectors_unchanged':True,'movie_baseline':a.movie_baseline or '0.3.29',
+        'approved_term_rewordings':dialogue.EDITS.get('term_rewordings',[]),
+        'raw_movie_and_audio_sectors_unchanged':not bool(movie_proof),'movie_baseline':a.movie_baseline or '0.3.29',
+        'intentional_movie_changes_verified':bool(movie_proof),
         'texture_images':len(pngs),'texture_upload_ids_checked':True,
         'exact_source_texture_core_checks':core_checks,'emulator_playtest':False}
     dest=out/('STT2001_EN_v'+a.version+'_font_verification.json');dest.write_bytes((json.dumps(report,indent=1)+'\n').encode())

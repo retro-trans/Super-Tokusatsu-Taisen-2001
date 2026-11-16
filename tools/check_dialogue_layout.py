@@ -56,6 +56,8 @@ def content(words,reverse=None):
         text = text.replace(re.sub(r"\s+", "", before), re.sub(r"\s+", "", after))
     for before, after in EDITS.get("speaker_display", {}).items():
         text = text.replace(re.sub(r"\s+", "", before), re.sub(r"\s+", "", after))
+    for before, after in EDITS.get("term_rewordings", []):
+        text = text.replace(re.sub(r"\s+", "", before), re.sub(r"\s+", "", after))
     return text
 
 

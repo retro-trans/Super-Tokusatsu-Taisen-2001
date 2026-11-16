@@ -43,7 +43,7 @@
   },
   {
    "uid": "U10029",
-   "en": "That was a splendid fight, Lucifard! And the rest of you as well…<p>Today… there's something I simply must let you all know.<p>And so I came all the way to this filthy little place."
+   "en": "That was a splendid fight, Luciferd! And the rest of you as well…<p>Today… there's something I simply must let you all know.<p>And so I came all the way to this filthy little place."
   },
   {
    "uid": "U10030",
@@ -63,7 +63,7 @@
   },
   {
    "uid": "U10034",
-   "en": "Don't be hasty… The time for our duel has not yet come!<p>But… with this, our groundwork is complete.<p>From now on… we will carry out the \"Gaia Project\" exactly as our great Steel Emperor Zephas intends!<p>Be ready, Lucifard! Far beyond anything your power can reach, the Earth will sink into a planet filled with terror and chaos…"
+   "en": "Don't be hasty… The time for our duel has not yet come!<p>But… with this, our groundwork is complete.<p>From now on… we will carry out the \"Gaia Project\" exactly as our great Steel Emperor Zephas intends!<p>Be ready, Luciferd! Far beyond anything your power can reach, the Earth will sink into a planet filled with terror and chaos…"
   },
   {
    "uid": "U10035",
@@ -87,7 +87,7 @@
   },
   {
    "uid": "U10040",
-   "en": "Damn it… Oyassan, we're heading out!"
+   "en": "Damn it… Pops, we're heading out!"
   },
   {
    "uid": "U10041",
@@ -95,7 +95,7 @@
   },
   {
    "uid": "U10042",
-   "en": "Wha… Oyassan!"
+   "en": "Wha… Pops!"
   },
   {
    "uid": "U10043",
@@ -328,7 +328,7 @@
   "uncertain": [
    "U10019: narration-kind row is a reported line with no speaker (page 1 seems lost); written as speech.",
    "U10024-U10025: Tobei's line cut off by Apfaron's arrival; the second row is narration-kind but continues the speech.",
-   "U10029/U10034: Apfaron addresses [HERO2] as \"Lucifard\"; kept as written.",
+   "U10029/U10034: Apfaron addresses [HERO2] as \"Luciferd\"; kept as written.",
    "U10034: ［ガイア計両］ read as ガイア計画 \"Gaia Project\"; full-width brackets replaced with double quotes.",
    "U10047: Chief Kitakura uses feminine speech here (なの); \"Ms. Kitakura\" used in U10048 on that basis.",
    "U10054/U10059: ペット read as slang for trumpet (Ichiro's trumpet).",

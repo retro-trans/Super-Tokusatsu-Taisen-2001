@@ -171,7 +171,7 @@
   },
   {
    "uid": "U12863",
-   "en": "Masaru did? Really? I'm so glad!<p> \"Thank you, Nobuhiko…\"<p> Oyassan… I'm kind of starving. Could you make me the usual?"
+   "en": "Masaru did? Really? I'm so glad!<p> \"Thank you, Nobuhiko…\"<p> Pops… I'm kind of starving. Could you make me the usual?"
   },
   {
    "uid": "U12864",
@@ -243,7 +243,7 @@
   },
   {
    "uid": "U12881",
-   "en": "Aha… Sorry. I'll be more careful from now on!<p> More importantly, Oyassan… I'm kind of starving. Could you make me the usual?"
+   "en": "Aha… Sorry. I'll be more careful from now on!<p> More importantly, Pops… I'm kind of starving. Could you make me the usual?"
   },
   {
    "uid": "U12882",
@@ -326,7 +326,7 @@
   "rows_in_slice": 80,
   "rows_examined": 80,
   "uncertain": [
-   "U12836-U12843: same line given to HERO2/HERO4 and to Lucifard, Fadita, Velvet, Vortex speaker tags (route/pilot variants); translated identically, only the interjection differs (うそ = 'No way', え = 'Huh').",
+   "U12836-U12843: same line given to HERO2/HERO4 and to Luciferd, Fadita, Velvet, Vortex speaker tags (route/pilot variants); translated identically, only the interjection differs (うそ = 'No way', え = 'Huh').",
    "U12852: narration row continues Shadow Moon's line from U12851 (split row); written as continuation without speaker.",
    "U12854: read 可いは as 或いは ('may be even stronger than I').",
    "U12889: TDF is not in the glossary; kept as acronym.",

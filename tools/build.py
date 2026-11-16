@@ -118,6 +118,9 @@ def main():
         balance_report = balance.verify(original_exe, exe)
     if tuple(map(int,version.split('.'))) >= (0,3,31):
         exe,font_2x_report=native_font2x.patch_exe(exe,report=True,transition_clip=tuple(map(int,version.split('.'))) >= (0,3,34),native_ui=tuple(map(int,version.split('.'))) >= (0,3,35))
+    if tuple(map(int,version.split('.'))) >= (0,9,1):
+        import issue_ui
+        exe = issue_ui.patch_exe(exe)
     insert.check_default_names(files)
     files["SLPS_028.63"] = exe
     os.makedirs(os.path.join(ROOT, "work", "output"), exist_ok=True)

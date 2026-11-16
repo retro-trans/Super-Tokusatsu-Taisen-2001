@@ -61,6 +61,7 @@ def main():
     p.add_argument('baseline',nargs='?',default='0.3.4')
     p.add_argument('--title-update',action='store_true',help='Allow only the exact automatic title-version stamp outside MOVIE.STR')
     p.add_argument('--changed-ids',help='Require exactly these movies to differ from baseline')
+    p.add_argument('--changed-files',default='',help='Additional changed files audited separately by native/public-source checks')
     args=p.parse_args()
     new=OUT/('STT2001_EN_v%s.bin'%args.version)
     old=OUT/('STT2001_EN_v%s.bin'%args.baseline)
@@ -75,6 +76,11 @@ def main():
     start=nd['MOVIE.STR']['lba']*2352
     end=start+inv[-1]['end_sector']*2352
     excluded=[(start,end)]
+    permitted=args.changed_files.split(',') if args.changed_files else []
+    assert len(set(permitted))==len(permitted) and all(n in nd and n!='MOVIE.STR' for n in permitted)
+    for name in permitted:
+        item=nd[name]
+        excluded.append((item['lba']*2352,(item['lba']+(item['size']+2047)//2048)*2352))
     if args.title_update:
         from check_graphics_build import read_file
         import title_footer
@@ -140,13 +146,26 @@ def main():
             check_parity(b''.join(parity))
             checked+=len(parity)
     with new.open('rb') as image:
+        # Native/content changes are allowed only at the explicitly named files.
+        # Verify their complete raw sectors as well as the changed movie sectors.
+        for name in permitted:
+            item=nd[name]
+            remain=((item['size']+2047)//2048)*2352
+            image.seek(item['lba']*2352)
+            while remain:
+                size=min(remain,4096*2352)
+                check_parity(image.read(size))
+                remain-=size
+            checked+=(item['size']+2047)//2048
+        image.seek(0)
         bin_hash=hashlib.file_digest(image,'sha256').hexdigest()
     if args.changed_ids:
         assert changed_ids==sorted(int(i) for i in args.changed_ids.split(',')),changed_ids
     result={'version':args.version,'baseline':args.baseline,'all_checks_passed':True,
             'disc_size':new.stat().st_size,'disc_directory_and_all_lbas_unchanged':True,
-            'all_nonmovie_disc_bytes_identical':not args.title_update,
-            'nonmovie_exception':'Exact automatic MAPMAIN title stamp only' if args.title_update else None,
+            'all_nonmovie_disc_bytes_identical':not args.title_update and not permitted,
+            'nonmovie_exception':permitted or ('Exact automatic MAPMAIN title stamp only' if args.title_update else None),
+            'separately_audited_changed_files':permitted,
             'all_other_disc_bytes_identical':True,'changed_movie_ids_from_baseline':changed_ids,
             'unchanged_movie_count':len(inv)-len(changed_ids),
             'movie_edc_ecc_sectors_verified':checked,'movies':clips,

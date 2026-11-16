@@ -219,7 +219,7 @@
   },
   {
    "uid": "U10715",
-   "en": "The Alien Pedan?<p>Heh heh heh… You did well to win them over. I look forward to how the battle unfolds…<p>By the way, my son… what of Lucifard? Has he still not been found?"
+   "en": "The Alien Pedan?<p>Heh heh heh… You did well to win them over. I look forward to how the battle unfolds…<p>By the way, my son… what of Luciferd? Has he still not been found?"
   },
   {
    "uid": "U10716",
@@ -315,7 +315,7 @@
   },
   {
    "uid": "U10739",
-   "en": "You, Oyassan!?"
+   "en": "You, Pops!?"
   },
   {
    "uid": "U10740",
@@ -330,11 +330,11 @@
    "U10681: 戦力となろう placed as \"as your forces\".",
    "U10709: whole-line 『』 thought rendered as ( ).",
    "U10714/U10715: ペダン星人 \"the Alien Pedan\" treated as a group (\"win them over\").",
-   "U10715-U10719: Zephas calls Lucifard (= [HERO2]) his son; Atefarina calls Zephas \"Father\" and Apfaron is her brother. Translated as written.",
+   "U10715-U10719: Zephas calls Luciferd (= [HERO2]) his son; Atefarina calls Zephas \"Father\" and Apfaron is her brother. Translated as written.",
    "U10717: デキの悪い子ほど可愛い rendered as the proverb \"the worse a child turns out, the dearer he is\".",
    "U10724: ドロシーさん rendered \"Ms. Dorothy\".",
    "U10728: Tobei's 親父さん rendered \"old man\" (colloquial father).",
-   "U10735: \"the sins he committed\" - [HERO2]'s acts as Lucifard."
+   "U10735: \"the sins he committed\" - [HERO2]'s acts as Luciferd."
   ],
   "omissions_kept": [
    "U10727: Anderson's bare \"はい…\" kept as \"Yes…\"."

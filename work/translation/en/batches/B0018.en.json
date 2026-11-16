@@ -103,7 +103,7 @@
    "uid": "U01384",
    "kind": "dialogue",
    "src": "stage",
-   "speaker_en": "Lucifard"
+   "speaker_en": "Luciferd"
   },
   {
    "uid": "U01385",
@@ -121,7 +121,7 @@
    "uid": "U01387",
    "kind": "dialogue",
    "src": "stage",
-   "speaker_en": "Lucifard"
+   "speaker_en": "Luciferd"
   },
   {
    "uid": "U01388",
@@ -139,7 +139,7 @@
    "uid": "U01390",
    "kind": "dialogue",
    "src": "stage",
-   "speaker_en": "Lucifard"
+   "speaker_en": "Luciferd"
   },
   {
    "uid": "U01391",
@@ -163,7 +163,7 @@
    "uid": "U01394",
    "kind": "dialogue",
    "src": "stage",
-   "speaker_en": "Lucifard"
+   "speaker_en": "Luciferd"
   },
   {
    "uid": "U01395",
@@ -181,7 +181,7 @@
    "uid": "U01397",
    "kind": "dialogue",
    "src": "stage",
-   "speaker_en": "Lucifard"
+   "speaker_en": "Luciferd"
   },
   {
    "uid": "U01398",
@@ -433,7 +433,7 @@
    "uid": "U01439",
    "kind": "dialogue",
    "src": "stage",
-   "speaker_en": "Lucifard"
+   "speaker_en": "Luciferd"
   },
   {
    "uid": "U01440",
@@ -481,7 +481,7 @@
    "uid": "U01447",
    "kind": "dialogue",
    "src": "stage",
-   "speaker_en": "Lucifard"
+   "speaker_en": "Luciferd"
   }
  ]
 }

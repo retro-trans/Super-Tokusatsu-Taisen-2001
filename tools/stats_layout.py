@@ -11,7 +11,10 @@ POSITIONS = [
     (0x9B12C, 0x7552, 0x7554),  # Eva. bonus: 164 -> 168
     (0x9B130, 0x8D52, 0x8D54),  # Acc. bonus
 ]
-PUNCTUATION = '+       (       )'
+# Current Skies space advances 3px; the old 7-space gaps were for GenEi.
+# At x=156 these place the brackets at 195/225, clear of the 24px values
+# at 168..192 and 200..224. Token pairs must retain the same total advance.
+PUNCTUATION = '+           (         )'
 
 
 def patch_exe(exe):

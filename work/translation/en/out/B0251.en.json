@@ -39,7 +39,7 @@
   },
   {
    "uid": "U20049",
-   "en": "Lucifard"
+   "en": "Luciferd"
   },
   {
    "uid": "U20050",
@@ -327,7 +327,7 @@
   "rows_examined": 80,
   "uncertain": [
    "U20040: entry title not in batch (Raijingo, from context)",
-   "U20050: fragment continuing the Lucifard entry whose start is not in this batch",
+   "U20050: fragment continuing the Luciferd entry whose start is not in this batch",
    "U20054: 100百馬力 read as 10,000 hp; 一嬉ボルト read as 1億 = 100 million volts",
    "Menu rows (unit list): numbered units ① etc. rendered with digits; 式 abbreviated 'T' (T90 Tank 1, T89 IFV, T75 SPH = Type 75 SP Howitzer, T01 Beam = Type 01 Twin Beam Gun, T87 AA Gun); （試） = prototype '(P)'; （飛） flying form = 'F' suffix; （変） transformed = '(T)'",
    "U20087/U20090: 海城剛/大岩大太 shortened to surnames 'Kaijo'/'Oiwa' to fit 36/48px",

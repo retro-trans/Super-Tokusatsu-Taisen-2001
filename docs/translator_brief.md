@@ -13,7 +13,7 @@ A turn-based crossover strategy game (like Super Robot Wars) with Showa-era toku
 There are also original characters:
 - The player's UCMA unit: Captain Sawa, Chief Kitakura and the officers.
 - The player's hero and heroine: [HERO1] [HERO2] / [HERO3] [HERO4].
-- The invaders of the space fortress Naager: Lucifard and Fadita.
+- The invaders of the space fortress Naager: Luciferd and Fadita.
 - Steel Emperor Zephas and his people: Apfaron and Atefarina.
 
 You translate the Japanese script into English. Everything you need is in this repo.
@@ -69,10 +69,10 @@ Include every row of the batch, with the same `uid`.
 - If a name is not in the glossary, romanize it (modified Hepburn; people in given-name-then-family-name order). Put it in `new_names`.
 - Name conventions:
   - Ranks and titles: 隊長 = Captain, 博士 = Dr., 長官 = Director, 参謀 = Staff Officer.
-  - The Riders call Tobei Tachibana "Oyassan".
+  - The Riders call Tobei Tachibana "Pops". Use "Mr. Tachibana" for the fuller address, not the untranslated "Oyassan".
   - The Science Patrol call Muramatsu "Cap".
   - Drop -san, -kun and -chan unless they carry meaning.
-- Shouted transformation calls stay as the show's words: 変身 → "Henshin!", 蒸着 → "Johchaku!", 赤射 → "Sekisha!", 焼結 → "Shoketsu!". In narration, "transform" is fine.
+- Translate 変身 as "Transform!" when shouted and "transform" in narration/menu actions. Other named calls retain the existing wording: 蒸着 → "Johchaku!", 赤射 → "Sekisha!", 焼結 → "Shoketsu!".
 - When attack names are shouted, use the glossary spelling ("Rider Kick!").
 
 ## Known text noise

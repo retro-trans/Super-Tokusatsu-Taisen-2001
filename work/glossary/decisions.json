@@ -1,6 +1,30 @@
 {
  "decisions": [
   {
+   "term": "Original Metal Hero name",
+   "previous": "Lucifard",
+   "english": "Luciferd",
+   "reason": "Maintainer-confirmed correction in issue #2. This game's original character has no applicable SRW MX/Akurasu entry; update dialogue, glossary, UI, music/movie names and artwork consistently.",
+   "source": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues/2",
+   "version": "0.9.1"
+  },
+  {
+   "term": "Transformation command and call",
+   "previous": "Henshin",
+   "english": "Transform",
+   "reason": "English localization requested in issue #4 and authorized by the user's request to fix all open issues. Translate the call, UI/trait labels and movie captions; preserve original spoken audio and subtitle timing. This supersedes the previous keep-the-call translator guidance; no Akurasu term is overridden.",
+   "source": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues/4",
+   "version": "0.9.1"
+  },
+  {
+   "term": "Tachibana's familiar form of address",
+   "previous": "Oyassan",
+   "english": "Pops / Mr. Tachibana",
+   "reason": "Issue #4 requests a natural English address. Pops preserves the Riders' familiar paternal nickname; the fuller Oyassan Tachibana becomes Mr. Tachibana. Preserve a stammer as P-Pops. No applicable Akurasu entry is overridden.",
+   "source": "https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues/4",
+   "version": "0.9.1"
+  },
+  {
    "term": "Shocker's spider monster",
    "previous": "Spider Man",
    "english": "Man Spider",

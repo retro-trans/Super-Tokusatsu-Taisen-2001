@@ -280,7 +280,7 @@
   "note": ""
  },
  "おやっさん": {
-  "en": "Oyassan",
+  "en": "Pops",
   "kind": "term",
   "note": "what the Riders call Tobei Tachibana"
  },
@@ -2417,7 +2417,7 @@
  "ファディータ": {
   "en": "Fadita",
   "kind": "original villain",
-  "note": "Lucifard's subordinate"
+  "note": "Luciferd's subordinate"
  },
  "ファラ": {
   "en": "Farra",
@@ -3080,7 +3080,7 @@
   "note": ""
  },
  "ルシファード": {
-  "en": "Lucifard",
+  "en": "Luciferd",
   "kind": "original villain",
   "note": "leader of the Naager invaders; 黒騎士/轟機鋼 titles"
  },
@@ -3895,9 +3895,9 @@
   "note": "土田 (glyph variant)"
  },
  "変身": {
-  "en": "Henshin",
+  "en": "Transform",
   "kind": "term",
-  "note": "transformation call; use \"Henshin!\" when shouted, \"transform\" in narration"
+  "note": "transformation call; use \"Transform!\" when shouted, \"transform\" in narration"
  },
  "大作そっくりな模型": {
   "en": "Daisaku Look-alike Model",
@@ -4912,7 +4912,7 @@
  "立花藤兵衛": {
   "en": "Tobei Tachibana",
   "kind": "Kamen Rider",
-  "note": "\"Oyassan\" (Pops) to the Riders"
+  "note": "\"Pops\" (Pops) to the Riders"
  },
  "竜巻": {
   "en": "Tornado",
@@ -5070,7 +5070,7 @@
   "note": "the hero's Vol armor material/name"
  },
  "融機鋼 ルシファード": {
-  "en": "Lucifard, the Fusion Steel",
+  "en": "Luciferd, the Fusion Steel",
   "kind": "original",
   "note": ""
  },
@@ -5305,7 +5305,7 @@
   "note": "= 融機鋼 (glyph misread)"
  },
  "轟機鋼 ルシファード": {
-  "en": "Lucifard, the Fusion Steel",
+  "en": "Luciferd, the Fusion Steel",
   "kind": "original",
   "note": "decoded 轟 is really 融 (the logo art reads 融機鋼)"
  },
@@ -5640,7 +5640,7 @@
   "note": ""
  },
  "黒騎士ルシファード": {
-  "en": "Black Knight Lucifard",
+  "en": "Black Knight Luciferd",
   "kind": "original villain",
   "note": ""
  },

@@ -246,6 +246,11 @@ The README and release-note layout follow
 
 ## Status
 
+Local source build **v0.9.1** fixes the reports in issues #2–#4: Luciferd's
+name, response labels, upgrade/Stats overlaps, Continue and the English
+Transform/Pops wording. See [the repair audit](docs/issues_0.9.1.md).
+The latest public release remains v0.9.0 until a new release is published.
+
 The text is translated end to end. Coverage counts below describe inserted
 English, not completed human proofreading or campaign testing.
 

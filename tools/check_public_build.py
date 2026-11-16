@@ -65,6 +65,9 @@ def main():
     insert.check_default_names(files)
     if tuple(map(int,args.version.split('.'))) >= (0,3,31):
         exe=native_font2x.patch_exe(exe,transition_clip=tuple(map(int,args.version.split('.'))) >= (0,3,34),native_ui=tuple(map(int,args.version.split('.'))) >= (0,3,35))
+    if tuple(map(int,args.version.split('.'))) >= (0,9,1):
+        import issue_ui
+        exe = issue_ui.patch_exe(exe)
     files['SLPS_028.63']=exe
     assert not insert.PROBLEMS,insert.PROBLEMS
     build_name='STT2001_EN_v%s%s'%(args.version,'_balance' if args.balance else '')

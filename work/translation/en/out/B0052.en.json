@@ -326,7 +326,7 @@
   "rows_in_slice": 80,
   "rows_examined": 80,
   "uncertain": [
-   "U04114-U04146: repeated lines for the alternative hero units (Lucifard, Fadita, Vortex, Velvet) kept identical to the [HERO2]/[HERO4] versions.",
+   "U04114-U04146: repeated lines for the alternative hero units (Luciferd, Fadita, Vortex, Velvet) kept identical to the [HERO2]/[HERO4] versions.",
    "U04124/U04128: そんな / ウソ rendered as 'No!?' / 'Liar!?'.",
    "U04149/U04151/U04161: 『』 lines (Shinobu's inner voice) rendered in double quotes."
   ],

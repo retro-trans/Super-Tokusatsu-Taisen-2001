@@ -76,6 +76,9 @@ def main():
     p=argparse.ArgumentParser();p.add_argument('--version',default='0.3.31');p.add_argument('--verify',action='store_true');a=p.parse_args()
     out=ROOT/'work/output';base=out/'STT2001_EN_v0.3.30.bin';old=read_file(base,directory(base)['SLPS_028.63'])
     candidate,info=N.patch_exe(old,True,transition_clip=tuple(map(int,a.version.split('.'))) >= (0,3,34),native_ui=tuple(map(int,a.version.split('.'))) >= (0,3,35));labels={k:int(v,16) for k,v in info['labels'].items()}
+    if tuple(map(int,a.version.split('.'))) >= (0,9,1):
+        import issue_ui
+        candidate=issue_ui.patch_exe(candidate)
     target=out/('STT2001_EN_v'+a.version+'.bin')
     exe=read_file(target,directory(target)['SLPS_028.63']) if a.verify else candidate
     for start,end in [(N.A,N.LIMIT_A),(N.I,N.I+96),(N.B,N.LIMIT_B)]:

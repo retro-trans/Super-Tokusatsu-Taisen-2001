@@ -1,0 +1,26 @@
+{
+  "version": "0.9.1",
+  "reports": [2, 3, 4],
+  "preview_kind": "Offline reconstruction from native text objects and emitted GPU packets; not an emulator capture",
+  "stats_preview": "stats-v0.9.1.png",
+  "stats_preview_order": ["v0.9.0 above", "v0.9.1 below"],
+  "stats_rows_y": [117, 141],
+  "stats_fields": [
+    {"id": "base", "x": 130, "width": 24},
+    {"id": "plus", "x": 156, "width": 6},
+    {"id": "bonus", "x": 168, "width": 24},
+    {"id": "open_parenthesis", "x": 195, "width": 3},
+    {"id": "total", "x": 200, "width": 24},
+    {"id": "close_parenthesis", "x": 225, "width": 3}
+  ],
+  "upgrade_maximum": {
+    "caption": "Max Lv.", "x": 28, "y": 62, "width": 34,
+    "value_x": 68, "value_width": 16
+  },
+  "responses": [
+    {"text": "Evade", "pointer_file_offset": "0x9AD2C", "address": "0x800DD330", "allocation_bytes": 16},
+    {"text": "Defend", "pointer_file_offset": "0x9AD30", "address": "0x800DDFF0", "allocation_bytes": 16}
+  ],
+  "artwork_preview": "luciferd-v0.9.1.png",
+  "artwork_preview_kind": "Native TIM extracted from completed EVENT.DAT entry 230"
+}

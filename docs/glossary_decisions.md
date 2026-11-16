@@ -1,5 +1,13 @@
 # Glossary and style decisions
 
+## v0.9.1 issue corrections (2026-11-16)
+
+- [Issue #2](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues/2): use **Luciferd**, as confirmed by the maintainer, throughout dialogue, database, glossary, music/movie names and translated artwork. This original character has no applicable Akurasu SRW MX entry.
+- [Issue #4](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues/4): translate **Henshin** as **Transform** in commands, traits and movie captions, or **Transform!** in shouted dialogue. Keep original audio and caption timings. This supersedes the older untranslated-call guidance below.
+- Translate **Oyassan** as **Pops** for the Riders' familiar address, and **Oyassan Tachibana** as **Mr. Tachibana**. Keep the stammer as **P-Pops** and the interrupted call as **Po…**. The original Japanese lookup keys stay unchanged. No Akurasu entry is overridden.
+
+Machine-readable reasons are in `work/glossary/decisions.json`.
+
 ## Compact terrain labels (v0.3.10)
 
 The user requested readable labels within the existing one-glyph terrain slots. Unit and weapon terrain ratings now use AIR (Air), LND (Land), SEA (Sea), SPC (Space), KAI (Kaima World), GEN (Genmu World), and FUS (Fushigi World). These are display abbreviations for the existing terms; canonical glossary names are unchanged. Database-index aliases prevent the Air/Sea badges from replacing the full map terrain names that share their original strings. The Terrain heading uses two compact glyphs, preserving the 24px space before the first grade pair.

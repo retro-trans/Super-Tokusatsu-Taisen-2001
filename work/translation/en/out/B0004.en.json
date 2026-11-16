@@ -279,7 +279,7 @@
   },
   {
    "uid": "U00312",
-   "en": "Oyassan… Oyassan Tachibana!"
+   "en": "Pops… Mr. Tachibana!"
   },
   {
    "uid": "U00313",
@@ -303,7 +303,7 @@
   },
   {
    "uid": "U00318",
-   "en": "Thanks, Oyassan!"
+   "en": "Thanks, Pops!"
   },
   {
    "uid": "U00319",
@@ -333,7 +333,7 @@
    "U00273: what she heard is not shown (probably Hongo); kept 'did you hear that?'",
    "U00292: answers a line not in this batch (likely Hongo saying he was turned into a cyborg)",
    "U00303: narration row begins mid-text (leading space); treated as a standalone sentence",
-   "U00312: 立花のおやっさん rendered 'Oyassan Tachibana'",
+   "U00312: 立花のおやっさん rendered 'Mr. Tachibana'",
    "U00319: よろしくお願いします from heroine to Tachibana rendered as thanks, since he replies about being thanked"
   ],
   "omissions_kept": [],

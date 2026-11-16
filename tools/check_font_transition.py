@@ -103,6 +103,9 @@ def main():
     raw=out/'STT2001_EN_v0.3.30.bin';unpatched=read_file(raw,directory(raw)['SLPS_028.63'])
     native_ui=tuple(map(int,a.version.split('.'))) >= (0,3,35)
     candidate,info=N.patch_exe(unpatched,True,transition_clip=True,native_ui=native_ui)
+    if tuple(map(int,a.version.split('.'))) >= (0,9,1):
+        import issue_ui
+        candidate=issue_ui.patch_exe(candidate)
     target=out/('STT2001_EN_v'+a.version+'.bin')
     new=read_file(target,directory(target)['SLPS_028.63']) if a.verify else candidate
     assert new[mips.off(N.B):mips.off(N.LIMIT_B)]==candidate[mips.off(N.B):mips.off(N.LIMIT_B)]

@@ -109,7 +109,7 @@ def main():
                 cases.append({'command': hex(command), 'mode': mode, 'side': side, 'y': args[2]})
     battle = repack.dat_entries(read_file(new, nd['BATTLE.DAT']))
     words = next(ws for _, ws, _ in D.overlay_strings(battle[61], 0x8434)
-                 if content(ws) == 'LucifardComeforth,steelblade!UltrasonicBlade!!')
+                 if content(ws) == 'LuciferdComeforth,steelblade!UltrasonicBlade!!')
     bottom = c.text(words, 176)
     assert sorted({y for _, _, y in bottom}) == [176, 192, 208]
     top = c.text(words, 44)

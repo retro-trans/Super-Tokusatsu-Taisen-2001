@@ -199,11 +199,11 @@
   },
   {
    "uid": "U00129",
-   "en": "This is Gavan, advancing into the Solar System…<p>Near Jupiter, the Solar System's fifth planet, I've found the Galactic Union's S-class most wanted fugitive, Black Knight Lucifard!"
+   "en": "This is Gavan, advancing into the Solar System…<p>Near Jupiter, the Solar System's fifth planet, I've found the Galactic Union's S-class most wanted fugitive, Black Knight Luciferd!"
   },
   {
    "uid": "U00130",
-   "en": "Black Knight Lucifard?<p>Isn't he a top executive of the Battle Fleet Nation Naager, the space crime organization that manipulates all the evil in the universe from the shadows?<p>Gavan, will you be all right on your own?"
+   "en": "Black Knight Luciferd?<p>Isn't he a top executive of the Battle Fleet Nation Naager, the space crime organization that manipulates all the evil in the universe from the shadows?<p>Gavan, will you be all right on your own?"
   },
   {
    "uid": "U00131",
@@ -211,7 +211,7 @@
   },
   {
    "uid": "U00132",
-   "en": "Gavan…<p>All right! But be careful! Black Knight Lucifard is a dangerous man who wields the Roaring Steel…"
+   "en": "Gavan…<p>All right! But be careful! Black Knight Luciferd is a dangerous man who wields the Roaring Steel…"
   },
   {
    "uid": "U00133",
@@ -227,7 +227,7 @@
   },
   {
    "uid": "U00136",
-   "en": "You won't get away! Galactic Union S-class most wanted fugitive, Black Knight Lucifard!!"
+   "en": "You won't get away! Galactic Union S-class most wanted fugitive, Black Knight Luciferd!!"
   },
   {
    "uid": "U00137",
@@ -259,11 +259,11 @@
   },
   {
    "uid": "U00144",
-   "en": "Roger, Lucifard!"
+   "en": "Roger, Luciferd!"
   },
   {
    "uid": "U00145",
-   "en": "…!?<p>His partner Fadita is with him too!?<p>Ngh… Bring it on! Here I come, Lucifard!"
+   "en": "…!?<p>His partner Fadita is with him too!?<p>Ngh… Bring it on! Here I come, Luciferd!"
   },
   {
    "uid": "U00146",
@@ -271,11 +271,11 @@
   },
   {
    "uid": "U00147",
-   "en": "The battle between Lucifard and Gavan was fierce in the extreme… the struggle swung back and forth on and on."
+   "en": "The battle between Luciferd and Gavan was fierce in the extreme… the struggle swung back and forth on and on."
   },
   {
    "uid": "U00148",
-   "en": "But the tightly coordinated attacks of Lucifard and Fadita gradually began to push Gavan back… Even Dol, whom he relied on, began to show heavy damage."
+   "en": "But the tightly coordinated attacks of Luciferd and Fadita gradually began to push Gavan back… Even Dol, whom he relied on, began to show heavy damage."
   },
   {
    "uid": "U00149",
@@ -303,7 +303,7 @@
   },
   {
    "uid": "U00155",
-   "en": "Ugh, nngh…<p>…I'm alive? Did I win…? Where is he? Where's Lucifard…?"
+   "en": "Ugh, nngh…<p>…I'm alive? Did I win…? Where is he? Where's Luciferd…?"
   },
   {
    "uid": "U00156",
@@ -311,7 +311,7 @@
   },
   {
    "uid": "U00157",
-   "en": "…Lucifard! Lucifard!"
+   "en": "…Luciferd! Luciferd!"
   },
   {
    "uid": "U00158",
@@ -326,11 +326,11 @@
   "rows_in_slice": 80,
   "rows_examined": 80,
   "uncertain": [
-   "U00125/U00126: 轟機鋼 rendered 'Roaring Steel' (from glossary hero-select subtitle 'Lucifard, the Roaring Steel'); 発動 'activate', 装着 'equip'",
+   "U00125/U00126: 轟機鋼 rendered 'Roaring Steel' (from glossary hero-select subtitle 'Luciferd, the Roaring Steel'); 発動 'activate', 装着 'equip'",
    "U00103: inner 無事？ rendered \"safely\"",
    "U00106: narration-kind row is the second half of [HERO4]'s U00105 line",
-   "U00128: speaker shows as Lucifard right after [HERO2] dons the armor; the hero appears to be Lucifard",
-   "U00151: narration-kind row continues Lucifard's U00150 line",
+   "U00128: speaker shows as Luciferd right after [HERO2] dons the armor; the hero appears to be Luciferd",
+   "U00151: narration-kind row continues Luciferd's U00150 line",
    "U00088: Leader speaks to the scientist; rendered 'Then show him...'"
   ],
   "omissions_kept": [],
@@ -341,7 +341,7 @@
    },
    {
     "en": "Roaring Steel",
-    "why": "not in glossary as a standalone term; taken from 'Lucifard, the Roaring Steel'"
+    "why": "not in glossary as a standalone term; taken from 'Luciferd, the Roaring Steel'"
    },
    {
     "en": "Vol cells",

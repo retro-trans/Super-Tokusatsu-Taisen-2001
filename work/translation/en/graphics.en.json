@@ -7,7 +7,7 @@
     "Cards 72, 97 and 99 visually confirmed; 99 duplicates 52.",
     "Long episode names are expanded from their abbreviated database labels where space permits.",
     "Encyclopedia tabs retain Japanese-reading groups; romanized syllables do not imply English alphabetical order.",
-    "Original title logo retained. Lucifard artwork name logo translated; other artwork logos, remaining battle-strip labels, placeholder portraits and copyright remain for later work.",
+    "Original title logo retained. Luciferd artwork name logo translated; other artwork logos, remaining battle-strip labels, placeholder portraits and copyright remain for later work.",
     "Critical translated in the shared battle/map label strip: MAPMAIN 17 and MAPMAIN 25 CM block 5, original 24x8 sprite at x=136. All other pixels and colour palettes remain intact."
   ],
   "targets": [
@@ -2279,7 +2279,7 @@
       "archive": "EVENT",
       "entry": 230,
       "kind": "artwork_logo",
-      "en": "Lucifard, the Fusion Steel",
+      "en": "Luciferd, the Fusion Steel",
       "background": "work/translation/en/graphics/EVENT_0230_background.png",
       "regions": [
         [
@@ -2297,7 +2297,7 @@
             306,
             120
           ],
-          "en": "Lucifard",
+          "en": "Luciferd",
           "size": 25
         },
         {

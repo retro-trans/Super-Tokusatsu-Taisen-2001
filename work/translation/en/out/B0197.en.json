@@ -11,7 +11,7 @@
   },
   {
    "uid": "U15703",
-   "en": "I see, I've figured it out!<p> You'll get us to drop our guard by saying you're coming back to the Naager, and then make me lift the Dimensional Distortion Field barrier, right?<p> Hah hah hah… What a joke! Even Lucifard, the Jet-Black Knight, has really lost his edge, hasn't he?"
+   "en": "I see, I've figured it out!<p> You'll get us to drop our guard by saying you're coming back to the Naager, and then make me lift the Dimensional Distortion Field barrier, right?<p> Hah hah hah… What a joke! Even Luciferd, the Jet-Black Knight, has really lost his edge, hasn't he?"
   },
   {
    "uid": "U15704",
@@ -91,7 +91,7 @@
   },
   {
    "uid": "U15723",
-   "en": "Oh, my… What a quick change of mood!<p> So you've finally shown your true colors? Lucifard! Lord Steel Emperor Zephas ordered me to bring you back alive, but…<p> well, unfortunately, it looks like I'll be reporting that you were already dead.<p> I told you, didn't I? The name \"Battle Princess\" isn't just for show!<p> I'll make sure you can never pull a cheeky farce like this again! Fusion Steel, equip!!"
+   "en": "Oh, my… What a quick change of mood!<p> So you've finally shown your true colors? Luciferd! Lord Steel Emperor Zephas ordered me to bring you back alive, but…<p> well, unfortunately, it looks like I'll be reporting that you were already dead.<p> I told you, didn't I? The name \"Battle Princess\" isn't just for show!<p> I'll make sure you can never pull a cheeky farce like this again! Fusion Steel, equip!!"
   },
   {
    "uid": "U15724",
@@ -243,7 +243,7 @@
   },
   {
    "uid": "U15761",
-   "en": "A breach opened in the impregnable fortress… a road to victory, opened at the cost of a precious sacrifice! Inheriting his sister's heart, Lucifard resolved to fight the father who had been taken over by madness…"
+   "en": "A breach opened in the impregnable fortress… a road to victory, opened at the cost of a precious sacrifice! Inheriting his sister's heart, Luciferd resolved to fight the father who had been taken over by madness…"
   },
   {
    "uid": "U15762",
@@ -324,7 +324,7 @@
  ],
  "report": {
   "uncertain": [
-   "U15703: 漆黒の騎士ルシファード rendered 'Lucifard, the Jet-Black Knight' (glossary has 'Black Knight Lucifard' for 黒騎士).",
+   "U15703: 漆黒の騎士ルシファード rendered 'Luciferd, the Jet-Black Knight' (glossary has 'Black Knight Luciferd' for 黒騎士).",
    "U15715/U15716: 'mass times the speed of light squared' kept as in source (E=mc^2 reference).",
    "U15721: 巳の肉片 read as 己の肉片 ('your flesh'); the target of '己' is ambiguous (the hero or everyone).",
    "U15736: 章族 read as 一族/家族 ('our family'); 達えて read as 逢えて.",
