@@ -50,3 +50,15 @@ load an ordinary save; old emulator states retain previous code/text.
 Full emulator/hardware confirmation and a campaign playthrough remain pending.
 Previously documented encyclopedia clipping and other untranslated artwork
 outside these three open issues are not claimed repaired by this build.
+
+## Local test package
+
+Source fixes are committed at `c4555dd`. The local package is in ignored
+`work/output/test-v0.9.1/`: a bare public-v0.9.0 upgrade, matching font ZIP,
+CUE text template, instructions, build manifest, validation and checksums.
+The current Retro Trans Tools builder accepts this game's existing registered
+package ID and round-trips the 920,441-byte patch against the complete BIN.
+Target SHA-256: `363356615fcca99fd595ed5f8ab866c1786b84a0b49fa2969c71d6a9db025c6e`.
+The font ZIP contains all 756 PNGs/configuration and the fallback license;
+its embedded README and all asset checksums verify. This package has not
+been uploaded as a GitHub release.
