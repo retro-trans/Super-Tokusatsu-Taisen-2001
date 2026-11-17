@@ -9,7 +9,7 @@ The text is translated end to end, but a complete campaign and every route
 have not been tested. Fluent proofreading, bug reports and playtesting are
 welcome. Join the Retro Trans Discord:
 
-**[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)**
+**[discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP)**
 
 You can also [open an issue](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues).
 For bugs, include the title-screen version, platform/emulator, a screenshot
