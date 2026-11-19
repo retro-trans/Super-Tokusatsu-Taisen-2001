@@ -1,6 +1,7 @@
 # Changelog
 
 ## 0.9.7 (2026-11-19)
+- Published v0.9.7 with exactly two bare original/public-v0.9.1 patches, the matching optional native-font compatibility ZIP and instructions (18 verified assets). Both patch round trips, all uploaded/downloaded hashes, official package registration and nine Automatic routes pass. Source/tag `c64a91f2a9cb33a4b3e642a9261f71265a5261a1`; complete catalog immutability verified. See `docs/releases/v0.9.7.md`.
 - Replace the narration intertitle and all 90 episode-card lettering sets with image-generated artwork. Use a clean sentence-case narration line and a shared bold condensed uppercase sheet for stage titles, the Stage prefix and dynamically selected digits. Retain the existing English wording and stage-number logic.
 - Fit long chapter names into at most two lines, retain the original TIM dimensions, palettes and sprite boundaries, and keep the narrow numeral samples clear of adjacent cells. Native grey levels retain smooth lettering edges. Store the generated assets and prompts under work/ui/intertitles; no texture replacement is required.
 - Automatically stamp both completed main-title copies with v0.9.7 and github.com/retro-trans. Keep the v0.9.6 copyright/character artwork, movies, audio, dialogue font and gameplay. Public release requested; emulator playtesting remains pending.
