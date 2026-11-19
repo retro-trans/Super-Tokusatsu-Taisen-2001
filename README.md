@@ -17,13 +17,13 @@ and an ordinary in-game save if available.
 
 ## Play it
 
-The latest release is **[v0.9.1](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.1)**,
+The latest release is **[v0.9.7](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.7)**,
 with a full patch for the original Japanese disc and an upgrade from public
-English **v0.9.0**. It corrects Luciferd's name, restores complete Evade/Defend
-labels, fixes upgrade and Stats overlaps, changes Continued to Continue,
-and translates Henshin/Oyassan as Transform/Pops. The two affected movie
-captions are updated with original audio and timing preserved. See the
-[repair audit](docs/issues_0.9.1.md) and release notes for verification limits.
+English **v0.9.1**. It adds a flat native font with shadows and aligned letter
+heights, smoother copyright/narration artwork, image-generated character and
+chapter-title lettering, and verified names in both ending-credit movies.
+Henshin is restored; the earlier response, Continue, Max Lv. and Stats fixes
+remain. The native font and translated graphics require no texture pack.
 
 ### Apply
 
@@ -41,24 +41,24 @@ For CHD extraction, `chdman` comes with [MAME](https://www.mamedev.org/release.h
 you do not need to install or run MAME.
 
 You need your own Japanese disc image or the exact published English
-v0.9.0 output. Each release includes only the original-to-current and
+v0.9.1 output. Each release includes only the original-to-current and
 previous-public-to-current patches.
 
 | Your source image | Patch |
 |---|---|
-| Original Japanese SLPS-02863, single MODE2/2352 BIN | `STT2001-English-v0.9.1.xdelta` |
-| Published English v0.9.0 BIN | `STT2001-English-v0.9.0-to-v0.9.1.xdelta` |
+| Original Japanese SLPS-02863, single MODE2/2352 BIN | `STT2001-English-v0.9.7.xdelta` |
+| Published English v0.9.1 BIN | `STT2001-English-v0.9.1-to-v0.9.7.xdelta` |
 
 **Original Japanese disc:**
 
 ```sh
-xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.9.1.xdelta "STT2001_EN_v0.9.1.bin"
+xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.9.7.xdelta "STT2001_EN_v0.9.7.bin"
 ```
 
-**Already on public v0.9.0?** Use the smaller upgrade patch:
+**Already on public v0.9.1?** Use the smaller upgrade patch:
 
 ```sh
-xdelta3 -d -s "STT2001_EN_v0.9.0.bin" STT2001-English-v0.9.0-to-v0.9.1.xdelta "STT2001_EN_v0.9.1.bin"
+xdelta3 -d -s "STT2001_EN_v0.9.1.bin" STT2001-English-v0.9.1-to-v0.9.7.xdelta "STT2001_EN_v0.9.7.bin"
 ```
 
 Older English versions can follow intermediate public upgrades through
@@ -72,11 +72,11 @@ Both patches produce the same 725,316,816-byte image:
 | Image | SHA-256 |
 |---|---|
 | Original Japanese BIN | `219d9c4f64caf670b5e400612fa19677ed9a3f59a7ebdb72c12c425412795465` |
-| English v0.9.1 BIN | `363356615fcca99fd595ed5f8ab866c1786b84a0b49fa2969c71d6a9db025c6e` |
+| English v0.9.7 BIN | `110ab27fcbb9de6b5dc991e7f6ad2dd25291733f516814ef044951bcdacf92ae` |
 
-For manual patching, download `STT2001_EN_v0.9.1.cue.txt` from the release,
+For manual patching, download `STT2001_EN_v0.9.7.cue.txt` from the release,
 remove the final `.txt`, and place the resulting CUE beside
-`STT2001_EN_v0.9.1.bin`. Cold boot the CUE, then load an ordinary in-game
+`STT2001_EN_v0.9.7.bin`. Cold boot the CUE, then load an ordinary in-game
 save. Old emulator save states retain the previous executable and text in
 RAM. PSP users can convert the patched BIN/CUE with their usual PS1 EBOOT
 workflow.
@@ -87,25 +87,23 @@ workflow.
 chdman extractcd -i "your-game.chd" -o game.cue -ob game.bin
 ```
 
-### Sharper font (optional, DuckStation)
+### Native font and optional DuckStation package
 
-The native font is included in the patches. The optional
-**STT2001-4x-font-pack-v0.9.1.zip** provides matching 4x replacements in
-every text colour.
+The patches include the current font, small dark shadows and translated
+graphics. **No texture replacement is required.** Disable older font packs
+when testing the new appearance.
 
-1. In DuckStation, open **Tools > Open Data Directory**.
-2. Extract the ZIP there, merging `textures/SLPS-02863/`. Keep `config.yaml`
-   beside the `replacements/` directory containing all 756 PNGs.
-3. Enable **Texture Cache** and **Texture Replacements** in the graphics
-   settings, and use 2x/4x internal resolution.
-4. Reload replacements or restart DuckStation.
+The release also includes **STT2001-native-font-pack-v0.9.7.zip** for users
+who keep replacements enabled. Its 1,058 PNGs reproduce the finished native
+font and palettes at 4x nearest scaling. It does not introduce a different
+font or add detail beyond the native artwork, and does not replace the new
+character titles, stage cards or narration.
 
-The configuration includes `MaxVRAMWriteSplits: true`, which is needed when
-story scenes overwrite part of the font sheet. Public v0.3.29 and older
-packs alone do not match this font. Local v0.3.35–v0.3.38 packs contain the
-same texture payload as v0.9.1; the public v0.9.0 pack also matches. Text-only builds can share a pack; changes
-to font textures can require new replacement IDs. See
-[font implementation](docs/rayblade_font.md).
+Optional installation: open DuckStation's **Tools > Open Data Directory**,
+extract the ZIP there, merging `textures/SLPS-02863/`, and keep `config.yaml`
+beside `replacements/`. Enable **Texture Cache** and **Texture Replacements**,
+then reload replacements or restart DuckStation. The package is pixel/ID
+checked against v0.9.7; emulator confirmation remains pending.
 
 ### Difficulty and weapon markers
 
@@ -147,7 +145,7 @@ After preparing the extracted files and a completed local image, compare
 an English-only source rebuild against that image with:
 
 ```sh
-python tools/check_public_build.py 0.9.0 --verify
+python tools/check_public_build.py 0.9.7 --verify
 ```
 
 This checks rebuilt archives and executable data. Movie verification is
@@ -247,7 +245,7 @@ The README and release-note layout follow
 
 ## Status
 
-Public **v0.9.1** fixes the reports in issues #2–#4. See
+Public **v0.9.7** fixes the reports in issues #2–#4. See
 [the repair audit](docs/issues_0.9.1.md) for native checks and remaining
 emulator/hardware confirmation.
 

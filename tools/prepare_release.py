@@ -39,13 +39,34 @@ def main():
     clear=proof('font_transition_verification');saved=proof('saved_name_font_verification')
     opening_version=args.opening_baseline or version
     opening=json.loads((OUT/('opening_song_review_v'+opening_version)/'verification.json').read_text())
-    assert movie['all_checks_passed'] and movie['all_other_disc_bytes_identical']
+    assert movie['all_checks_passed']
+    if not movie['all_other_disc_bytes_identical']:
+        assert movie.get('fixed_movie_allocation_unchanged') and 'audited separately' in movie['verification_scope']
+        assert proof('artwork_verification')['all_other_raw_disc_bytes_identical']
+        assert proof('font_effects_verification')['all_checks_passed']
+        assert proof('font_metrics_verification')['all_checks_passed']
     expected_movies=sorted(int(x) for x in args.changed_movies.split(',') if x)
     assert movie['baseline']==args.baseline and movie['changed_movie_ids_from_baseline']==expected_movies
     if args.opening_baseline:
-        assert args.opening_baseline==movie['baseline'] and 74 not in expected_movies
+        assert 74 not in expected_movies
+        # Opening layout has its own approved revision. Compare the complete
+        # native stream before reusing its existing timing/crop/audio audit.
+        from check_graphics_build import directory
+        import movie_patch
+        inv=json.loads((movie_patch.SOURCE/'inventory.json').read_text())
+        row=inv[73]
+        baseline=OUT/('STT2001_EN_v'+args.opening_baseline+'.bin')
+        def stream74(path):
+            start=directory(path)['MOVIE.STR']['lba']+row['start_sector']
+            with path.open('rb') as f:
+                f.seek(start*2352)
+                return f.read((row['end_sector']-row['start_sector'])*2352)
+        assert stream74(target)==stream74(baseline), 'Opening differs from the reused review'
     assert public['public_english_only_build_matches'] and public['build_problems']==0
-    assert font['texture_upload_ids_checked'] and font['dialogue_content_and_pointer_order_preserved']
+    texture=proof('texture_verification') if font.get('native_only') else font
+    assert texture['texture_upload_ids_checked'] and font['dialogue_content_and_pointer_order_preserved']
+    if font.get('native_only'):
+        assert texture['all_pixels_equal_native_nearest_4x'] and texture['source_disc_sha256']==movie['bin_sha256']
     assert native['full_pool_ordering_table_checked']
     if issues:
         assert issues['version']==version and issues['native_numeric_reuse_cases']>=10
@@ -100,7 +121,7 @@ def main():
     print('Creating and round-trip checking %d public patches.'%len(sources),flush=True)
     manifest=build_release(config_path,dest,library=library)
     assert all(p['target_sha256']==movie['bin_sha256'] for p in manifest['patches'])
-    notes=render_release_notes(version,previous,movie['bin_sha256'],font['texture_images'])
+    notes=render_release_notes(version,previous,movie['bin_sha256'],texture['texture_images'])
     (dest/('README-v'+version+'.txt')).write_bytes(notes.encode('utf-8'))
     (OUT/('release-notes-v'+version+'.md')).write_bytes(notes.encode('utf-8'))
     shutil.copyfile(ROOT/'CHANGELOG.md',dest/('CHANGELOG-v'+version+'.txt'))
@@ -108,15 +129,19 @@ def main():
     shutil.copyfile(target.with_suffix('.cue'),dest/(target.with_suffix('.cue').name+'.txt'))
     write(dest/'PUBLIC-SOURCE-VERIFICATION.json',public)
     write(dest/'FONT-VERIFICATION.json',font)
+    if font.get('native_only'):
+        write(dest/'TEXTURE-VERIFICATION.json',{k:v for k,v in texture.items() if k!='files'})
+        write(dest/'ARTWORK-VERIFICATION.json',proof('artwork_verification'))
+        write(dest/'FONT-STYLE-VERIFICATION.json',{'effects':proof('font_effects_verification'),'metrics':proof('font_metrics_verification')})
     write(dest/'UI-VERIFICATION.json',{'native_2x':native,'numeric_and_badges':numbers,'dialogue_clear':clear,'saved_names':saved})
     if issues:write(dest/'ISSUE-VERIFICATION.json',issues)
     write(dest/'RUNTIME-VERIFICATION.json',{'gameplay_and_saves':runtime,'story_and_menu':story})
     write(dest/'MOVIE-VERIFICATION.json',{'completed_disc':movie,'opening_review':opening,
                                         'opening_review_version':opening_version})
-    folder=OUT/('STT2001_EN_v'+version+'_4x_font/SLPS-02863')
+    folder=OUT/('STT2001_EN_v'+version+('_native_font_pack' if font.get('native_only') else '_4x_font')+'/SLPS-02863')
     paths={p.relative_to(folder).as_posix():p for p in folder.rglob('*') if p.is_file()}
-    assert len(paths)==font['texture_images']+1
-    archive=dest/('STT2001-4x-font-pack-v'+version+'.zip')
+    assert len(paths)==texture['texture_images']+1
+    archive=dest/('STT2001-'+('native' if font.get('native_only') else '4x')+'-font-pack-v'+version+'.zip')
     with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED,compresslevel=9) as z:
         z.writestr('README.txt',notes)
         z.write(ROOT/'incoming/GenEiLatin/LICENSE.txt','LICENSE-font.txt')

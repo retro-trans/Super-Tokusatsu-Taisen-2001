@@ -57,12 +57,14 @@ def brackets(draws, y):
     return positions
 
 
-def terminology(disc, entries, mm):
+def terminology(disc, entries, mm, version='0.9.1'):
     counts=Counter();checked=Counter()
+    restored_henshin = tuple(map(int, version.split('.'))) >= (0, 9, 2)
     def scan(words,kind):
         visible=''.join(REVERSE.get(c,'') for c in words)
-        assert not any(t in visible for t in ('Lucifard','Henshin','Oyassan')),(kind,visible)
-        for term in ('Luciferd','Transform','Pops','Mr. Tachibana'):
+        forbidden = ('Lucifard','Oyassan') + (() if restored_henshin else ('Henshin',))
+        assert not any(t in visible for t in forbidden),(kind,visible)
+        for term in ('Luciferd','Henshin','Transform','Pops','Mr. Tachibana'):
             counts[term]+=visible.count(term)
         checked[kind]+=1
     stages=repack.dat_entries(read_file(disc,entries['STAGE.DAT']))
@@ -75,10 +77,15 @@ def terminology(disc, entries, mm):
     for words in table32(battle[540]):scan(words,'encyclopedia')
     rows=strings(mm[2])
     for words in rows:scan(words,'database')
+    if restored_henshin:
+        assert counts['Henshin'] > 0, 'Restored Henshin is missing'
     assert text(rows[0xB13])=='Continue' and text(rows[0xB27])=='Max Lv.'
     import gfx_translate
     logo=next(t for t in gfx_translate.load_manifest()['targets'] if t.get('kind')=='artwork_logo')
-    assert logo['labels'][0]['en']=='Luciferd'
+    if logo.get('wordmark'):
+        assert logo['en']=='Fusion Steel Luciferd' and (ROOT/logo['wordmark']).is_file()
+    else:
+        assert logo['labels'][0]['en']=='Luciferd'
     expected,_=gfx_translate.render(gfx_translate.source(logo),logo)
     event=repack.dat_entries(read_file(disc,entries['EVENT.DAT']))
     assert event[logo['entry']]==expected,'Completed artwork mismatch'
@@ -93,10 +100,19 @@ def main():
     before = out/'STT2001_EN_v0.9.0.bin'; after = out/('STT2001_EN_v'+a.version+'.bin')
     old_dir, new_dir = directory(before), directory(after)
     old_exe, exe = read_file(before, old_dir['SLPS_028.63']), read_file(after, new_dir['SLPS_028.63'])
-    assert exe == issue_ui.patch_exe(old_exe), 'Unrelated executable/gameplay changes'
+    expected_exe = old_exe
+    if tuple(map(int,a.version.split('.'))) >= (0,9,3):
+        # The font effect changes only its existing private renderer region.
+        base=out/'STT2001_EN_v0.3.30.bin'
+        native=N.patch_exe(read_file(base,directory(base)['SLPS_028.63']),
+                           transition_clip=True,native_ui=True)
+        expected_exe=bytearray(old_exe)
+        expected_exe[mips.off(N.B):mips.off(N.LIMIT_B)]=native[mips.off(N.B):mips.off(N.LIMIT_B)]
+        expected_exe=bytes(expected_exe)
+    assert exe == issue_ui.patch_exe(expected_exe), 'Unrelated executable/gameplay changes'
     old_mm, mm = [repack.dat_entries(read_file(path, d['MAPMAIN.DAT']))
                   for path, d in ((before, old_dir), (after, new_dir))]
-    terms=terminology(after,new_dir,mm)
+    terms=terminology(after,new_dir,mm,a.version)
     response = []
     for pointer, original, address, want in issue_ui.RESPONSES:
         assert struct.unpack_from('<I', old_exe, pointer)[0] == original

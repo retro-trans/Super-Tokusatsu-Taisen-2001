@@ -20,7 +20,9 @@ CODES = {int(k): v for k, v in META['codes'].items()}
 
 
 def cells(hires=False, hf=None):
-    font = efont.font()
+    # The small native numeric drawer keeps its existing cell artwork. Large
+    # English numbers use the aligned 2x atlas through the normal font path.
+    font = efont.font(metrics=False)
     if hires and hf is None:
         import texpack
         hf = texpack.HiFont()

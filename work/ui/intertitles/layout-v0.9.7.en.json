@@ -1,0 +1,830 @@
+{
+  "version": "0.9.7",
+  "generated_glyph_count": 45,
+  "stage_count": 90,
+  "maximum_title_lines": 2,
+  "exact_wording_preserved": true,
+  "source_sheet_visually_checked": true,
+  "preview_note": "Native sprite reconstruction from existing texture samples and stage-script positions; not an emulator capture.",
+  "cards": [
+    {
+      "entry": 52,
+      "text": "The Man Who Fell to Earth",
+      "display_lines": [
+        "THE MAN WHO",
+        "FELL TO EARTH"
+      ],
+      "cap_height": 24,
+      "line_count": 2
+    },
+    {
+      "entry": 53,
+      "text": "Twisted Life",
+      "display_lines": [
+        "TWISTED LIFE"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 54,
+      "text": "Shocker's Plot",
+      "display_lines": [
+        "SHOCKER'S PLOT"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 55,
+      "text": "The Other Rider",
+      "display_lines": [
+        "THE OTHER RIDER"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 56,
+      "text": "New Humans",
+      "display_lines": [
+        "NEW HUMANS"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 57,
+      "text": "The Boy and the Robot",
+      "display_lines": [
+        "THE BOY AND THE ROBOT"
+      ],
+      "cap_height": 22,
+      "line_count": 1
+    },
+    {
+      "entry": 58,
+      "text": "Onslaught! Shocker Japan",
+      "display_lines": [
+        "ONSLAUGHT!",
+        "SHOCKER JAPAN"
+      ],
+      "cap_height": 24,
+      "line_count": 2
+    },
+    {
+      "entry": 59,
+      "text": "Chase! Space Sheriff Gavan",
+      "display_lines": [
+        "CHASE! SPACE",
+        "SHERIFF GAVAN"
+      ],
+      "cap_height": 24,
+      "line_count": 2
+    },
+    {
+      "entry": 60,
+      "text": "Evil Scholar",
+      "display_lines": [
+        "EVIL SCHOLAR"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 61,
+      "text": "Battle Princess",
+      "display_lines": [
+        "BATTLE PRINCESS"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 62,
+      "text": "Android",
+      "display_lines": [
+        "ANDROID"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 63,
+      "text": "A Three-Way Battle",
+      "display_lines": [
+        "A THREE-WAY BATTLE"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 64,
+      "text": "Hell's Messenger",
+      "display_lines": [
+        "HELL'S MESSENGER"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 65,
+      "text": "Mech Anguish",
+      "display_lines": [
+        "MECH ANGUISH"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 66,
+      "text": "Brothers' Bond",
+      "display_lines": [
+        "BROTHERS' BOND"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 67,
+      "text": "EATER",
+      "display_lines": [
+        "EATER"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 68,
+      "text": "Father",
+      "display_lines": [
+        "FATHER"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 69,
+      "text": "Operation Double Rider",
+      "display_lines": [
+        "OPERATION DOUBLE RIDER"
+      ],
+      "cap_height": 22,
+      "line_count": 1
+    },
+    {
+      "entry": 70,
+      "text": "Geldam Clan",
+      "display_lines": [
+        "GELDAM CLAN"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 71,
+      "text": "Genmu",
+      "display_lines": [
+        "GENMU"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 72,
+      "text": "The Fushigi World",
+      "display_lines": [
+        "THE FUSHIGI WORLD"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 73,
+      "text": "Ultra Operation No. 1",
+      "display_lines": [
+        "ULTRA OPERATION NO. 1"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 74,
+      "text": "Five Stars Unite",
+      "display_lines": [
+        "FIVE STARS UNITE"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 75,
+      "text": "Brain Gone Wild",
+      "display_lines": [
+        "BRAIN GONE WILD"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 76,
+      "text": "Giants Roar",
+      "display_lines": [
+        "GIANTS ROAR"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 77,
+      "text": "Mother's Memory",
+      "display_lines": [
+        "MOTHER'S MEMORY"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 78,
+      "text": "Superalloy Baronium",
+      "display_lines": [
+        "SUPERALLOY BARONIUM"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 79,
+      "text": "His Name Is V3!",
+      "display_lines": [
+        "HIS NAME IS V3!"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 80,
+      "text": "Angel? Devil? Bijinder!",
+      "display_lines": [
+        "ANGEL? DEVIL? BIJINDER!"
+      ],
+      "cap_height": 22,
+      "line_count": 1
+    },
+    {
+      "entry": 81,
+      "text": "Shoot the Invader",
+      "display_lines": [
+        "SHOOT THE INVADER"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 82,
+      "text": "False Giant",
+      "display_lines": [
+        "FALSE GIANT"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 83,
+      "text": "Revenge Demon",
+      "display_lines": [
+        "REVENGE DEMON"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 84,
+      "text": "Zeber's New Power",
+      "display_lines": [
+        "ZEBER'S NEW POWER"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 85,
+      "text": "Revenge Banner",
+      "display_lines": [
+        "REVENGE BANNER"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 86,
+      "text": "Three Years Ago",
+      "display_lines": [
+        "THREE YEARS AGO"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 87,
+      "text": "Distortion Field",
+      "display_lines": [
+        "DISTORTION FIELD"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 88,
+      "text": "Monsters Attack",
+      "display_lines": [
+        "MONSTERS ATTACK"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 89,
+      "text": "Geisel's Challenge",
+      "display_lines": [
+        "GEISEL'S CHALLENGE"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 90,
+      "text": "Farewell, Ultraman",
+      "display_lines": [
+        "FAREWELL, ULTRAMAN"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 91,
+      "text": "Farewell, Variblune",
+      "display_lines": [
+        "FAREWELL, VARIBLUNE"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 92,
+      "text": "Century King Black Sun",
+      "display_lines": [
+        "CENTURY KING BLACK SUN"
+      ],
+      "cap_height": 22,
+      "line_count": 1
+    },
+    {
+      "entry": 93,
+      "text": "Garrison's 7th Man",
+      "display_lines": [
+        "GARRISON'S 7TH MAN"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 94,
+      "text": "Mummy's Cry",
+      "display_lines": [
+        "MUMMY'S CRY"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 95,
+      "text": "Caged Bird",
+      "display_lines": [
+        "CAGED BIRD"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 96,
+      "text": "Lament",
+      "display_lines": [
+        "LAMENT"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 97,
+      "text": "A New Warrior, Jun, Appears",
+      "display_lines": [
+        "A NEW WARRIOR,",
+        "JUN, APPEARS"
+      ],
+      "cap_height": 24,
+      "line_count": 2
+    },
+    {
+      "entry": 98,
+      "text": "Heart's Voice, Reach You",
+      "display_lines": [
+        "HEART'S VOICE,",
+        "REACH YOU"
+      ],
+      "cap_height": 24,
+      "line_count": 2
+    },
+    {
+      "entry": 99,
+      "text": "The Man Who Fell to Earth",
+      "display_lines": [
+        "THE MAN WHO",
+        "FELL TO EARTH"
+      ],
+      "cap_height": 24,
+      "line_count": 2
+    },
+    {
+      "entry": 100,
+      "text": "Prelude to Darkness",
+      "display_lines": [
+        "PRELUDE TO DARKNESS"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 101,
+      "text": "Swordsaint Returns",
+      "display_lines": [
+        "SWORDSAINT RETURNS"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 102,
+      "text": "Superalloy Baronium",
+      "display_lines": [
+        "SUPERALLOY BARONIUM"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 103,
+      "text": "Super Weapon R1",
+      "display_lines": [
+        "SUPER WEAPON R1"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 104,
+      "text": "The Phoenix Flies",
+      "display_lines": [
+        "THE PHOENIX FLIES"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 105,
+      "text": "Leave It to Annie",
+      "display_lines": [
+        "LEAVE IT TO ANNIE"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 106,
+      "text": "Fated Prince",
+      "display_lines": [
+        "FATED PRINCE"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 107,
+      "text": "Far East Base SOS",
+      "display_lines": [
+        "FAR EAST BASE SOS"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 108,
+      "text": "Steel Emperor Strikes",
+      "display_lines": [
+        "STEEL EMPEROR STRIKES"
+      ],
+      "cap_height": 22,
+      "line_count": 1
+    },
+    {
+      "entry": 109,
+      "text": "Name: One-Eight",
+      "display_lines": [
+        "NAME: ONE-EIGHT"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 110,
+      "text": "Reunion",
+      "display_lines": [
+        "REUNION"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 111,
+      "text": "Defense Council",
+      "display_lines": [
+        "DEFENSE COUNCIL"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 112,
+      "text": "Twilight Duel",
+      "display_lines": [
+        "TWILIGHT DUEL"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 113,
+      "text": "Black Cross",
+      "display_lines": [
+        "BLACK CROSS"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 114,
+      "text": "Sea Battle",
+      "display_lines": [
+        "SEA BATTLE"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 115,
+      "text": "Forbidden Word",
+      "display_lines": [
+        "FORBIDDEN WORD"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 116,
+      "text": "Conscience Circuit",
+      "display_lines": [
+        "CONSCIENCE CIRCUIT"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 117,
+      "text": "Creation King's End",
+      "display_lines": [
+        "CREATION KING'S END"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 118,
+      "text": "Glorious Rider 4",
+      "display_lines": [
+        "GLORIOUS RIDER 4"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 119,
+      "text": "Fall of Desper City",
+      "display_lines": [
+        "FALL OF DESPER CITY"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 120,
+      "text": "Sekisha, Johchaku, Shoketsu",
+      "display_lines": [
+        "SEKISHA, JOHCHAKU,",
+        "SHOKETSU"
+      ],
+      "cap_height": 24,
+      "line_count": 2
+    },
+    {
+      "entry": 121,
+      "text": "Waruder Dies at Dawn",
+      "display_lines": [
+        "WARUDER DIES AT DAWN"
+      ],
+      "cap_height": 22,
+      "line_count": 1
+    },
+    {
+      "entry": 122,
+      "text": "Ultra Star Shines (Part 2)",
+      "display_lines": [
+        "ULTRA STAR",
+        "SHINES (PART 2)"
+      ],
+      "cap_height": 24,
+      "line_count": 2
+    },
+    {
+      "entry": 123,
+      "text": "Miracle King Stone",
+      "display_lines": [
+        "MIRACLE KING STONE"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 124,
+      "text": "Arrow into Space",
+      "display_lines": [
+        "ARROW INTO SPACE"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 125,
+      "text": "Phantom Snow Peak",
+      "display_lines": [
+        "PHANTOM SNOW PEAK"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 126,
+      "text": "With Love, Starry Sky",
+      "display_lines": [
+        "WITH LOVE, STARRY SKY"
+      ],
+      "cap_height": 22,
+      "line_count": 1
+    },
+    {
+      "entry": 127,
+      "text": "RX Awakens",
+      "display_lines": [
+        "RX AWAKENS"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 128,
+      "text": "Princess Rages",
+      "display_lines": [
+        "PRINCESS RAGES"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 129,
+      "text": "Entrusted Hopes",
+      "display_lines": [
+        "ENTRUSTED HOPES"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 130,
+      "text": "Farewell, Brother",
+      "display_lines": [
+        "FAREWELL, BROTHER"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 131,
+      "text": "Red Victory",
+      "display_lines": [
+        "RED VICTORY"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 132,
+      "text": "Star of Woe",
+      "display_lines": [
+        "STAR OF WOE"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 133,
+      "text": "Lost in the Night Canal",
+      "display_lines": [
+        "LOST IN THE NIGHT CANAL"
+      ],
+      "cap_height": 22,
+      "line_count": 1
+    },
+    {
+      "entry": 134,
+      "text": "Kill Seven (Part 2)",
+      "display_lines": [
+        "KILL SEVEN (PART 2)"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 135,
+      "text": "Kill Seven (Part 1)",
+      "display_lines": [
+        "KILL SEVEN (PART 1)"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 136,
+      "text": "Ultra Star Shines (Part 1)",
+      "display_lines": [
+        "ULTRA STAR",
+        "SHINES (PART 1)"
+      ],
+      "cap_height": 24,
+      "line_count": 2
+    },
+    {
+      "entry": 137,
+      "text": "Eternal Rider",
+      "display_lines": [
+        "ETERNAL RIDER"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 138,
+      "text": "Last Wish",
+      "display_lines": [
+        "LAST WISH"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 139,
+      "text": "Holy Night",
+      "display_lines": [
+        "HOLY NIGHT"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 140,
+      "text": "Final Mission",
+      "display_lines": [
+        "FINAL MISSION"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    },
+    {
+      "entry": 141,
+      "text": "Tomorrow",
+      "display_lines": [
+        "TOMORROW"
+      ],
+      "cap_height": 24,
+      "line_count": 1
+    }
+  ]
+}

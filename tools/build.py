@@ -63,7 +63,10 @@ def main():
         rayblade=tuple(map(int,version.split('.'))) >= (0,3,30)
         efont.build(family='rayblade-skies' if rayblade else 'genei',keep_glyphs=rayblade,
                     native_2x=tuple(map(int,version.split('.'))) >= (0,3,31),
-                    stable_encoding=tuple(map(int,version.split('.'))) >= (0,3,32))
+                    stable_encoding=tuple(map(int,version.split('.'))) >= (0,3,32),
+                    effects=('flat-shadow-v2' if tuple(map(int,version.split('.'))) >= (0,9,4) else
+                             'getter-gradient-shadow-v1' if tuple(map(int,version.split('.'))) >= (0,9,3) else False),
+                    metrics=tuple(map(int,version.split('.'))) >= (0,9,4))
     import insert
     import repack
     import vwf_patch
@@ -77,6 +80,9 @@ def main():
     assert ef.get('font_family','genei')==('rayblade-skies' if tuple(map(int,version.split('.'))) >= (0,3,30) else 'genei'), 'Font family/version mismatch; rebuild without --keep-font.'
     assert bool(ef.get('native_2x'))==(tuple(map(int,version.split('.'))) >= (0,3,31)), 'Font renderer/version mismatch; rebuild without --keep-font.'
     assert bool(ef.get('stable_encoding'))==(tuple(map(int,version.split('.'))) >= (0,3,32)), 'Font encoding/version mismatch; rebuild without --keep-font.'
+    import font_effects
+    assert font_effects.enabled(ef)==(tuple(map(int,version.split('.'))) >= (0,9,3)), 'Font effects/version mismatch; rebuild without --keep-font.'
+    assert bool(ef.get('font_metrics'))==(tuple(map(int,version.split('.'))) >= (0,9,4)), 'Font metrics/version mismatch; rebuild without --keep-font.'
     exe, tab = vwf_patch.patch_exe(open(os.path.join(DISC, "SLPS_028.63"), "rb").read(), ef["t_uni"], ef["t_bi"], ef["t_ex"])
     exe = insert.patch_exe_strings(exe, tr)
     exe = insert.patch_save_title(exe)
@@ -143,7 +149,7 @@ def main():
     json.dump(report, open(os.path.join(ROOT, "work", "output", name + "_report.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
     print("built", name, dict(insert.STATS), "problems:", len(insert.PROBLEMS))
-    if "--no-texpack" not in sys.argv:
+    if "--no-texpack" not in sys.argv and ("--texpack" in sys.argv or tuple(map(int,version.split('.'))) < (0,9,3)):
         import texpack
         texpack.build(files, version)
 

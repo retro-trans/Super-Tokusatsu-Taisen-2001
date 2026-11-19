@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1",
-  "preview_revision": 7,
+  "version": "0.9.5",
+  "preview_revision": 8,
   "base_game_version": "0.9.0",
-  "purpose": "Native game terminology update; MP4 reviews have not been regenerated for this revision",
+  "purpose": "Native copyright/title cards and verified English credit names; both ending review movies regenerated",
   "source_audio": "Original Japanese audio, preserved",
   "review": "Textual comparison of Whisper passes, game glossary and visible frames. Human listening review still required.",
   "credit_pages": [
@@ -18,12 +18,12 @@
     },
     {
       "heading": "Sound Production Support",
-      "body": "大田 雄一",
+      "body": "Yuichi Ota",
       "layout": "top"
     },
     {
       "heading": "Voice Recording Support",
-      "body": "中江 真二\nAtelier Peach",
+      "body": "Shinji Nakae\nAtelier Peach",
       "layout": "top"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "heading": "Original Character Design",
-      "body": "青木 健太",
+      "body": "Kenta Aoki",
       "layout": "top"
     },
     {
       "heading": "Main Artwork",
-      "body": "宮島 浩一\n藤井 康文",
+      "body": "Koichi Miyajima\nYasufumi Fujii",
       "layout": "top"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "heading": "Developer",
-      "body": "Japan Art Media Co., Ltd.\n高橋 充",
+      "body": "Japan Art Media Co., Ltd.\nMitsuru Takahashi",
       "layout": "top"
     },
     {
@@ -68,27 +68,27 @@
     },
     {
       "heading": "Directors",
-      "body": "Koji Tsurunaga\n吉川 義賢",
+      "body": "Koji Tsurunaga\nYoshitaka Yoshikawa",
       "layout": "top"
     },
     {
       "heading": "Programming",
-      "body": "Hiroshi Yoneyama\n\n牛若 浩二\n海老沼 勇介\n松尾 太郎",
+      "body": "Hiroshi Yoneyama\n\n牛若 浩二\nYusuke Ebinuma\n松尾 太郎",
       "layout": "left"
     },
     {
       "heading": "Graphics",
-      "body": "木全 和光\n\n竹内 哲也\n内山 雄太\n岩尾 隆広\n江良 奈緒美\n稲永 祐介\n寺澤 奈津子",
+      "body": "Kazumitsu Kimata\n\nTetsuya Takeuchi\n内山 雄太\n岩尾 隆広\nNaomi Era\n稲永 祐介\nNatsuko Terasawa",
       "layout": "left"
     },
     {
       "heading": "Special Thanks",
-      "body": "間中 哲也\n河原 琴音\n平山 貴之",
+      "body": "Tetsuya Manaka\n河原 琴音\n平山 貴之",
       "layout": "top"
     },
     {
       "heading": "CG",
-      "body": "伊東 大典\n横瀬 幸子",
+      "body": "Daisuke Ito\n横瀬 幸子",
       "layout": "top"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "heading": "Sound Effects",
-      "body": "菅井 信義\n佐々木 昌信",
+      "body": "Nobuyoshi Sugai\n佐々木 昌信",
       "layout": "top"
     },
     {
@@ -453,7 +453,7 @@
     },
     {
       "id": 19,
-      "title": "Kikaider (Transform)",
+      "title": "Kikaider (Henshin)",
       "duration": 15.166667,
       "status": "Draft: distorted counting/transformation calls at 1.5-5.7 omitted pending a listening check.",
       "subtitles": [
@@ -474,21 +474,21 @@
     },
     {
       "id": 21,
-      "title": "Ultraman (Transform)",
+      "title": "Ultraman (Henshin)",
       "duration": 7.5,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 22,
-      "title": "Ultraseven (Transform)",
+      "title": "Ultraseven (Henshin)",
       "duration": 10.5,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 23,
-      "title": "Ultraman Jack (Transform)",
+      "title": "Ultraman Jack (Henshin)",
       "duration": 8.333333,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
@@ -569,21 +569,21 @@
     },
     {
       "id": 30,
-      "title": "Kamen Rider 1 (Transform)",
+      "title": "Kamen Rider 1 (Henshin)",
       "duration": 19.083333,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 31,
-      "title": "New Kamen Rider 1 (Transform)",
+      "title": "New Kamen Rider 1 (Henshin)",
       "duration": 10.5,
       "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
       "subtitles": [
         {
           "start": 2.17,
           "end": 5.45,
-          "en": "Rider Transform!",
+          "en": "Rider Henshin!",
           "voice_end": 4.95
         }
       ]
@@ -611,21 +611,21 @@
     },
     {
       "id": 34,
-      "title": "Kamen Rider 2 (Transform)",
+      "title": "Kamen Rider 2 (Henshin)",
       "duration": 13.583333,
       "status": "Whisper transcription checked against other passes and the game glossary; no human listening check.",
       "subtitles": [
         {
           "start": 0.88,
           "end": 3.35,
-          "en": "Transform!",
+          "en": "Henshin!",
           "voice_end": 2.85
         }
       ]
     },
     {
       "id": 35,
-      "title": "New Kamen Rider 2 (Transform)",
+      "title": "New Kamen Rider 2 (Henshin)",
       "duration": 10.416667,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
@@ -653,7 +653,7 @@
     },
     {
       "id": 39,
-      "title": "Kamen Rider V3 (Transform)",
+      "title": "Kamen Rider V3 (Henshin)",
       "duration": 15.583333,
       "status": "Unresolved transformation shout: all Whisper passes unreliable; subtitles deliberately omitted.",
       "subtitles": []
@@ -667,21 +667,21 @@
     },
     {
       "id": 41,
-      "title": "Riderman (Transform)",
+      "title": "Riderman (Henshin)",
       "duration": 9.083333,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 42,
-      "title": "Kamen Rider BLACK (Transform)",
+      "title": "Kamen Rider BLACK (Henshin)",
       "duration": 23.5,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 43,
-      "title": "Kamen Rider BLACK RX (Transform)",
+      "title": "Kamen Rider BLACK RX (Henshin)",
       "duration": 17.0,
       "status": "Draft: Child of the Sun and Kamen Rider recognized; BLACK RX restored using the movie-list identity.",
       "subtitles": [
@@ -834,28 +834,28 @@
     },
     {
       "id": 61,
-      "title": "Kikaider 01 (Transform)",
+      "title": "Kikaider 01 (Henshin)",
       "duration": 13.5,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 62,
-      "title": "Hakaider (Transform)",
+      "title": "Hakaider (Henshin)",
       "duration": 5.5,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 63,
-      "title": "Bijinder, Enemy (Transform)",
+      "title": "Bijinder, Enemy (Henshin)",
       "duration": 17.166667,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []
     },
     {
       "id": 64,
-      "title": "Bijinder, Ally (Transform)",
+      "title": "Bijinder, Ally (Henshin)",
       "duration": 10.0,
       "status": "No dependable lexical speech recognized; original audio retained.",
       "subtitles": []

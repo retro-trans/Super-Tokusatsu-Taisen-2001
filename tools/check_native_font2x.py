@@ -173,9 +173,15 @@ def main():
             keep[y:y+16,x:x+(24 if code in efont.EX_SLOTS else 12)]=False
     assert np.array_equal((oldpix&3)[keep],(newpix&3)[keep])
     oldpal=palette(oldmm[7]);newpal=palette(mm[7])
+    import font_effects
+    styled=font_effects.enabled(meta)
+    private=font_effects.private_palettes(oldpal) if styled else []
     for row in range(len(newpal)//16):
         colors=newpal[row*16:row*16+16]
-        if row%2==0:assert np.array_equal(colors,oldpal[row*16:row*16+16])
+        if styled and font_effects.FIRST_ROW <= row < font_effects.FIRST_ROW+len(private):
+            assert not any(oldpal[row*16:row*16+16])
+            assert colors==private[row-font_effects.FIRST_ROW]
+        elif row%2==0:assert np.array_equal(colors,oldpal[row*16:row*16+16])
         elif info['native_ui_compatibility']:
             assert np.array_equal(colors,oldpal[row*16:row*16+16])
         elif colors[12]:

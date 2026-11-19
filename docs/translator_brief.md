@@ -72,7 +72,7 @@ Include every row of the batch, with the same `uid`.
   - The Riders call Tobei Tachibana "Pops". Use "Mr. Tachibana" for the fuller address, not the untranslated "Oyassan".
   - The Science Patrol call Muramatsu "Cap".
   - Drop -san, -kun and -chan unless they carry meaning.
-- Translate 変身 as "Transform!" when shouted and "transform" in narration/menu actions. Other named calls retain the existing wording: 蒸着 → "Johchaku!", 赤射 → "Sekisha!", 焼結 → "Shoketsu!".
+- Keep 変身 as "Henshin!" when shouted and "Henshin" in transformation command/trait labels, per the user's 2026-11-18 instruction. Generic narration still uses "transform". Other named calls retain the existing wording: 蒸着 → "Johchaku!", 赤射 → "Sekisha!", 焼結 → "Shoketsu!"; retain "Henten" as well.
 - When attack names are shouted, use the glossary spelling ("Rider Kick!").
 
 ## Known text noise

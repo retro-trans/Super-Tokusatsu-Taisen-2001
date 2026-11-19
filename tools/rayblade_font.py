@@ -1,8 +1,9 @@
 """Read Rayblade's current Skies Latin bitmap; adapt it to PS1 2bpp cells.
 
 The local source is not distributed. ASCII shapes and 4x advances come from
-the verified Rayblade medium bank, without per-letter stretching. Accents
-and symbols absent from that bank retain the existing GenEi fallback.
+the verified Rayblade medium bank. Native builds can align vertical body
+bands while preserving advances. Accents and symbols absent from that bank
+use the existing GenEi fallback, with optional baseline alignment.
 """
 import hashlib
 import json
@@ -39,12 +40,13 @@ def source_font():
 
 
 class Font:
-    def __init__(self):
+    def __init__(self, normalize=False):
         import vwf_font as V
         self.blob=source_font()
         name,index=V.FACES[V.DEFAULT_FACE]
         self.fallback=ImageFont.truetype(str(Path(V.FONT_DIR)/name),V.DEFAULT_SIZE,index=index)
         self.cache={}
+        self.normalize=normalize
 
     def hires(self,ch):
         if ch in self.cache:return self.cache[ch].copy()
@@ -58,11 +60,19 @@ class Font:
             glyph=np.zeros((64,48),np.uint8)
             for x in range(32):
                 glyph[:,x]=(rows[:,x//16]>>(30-2*(x%16)))&3
+        if self.normalize:
+            import font_metrics,unicodedata
+            reference=None
+            decomposed=unicodedata.normalize('NFD',ch)
+            if len(decomposed)>1 and decomposed[0] in ASCII and decomposed[0].isalpha():
+                from texpack import HiFont
+                reference=HiFont(legacy=True).char(decomposed[0])
+            glyph=font_metrics.align(ch,glyph,reference)
         self.cache[ch]=glyph
         return glyph.copy()
 
     def render_cell(self,ch):
-        if ch not in ASCII:
+        if ch not in ASCII and not self.normalize:
             import vwf_font as V
             return V.render_char(self.fallback,ch)
         # A single, common 4:1 area reduction fits the game's 12x16 cells.
@@ -70,12 +80,17 @@ class Font:
         alpha=LEVELS[self.hires(ch)]
         low=np.asarray(Image.fromarray(alpha).resize((12,16),Image.Resampling.BOX),dtype=np.int16)
         cell=np.argmin(abs(low[:,:,None]-LEVELS.astype(np.int16)),axis=2).astype(np.uint8)
-        return cell,int(self.blob[0xa0+MEDIUM.index(ch)])
+        if ch in ASCII:
+            advance=int(self.blob[0xa0+MEDIUM.index(ch)])
+        else:
+            import vwf_font as V
+            advance=V.render_char(self.fallback,ch)[1]
+        return cell,advance
 
 
-def provenance(native_2x=False):
+def provenance(native_2x=False, effects=False, metrics=False):
     source_font()
-    return {'family':'rayblade-skies','source_game':'Seireiki Rayblade English v0.7.0 (same bank as local 0.1.44)',
+    result = {'family':'rayblade-skies','source_game':'Seireiki Rayblade English v0.7.0 (same bank as local 0.1.44)',
         'original_art':'Skies of Arcadia USA Dreamcast Latin bitmap',
         'rayblade_font_sha256':EXPECTED,'ascii_characters':95,'source_cell':[32,64],
         'native_cell':[24,32] if native_2x else [12,16],'texture_cell':[48,64],
@@ -84,3 +99,9 @@ def provenance(native_2x=False):
         'texture_sampling':'Exact Rayblade medium-bank masks, padded to 48 pixels; no stretching',
         'non_ascii_fallback':'Existing GenEi Latin accents and symbols',
         'standalone_source_font_distributed':False}
+    if effects:
+        result['font_effects']='Flat ink and (+1,+1) drop shadow' if metrics else 'Getter Robo Daikessen-style vertical gradient and (+1,+1) drop shadow'
+        result['native_sampling']='Aligned Latin bodies, original advances, flat antialiased ink and dark shadow' if metrics else 'Original doubled samples, fixed advances, two ink tones and dark shadow; private existing CLUT rows'
+    if metrics:
+        result['font_metrics']='Shared capital/x-height/baseline guides; retain ascenders, descenders and accents'
+    return result

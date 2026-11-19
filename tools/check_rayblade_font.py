@@ -16,6 +16,7 @@ def main():
     p=argparse.ArgumentParser();p.add_argument('--version',default='0.3.30')
     p.add_argument('--movie-baseline',help='Approved movie revision to retain, independently of the font baseline')
     p.add_argument('--movie-verification',type=Path,help='Independent completed-disc movie audit when captions intentionally change')
+    p.add_argument('--native-only',action='store_true',help='Check the game font without requiring replacement textures')
     a=p.parse_args()
     out=ROOT/'work/output';disc=out/('STT2001_EN_v'+a.version+'.bin');old=out/'STT2001_EN_v0.3.29.bin'
     nd,od=directory(disc),directory(old)
@@ -112,7 +113,8 @@ def main():
             raw=(block[:,0::2]|(block[:,1::2]<<4)).astype(np.uint8).tobytes()
             valid.add((xxhash.xxh3_64_intdigest(raw),64,0))
     folder=out/('STT2001_EN_v'+a.version+'_4x_font/SLPS-02863')
-    pngs=list((folder/'replacements').glob('*.png'));assert pngs
+    pngs=[] if a.native_only else list((folder/'replacements').glob('*.png'))
+    if not a.native_only:assert pngs
     core_checks=0;mainhash=texpack.tim_parts(mm[7])[2]
     for path in pngs:
         bits=path.name.split('-');h=int(bits[2],16);ph=int(bits[3],16)
@@ -131,17 +133,19 @@ def main():
                     color=row[level];expected=texpack.c15(color)+(texpack.STP_ALPHA if bits[1]=='STP4' and color&0x8000 else 255,)
                     assert (pixels[mask]==expected).all(),(path.name,ch,level)
                 core_checks+=1
-    assert core_checks>=95
-    assert 'MaxVRAMWriteSplits: true' in (folder/'config.yaml').read_text()
+    if not a.native_only:assert core_checks>=95
+    if not a.native_only:assert 'MaxVRAMWriteSplits: true' in (folder/'config.yaml').read_text()
     gfx.Tim(mm[19]).rgb().save(out/('STT2001_EN_v'+a.version+'_title_preview.png'))
-    report={'version':a.version,'font_source':R.provenance(native_2x=meta.get('native_2x',False)),'native_2x':meta.get('native_2x',False),'exact_source_ascii_masks':95,
+    import font_effects
+    report={'version':a.version,'font_source':R.provenance(native_2x=meta.get('native_2x',False),effects=font_effects.enabled(meta),metrics=bool(meta.get('font_metrics'))),'native_2x':meta.get('native_2x',False),'exact_source_ascii_masks':95,
         'all_prior_glyph_tokens_preserved':True,'completed_sheet_glyph_checks':checked,'font_copies':len(sheets),
         'native_vwf_glyph_cases':len(glyphs),'dialogue':dict(stats),
         'dialogue_content_and_pointer_order_preserved':True,'unchanged_files':unchanged,
         'approved_term_rewordings':dialogue.EDITS.get('term_rewordings',[]),
         'raw_movie_and_audio_sectors_unchanged':not bool(movie_proof),'movie_baseline':a.movie_baseline or '0.3.29',
         'intentional_movie_changes_verified':bool(movie_proof),
-        'texture_images':len(pngs),'texture_upload_ids_checked':True,
+        'texture_images':len(pngs),'texture_upload_ids_checked':not a.native_only,
+        'native_only':a.native_only,'emulator_replacements_required':False,
         'exact_source_texture_core_checks':core_checks,'emulator_playtest':False}
     dest=out/('STT2001_EN_v'+a.version+'_font_verification.json');dest.write_bytes((json.dumps(report,indent=1)+'\n').encode())
     print(json.dumps({k:v for k,v in report.items() if k!='font_source'},indent=1))

@@ -3895,9 +3895,9 @@
   "note": "土田 (glyph variant)"
  },
  "変身": {
-  "en": "Transform",
+  "en": "Henshin",
   "kind": "term",
-  "note": "transformation call; use \"Transform!\" when shouted, \"transform\" in narration"
+  "note": "transformation call; use \"Henshin!\" when shouted, \"transform\" in narration"
  },
  "大作そっくりな模型": {
   "en": "Daisaku Look-alike Model",
@@ -5070,7 +5070,7 @@
   "note": "the hero's Vol armor material/name"
  },
  "融機鋼 ルシファード": {
-  "en": "Luciferd, the Fusion Steel",
+  "en": "Fusion Steel Luciferd",
   "kind": "original",
   "note": ""
  },
@@ -5305,7 +5305,7 @@
   "note": "= 融機鋼 (glyph misread)"
  },
  "轟機鋼 ルシファード": {
-  "en": "Luciferd, the Fusion Steel",
+  "en": "Fusion Steel Luciferd",
   "kind": "original",
   "note": "decoded 轟 is really 融 (the logo art reads 融機鋼)"
  },

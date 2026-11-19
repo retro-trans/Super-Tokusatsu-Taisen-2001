@@ -16,7 +16,15 @@ def render_release_notes(version, previous_version, target_sha256, texture_count
 - **Text rendering repaired:** Fixed flashing when dialogue clears, corrupt HP/EN digits from reused text slots, and weapon badges appearing as white blocks.
 - **Opening lyrics restored:** Added missing lines, romaji and the approved "We get rainbow!" refrain. English and romaji sit farther inside the picture to reduce edge clipping. Original audio is preserved.
 - Includes earlier translation/UI fixes and **Intermission > Difficulty: Default / Gentle / Story**. The title displays **v{v}** and **github.com/retro-trans**.''').format(v=version)
-    return '''English translation of **Super Tokusatsu Taisen 2001** for PlayStation, Japanese release **SLPS-02863**.
+    native_art_release=tuple(map(int,version.split('.'))) >= (0,9,3)
+    if native_art_release:
+        summary='Version v%s updates the native font, title graphics and ending credits, and restores Henshin terminology.' % version
+        changes='''- **Native font and shadow:** Flat, antialiased lettering with a small dark shadow. Lowercase bodies, baselines and number heights are aligned. The font is built into the game and needs no texture replacement.
+- **New title artwork:** Image-generated Luciferd/EATER wordmarks, all 90 chapter-card lettering sets and the narration intertitle. The startup copyright notice is now English with plain, smoother lettering.
+- **Ending credits:** Both Metal and Bio credit movies include 15 newly verified Latin staff-name readings. Fourteen personal names retain their Japanese spelling pending confirmed readings. Original audio, movie duration and frame slots are preserved.
+- **Henshin restored:** Restore the requested transformation wording and the two affected movie captions. Pops / Mr. Tachibana and the v0.9.1 response, Continue, Max Lv. and Stats repairs remain.
+- **Existing features retained:** Default / Gentle / Story difficulty settings, saved-name and dialogue-clear repairs, native HP/EN/badge fixes and opening English/romaji subtitles. Both main-title copies display **v%s** and **github.com/retro-trans**.''' % version
+    notes='''English translation of **Super Tokusatsu Taisen 2001** for PlayStation, Japanese release **SLPS-02863**.
 
 {summary} Translation covers the game end to end; campaign playtesting and fluent review remain in progress.
 
@@ -109,3 +117,22 @@ Bug reports, proofreading and playtesting are welcome through [GitHub issues](ht
 No game image is included. Use your own disc image. This fan translation is free; please do not sell it.
 '''.format(v=version, previous=previous_version, sha=target_sha256,summary=summary,changes=changes,
            count=texture_count)
+    if native_art_release:
+        start=notes.index('**Optional sharper font in DuckStation:**')
+        end=notes.index('**Difficulty:**',start)
+        notes=notes[:start]+'''**Native font and optional DuckStation compatibility package:**
+
+The font, shadows, translated titles and narration are built into the patches. Texture replacements are not required. Disable older font packs when testing the new appearance.
+
+`STT2001-native-font-pack-v{v}.zip` is included for users who keep replacements enabled. Its {count} images reproduce the current native font and palettes exactly at 4x nearest scaling; it does not supply a different or more detailed typeface and does not replace the new title artwork.
+
+To use it optionally: open DuckStation's **Tools > Open Data Directory**, extract the ZIP there, merging `textures/SLPS-02863/`. Keep `config.yaml` beside `replacements/`. Enable **Texture Cache** and **Texture Replacements**, then reload replacements or restart DuckStation. This exact-native compatibility package has automated pixel/ID checks; emulator validation remains pending.
+
+'''.format(v=version,count=texture_count)+notes[end:]
+        notes=notes.replace('Matching **STT2001-4x-font-pack-v'+version+'.zip**, containing',
+                            'Optional **STT2001-native-font-pack-v'+version+'.zip**, containing')
+        notes=notes.replace('some battle callouts/logos remain Japanese.',
+                            'the original main game logo remains Japanese, and 14 staff names await verified readings.')
+        notes=notes.replace('Both retained patches were applied and checked against the exact target image through Retro Trans Tools.',
+                            'Both retained patches were applied and checked against the exact target image through Retro Trans Tools. Only movies 31, 34, 71 and 72 differ from public v0.9.1; all original XA audio is preserved. The ending-credit and Henshin caption edits are intentional.')
+    return notes

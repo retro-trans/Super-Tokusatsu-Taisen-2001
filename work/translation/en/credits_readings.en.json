@@ -1,0 +1,140 @@
+{
+  "version": "0.9.5",
+  "verified_readings": [
+    {
+      "original": "大田雄一",
+      "english": "Yuichi Ota",
+      "source": "https://www.mobygames.com/game/13299/sega-ages-2500-vol1-phantasy-star-generation1/credits/ps2/"
+    },
+    {
+      "original": "中江真二",
+      "english": "Shinji Nakae",
+      "source": "https://www.mobygames.com/person/754810/shinji-nakae/"
+    },
+    {
+      "original": "青木健太",
+      "english": "Kenta Aoki",
+      "source": "https://srw.wiki.cre.jp/wiki/スタッフ:青木健太"
+    },
+    {
+      "original": "宮島浩一",
+      "english": "Koichi Miyajima",
+      "source": "https://nanonano.base.ec/p/00001"
+    },
+    {
+      "original": "藤井康文",
+      "english": "Yasufumi Fujii",
+      "source": "https://ci.nii.ac.jp/author/DA13123987"
+    },
+    {
+      "original": "高橋充",
+      "english": "Mitsuru Takahashi",
+      "source": "https://www.mobygames.com/game/47280/slayers-royal/credits/playstation/"
+    },
+    {
+      "original": "吉川義賢",
+      "english": "Yoshitaka Yoshikawa",
+      "source": "https://www.mobygames.com/game/47280/slayers-royal/credits/playstation/"
+    },
+    {
+      "original": "海老沼勇介",
+      "english": "Yusuke Ebinuma",
+      "source": "https://www.mobygames.com/person/1474187/yusuke-ebinuma/"
+    },
+    {
+      "original": "木全和光",
+      "english": "Kazumitsu Kimata",
+      "source": "https://www.mobygames.com/game/47280/slayers-royal/credits/playstation/"
+    },
+    {
+      "original": "竹内哲也",
+      "english": "Tetsuya Takeuchi",
+      "source": "https://www.mobygames.com/game/47280/slayers-royal/credits/playstation/"
+    },
+    {
+      "original": "江良奈緒美",
+      "english": "Naomi Era",
+      "source": "https://www.mobygames.com/game/13299/sega-ages-2500-vol1-phantasy-star-generation1/credits/ps2/"
+    },
+    {
+      "original": "寺澤奈津子",
+      "english": "Natsuko Terasawa",
+      "source": "https://www.mobygames.com/game/202744/tales-of-symphonia/credits/ps2/"
+    },
+    {
+      "original": "間中哲也",
+      "english": "Tetsuya Manaka",
+      "source": "https://www.mobygames.com/game/47280/slayers-royal/credits/playstation/"
+    },
+    {
+      "original": "伊東大典",
+      "english": "Daisuke Ito",
+      "source": "https://www.mobygames.com/game/13299/sega-ages-2500-vol1-phantasy-star-generation1/credits/ps2/"
+    },
+    {
+      "original": "菅井信義",
+      "english": "Nobuyoshi Sugai",
+      "source": "https://www.mobygames.com/game/22869/sega-ages-2500-vol6-puzzle-action-bonanza-bros/credits/ps2/"
+    }
+  ],
+  "policy": "Retain original proper names until a reading is verified; do not substitute guesses.",
+  "remaining_names": [
+    {
+      "heading": "Programming",
+      "name": "牛若 浩二"
+    },
+    {
+      "heading": "Programming",
+      "name": "松尾 太郎"
+    },
+    {
+      "heading": "Graphics",
+      "name": "内山 雄太"
+    },
+    {
+      "heading": "Graphics",
+      "name": "岩尾 隆広"
+    },
+    {
+      "heading": "Graphics",
+      "name": "稲永 祐介"
+    },
+    {
+      "heading": "Special Thanks",
+      "name": "河原 琴音"
+    },
+    {
+      "heading": "Special Thanks",
+      "name": "平山 貴之"
+    },
+    {
+      "heading": "CG",
+      "name": "横瀬 幸子"
+    },
+    {
+      "heading": "InterAct Technology Co., Ltd.",
+      "name": "任堂 智明"
+    },
+    {
+      "heading": "InterAct Technology Co., Ltd.",
+      "name": "木村 伸吾"
+    },
+    {
+      "heading": "InterAct Technology Co., Ltd.",
+      "name": "剣持 真"
+    },
+    {
+      "heading": "Sound Effects",
+      "name": "佐々木 昌信"
+    },
+    {
+      "heading": "Public Relations",
+      "name": "古田 真美"
+    },
+    {
+      "heading": "Rights Management",
+      "name": "門原 悠太"
+    }
+  ],
+  "credit_source": "https://raido.moe/staff/ps1/ps1_super_tokusatsu_taisen_2001.html"
+}

@@ -39,13 +39,14 @@ FORCE_EX = ["ma", "Ina"]
 CELL_W = 12
 
 
-def font(family=None):
+def font(family=None, metrics=None):
+    path=os.path.join(OUT,'efont.json')
+    meta=json.load(open(path,encoding='utf-8')) if os.path.exists(path) else {}
     if family is None:
-        path=os.path.join(OUT,'efont.json')
-        family=json.load(open(path,encoding='utf-8')).get('font_family','genei') if os.path.exists(path) else 'genei'
+        family=meta.get('font_family','genei')
     if family=='rayblade-skies':
         from rayblade_font import Font
-        return Font()
+        return Font(normalize=bool(meta.get('font_metrics')) if metrics is None else metrics)
     assert family=='genei',family
     fname, idx = V.FACES[V.DEFAULT_FACE]
     return ImageFont.truetype(os.path.join(V.FONT_DIR, fname), V.DEFAULT_SIZE, index=idx)
@@ -134,14 +135,18 @@ def corpus_text(paths, only_kind=None):
     return out
 
 
-def build(corpus_paths=None, keep_bigrams=False, family=None, keep_glyphs=False, native_2x=False, stable_encoding=False):
+def build(corpus_paths=None, keep_bigrams=False, family=None, keep_glyphs=False, native_2x=False, stable_encoding=False, effects=False, metrics=False):
     """keep_bigrams: reuse the two-letter set of the current efont.json, so only
     the word glyphs (encyclopedia / names) are re-chosen."""
     family=family or 'genei'
     previous=json.load(open(os.path.join(OUT,'efont.json'),encoding='utf-8')) if keep_glyphs else None
     keep_bigrams=keep_bigrams or keep_glyphs
-    f = font(family)
+    f = font(family,metrics=metrics)
     u = unigrams(f)
+    if effects:
+        import font_effects
+        u = {ch: (font_effects.native(cell, advance, 1,gradient=effects==font_effects.LEGACY_STYLE), advance)
+             for ch, (cell, advance) in u.items()}
     if corpus_paths is None:
         d = os.path.join(ROOT, "work", "translation", "en", "out")
         corpus_paths = [os.path.join(d, x) for x in sorted(os.listdir(d))
@@ -245,13 +250,18 @@ def build(corpus_paths=None, keep_bigrams=False, family=None, keep_glyphs=False,
             "t_ex": ex_thresholds(w_x),
             "widths": {ch: u[ch][1] for ch in V.CHARSET}}
     meta['font_family']=family
+    if effects:
+        meta['font_effects'] = font_effects.STYLE if effects is True else effects
+    if metrics:
+        import font_metrics
+        meta['font_metrics']=font_metrics.STYLE
     if native_2x:meta['native_2x']=True
     if stable_encoding:
         assert encode==frozen['encode'] and encode_ex==frozen['encode_ex']
         meta['stable_encoding']='public-v0.3.29'
     if family=='rayblade-skies':
         from rayblade_font import provenance
-        meta['font_source']=provenance(native_2x=native_2x)
+        meta['font_source']=provenance(native_2x=native_2x,effects=effects,metrics=metrics)
     json.dump(meta, open(os.path.join(OUT, "efont.json"), "w", encoding="utf-8", newline="\n"), ensure_ascii=False, indent=0)
     np.savez(os.path.join(OUT, "efont_cells.npz"), uni=np.stack(cells_u),
              bi=np.stack(cells_b) if cells_b else np.zeros((0, 16, 12), np.uint8),

@@ -127,7 +127,7 @@ done:
 def assets():
     import rayblade_font as R
     meta=json.loads((ROOT/'work/font/efont.json').read_text(encoding='utf-8'))
-    font=R.Font();atlas=np.zeros((256,256),np.uint8);desc=[];x=y=0
+    font=R.Font(normalize=bool(meta.get('font_metrics')));atlas=np.zeros((256,256),np.uint8);desc=[];x=y=0
     for ch in meta['uni']:
         width=meta['widths'][ch]*2
         if x+width>254:x=0;y+=32
@@ -139,6 +139,9 @@ def assets():
             low=np.asarray(Image.fromarray(alpha).resize((24,32),Image.Resampling.BOX),dtype=np.int16)
             cell=np.argmin(abs(low[:,:,None]-R.LEVELS.astype(np.int16)),axis=2).astype(np.uint8)
         assert not cell[:,width:].any(),ch
+        import font_effects
+        if font_effects.enabled(meta):
+            cell = font_effects.native(cell, width, 2,gradient=meta['font_effects']==font_effects.LEGACY_STYLE)
         atlas[y:y+32,x:x+width]=cell[:,:width]
         desc.append(bytes([x,y|meta['widths'][ch]]));x+=width
     ids={ch:i for i,ch in enumerate(meta['uni'])}
@@ -160,6 +163,18 @@ def patch_tim(tim,main=True,native_ui=False):
         out[base:base+pix.size//2]=(pix[:,0::2]|(pix[:,1::2]<<4)).astype(np.uint8).tobytes()
     # F1 palettes: faint edge = half-blended foreground, both ink levels opaque.
     clen,cx,cy,cw,ch=struct.unpack_from('<IHHHH',out,8)
+    import font_effects
+    meta=json.loads((ROOT/'work/font/efont.json').read_text(encoding='utf-8'))
+    if font_effects.enabled(meta) and cy != 0:
+        # BATTLE537 is the encyclopedia's tab atlas at CLUT (0,0). Its
+        # decorative palettes are occupied; English text still selects the
+        # shared runtime CLUT, supplied by the normal main/battle font sheets.
+        assert native_ui and cw * ch >= 16 * 16
+        clut=list(struct.unpack_from('<%dH' % (cw * ch),out,20))
+        for i, colors in enumerate(font_effects.private_palettes(clut)):
+            row=font_effects.FIRST_ROW+i
+            assert not any(clut[row*16:row*16+16]), 'Private font CLUT row is occupied'
+            struct.pack_into('<16H',out,20+row*32,*colors)
     for row in ([] if native_ui else range(1,cw*ch//16,2)):
         bright=struct.unpack_from('<H',out,20+row*32+24)[0]&0x7fff
         if not bright:continue
@@ -520,7 +535,44 @@ loop:''')
         # Native F1 icons share these palettes. Keep their original shades;
         # font ink uses an opaque FT4 so the native STP flag cannot dim it.
         draw_source=draw_source.replace('lui $t0,0x2e00','lui $t0,0x2c00')
+    import font_effects
+    effects=font_effects.enabled(json.loads((ROOT/'work/font/efont.json').read_text(encoding='utf-8')))
+    if effects:
+        assert native_ui and transition_clip
+        # Reuse the same code allocation: replacing the 24-bit mask with two
+        # shifts and filling two independent PS1 load delays frees 12 bytes.
+        draw_source=draw_source.replace('''    lw $s2,0x14($s0)
+    lui $t0,0xff
+    ori $t0,$t0,0xffff
+    and $s2,$s2,$t0
+    lui $t0,0x2c00''','''    lw $s2,0x14($s0)
+    lui $t0,0x2c00
+    sll $s2,$s2,8
+    srl $s2,$s2,8''')
+        draw_source=draw_source.replace('''    lbu $t2,1($t0)
+    nop
+    andi $t4,$t2,31
+    andi $t2,$t2,0xe0
+    lbu $t8,0xf($s0)
+    nop''','''    lbu $t2,1($t0)
+    lbu $t8,0xf($s0)
+    andi $t4,$t2,31
+    andi $t2,$t2,0xe0''')
+        draw_source=draw_source.replace('''    ori $s7,$s7,1
+    sll $s7,$s7,6''','''    srl $s7,$s7,1
+    sltiu $t1,$s7,0x7d
+    beqz $t1,done
+    addiu $s7,$s7,0x82
+    sll $s7,$s7,6''')
     code('draw',draw_source)
+    if effects:
+        instructions=list(mips.md.disasm(second[labels['draw']-B:],labels['draw']))
+        for i, instruction in enumerate(instructions[:-1]):
+            if instruction.mnemonic in ('lb','lbu','lh','lhu','lw'):
+                register=instruction.op_str.split(',')[0]
+                following=instructions[i+1]
+                assert register not in following.op_str.split(', ') and '('+register+')' not in following.op_str, (
+                    'PS1 font load-delay hazard',hex(instruction.address),instruction.op_str,following.op_str)
     assert B+len(second)<=LIMIT_B,('native font code exceeds private space',len(second))
     assert struct.unpack_from('<I',out,mips.off(0x800155f0))[0]==0x0c0222ee
     out[mips.off(A):mips.off(A)+len(first)]=first
@@ -555,5 +607,9 @@ loop:''')
     if native_ui:
         info['primitive']='POLY_FT4 opaque, native shared palettes'
         info['coverage']='Original F1 palette shades, opaque ink; native badges retain their shades'
+    if effects:
+        info['font_effects']=json.loads((ROOT/'work/font/efont.json').read_text(encoding='utf-8'))['font_effects']
+        info['coverage']='Flat antialiased ink and a dark (+1,+1) shadow; private existing CLUT rows 10..14' if info['font_effects']==font_effects.STYLE else 'Two ink shades and a dark (+1,+1) shadow; private existing CLUT rows 10..14'
+        info['native_icon_palettes_unchanged']=True
     if stable:info['stable_encoding']=stable;info['stable_lookup_bytes']=len(code)
     return (bytes(out),info) if report else bytes(out)

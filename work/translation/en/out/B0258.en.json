@@ -181,7 +181,7 @@
   },
   {
    "uid": "U20655",
-   "en": "Transform"
+   "en": "Henshin"
   },
   {
    "uid": "U20656",
@@ -380,7 +380,7 @@
   "rows_examined": 80,
   "uncertain": [
    "U20620-U20628: memory-card messages split across rows; English split at matching points (U20621/U20624 end mid-sentence and are completed by U20622)",
-   "U20654-U20658: transformation commands kept as the show calls (Johchaku/Transform/Sekisha/Shoketsu/Henten); none fit 24px",
+   "U20654-U20658: transformation commands kept as the show calls (Johchaku/Henshin/Sekisha/Shoketsu/Henten); none fit 24px",
    "U20659-U20660: '[name]'s Morale went DOWN!' pattern following B0001",
    "U20638: 事故車西 read as 事故車両 'Wrecked Car'",
    "U20653: 人噴い穴 read as 人喰い穴 'Man-Eating Pit'",

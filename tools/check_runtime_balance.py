@@ -299,7 +299,11 @@ def verify(exe, db=None, support_stronger=False, story_labels=False):
         data_ranges.extend([(ml['pending_choice'],ml['input']),(ml['row'],ml['draw'])])
     if exe[mips.off(0x800DCE38):mips.off(0x800DCE38)+4]==b'F2X1':
         import native_font2x
-        _,font_info=native_font2x.patch_exe(rb.patch_exe(mips.load(),support_stronger=True),True)
+        # Current styled fonts use the native palette-compatible drawer and
+        # cropped page transitions. Build the reference helper with those same
+        # settings rather than the retired pre-v0.3.35 defaults.
+        _,font_info=native_font2x.patch_exe(rb.patch_exe(mips.load(),support_stronger=True),True,
+                                         native_ui=True,transition_clip=True)
         data_ranges.extend(tuple(int(v,16) for v in font_info[k]) for k in ('data_a','data_i','data_b'))
     for i,j in zip(instructions,instructions[1:]):
         if any(a<=i.address<b for a,b in data_ranges):

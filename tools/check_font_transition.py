@@ -149,6 +149,13 @@ def main():
     if native_ui:
         expected=bytearray(final[0])
         for i in range(7,len(expected),40):expected[i]=0x2c
+        import font_effects
+        if font_effects.enabled(meta):
+            for i in range(0,len(expected),40):
+                clut=struct.unpack_from('<H',expected,i+14)[0]
+                row=clut>>6
+                mapped=(row>>1)+0x82
+                struct.pack_into('<H',expected,i+14,(mapped<<6)|(clut&63))
         assert bytes(expected)==final[1], 'Normal new-page geometry changed'
     else:assert final[0]==final[1], 'Normal new-page output changed'
     assert {s['y'] for s in games[1].live(0)}=={136,152},'Old body rows survived page replacement'

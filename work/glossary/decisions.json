@@ -1,6 +1,14 @@
 {
  "decisions": [
   {
+   "term": "Transformation command and call",
+   "previous": "Transform",
+   "english": "Henshin",
+   "reason": "Explicit user instruction on 2026-11-18 restores the signature Henshin call in dialogue, commands, traits and movie captions. Supersedes the v0.9.1 translation decision. Keep generic narration as transform and retain Pops / Mr. Tachibana for ordinary forms of address; no Akurasu entry is overridden.",
+   "source": "User instruction in this chat",
+   "version": "0.9.2"
+  },
+  {
    "term": "Original Metal Hero name",
    "previous": "Lucifard",
    "english": "Luciferd",

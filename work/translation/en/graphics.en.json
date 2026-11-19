@@ -1,13 +1,13 @@
 {
   "language": "en",
-  "version": "0.3.13",
+  "version": "0.9.7",
   "font": "GenEiLateGo_v2.ttc, face 1 (SIL OFL 1.1); original 3x5 pixel lettering for 24x8 callouts",
   "notes": [
     "Card 102 visually confirmed as duplicate of 78 (database row 1330); row 1351 has no card in this inventory.",
     "Cards 72, 97 and 99 visually confirmed; 99 duplicates 52.",
     "Long episode names are expanded from their abbreviated database labels where space permits.",
     "Encyclopedia tabs retain Japanese-reading groups; romanized syllables do not imply English alphabetical order.",
-    "Original title logo retained. Luciferd artwork name logo translated; other artwork logos, remaining battle-strip labels, placeholder portraits and copyright remain for later work.",
+    "Original main title logo retained as brand artwork. All 90 episode cards, both character-intro title cards, the copyright notice and 50 placeholder title cards are translated; placeholder portraits and background signs are separate artwork.",
     "Critical translated in the shared battle/map label strip: MAPMAIN 17 and MAPMAIN 25 CM block 5, original 24x8 sprite at x=136. All other pixels and colour palettes remain intact."
   ],
   "targets": [
@@ -31,7 +31,8 @@
         ]
       ],
       "database_row": 1305,
-      "uid": "U21105"
+      "uid": "U21105",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -53,7 +54,8 @@
         ]
       ],
       "database_row": 1306,
-      "uid": "U21106"
+      "uid": "U21106",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -75,7 +77,8 @@
         ]
       ],
       "database_row": 1307,
-      "uid": "U21107"
+      "uid": "U21107",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -97,7 +100,8 @@
         ]
       ],
       "database_row": 1308,
-      "uid": "U21108"
+      "uid": "U21108",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -119,7 +123,8 @@
         ]
       ],
       "database_row": 1309,
-      "uid": "U21109"
+      "uid": "U21109",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -141,7 +146,8 @@
         ]
       ],
       "database_row": 1310,
-      "uid": "U21110"
+      "uid": "U21110",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -163,7 +169,8 @@
         ]
       ],
       "database_row": 1311,
-      "uid": "U21111"
+      "uid": "U21111",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -185,7 +192,8 @@
         ]
       ],
       "database_row": 1312,
-      "uid": "U21112"
+      "uid": "U21112",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -207,7 +215,8 @@
         ]
       ],
       "database_row": 1313,
-      "uid": "U21113"
+      "uid": "U21113",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -229,7 +238,8 @@
         ]
       ],
       "database_row": 1314,
-      "uid": "U21114"
+      "uid": "U21114",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -251,7 +261,8 @@
         ]
       ],
       "database_row": 1315,
-      "uid": "U21115"
+      "uid": "U21115",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -273,7 +284,8 @@
         ]
       ],
       "database_row": 1316,
-      "uid": "U21116"
+      "uid": "U21116",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -295,7 +307,8 @@
         ]
       ],
       "database_row": 1317,
-      "uid": "U21117"
+      "uid": "U21117",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -317,7 +330,8 @@
         ]
       ],
       "database_row": 1318,
-      "uid": "U21118"
+      "uid": "U21118",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -339,7 +353,8 @@
         ]
       ],
       "database_row": 1319,
-      "uid": "U21119"
+      "uid": "U21119",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -361,7 +376,8 @@
         ]
       ],
       "database_row": 1320,
-      "uid": "U21120"
+      "uid": "U21120",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -383,7 +399,8 @@
         ]
       ],
       "database_row": 1321,
-      "uid": "U21121"
+      "uid": "U21121",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -405,7 +422,8 @@
         ]
       ],
       "database_row": 1322,
-      "uid": "U21122"
+      "uid": "U21122",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -427,7 +445,8 @@
         ]
       ],
       "database_row": 1323,
-      "uid": "U21123"
+      "uid": "U21123",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -449,7 +468,8 @@
         ]
       ],
       "database_row": 1324,
-      "uid": "U21124"
+      "uid": "U21124",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -470,7 +490,8 @@
           128
         ]
       ],
-      "mapping": "extra card; visually confirmed 2026-10-08"
+      "mapping": "extra card; visually confirmed 2026-10-08",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -492,7 +513,8 @@
         ]
       ],
       "database_row": 1325,
-      "uid": "U21125"
+      "uid": "U21125",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -514,7 +536,8 @@
         ]
       ],
       "database_row": 1326,
-      "uid": "U21126"
+      "uid": "U21126",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -536,7 +559,8 @@
         ]
       ],
       "database_row": 1327,
-      "uid": "U21127"
+      "uid": "U21127",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -558,7 +582,8 @@
         ]
       ],
       "database_row": 1328,
-      "uid": "U21128"
+      "uid": "U21128",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -580,7 +605,8 @@
         ]
       ],
       "database_row": 1329,
-      "uid": "U21129"
+      "uid": "U21129",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -602,7 +628,8 @@
         ]
       ],
       "database_row": 1330,
-      "uid": "U21130"
+      "uid": "U21130",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -624,7 +651,8 @@
         ]
       ],
       "database_row": 1331,
-      "uid": "U21131"
+      "uid": "U21131",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -646,7 +674,8 @@
         ]
       ],
       "database_row": 1332,
-      "uid": "U21132"
+      "uid": "U21132",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -668,7 +697,8 @@
         ]
       ],
       "database_row": 1333,
-      "uid": "U21133"
+      "uid": "U21133",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -690,7 +720,8 @@
         ]
       ],
       "database_row": 1334,
-      "uid": "U21134"
+      "uid": "U21134",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -712,7 +743,8 @@
         ]
       ],
       "database_row": 1335,
-      "uid": "U21135"
+      "uid": "U21135",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -734,7 +766,8 @@
         ]
       ],
       "database_row": 1336,
-      "uid": "U21136"
+      "uid": "U21136",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -756,7 +789,8 @@
         ]
       ],
       "database_row": 1337,
-      "uid": "U21137"
+      "uid": "U21137",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -778,7 +812,8 @@
         ]
       ],
       "database_row": 1338,
-      "uid": "U21138"
+      "uid": "U21138",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -800,7 +835,8 @@
         ]
       ],
       "database_row": 1339,
-      "uid": "U21139"
+      "uid": "U21139",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -822,7 +858,8 @@
         ]
       ],
       "database_row": 1340,
-      "uid": "U21140"
+      "uid": "U21140",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -844,7 +881,8 @@
         ]
       ],
       "database_row": 1341,
-      "uid": "U21141"
+      "uid": "U21141",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -866,7 +904,8 @@
         ]
       ],
       "database_row": 1342,
-      "uid": "U21142"
+      "uid": "U21142",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -888,7 +927,8 @@
         ]
       ],
       "database_row": 1343,
-      "uid": "U21143"
+      "uid": "U21143",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -910,7 +950,8 @@
         ]
       ],
       "database_row": 1344,
-      "uid": "U21144"
+      "uid": "U21144",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -932,7 +973,8 @@
         ]
       ],
       "database_row": 1345,
-      "uid": "U21145"
+      "uid": "U21145",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -954,7 +996,8 @@
         ]
       ],
       "database_row": 1346,
-      "uid": "U21146"
+      "uid": "U21146",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -976,7 +1019,8 @@
         ]
       ],
       "database_row": 1347,
-      "uid": "U21147"
+      "uid": "U21147",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -998,7 +1042,8 @@
         ]
       ],
       "database_row": 1348,
-      "uid": "U21148"
+      "uid": "U21148",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1019,7 +1064,8 @@
           128
         ]
       ],
-      "mapping": "extra card; visually confirmed 2026-10-08"
+      "mapping": "extra card; visually confirmed 2026-10-08",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1041,7 +1087,8 @@
         ]
       ],
       "database_row": 1350,
-      "uid": "U21150"
+      "uid": "U21150",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1063,7 +1110,8 @@
         ]
       ],
       "database_row": 1305,
-      "uid": "U21105"
+      "uid": "U21105",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1085,7 +1133,8 @@
         ]
       ],
       "database_row": 1352,
-      "uid": "U21152"
+      "uid": "U21152",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1107,7 +1156,8 @@
         ]
       ],
       "database_row": 1353,
-      "uid": "U21153"
+      "uid": "U21153",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1129,7 +1179,8 @@
         ]
       ],
       "database_row": 1330,
-      "uid": "U21130"
+      "uid": "U21130",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1151,7 +1202,8 @@
         ]
       ],
       "database_row": 1355,
-      "uid": "U21155"
+      "uid": "U21155",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1173,7 +1225,8 @@
         ]
       ],
       "database_row": 1354,
-      "uid": "U21154"
+      "uid": "U21154",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1195,7 +1248,8 @@
         ]
       ],
       "database_row": 1356,
-      "uid": "U21156"
+      "uid": "U21156",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1217,7 +1271,8 @@
         ]
       ],
       "database_row": 1357,
-      "uid": "U21157"
+      "uid": "U21157",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1239,7 +1294,8 @@
         ]
       ],
       "database_row": 1358,
-      "uid": "U21158"
+      "uid": "U21158",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1261,7 +1317,8 @@
         ]
       ],
       "database_row": 1359,
-      "uid": "U21159"
+      "uid": "U21159",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1283,7 +1340,8 @@
         ]
       ],
       "database_row": 1360,
-      "uid": "U21160"
+      "uid": "U21160",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1305,7 +1363,8 @@
         ]
       ],
       "database_row": 1361,
-      "uid": "U21161"
+      "uid": "U21161",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1327,7 +1386,8 @@
         ]
       ],
       "database_row": 1363,
-      "uid": "U21163"
+      "uid": "U21163",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1349,7 +1409,8 @@
         ]
       ],
       "database_row": 1362,
-      "uid": "U21162"
+      "uid": "U21162",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1371,7 +1432,8 @@
         ]
       ],
       "database_row": 1364,
-      "uid": "U21164"
+      "uid": "U21164",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1393,7 +1455,8 @@
         ]
       ],
       "database_row": 1365,
-      "uid": "U21165"
+      "uid": "U21165",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1415,7 +1478,8 @@
         ]
       ],
       "database_row": 1366,
-      "uid": "U21166"
+      "uid": "U21166",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1437,7 +1501,8 @@
         ]
       ],
       "database_row": 1367,
-      "uid": "U21167"
+      "uid": "U21167",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1459,7 +1524,8 @@
         ]
       ],
       "database_row": 1368,
-      "uid": "U21168"
+      "uid": "U21168",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1481,7 +1547,8 @@
         ]
       ],
       "database_row": 1369,
-      "uid": "U21169"
+      "uid": "U21169",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1503,7 +1570,8 @@
         ]
       ],
       "database_row": 1370,
-      "uid": "U21170"
+      "uid": "U21170",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1525,7 +1593,8 @@
         ]
       ],
       "database_row": 1371,
-      "uid": "U21171"
+      "uid": "U21171",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1547,7 +1616,8 @@
         ]
       ],
       "database_row": 1372,
-      "uid": "U21172"
+      "uid": "U21172",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1569,7 +1639,8 @@
         ]
       ],
       "database_row": 1373,
-      "uid": "U21173"
+      "uid": "U21173",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1591,7 +1662,8 @@
         ]
       ],
       "database_row": 1374,
-      "uid": "U21174"
+      "uid": "U21174",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1613,7 +1685,8 @@
         ]
       ],
       "database_row": 1375,
-      "uid": "U21175"
+      "uid": "U21175",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1635,7 +1708,8 @@
         ]
       ],
       "database_row": 1376,
-      "uid": "U21176"
+      "uid": "U21176",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1657,7 +1731,8 @@
         ]
       ],
       "database_row": 1377,
-      "uid": "U21177"
+      "uid": "U21177",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1679,7 +1754,8 @@
         ]
       ],
       "database_row": 1378,
-      "uid": "U21178"
+      "uid": "U21178",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1701,7 +1777,8 @@
         ]
       ],
       "database_row": 1379,
-      "uid": "U21179"
+      "uid": "U21179",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1723,7 +1800,8 @@
         ]
       ],
       "database_row": 1388,
-      "uid": "U21188"
+      "uid": "U21188",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1745,7 +1823,8 @@
         ]
       ],
       "database_row": 1381,
-      "uid": "U21181"
+      "uid": "U21181",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1767,7 +1846,8 @@
         ]
       ],
       "database_row": 1382,
-      "uid": "U21182"
+      "uid": "U21182",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1789,7 +1869,8 @@
         ]
       ],
       "database_row": 1383,
-      "uid": "U21183"
+      "uid": "U21183",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1811,7 +1892,8 @@
         ]
       ],
       "database_row": 1384,
-      "uid": "U21184"
+      "uid": "U21184",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1833,7 +1915,8 @@
         ]
       ],
       "database_row": 1385,
-      "uid": "U21185"
+      "uid": "U21185",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1855,7 +1938,8 @@
         ]
       ],
       "database_row": 1386,
-      "uid": "U21186"
+      "uid": "U21186",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1877,7 +1961,8 @@
         ]
       ],
       "database_row": 1387,
-      "uid": "U21187"
+      "uid": "U21187",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1899,7 +1984,8 @@
         ]
       ],
       "database_row": 1349,
-      "uid": "U21149"
+      "uid": "U21149",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1921,7 +2007,8 @@
         ]
       ],
       "database_row": 1380,
-      "uid": "U21180"
+      "uid": "U21180",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1943,7 +2030,8 @@
         ]
       ],
       "database_row": 1389,
-      "uid": "U21189"
+      "uid": "U21189",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1965,7 +2053,8 @@
         ]
       ],
       "database_row": 1390,
-      "uid": "U21190"
+      "uid": "U21190",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -1987,7 +2076,8 @@
         ]
       ],
       "database_row": 1391,
-      "uid": "U21191"
+      "uid": "U21191",
+      "lettering": "imagegen-sheet-v1"
     },
     {
       "archive": "EVENT",
@@ -2057,7 +2147,9 @@
           "en": "And nearly twelve years had passed...",
           "size": 16
         }
-      ]
+      ],
+      "lettering": "imagegen-line-v1",
+      "lettering_asset": "work/ui/intertitles/narration-source-v0.9.7.png"
     },
     {
       "archive": "MAPMAIN",
@@ -2279,37 +2371,24 @@
       "archive": "EVENT",
       "entry": 230,
       "kind": "artwork_logo",
-      "en": "Luciferd, the Fusion Steel",
+      "en": "Fusion Steel Luciferd",
       "background": "work/translation/en/graphics/EVENT_0230_background.png",
       "regions": [
         [
           0,
-          19,
+          84,
           320,
-          222
+          143
         ]
       ],
-      "labels": [
-        {
-          "rect": [
-            14,
-            91,
-            306,
-            120
-          ],
-          "en": "Luciferd",
-          "size": 25
-        },
-        {
-          "rect": [
-            14,
-            121,
-            306,
-            141
-          ],
-          "en": "The Fusion Steel",
-          "size": 14
-        }
+      "labels": [],
+      "lettering": "image-wordmark",
+      "wordmark": "work/ui/title_cards/Luciferd-v0.9.6.png",
+      "wordmark_rect": [
+        20,
+        86,
+        300,
+        140
       ]
     },
     {
@@ -2362,6 +2441,863 @@
         }
       ],
       "block": 5
+    },
+    {
+      "archive": "EVENT",
+      "entry": 231,
+      "kind": "artwork_logo",
+      "en": "EATER — Test Subject 003",
+      "background": "work/translation/en/graphics/EVENT_0231_background_v0.9.5.png",
+      "regions": [
+        [
+          0,
+          84,
+          320,
+          143
+        ]
+      ],
+      "lettering": "image-wordmark",
+      "labels": [],
+      "wordmark": "work/ui/title_cards/Eater-v0.9.6.png",
+      "wordmark_rect": [
+        20,
+        86,
+        300,
+        140
+      ]
+    },
+    {
+      "archive": "MAPMAIN",
+      "entry": 20,
+      "kind": "copyright",
+      "regions": [
+        [
+          0,
+          20,
+          256,
+          128
+        ]
+      ],
+      "labels": [
+        {
+          "rect": [
+            12,
+            20,
+            250,
+            38
+          ],
+          "en": "© Ishimori Pro. / Toei",
+          "size": 16,
+          "align": "left"
+        },
+        {
+          "rect": [
+            12,
+            38,
+            250,
+            56
+          ],
+          "en": "© Senkosha / NTV",
+          "size": 16,
+          "align": "left"
+        },
+        {
+          "rect": [
+            12,
+            56,
+            250,
+            74
+          ],
+          "en": "© 1966, 67, 71 Tsuburaya Pro.",
+          "size": 16,
+          "align": "left"
+        },
+        {
+          "rect": [
+            12,
+            74,
+            250,
+            92
+          ],
+          "en": "© Toei",
+          "size": 16,
+          "align": "left"
+        },
+        {
+          "rect": [
+            12,
+            92,
+            250,
+            110
+          ],
+          "en": "© Hikari Pro. / Toei",
+          "size": 16,
+          "align": "left"
+        },
+        {
+          "rect": [
+            12,
+            110,
+            250,
+            128
+          ],
+          "en": "© BANPRESTO 2001",
+          "size": 16,
+          "align": "left"
+        }
+      ],
+      "lettering": "plain-sans-aa-v1",
+      "lettering_asset": "work/ui/copyright/lettering.en.json"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 242,
+      "kind": "placeholder_title",
+      "en": "Dummy 151",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 243,
+      "kind": "placeholder_title",
+      "en": "Dummy 152",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 244,
+      "kind": "placeholder_title",
+      "en": "Dummy 153",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 245,
+      "kind": "placeholder_title",
+      "en": "Dummy 154",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 246,
+      "kind": "placeholder_title",
+      "en": "Dummy 155",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 247,
+      "kind": "placeholder_title",
+      "en": "Dummy 156",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 248,
+      "kind": "placeholder_title",
+      "en": "Dummy 157",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 249,
+      "kind": "placeholder_title",
+      "en": "Dummy 158",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 250,
+      "kind": "placeholder_title",
+      "en": "Dummy 159",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 251,
+      "kind": "placeholder_title",
+      "en": "Dummy 160",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 252,
+      "kind": "placeholder_title",
+      "en": "Dummy 161",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 253,
+      "kind": "placeholder_title",
+      "en": "Dummy 162",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 254,
+      "kind": "placeholder_title",
+      "en": "Dummy 163",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 255,
+      "kind": "placeholder_title",
+      "en": "Dummy 164",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 256,
+      "kind": "placeholder_title",
+      "en": "Dummy 165",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 257,
+      "kind": "placeholder_title",
+      "en": "Dummy 166",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 258,
+      "kind": "placeholder_title",
+      "en": "Dummy 167",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 259,
+      "kind": "placeholder_title",
+      "en": "Dummy 168",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 260,
+      "kind": "placeholder_title",
+      "en": "Dummy 169",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 261,
+      "kind": "placeholder_title",
+      "en": "Dummy 170",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 262,
+      "kind": "placeholder_title",
+      "en": "Dummy 171",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 263,
+      "kind": "placeholder_title",
+      "en": "Dummy 172",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 264,
+      "kind": "placeholder_title",
+      "en": "Dummy 173",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 265,
+      "kind": "placeholder_title",
+      "en": "Dummy 174",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 266,
+      "kind": "placeholder_title",
+      "en": "Dummy 175",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 267,
+      "kind": "placeholder_title",
+      "en": "Dummy 176",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 268,
+      "kind": "placeholder_title",
+      "en": "Dummy 177",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 269,
+      "kind": "placeholder_title",
+      "en": "Dummy 178",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 270,
+      "kind": "placeholder_title",
+      "en": "Dummy 179",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 271,
+      "kind": "placeholder_title",
+      "en": "Dummy 180",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 272,
+      "kind": "placeholder_title",
+      "en": "Dummy 181",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 273,
+      "kind": "placeholder_title",
+      "en": "Dummy 182",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 274,
+      "kind": "placeholder_title",
+      "en": "Dummy 183",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 275,
+      "kind": "placeholder_title",
+      "en": "Dummy 184",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 276,
+      "kind": "placeholder_title",
+      "en": "Dummy 185",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 277,
+      "kind": "placeholder_title",
+      "en": "Dummy 186",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 278,
+      "kind": "placeholder_title",
+      "en": "Dummy 187",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 279,
+      "kind": "placeholder_title",
+      "en": "Dummy 188",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 280,
+      "kind": "placeholder_title",
+      "en": "Dummy 189",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 281,
+      "kind": "placeholder_title",
+      "en": "Dummy 190",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 282,
+      "kind": "placeholder_title",
+      "en": "Dummy 191",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 283,
+      "kind": "placeholder_title",
+      "en": "Dummy 192",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 284,
+      "kind": "placeholder_title",
+      "en": "Dummy 193",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 285,
+      "kind": "placeholder_title",
+      "en": "Dummy 194",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 286,
+      "kind": "placeholder_title",
+      "en": "Dummy 195",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 287,
+      "kind": "placeholder_title",
+      "en": "Dummy 196",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 288,
+      "kind": "placeholder_title",
+      "en": "Dummy 197",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 289,
+      "kind": "placeholder_title",
+      "en": "Dummy 198",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 290,
+      "kind": "placeholder_title",
+      "en": "Dummy 199",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
+    },
+    {
+      "archive": "EVENT",
+      "entry": 291,
+      "kind": "placeholder_title",
+      "en": "Dummy 200",
+      "regions": [
+        [
+          0,
+          85,
+          320,
+          140
+        ]
+      ],
+      "note": "Unused placeholder artwork; numbering preserved."
     }
   ]
 }

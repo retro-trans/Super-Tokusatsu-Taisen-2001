@@ -71,6 +71,10 @@ def render(data, target):
     t = gfx.Tim(data)
     labels = []
     if kind == "episode":
+        if target.get('lettering') == 'imagegen-sheet-v1':
+            import image_intertitles
+            labels = image_intertitles.make_episode(t,target['en'])
+            return t.bytes(), labels
         return gfx_cards.make_card(data, target["en"]), labels
     if kind == "artwork_logo":
         restored = Image.open(ROOT / target["background"]).convert("RGB")
@@ -83,13 +87,45 @@ def render(data, target):
                 dist = ((rgb[y, x0:x1, None, :] - pal[None, :, :])**2).sum(axis=2)
                 dist[:, 0] = 2**30  # keep the image opaque
                 t.idx[y, x0:x1] = dist.argmin(axis=1)
-        for row in target["labels"]:
-            labels.append(t.label(row["rect"], row["en"], row["size"],
-                                  outline=1, edge=(0, 0, 0)))
-    elif kind in ("disclaimer", "narration"):
+        if target.get('wordmark'):
+            mark = Image.open(ROOT/target['wordmark']).convert('RGBA')
+            alpha = mark.getchannel('A')
+            assert alpha.getextrema()[0] == 0, 'Title wordmark must have transparency'
+            # Ignore barely visible generated-alpha specks when fitting the
+            # title; otherwise remote specks shrink the actual wordmark.
+            mark = mark.crop(alpha.point(lambda a: 255 if a >= 8 else 0).getbbox())
+            x0,y0,x1,y1 = target['wordmark_rect']
+            mark.thumbnail((x1-x0,y1-y0),Image.Resampling.LANCZOS)
+            x,y = x0+(x1-x0-mark.width)//2,y0+(y1-y0-mark.height)//2
+            base = t.rgb().convert('RGBA')
+            base.alpha_composite(mark,(x,y))
+            rgb = np.asarray(base.convert('RGB'),dtype=np.int32)
+            for py in range(y,y+mark.height):
+                dist = ((rgb[py,x:x+mark.width,None,:]-pal[None,:,:])**2).sum(axis=2)
+                dist[:,0] = 2**30
+                # Preserve source palette indices at fully transparent pixels.
+                active = np.asarray(mark.getchannel('A'))[py-y] != 0
+                t.idx[py,x:x+mark.width][active] = dist.argmin(axis=1)[active]
+            labels.append(dict(text=target['en'],bounds=[x,y,x+mark.width,y+mark.height],
+                               image_wordmark=True))
+        else:
+            for row in target["labels"]:
+                labels.append(t.label(row["rect"], row["en"], row["size"],
+                                      outline=1, edge=(0, 0, 0),shadow=True,
+                                      native=target.get('lettering')=='native-latin'))
+    elif kind == 'copyright' and target.get('lettering') == 'plain-sans-aa-v1':
+        import copyright_notice
+        labels = copyright_notice.render(t, target)
+    elif kind == 'narration' and target.get('lettering') == 'imagegen-line-v1':
+        import image_intertitles
+        labels = image_intertitles.make_narration(t,target)
+    elif kind in ("disclaimer", "narration", "copyright"):
         t.fill(*target["regions"][0], int(t.idx[target["regions"][0][1], 5]))
         for row in target["labels"]:
-            labels.append(t.label(row["rect"], row["en"], row["size"]))
+            labels.append(t.label(row["rect"], row["en"], row["size"],align=row.get('align','center')))
+    elif kind == 'placeholder_title':
+        t.fill(*target['regions'][0],t.nearest((0,0,0),avoid0=False))
+        labels.append(t.label(target['regions'][0],target['en'],24,color=(255,255,255),native=True))
     elif kind == "title_menu":
         box = target["regions"][0]
         t.fill(*box, 0)

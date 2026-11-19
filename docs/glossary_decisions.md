@@ -1,5 +1,10 @@
 # Glossary and style decisions
 
+## v0.9.2 transformation wording (2026-11-18)
+
+- The user explicitly requested restoring **Henshin**. Use **Henshin!** for the signature call and **Henshin** in transformation commands, traits and movie titles/captions. This supersedes the v0.9.1 Henshin decision below. Generic narration still uses **transform**.
+- Retain **Henten**, **Johchaku**, **Sekisha** and **Shoketsu**. Ordinary forms of address remain translated as **Pops** / **Mr. Tachibana**. Original spoken audio and subtitle timing remain unchanged; no Akurasu entry is overridden.
+
 ## v0.9.1 issue corrections (2026-11-16)
 
 - [Issue #2](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues/2): use **Luciferd**, as confirmed by the maintainer, throughout dialogue, database, glossary, music/movie names and translated artwork. This original character has no applicable Akurasu SRW MX entry.

@@ -44,6 +44,33 @@ def c15(v):
     return ((v & 31) * 255 // 31, ((v >> 5) & 31) * 255 // 31, ((v >> 10) & 31) * 255 // 31)
 
 
+def native_lettering(text,size,outline=1,shadow=True):
+    """Bitmap title lettering from the same aligned Latin source as game text."""
+    import rayblade_font
+    font=rayblade_font.Font(normalize=True)
+    advances=[font.render_cell(ch)[1]*4 for ch in text]
+    high=np.zeros((64,sum(advances)+48),np.uint8)
+    x=0
+    for ch,advance in zip(text,advances):
+        glyph=font.hires(ch)
+        np.maximum(high[:,x:x+48],glyph,out=high[:,x:x+48])
+        x+=advance
+    ys,xs=np.nonzero(high>=2)
+    if not len(xs):raise ValueError('Empty title')
+    face=(high[ys.min():ys.max()+1,xs.min():xs.max()+1]>=2).astype(np.uint8)*255
+    h,w=face.shape
+    small=np.asarray(Image.fromarray(face).resize((max(1,round(w*size/h)),size),Image.Resampling.LANCZOS))>110
+    pad=max(outline,1)+2
+    core=np.pad(small,pad)
+    edge=np.zeros_like(core)
+    for dy in range(-outline,outline+1):
+        for dx in range(-outline,outline+1):edge|=np.roll(np.roll(core,dy,0),dx,1)
+    if shadow:edge|=np.roll(np.roll(core,1,0),1,1)
+    mask=np.where(core,2,np.where(edge,1,0)).astype(np.uint8)
+    yy,xx=np.nonzero(mask)
+    return mask[yy.min():yy.max()+1,xx.min():xx.max()+1]
+
+
 class Tim:
     def __init__(self, data):
         self.raw = bytearray(data)
@@ -87,19 +114,19 @@ class Tim:
         self.idx[y0:y1, x0:x1] = index
 
     def label(self, rect, text, size, color=(255, 255, 255), edge=(80, 80, 80),
-              bold=0, outline=0, shadow=False, min_size=7, gradient=None):
+              bold=0, outline=0, shadow=False, min_size=7, gradient=None, align="center", native=False):
         """Fit and centre lettering inside a measured sprite; fail on overflow."""
         x0, y0, x1, y1 = rect
         if not (0 <= x0 < x1 <= self.w and 0 <= y0 < y1 <= self.h):
             raise ValueError("invalid sprite rectangle: %r" % (rect,))
         for chosen in range(size, min_size - 1, -1):
-            mask = lettering(text, chosen, bold, outline, shadow)
+            mask = native_lettering(text,chosen,outline,shadow) if native else lettering(text, chosen, bold, outline, shadow)
             h, w = mask.shape
             if w <= x1 - x0 and h <= y1 - y0:
                 break
         else:
             raise ValueError("%r does not fit %r" % (text, rect))
-        x, y = x0 + (x1 - x0 - w) // 2, y0 + (y1 - y0 - h) // 2
+        x, y = (x0 if align=="left" else x0 + (x1 - x0 - w) // 2), y0 + (y1 - y0 - h) // 2
         dest = self.idx[y:y + h, x:x + w]
         dest[mask == 1] = self.nearest(edge)
         if gradient:

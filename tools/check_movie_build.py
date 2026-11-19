@@ -62,11 +62,17 @@ def main():
     p.add_argument('--title-update',action='store_true',help='Allow only the exact automatic title-version stamp outside MOVIE.STR')
     p.add_argument('--changed-ids',help='Require exactly these movies to differ from baseline')
     p.add_argument('--changed-files',default='',help='Additional changed files audited separately by native/public-source checks')
+    p.add_argument('--movies-only',action='store_true',help='Compare fixed movie region across independently audited native-file relocation')
     args=p.parse_args()
     new=OUT/('STT2001_EN_v%s.bin'%args.version)
     old=OUT/('STT2001_EN_v%s.bin'%args.baseline)
     nd,od=directory(new),directory(old)
-    assert nd==od,'Disc directory/LBA/size changed'
+    if args.movies_only:
+        assert nd.keys()==od.keys(),'Disc file inventory changed'
+        assert nd['MOVIE.STR']==od['MOVIE.STR'],'Movie allocation moved'
+        assert not args.title_update,'Use separate title verification with --movies-only'
+    else:
+        assert nd==od,'Disc directory/LBA/size changed'
     assert new.stat().st_size==old.stat().st_size,'Disc size changed'
     filetable=json.loads(Path(str(new)+'.files.json').read_text())
     assert nd=={r['path']:{'lba':r['lba'],'size':r['size']} for r in filetable}
@@ -92,10 +98,11 @@ def main():
         excluded.append((title['lba']*2352,(title['lba']+(title['size']+2047)//2048)*2352))
     with new.open('rb') as a,old.open('rb') as b:
         cursor=0
-        for first,last in sorted(excluded):
-            same_range(a,b,cursor,first)
-            cursor=last
-        same_range(a,b,cursor,new.stat().st_size)
+        if not args.movies_only:
+            for first,last in sorted(excluded):
+                same_range(a,b,cursor,first)
+                cursor=last
+            same_range(a,b,cursor,new.stat().st_size)
         if args.title_update:
             a.seek(title['lba']*2352)
             check_parity(a.read(((title['size']+2047)//2048)*2352))
@@ -162,11 +169,13 @@ def main():
     if args.changed_ids:
         assert changed_ids==sorted(int(i) for i in args.changed_ids.split(',')),changed_ids
     result={'version':args.version,'baseline':args.baseline,'all_checks_passed':True,
-            'disc_size':new.stat().st_size,'disc_directory_and_all_lbas_unchanged':True,
-            'all_nonmovie_disc_bytes_identical':not args.title_update and not permitted,
+            'disc_size':new.stat().st_size,'disc_directory_and_all_lbas_unchanged':nd==od,
+            'verification_scope':'movies plus named native-file parity; other native content audited separately' if args.movies_only else 'complete disc comparison',
+            'fixed_movie_allocation_unchanged':True,
+            'all_nonmovie_disc_bytes_identical':not args.movies_only and not args.title_update and not permitted,
             'nonmovie_exception':permitted or ('Exact automatic MAPMAIN title stamp only' if args.title_update else None),
             'separately_audited_changed_files':permitted,
-            'all_other_disc_bytes_identical':True,'changed_movie_ids_from_baseline':changed_ids,
+            'all_other_disc_bytes_identical':not args.movies_only,'changed_movie_ids_from_baseline':changed_ids,
             'unchanged_movie_count':len(inv)-len(changed_ids),
             'movie_edc_ecc_sectors_verified':checked,'movies':clips,
             'bin_sha256':bin_hash,'emulator_verified':False}

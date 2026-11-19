@@ -109,7 +109,7 @@
   {
    "uid": "U21327",
    "en": "Kikaid. (Hensh.",
-   "note": "Shortened to fit the checker budget; preferred: Kikaider (Transform)"
+   "note": "Shortened to fit the checker budget; preferred: Kikaider (Henshin)"
   },
   {
    "uid": "U21328",
@@ -119,16 +119,16 @@
   {
    "uid": "U21329",
    "en": "Ultram. (Hensh.",
-   "note": "Shortened to fit the checker budget; preferred: Ultraman (Transform)"
+   "note": "Shortened to fit the checker budget; preferred: Ultraman (Henshin)"
   },
   {
    "uid": "U21330",
    "en": "Ultrase. (Henshi.",
-   "note": "Shortened to fit the checker budget; preferred: Ultraseven (Transform)"
+   "note": "Shortened to fit the checker budget; preferred: Ultraseven (Henshin)"
   },
   {
    "uid": "U21331",
-   "en": "Ultraman Jack (Transform)"
+   "en": "Ultraman Jack (Henshin)"
   },
   {
    "uid": "U21332",
@@ -160,12 +160,12 @@
   },
   {
    "uid": "U21338",
-   "en": "Kamen Rider 1 (Transform)"
+   "en": "Kamen Rider 1 (Henshin)"
   },
   {
    "uid": "U21339",
-   "en": "New Rider 1 (Transform)",
-   "note": "Shortened to fit the checker budget; preferred: New Kamen Rider 1 (Transform)"
+   "en": "New Rider 1 (Henshin)",
+   "note": "Shortened to fit the checker budget; preferred: New Kamen Rider 1 (Henshin)"
   },
   {
    "uid": "U21340",
@@ -177,12 +177,12 @@
   },
   {
    "uid": "U21342",
-   "en": "Kamen Rider 2 (Transform)"
+   "en": "Kamen Rider 2 (Henshin)"
   },
   {
    "uid": "U21343",
-   "en": "New Rider 2 (Transform)",
-   "note": "Shortened to fit the checker budget; preferred: New Kamen Rider 2 (Transform)"
+   "en": "New Rider 2 (Henshin)",
+   "note": "Shortened to fit the checker budget; preferred: New Kamen Rider 2 (Henshin)"
   },
   {
    "uid": "U21344",
@@ -200,8 +200,8 @@
   },
   {
    "uid": "U21347",
-   "en": "Rider V3 (Transform)",
-   "note": "Shortened to fit the checker budget; preferred: Kamen Rider V3 (Transform)"
+   "en": "Rider V3 (Henshin)",
+   "note": "Shortened to fit the checker budget; preferred: Kamen Rider V3 (Henshin)"
   },
   {
    "uid": "U21348",
@@ -211,17 +211,17 @@
   {
    "uid": "U21349",
    "en": "Riderm. (Hensh.",
-   "note": "Shortened to fit the checker budget; preferred: Riderman (Transform)"
+   "note": "Shortened to fit the checker budget; preferred: Riderman (Henshin)"
   },
   {
    "uid": "U21350",
-   "en": "Rider BLACK (Transform)",
-   "note": "Shortened to fit the checker budget; preferred: Kamen Rider BLACK (Transform)"
+   "en": "Rider BLACK (Henshin)",
+   "note": "Shortened to fit the checker budget; preferred: Kamen Rider BLACK (Henshin)"
   },
   {
    "uid": "U21351",
-   "en": "Rider BLACK RX (Transform)",
-   "note": "Shortened to fit the checker budget; preferred: Kamen Rider BLACK RX (Transform)"
+   "en": "Rider BLACK RX (Henshin)",
+   "note": "Shortened to fit the checker budget; preferred: Kamen Rider BLACK RX (Henshin)"
   },
   {
    "uid": "U21352",
@@ -305,22 +305,22 @@
   {
    "uid": "U21369",
    "en": "Kikaid. 01 (Hensh.",
-   "note": "Shortened to fit the checker budget; preferred: Kikaider 01 (Transform)"
+   "note": "Shortened to fit the checker budget; preferred: Kikaider 01 (Henshin)"
   },
   {
    "uid": "U21370",
    "en": "Hakai. (Hens.",
-   "note": "Shortened to fit the checker budget; preferred: Hakaider (Transform)"
+   "note": "Shortened to fit the checker budget; preferred: Hakaider (Henshin)"
   },
   {
    "uid": "U21371",
    "en": "Bijin. Enemy (Hens.",
-   "note": "Shortened to fit the checker budget; preferred: Bijinder, Enemy (Transform)"
+   "note": "Shortened to fit the checker budget; preferred: Bijinder, Enemy (Henshin)"
   },
   {
    "uid": "U21372",
    "en": "Bijinde. Ally (Henshi.",
-   "note": "Shortened to fit the checker budget; preferred: Bijinder, Ally (Transform)"
+   "note": "Shortened to fit the checker budget; preferred: Bijinder, Ally (Henshin)"
   },
   {
    "uid": "U21373",
@@ -370,7 +370,7 @@
   "rows_examined": 80,
   "uncertain": [
    "U21301-U21308: last BGM titles (kind=music)",
-   "U21309-U21372: Transform Movie list entries 'Unit (Scene)'; 轟機鋼着装 rendered '(Fusion Steel On)', 覚醒 '(Awakening)', 轟合 '(Fusion)'",
+   "U21309-U21372: Henshin Movie list entries 'Unit (Scene)'; 轟機鋼着装 rendered '(Fusion Steel On)', 覚醒 '(Awakening)', 轟合 '(Fusion)'",
    "U21362: 轟合 = 融合 'Fusion'",
    "U21373-U21382: a second copy of system menu labels with OCR damage (フェイズ的了 = フェイズ終了, 部隊象 = 部隊表, 品戦目陸 = 作戦目的); leading spaces kept"
   ],

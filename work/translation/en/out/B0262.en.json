@@ -310,38 +310,38 @@
   },
   {
    "uid": "U21036",
-   "en": "Transform 103",
-   "note": "Shortened to fit the checker budget; preferred: Transform (Morale 103)"
+   "en": "Henshin 103",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 103)"
   },
   {
    "uid": "U21037",
-   "en": "Transform 105",
-   "note": "Shortened to fit the checker budget; preferred: Transform (Morale 105)"
+   "en": "Henshin 105",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 105)"
   },
   {
    "uid": "U21038",
-   "en": "Transform 108",
-   "note": "Shortened to fit the checker budget; preferred: Transform (Morale 108)"
+   "en": "Henshin 108",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 108)"
   },
   {
    "uid": "U21039",
-   "en": "Transform 110",
-   "note": "Shortened to fit the checker budget; preferred: Transform (Morale 110)"
+   "en": "Henshin 110",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 110)"
   },
   {
    "uid": "U21040",
-   "en": "Transform 112",
-   "note": "Shortened to fit the checker budget; preferred: Transform (Morale 112)"
+   "en": "Henshin 112",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 112)"
   },
   {
    "uid": "U21041",
-   "en": "Transform 115",
-   "note": "Shortened to fit the checker budget; preferred: Transform (Morale 115)"
+   "en": "Henshin 115",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (Morale 115)"
   },
   {
    "uid": "U21042",
-   "en": "Transform (dying)",
-   "note": "Shortened to fit the checker budget; preferred: Transform (near death)"
+   "en": "Henshin (dying)",
+   "note": "Shortened to fit the checker budget; preferred: Henshin (near death)"
   },
   {
    "uid": "U21043",
@@ -378,7 +378,7 @@
    "U20982: △ not in the font; written 'Triangle'",
    "U21008/U21009: hero-select labels; leading spaces kept; ～ written as ~",
    "U21022: 分身 ability rendered 'Clone'",
-   "U21042: 変身（生命の危機） rendered 'Transform (near death)'",
+   "U21042: 変身（生命の危機） rendered 'Henshin (near death)'",
    "U21011: 'Heroine' cannot fit 32px"
   ],
   "omissions_kept": [],

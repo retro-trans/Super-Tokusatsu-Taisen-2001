@@ -2067,6 +2067,8 @@
 "←": 12
 },
 "font_family": "rayblade-skies",
+"font_effects": "flat-shadow-v2",
+"font_metrics": "aligned-latin-v1",
 "native_2x": true,
 "stable_encoding": "public-v0.3.29",
 "font_source": {
@@ -2087,9 +2089,11 @@
 48,
 64
 ],
-"native_sampling": "Original doubled ASCII samples, half-size FT4; half-blended faint edges and opaque ink",
+"native_sampling": "Aligned Latin bodies, original advances, flat antialiased ink and dark shadow",
 "texture_sampling": "Exact Rayblade medium-bank masks, padded to 48 pixels; no stretching",
 "non_ascii_fallback": "Existing GenEi Latin accents and symbols",
-"standalone_source_font_distributed": false
+"standalone_source_font_distributed": false,
+"font_effects": "Flat ink and (+1,+1) drop shadow",
+"font_metrics": "Shared capital/x-height/baseline guides; retain ascenders, descenders and accents"
 }
 }
