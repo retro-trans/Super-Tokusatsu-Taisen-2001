@@ -24,6 +24,13 @@ def render_release_notes(version, previous_version, target_sha256, texture_count
 - **Ending credits:** Both Metal and Bio credit movies include 15 newly verified Latin staff-name readings. Fourteen personal names retain their Japanese spelling pending confirmed readings. Original audio, movie duration and frame slots are preserved.
 - **Henshin restored:** Restore the requested transformation wording and the two affected movie captions. Pops / Mr. Tachibana and the v0.9.1 response, Continue, Max Lv. and Stats repairs remain.
 - **Existing features retained:** Default / Gentle / Story difficulty settings, saved-name and dialogue-clear repairs, native HP/EN/badge fixes and opening English/romaji subtitles. Both main-title copies display **v%s** and **github.com/retro-trans**.''' % version
+    maintenance_release=version=='0.9.9'
+    if maintenance_release:
+        summary='Version v0.9.9 fixes the Chapter 8B retreat dialogue and Chapter 14 objective text.'
+        changes='''- **Atefarina pronouns corrected:** Both Chapter 8B hero variants now use she/her wording for Atefarina. Apfaron's separate male branch keeps its original pronouns ([#5](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues/5)).
+- **Father objective fits:** The full warning about Machiko Shirakawa fits one three-line objective panel. Mission rules and defeat conditions are unchanged ([#6](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/issues/6)).
+- **Existing features retained:** The native font and shadows, translated artwork, movies/audio, Default / Gentle / Story modes and save format are unchanged from public v0.9.7. Both title copies display **v0.9.9** and **github.com/retro-trans**.
+- Includes the local v0.9.8 fix; v0.9.8 was not a public release. Upgrade directly from public v0.9.7.'''
     notes='''English translation of **Super Tokusatsu Taisen 2001** for PlayStation, Japanese release **SLPS-02863**.
 
 {summary} Translation covers the game end to end; campaign playtesting and fluent review remain in progress.
@@ -133,6 +140,10 @@ To use it optionally: open DuckStation's **Tools > Open Data Directory**, extrac
                             'Optional **STT2001-native-font-pack-v'+version+'.zip**, containing')
         notes=notes.replace('some battle callouts/logos remain Japanese.',
                             'the original main game logo remains Japanese, and 14 staff names await verified readings.')
-        notes=notes.replace('Both retained patches were applied and checked against the exact target image through Retro Trans Tools.',
-                            'Both retained patches were applied and checked against the exact target image through Retro Trans Tools. Only movies 31, 34, 71 and 72 differ from public v0.9.1; all original XA audio is preserved. The ending-credit and Henshin caption edits are intentional.')
+        if maintenance_release:
+            notes=notes.replace('Both retained patches were applied and checked against the exact target image through Retro Trans Tools.',
+                                'Both retained patches were applied and checked against the exact target image through Retro Trans Tools. All 74 movie payloads and their audio are unchanged from public v0.9.7; the 28 translated streams decode successfully. Both corrected female dialogue variants, the untouched male variants and the native three-line objective drawing pass. Font-style and artwork audits from v0.9.7 remain applicable through exact byte comparisons; their original versions and the maintenance proof are included.')
+        else:
+            notes=notes.replace('Both retained patches were applied and checked against the exact target image through Retro Trans Tools.',
+                                'Both retained patches were applied and checked against the exact target image through Retro Trans Tools. Only movies 31, 34, 71 and 72 differ from public v0.9.1; all original XA audio is preserved. The ending-credit and Henshin caption edits are intentional.')
     return notes

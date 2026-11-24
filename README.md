@@ -17,13 +17,13 @@ and an ordinary in-game save if available.
 
 ## Play it
 
-The latest release is **[v0.9.7](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.7)**,
+The latest release is **[v0.9.9](https://github.com/retro-trans/Super-Tokusatsu-Taisen-2001/releases/tag/v0.9.9)**,
 with a full patch for the original Japanese disc and an upgrade from public
-English **v0.9.1**. It adds a flat native font with shadows and aligned letter
-heights, smoother copyright/narration artwork, image-generated character and
-chapter-title lettering, and verified names in both ending-credit movies.
-Henshin is restored; the earlier response, Continue, Max Lv. and Stats fixes
-remain. The native font and translated graphics require no texture pack.
+English **v0.9.7**. It corrects Atefarina's pronouns in both Chapter 8B hero
+variants and fits the complete Chapter 14, Father, warning into the objective
+panel. Mission rules, native font/artwork, movies/audio, difficulty settings
+and save format are unchanged from v0.9.7. The native font and translated
+graphics require no texture pack.
 
 ### Apply
 
@@ -41,24 +41,24 @@ For CHD extraction, `chdman` comes with [MAME](https://www.mamedev.org/release.h
 you do not need to install or run MAME.
 
 You need your own Japanese disc image or the exact published English
-v0.9.1 output. Each release includes only the original-to-current and
+v0.9.7 output. Each release includes only the original-to-current and
 previous-public-to-current patches.
 
 | Your source image | Patch |
 |---|---|
-| Original Japanese SLPS-02863, single MODE2/2352 BIN | `STT2001-English-v0.9.7.xdelta` |
-| Published English v0.9.1 BIN | `STT2001-English-v0.9.1-to-v0.9.7.xdelta` |
+| Original Japanese SLPS-02863, single MODE2/2352 BIN | `STT2001-English-v0.9.9.xdelta` |
+| Published English v0.9.7 BIN | `STT2001-English-v0.9.7-to-v0.9.9.xdelta` |
 
 **Original Japanese disc:**
 
 ```sh
-xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.9.7.xdelta "STT2001_EN_v0.9.7.bin"
+xdelta3 -d -s "Super Tokusatsu Taisen 2001 (Japan).bin" STT2001-English-v0.9.9.xdelta "STT2001_EN_v0.9.9.bin"
 ```
 
-**Already on public v0.9.1?** Use the smaller upgrade patch:
+**Already on public v0.9.7?** Use the smaller upgrade patch:
 
 ```sh
-xdelta3 -d -s "STT2001_EN_v0.9.1.bin" STT2001-English-v0.9.1-to-v0.9.7.xdelta "STT2001_EN_v0.9.7.bin"
+xdelta3 -d -s "STT2001_EN_v0.9.7.bin" STT2001-English-v0.9.7-to-v0.9.9.xdelta "STT2001_EN_v0.9.9.bin"
 ```
 
 Older English versions can follow intermediate public upgrades through
@@ -72,11 +72,11 @@ Both patches produce the same 725,316,816-byte image:
 | Image | SHA-256 |
 |---|---|
 | Original Japanese BIN | `219d9c4f64caf670b5e400612fa19677ed9a3f59a7ebdb72c12c425412795465` |
-| English v0.9.7 BIN | `110ab27fcbb9de6b5dc991e7f6ad2dd25291733f516814ef044951bcdacf92ae` |
+| English v0.9.9 BIN | `894c64cc62527e7c8362cd1db276e3521c21d235046257deb4fc7b548b7881aa` |
 
-For manual patching, download `STT2001_EN_v0.9.7.cue.txt` from the release,
+For manual patching, download `STT2001_EN_v0.9.9.cue.txt` from the release,
 remove the final `.txt`, and place the resulting CUE beside
-`STT2001_EN_v0.9.7.bin`. Cold boot the CUE, then load an ordinary in-game
+`STT2001_EN_v0.9.9.bin`. Cold boot the CUE, then load an ordinary in-game
 save. Old emulator save states retain the previous executable and text in
 RAM. PSP users can convert the patched BIN/CUE with their usual PS1 EBOOT
 workflow.
@@ -93,7 +93,7 @@ The patches include the current font, small dark shadows and translated
 graphics. **No texture replacement is required.** Disable older font packs
 when testing the new appearance.
 
-The release also includes **STT2001-native-font-pack-v0.9.7.zip** for users
+The release also includes **STT2001-native-font-pack-v0.9.9.zip** for users
 who keep replacements enabled. Its 1,058 PNGs reproduce the finished native
 font and palettes at 4x nearest scaling. It does not introduce a different
 font or add detail beyond the native artwork, and does not replace the new
@@ -103,7 +103,7 @@ Optional installation: open DuckStation's **Tools > Open Data Directory**,
 extract the ZIP there, merging `textures/SLPS-02863/`, and keep `config.yaml`
 beside `replacements/`. Enable **Texture Cache** and **Texture Replacements**,
 then reload replacements or restart DuckStation. The package is pixel/ID
-checked against v0.9.7; emulator confirmation remains pending.
+checked against v0.9.9; emulator confirmation remains pending.
 
 ### Difficulty and weapon markers
 
@@ -245,9 +245,10 @@ The README and release-note layout follow
 
 ## Status
 
-Public **v0.9.7** fixes the reports in issues #2–#4. See
-[the repair audit](docs/issues_0.9.1.md) for native checks and remaining
-emulator/hardware confirmation.
+Public **v0.9.9** adds the fixes for issues #5 and #6 while retaining the
+earlier #2–#4 repairs. See the [pronoun audit](docs/issues_0.9.8.md) and
+[objective-text audit](docs/issues_0.9.9.md) for the targeted checks and
+remaining emulator/hardware confirmation.
 
 The text is translated end to end. Coverage counts below describe inserted
 English, not completed human proofreading or campaign testing.

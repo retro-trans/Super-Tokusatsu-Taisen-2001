@@ -24,6 +24,7 @@ def main():
     parser.add_argument('--library',type=Path,help='Reviewed game-library override; default: current public library')
     parser.add_argument('--changed-movies',default='',help='Exact approved changed movie IDs relative to --baseline')
     parser.add_argument('--opening-baseline',help='Reuse a checked opening review when that movie is unchanged')
+    parser.add_argument('--maintenance-baseline',help='Reuse font/artwork audits only under a separately checked complete maintenance delta')
     args=parser.parse_args();version=args.version
     import title_footer
     title_footer.validate_version(version)
@@ -32,7 +33,20 @@ def main():
     def proof(suffix):
         return json.loads((OUT/('STT2001_EN_v'+version+'_'+suffix+'.json')).read_text(encoding='utf-8'))
     movie=proof('movie_verification');public=proof('public_source_verification')
-    font=proof('font_verification');runtime=proof('runtime_balance_verification');story=proof('stronger_verification')
+    maintenance=proof('maintenance_verification') if args.maintenance_baseline else None
+    def retained(suffix):
+        if not maintenance:return proof(suffix)
+        assert maintenance['version']==version and maintenance['baseline']==args.maintenance_baseline
+        assert maintenance['all_checks_passed'] and maintenance['target_sha256']==movie['bin_sha256']
+        path=OUT/('STT2001_EN_v'+args.maintenance_baseline+'_'+suffix+'.json')
+        import hashlib
+        assert hashlib.sha256(path.read_bytes()).hexdigest()==maintenance['retained_reports'][suffix]
+        result=json.loads(path.read_text(encoding='utf-8'))
+        result.update(applies_to_version=version,retained_from_version=args.maintenance_baseline,
+                      retention_proof='MAINTENANCE-VERIFICATION.json',
+                      retention_scope='Original audit retained through exact native-asset comparisons; only the three explicitly audited dialogue rows and title version stamp changed.')
+        return result
+    font=retained('font_verification');runtime=proof('runtime_balance_verification');story=proof('stronger_verification')
     native=proof('native_2x_verification')
     issues=proof('issue_verification') if tuple(map(int,version.split('.'))) >= (0,9,1) else None
     numbers=issues if issues else proof('native_ui_verification')
@@ -131,8 +145,12 @@ def main():
     write(dest/'FONT-VERIFICATION.json',font)
     if font.get('native_only'):
         write(dest/'TEXTURE-VERIFICATION.json',{k:v for k,v in texture.items() if k!='files'})
-        write(dest/'ARTWORK-VERIFICATION.json',proof('artwork_verification'))
-        write(dest/'FONT-STYLE-VERIFICATION.json',{'effects':proof('font_effects_verification'),'metrics':proof('font_metrics_verification')})
+        write(dest/'ARTWORK-VERIFICATION.json',retained('artwork_verification'))
+        write(dest/'FONT-STYLE-VERIFICATION.json',{'effects':retained('font_effects_verification'),'metrics':proof('font_metrics_verification')})
+    if maintenance:
+        write(dest/'MAINTENANCE-VERIFICATION.json',maintenance)
+        write(dest/'ISSUE5-VERIFICATION.json',json.loads((OUT/'STT2001_EN_v0.9.8_issue5_verification.json').read_text(encoding='utf-8')))
+        write(dest/'ISSUE6-VERIFICATION.json',proof('issue6_verification'))
     write(dest/'UI-VERIFICATION.json',{'native_2x':native,'numeric_and_badges':numbers,'dialogue_clear':clear,'saved_names':saved})
     if issues:write(dest/'ISSUE-VERIFICATION.json',issues)
     write(dest/'RUNTIME-VERIFICATION.json',{'gameplay_and_saves':runtime,'story_and_menu':story})
